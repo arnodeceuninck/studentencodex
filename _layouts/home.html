@@ -17,15 +17,19 @@ layout: base
 
     <script src="assets/js/search.js"></script>
 
-    <table id="search-table">
+    <table id="search-table" class="table table-hover">
+        <tbody>
 
         {%- for song in site.rodex_oud -%}
-        <tr onclick="window.location={{ song.url | relative_url }}">
+        <tr scope="row" role="button" onclick="window.location='{{ song.url | relative_url }}';">
             <td>{{ song.title | escape }}</td>
             <td>{{ song.page }}</td>
         </tr>
         {%- endfor -%}
+
+        </tbody>
     </table>
+
 
 
 </div>
