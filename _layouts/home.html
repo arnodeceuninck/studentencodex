@@ -9,38 +9,23 @@ layout: base
 
     {{ content }}
 
-
-    <h2>Rode codex (oud)</h2>
-
     <!-- Html Elements for Search -->
     <div id="search-container">
-        <input class="form-control" type="search" id="search-input" placeholder="Search...">
+        <input class="form-control" type="search" id="search-input" onkeyup="mySearch()" placeholder="Search...">
         <ul id="results-container"></ul>
     </div>
 
-    <!-- Script pointing to search-script.js -->
-    <script src="assets/js/search-script.js" type="text/javascript"></script>
+    <script src="assets/js/search.js"></script>
 
-    <!-- Configuration -->
-    <script>
-        SimpleJekyllSearch({
-            searchInput: document.getElementById('search-input'),
-            resultsContainer: document.getElementById('results-container'),
-            json: 'search.json'
-        })
-    </script>
+    <table id="search-table">
 
-    <ul class="song-list">
         {%- for song in site.rodex_oud -%}
-        <li>
-            <h3>
-                <a class="song-link" href="{{ song.url | relative_url }}">
-                    {{ song.title | escape }} ({{ song.page }})
-                </a>
-            </h3>
-        </li>
+        <tr onclick="window.location={{ song.url | relative_url }}">
+            <td>{{ song.title | escape }}</td>
+            <td>{{ song.page }}</td>
+        </tr>
         {%- endfor -%}
-    </ul>
+    </table>
 
 
 </div>

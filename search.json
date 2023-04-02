@@ -4,9 +4,13 @@
   {% for song in site.rodex_oud %}
   {
     "title": "{{ song.title | escape }}",
-    "url": "/studentencodex{{ song.url }}",
-    "page": "{{ song.page }}"
+    "url": "{{ site.url }}{{ song.url }}",
+    "page": "{{ song.page }}",
+    "lyrics": "{{ song.content | strip_html | strip_newlines | escape | remove: 'a'}}"
+
   {% comment %} , "lyrics": "{{ song.content | strip_html | strip_newlines | escape }}" {% endcomment %}
-  }{% unless forloop.last %},{% endunless %}
+
+  {% unless forloop.last %},{% endunless %}
+
   {% endfor %}
 ]
