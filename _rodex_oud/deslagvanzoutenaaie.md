@@ -2,7 +2,7 @@
 layout: song
 title: De slag van Zoutenaaie
 page: 404
-Note: De uitbouw van universitaire faculteiten in Antwerpen werd niet onverdeeld enthousiast onthaald aan de bestaande universiteiten. Leuvense leden van het Katholiek Vlaams Hoogstudentenverbond (KVHV) hielden het ludiek en richtten symbolisch een nieuwe universiteit op in Zoutenaaie, in die tijd met nog geen 30 inwoners de kleinste gemeente van het land. (Bron: "150 jaar RUCA")
+Note: "De uitbouw van universitaire faculteiten in Antwerpen werd niet onverdeeld enthousiast onthaald aan de bestaande universiteiten. Leuvense leden van het Katholiek Vlaams Hoogstudentenverbond (KVHV) hielden het ludiek en richtten symbolisch een nieuwe universiteit op in Zoutenaaie, in die tijd met nog geen 30 inwoners de kleinste gemeente van het land. (Bron: '150 jaar RUCA')"
 ---
 
 't Was op ne keer de slag van ZOutenaaie,  
