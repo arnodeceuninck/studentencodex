@@ -4,5 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Dit is een simpele website om de oude rode codex (van voor corona) online te kunnen raadplegen. 
-De maker van deze website staat volledig los van de uitgever van de codex (K.D.A.)
+De code voor deze site is raadpleegbaar op [GitHub](https://github.com/arnodeceuninck/studentencodex/tree/master/_rodex_oud).
+
+## Credits
+Uitgave codex: K.D.A.\
+Digitaliseren teksten: Benjamin Vandersmissen\
+Website: Arno Deceuninck
