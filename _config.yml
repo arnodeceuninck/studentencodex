@@ -53,3 +53,18 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+collections:
+  rodex_oud:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: rodex_oud
+    values:
+      layout: "song"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
