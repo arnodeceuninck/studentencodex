@@ -9,6 +9,9 @@ layout: base
 
     {{ content }}
 
+
+    <h2>Rode codex (oud)</h2>
+
     <!-- Html Elements for Search -->
     <div id="search-container">
         <input class="form-control" type="search" id="search-input" placeholder="Search...">
@@ -26,8 +29,6 @@ layout: base
             json: 'search.json'
         })
     </script>
-
-    <h2>Rode codex (oud)</h2>
 
     <ul class="song-list">
         {%- for song in site.rodex_oud -%}
