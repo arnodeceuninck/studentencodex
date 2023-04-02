@@ -3,24 +3,42 @@ layout: base
 ---
 
 <div class="home">
-  {%- if page.title -%}
+    {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+    {%- endif -%}
 
-  {{ content }}
+    {{ content }}
 
-  <h2>Rode codex (oud)</h2>
+    <!-- Html Elements for Search -->
+    <div id="search-container">
+        <input class="form-control" type="search" id="search-input" placeholder="Search...">
+        <ul id="results-container"></ul>
+    </div>
 
-  <ul class="song-list">
-      {%- for song in site.rodex_oud -%}
-      <li>
-        <h3>
-          <a class="song-link" href="{{ song.url | relative_url }}">
-            {{ song.title | escape }} ({{ song.page }})
-          </a>
-        </h3>
-      </li>
-      {%- endfor -%}
+    <!-- Script pointing to search-script.js -->
+    <script src="assets/js/search-script.js" type="text/javascript"></script>
+
+    <!-- Configuration -->
+    <script>
+        SimpleJekyllSearch({
+            searchInput: document.getElementById('search-input'),
+            resultsContainer: document.getElementById('results-container'),
+            json: 'search.json'
+        })
+    </script>
+
+    <h2>Rode codex (oud)</h2>
+
+    <ul class="song-list">
+        {%- for song in site.rodex_oud -%}
+        <li>
+            <h3>
+                <a class="song-link" href="{{ song.url | relative_url }}">
+                    {{ song.title | escape }} ({{ song.page }})
+                </a>
+            </h3>
+        </li>
+        {%- endfor -%}
     </ul>
 
 

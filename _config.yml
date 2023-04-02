@@ -64,7 +64,7 @@ defaults:
       type: rodex_oud
     values:
       layout: "song"
-  - scope:
-      path: ""
-    values:
-      layout: "default"
+
+sass:
+  load_paths:
+    - _sass

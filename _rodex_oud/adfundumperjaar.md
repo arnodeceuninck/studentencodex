@@ -4,9 +4,9 @@ title: adfundumperjaar
 page: 404
 ---
 
-En al wie voor 't eerste jaar in 	)  
-Antwerpen zit, sta recht, sta recht 	) (bis)  
-Breng het glaasje aan je lippen  
+En al wie voor 't eerste jaar in         ))  
+Antwerpen zit, sta recht, sta recht     	) (bis)  
+Breng het glaasje aan je lippen     
 Laat het zachtjes binnenglippen   
 Breng het glaasje aan je mond  
 En drink het leeg tot op de grond  
