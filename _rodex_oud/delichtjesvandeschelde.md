@@ -1,7 +1,7 @@
 ---
 layout: song
-title: delichtjesvandeschelde
-page: 404
+title: De lichtjes van de Schelde
+page: 888
 ---
 
 De tijd zit erop en we varen weer thuis  

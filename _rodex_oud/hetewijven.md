@@ -1,7 +1,7 @@
 ---
 layout: song
-title: hetewijven
-page: 404
+title: Hete wijven
+page: 842
 ---
 
 Hete wijven voor de werkman, (ter)  

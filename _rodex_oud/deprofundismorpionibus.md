@@ -1,16 +1,17 @@
 ---
 layout: song
-title: deprofundismorpionibus
-page: 404
+title: De Profundis Morpionibus
+page: 901
+note: "M. Reyze: L'entrerrement du Maréchal Gérard"
 ---
 
-﻿O! Muse prête-moi ta lyre,  
+O! Muse prête-moi ta lyre,  
 Afin qu' en vers je puisse dire  
 Un des combats les plus fameux  
 Qui s' est déroulé sous les cieux.  
 
-De Profundis Morpionibus,  
-Tra, la, la, ...  
+**De Profundis Morpionibus,  
+Tra, la, la, ...**  
 
 Un jour de fet' comm' Sainte Thérèse,  
 A Sainte Gudule chantait la messe  

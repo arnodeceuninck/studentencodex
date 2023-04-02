@@ -1,10 +1,9 @@
 ---
 layout: song
-title: vouspermetez
-page: 404
+title: Vous permettez
+page: 851
+author: Adamo
 ---
-
-﻿* "Adamo", den Dikke 1982 *  
 
 Vous permettez madame,  
 Que je touche à votre preute,  

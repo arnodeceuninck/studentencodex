@@ -1,10 +1,9 @@
 ---
 layout: song
-title: biokotlied
-page: 404
+title: Biokotlied
+page: 919
+note: Fabiant
 ---
-
-* Fabiant *  
 
 In Wilrijk naast 't konijnenkot  
 In fort VI, in fort VI  

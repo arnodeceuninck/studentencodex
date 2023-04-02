@@ -1,10 +1,10 @@
 ---
 layout: song
-title: mameremadonnecentsous
-page: 404
+title: Ma mere m'a donne cent sous
+page: 836
 ---
 
-﻿Ma mère m'a donné cent sous,  
+Ma mère m'a donné cent sous,  
 Pour acheter des bretelles,  
 Moi j' ai gardé mes cent sous,   
 Pour aller au bordel.  

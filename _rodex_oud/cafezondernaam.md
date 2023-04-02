@@ -1,10 +1,9 @@
 ---
 layout: song
-title: cafezondernaam
-page: 404
+title: Café zonder naam
+page: 921
+note: Wannes Van De Velde
 ---
-
-* Wannes Van De Velde *  
 
 'k Wil vertellen, een historie, van een kroeg, onelegant  
 In een stad stil en verloren, in een regenachtig land  

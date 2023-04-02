@@ -1,7 +1,7 @@
 ---
 layout: song
-title: dichterbij
-page: 404
+title: Dichterbij
+page: 815
 ---
 
 Vrienden, komt zit neder in de ronde,  

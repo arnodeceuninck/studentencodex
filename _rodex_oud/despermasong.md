@@ -1,10 +1,9 @@
 ---
 layout: song
-title: despermasong
-page: 404
+title: De spermasong
+page: 854
+melody: Sofietje
 ---
-
-* melodie : Sofietje *  
 
 Zij zoog sperma met een rietje,  
 Uit mijn pietje,  

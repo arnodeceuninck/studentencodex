@@ -1,10 +1,9 @@
 ---
 layout: song
-title: paterkekarel
-page: 404
+title: Paterke Karel
+page: 857
+author: Jos Smos
 ---
-
-* Tekst & muziek : Jos Smos *  
 
 Paterke Karel is anders as wij,  
 Ge zieget direct als g'em ziet van oepzij,  

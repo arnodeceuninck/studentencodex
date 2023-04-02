@@ -1,10 +1,9 @@
 ---
 layout: song
-title: antwarpe
-page: 404
+title: Antwarpe
+page: 928
+author: De strangers
 ---
-
-* De strangers*  
 
 De lichtjes van de Schelde,  
 Den beiaard van de ntoren  

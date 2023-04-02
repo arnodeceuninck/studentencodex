@@ -1,10 +1,10 @@
 ---
 layout: song
-title: schrodingervergelijkinglied
-page: 404
+title: Schrodinger vergelijking lied
+page: 930
+author: Leo van Nierop
+melodie: Clementine
 ---
-
-﻿* Melodie: Clementine - Tekst: Leo van Nierop *  
 
 Het is de Schrödinger Vergelijking,  
 Teweede orde differentiaal.  

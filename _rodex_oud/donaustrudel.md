@@ -1,18 +1,17 @@
 ---
 layout: song
-title: donaustrudel
-page: 404
+title: Donaustrudel
+page: 945
+note: De volledige versie
 ---
-
-﻿* De volledige versie *  
 
 Als wir jüngst in Regensburg waren?  
 Sind wir über den Strudel gefahren  
 Da war'n viele Holden,  
 die mitfahren wolten.  
 
-Schwäbische, bayrische Dirndel, juche! (bis)  
-Muss der (2x) Schiffmann fahren.  
+_Schwäbische, bayrische Dirndel, juche! (bis)  
+Muss der (2x) Schiffmann fahren._  
 
 Und ein Mädel vol zwölf Jahren  
 ist mit über den Strudel gefahren,  

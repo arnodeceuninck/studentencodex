@@ -1,10 +1,9 @@
 ---
 layout: song
-title: ikhebeentanteinmarokko
-page: 404
+title: Ik heb een tante in Marokko
+page: 851
+melodie: She'll be coming round the mountain
 ---
-
-* melodie: She'll be coming round the mountain *  
 
 Ik heb een tante in Marokko,  
 En die komt, hiep hoi!  

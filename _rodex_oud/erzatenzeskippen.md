@@ -1,7 +1,7 @@
 ---
 layout: song
-title: erzatenzeskippen
-page: 404
+title: Er zaten zes kippen
+page: 825
 ---
 
 Er zaten zes kippen in een oud kippenhok,  

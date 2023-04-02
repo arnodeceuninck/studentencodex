@@ -1,10 +1,9 @@
 ---
 layout: song
-title: cowboysenindianen
+title: Cowboys en Indianen
 page: 404
+note: De Dikdakkers
 ---
-
-* De Dikdakkers *  
 
 Refrein:  
 Kom pak je lasso maar  

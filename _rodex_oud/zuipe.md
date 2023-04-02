@@ -1,10 +1,10 @@
 ---
 layout: song
-title: zuipe
-page: 404
+title: Zuipe!
+page: 858
+author: Juul Krapuul
+note: Muziek door Rob de Snob
 ---
-
-﻿* Tekst: Juul Krapuul, Muziek: Rob de Snob *  
 
 Zuipe, zuipe, da kannik goe,  
 Da kanne kikke blindelings en met mijn ogen toe,  

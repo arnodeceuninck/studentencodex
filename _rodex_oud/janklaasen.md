@@ -1,10 +1,9 @@
 ---
 layout: song
-title: janklaasen
-page: 404
+title: Jan Klaassen
+page: 923
+note: Rob de Nijs
 ---
-
-* Rob de Nijs *  
 
 Refrein:  
 Jan Klaassen was trompetter in het leger van de prins  

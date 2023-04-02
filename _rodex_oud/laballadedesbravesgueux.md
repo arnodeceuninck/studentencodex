@@ -1,10 +1,9 @@
 ---
 layout: song
-title: laballadedesbravesgueux
-page: 404
+title: La ballade des Braves Gueux
+page: 874
+melodie: La ballade des gens heureux
 ---
-
-﻿* melodie: La ballade des gens heureux *  
 
 Chers amis qui aimez la rigolade  
 Approchez, écoutez-nous un peu,  

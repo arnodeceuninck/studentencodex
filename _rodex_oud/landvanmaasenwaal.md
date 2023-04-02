@@ -1,10 +1,9 @@
 ---
 layout: song
-title: landvanmaasenwaal
-page: 404
+title: Land van Maas en Waal
+page: 926
+note: Bouwdewijn de Groot
 ---
-
-* Boudewijn de Groot *  
 
 Onder de groene hemel in de blauwe zon,  
 Speelt het blikken harmonieorkest,  

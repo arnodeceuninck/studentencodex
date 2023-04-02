@@ -1,10 +1,9 @@
 ---
 layout: song
-title: hetbelgischvolkslied
-page: 404
+title: Het Belgisch Volkslied
+page: 915 / 938
+note: Officiele tekst
 ---
-
-* Officiele tekst *  
 
 "O dierbaar Belgie  
 O heilg land der vaad'ren   

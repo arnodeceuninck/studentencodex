@@ -1,7 +1,7 @@
 ---
 layout: song
-title: toenikinbrusselkwam
-page: 404
+title: Toen ik in brussel kwam
+page: 852
 ---
 
 Toen ik in Brussel kwam,  

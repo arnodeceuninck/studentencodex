@@ -1,10 +1,9 @@
 ---
 layout: song
-title: bierher
-page: 404
+title: Bier Her!
+page: 829
+note: Lebe strebe
 ---
-
-﻿* Lebe strebe *  
 
 Bier her! Bier her!  
 Oder ich fall' um, juche!  

@@ -1,10 +1,9 @@
 ---
 layout: song
-title: ikzouzograageensvogelen
-page: 404
+title: Ik zou zo graag eens vogelen
+page: 856
+melodie: Daar zat een sneeuwwit vogeltje
 ---
-
-* melodie: daar zat een sneeuwwit vogeltje *  
 
 Ik zou zo graag eens vogelen. (bis)  
 Al met mijn stekeldoorntje, din, don, deine,  

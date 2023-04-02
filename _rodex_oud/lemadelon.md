@@ -1,7 +1,7 @@
 ---
 layout: song
-title: lemadelon
-page: 404
+title: Le Madelon
+page: 828
 ---
 
 ﻿Pour le repos, le plaisir du militaire,  

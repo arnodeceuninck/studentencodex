@@ -1,10 +1,9 @@
 ---
 layout: song
-title: youllneverwalkalone
-page: 404
+title: You'll Never Walk Alone
+page: 846
+author: Richard Rodgers (tekst), Oscar Hammerstein II (muziek)
 ---
-
-* Tekst: Richard Rodgers, muziek: Oscar Hammerstein II *  
 
 When you walk through a storm  
 Keep your chin up high  

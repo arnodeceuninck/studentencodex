@@ -1,7 +1,7 @@
 ---
 layout: song
-title: enwegaanzijnbroekafdoen
-page: 404
+title: En we gaan zijn broek afdoen
+page: 872
 ---
 
 En we gaan n.n. zijn broek afdoen, troelala, (bis)  

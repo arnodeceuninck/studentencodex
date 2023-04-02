@@ -1,10 +1,9 @@
 ---
 layout: song
-title: bultendans
-page: 404
+title: Bultendans
+page: 947
+note: De Kadullen
 ---
-
-* De Kadullen *  
 
 Hebt gij de bulten niet zien dansen?	)  
 't Was op den hoek van de Lepelstraat.	) (bis)  

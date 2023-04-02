@@ -1,10 +1,9 @@
 ---
 layout: song
-title: yougiveloveabadname
-page: 404
+title: You give love a bad name
+page: 933
+author: Bon Jovi
 ---
-
-* Bon Jovi *  
 
 Shot though the heart and you're to blame  
 Darlin' you give love a bad name  

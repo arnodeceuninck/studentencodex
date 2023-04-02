@@ -1,10 +1,9 @@
 ---
 layout: song
-title: hetliedvandematrijs
-page: 404
+title: Het lied van de matrijs
+page: 855
+melodie: Sarie Marais
 ---
-
-* melodie: Sarie Marais *  
 
 Mijn goeie ouwe zak,  
 Heeft geschoten in haar gat,  

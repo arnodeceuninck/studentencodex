@@ -1,7 +1,7 @@
 ---
 layout: song
-title: whiskyinthejar
-page: 404
+title: Whisky in the Jar
+page: 910
 ---
 
 As I was going over the far famed Kerry Mountains  
@@ -9,8 +9,8 @@ I met with Captain Farrel and his money he was counting
 I first produced my pistol and I then produced my rapier  
 Said "stand and deliver for I am a bold deceiver"  
 
-Musharing doodum da, doodum da, wack fol the daddy-o  
-Wack fol the daddy-o, there's whisky in the jar  
+_Musharing doodum da, doodum da, wack fol the daddy-o  
+Wack fol the daddy-o, there's whisky in the jar_  
 
 I counted out his money, and it made a pretty penny  
 I put it in my pocket, and I then took it home to Jenny  

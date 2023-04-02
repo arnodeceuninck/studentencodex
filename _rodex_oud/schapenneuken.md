@@ -1,20 +1,19 @@
 ---
 layout: song
-title: schapenneuken
-page: 404
+title: Schapenneuken
+page: 895
+note: Dit is mijn lied, het lied van Arjan de herdersjongen. Opgegroeid tussen de schapen op de heide. Elk woord dat ik zing berust op waarheid.
 ---
-
-* Dit is mijn lied, het lied van Arjan de herdersjongen. Opgegroeid tussen de schapen op de heide. Elk woord dat ik zing berust op waarheid. *  
 
 Als het heel mooi weer is, trek ik het weiland in.  
 Fluit een vrolijk wijsje, en ben heel blijvan zin.  
 De schapen in het weiland, kijken mij lachend aan.  
 Ik voel onder mijn overall, mijn lul die gaat al staan.  
 
-Want ik ga schapen neuken,  
+__Want ik ga schapen neuken,  
 schapen neuken, schapen neuken is fijn.  
 Want ik ga schapen neuken,  
-schapen neuken, schapen neuken is fijn.  
+schapen neuken, schapen neuken is fijn.__
 
 Ik zoek naar een lief schaapje, ja daar zie ik e reen staan.  
 Ik besluip haar van achter, heb mijn laarzen aan.  

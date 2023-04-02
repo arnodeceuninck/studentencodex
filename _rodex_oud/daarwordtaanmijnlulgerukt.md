@@ -1,10 +1,9 @@
 ---
 layout: song
-title: daarwordtaanmijnlulgerukt
-page: 404
+title: Daar wordt aan mijn lul gerukt
+page: 821
+melodie: Daar wordt aan de deur geklopt
 ---
-
- * melodie: daar wordt aan de deur geklopt*  
 
 Daar wordt aan mijn lul gerukt,  
 Hard gerukt, zacht gerukt.  

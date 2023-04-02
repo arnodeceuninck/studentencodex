@@ -1,7 +1,8 @@
 ---
 layout: song
-title: hetloosstudentje
-page: 404
+title: Het loos studentje
+page: 864
+melodie: Het loze vissertje
 ---
 
 * melodie: Het loze vissertje *  

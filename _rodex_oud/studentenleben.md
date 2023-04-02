@@ -1,10 +1,10 @@
 ---
 layout: song
-title: studentenleben
-page: 404
+title: Studentenleben
+page: 826
 ---
 
-﻿'s Gibt kein schöner Leben,  
+'s Gibt kein schöner Leben,  
 Als Studentenleben.  
 Wie es Bacchus und Cambrinus schuf:  
 In die Kneipen laufen,  

@@ -6,11 +6,12 @@ layout: base
   <header class="post-header">
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
-      {%- if page.author -%}
-        <span>Auteur: {{page.author}}</span></br>
-      {%- endif -%}</p>
+      {%- if page.page -%}<span>Pagina: {{page.page}}</span></br>{%- endif -%}
+      {%- if page.author -%}<span>Auteur: {{page.author}}</span></br>{%- endif -%}
+      {%- if page.note -%}<span>Note: {{page.note}}</span></br>{%- endif -%}
+      {%- if page.melodie -%}<span>Note: {{page.melodie}}</span></br>{%- endif -%}
+    </p>
 
-    <span>Pagina: {{page.page}}</span></br>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">

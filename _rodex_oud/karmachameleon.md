@@ -1,10 +1,9 @@
 ---
 layout: song
-title: karmachameleon
-page: 404
----
-
-* Culture Shock *  
+title: Karma Chameleon
+page: 925
+note: Culture club
+--- 
 
 There's a loving in your eyes all the way  
 If I listen to your lies, would you say?  

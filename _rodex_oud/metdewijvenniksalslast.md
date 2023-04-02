@@ -1,7 +1,8 @@
 ---
 layout: song
-title: metdewijvenniksalslast
-page: 404
+title: Met de wijven niks as last
+page: 861
+author: Jos Smos
 ---
 
 * tekst en muziek: Jos Smos *  

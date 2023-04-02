@@ -1,10 +1,9 @@
 ---
 layout: song
-title: degedachtenzijnvrij
-page: 404
+title: De gedachten zijn vrij
+page: 822
+note: Oud Duits lied der vrijzinnigen
 ---
-
-* Oud Duits lied der vrijzinnigen *  
 
 De gedachten zijn vrij!  
 Wie raadt ze daarbinnen?  

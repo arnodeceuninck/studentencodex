@@ -1,10 +1,10 @@
 ---
 layout: song
-title: nummerlieke
+title: Nummerlieke
 page: 404
+author: Ben Lommelen, v. Lommelen!, 2014
+melodie: O du liebe Augustun, Wenene, rond 1800
 ---
-
-* Tekst: Ben Lommelen, v. Lommelen!, 2014 - melodie: O du liebe Augustun, Wenene, rond 1800 *  
 
 192 17 3000  
 18 73 113  

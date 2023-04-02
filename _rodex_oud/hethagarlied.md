@@ -1,10 +1,9 @@
 ---
 layout: song
 title: hethagarlied
-page: 404
+page: 824
+author: Jos Smos van Katastroof
 ---
-
-* Geschreven door Jos Smos van Katastroof *  
 
 Diep verstopt en goe verscholen,  
 In het hartje van fort VI,  

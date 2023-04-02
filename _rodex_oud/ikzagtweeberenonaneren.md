@@ -1,10 +1,9 @@
 ---
 layout: song
-title: ikzagtweeberenonaneren
-page: 404
+title: Ik zag twee beren onaneren
+page: 894
+melodie: Ik zag twee beren broodjes smeren
 ---
-
-* melodie: Ik zag twee beren broodjes smeren *  
 
 Ik zag twee beren onaneren.  
 Oh het was een wonder.  

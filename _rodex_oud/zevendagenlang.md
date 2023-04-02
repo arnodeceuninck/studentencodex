@@ -1,7 +1,7 @@
 ---
 layout: song
-title: zevendagenlang
-page: 404
+title: Zeven dagen lang
+page: 890
 ---
 
 Wat zullen we drinken, zeven dagen lang  

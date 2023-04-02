@@ -1,7 +1,7 @@
 ---
 layout: song
-title: ifyourehappyandyouknowit
-page: 404
+title: If you're happy and you know it
+page: 896
 ---
 
 If you're happy and you know it, clap your hands!  

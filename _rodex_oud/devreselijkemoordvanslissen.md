@@ -1,10 +1,9 @@
 ---
 layout: song
-title: devreselijkemoordvanslissen
-page: 404
+title: De vreselijke moord van Slissen
+page: 869
+melodie: triomfantelijk lied van de Zilvervloot
 ---
-
-* melodie: triomfantelijk lied van de Zilvervloot *  
 
 Hebt ge al gehoord van de vreselijke moord,  
 De vreselijke moord van Slissen?  

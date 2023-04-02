@@ -1,10 +1,9 @@
 ---
 layout: song
-title: detorenspitsvanbommel
-page: 404
+title: De Torenspits van Bommel
+page: 935
+melodie: Gertjie
 ---
-
-* melodie: Gertjie *  
 
 Op een vlot van oude planken - planken,  
 Zat een oude herdershond - herdershond,  

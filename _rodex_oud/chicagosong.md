@@ -1,7 +1,7 @@
 ---
 layout: song
-title: chicagosong
-page: 404
+title: Chicago song
+page: 883
 ---
 
 ﻿En mijn liefke dat is é chieke,  
@@ -9,9 +9,9 @@ En ze komt van Chicago,
 En ze heeft er leren poepen,  
 Al op 'nen dynamo.  
 
-Djingel bel, Djingel bel, djingel all the way,	)  
+**Djingel bel, Djingel bel, djingel all the way,	)  
 En een mic mic mic en een mac mac mac,		) (bis)  
-En een djingel all the way				)  
+En een djingel all the way				)**  
 
 En de paster moeste pisse,  
 En de maarte piste mee,  

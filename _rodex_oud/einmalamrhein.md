@@ -1,10 +1,10 @@
 ---
 layout: song
-title: einmalamrhein
-page: 404
+title: Einmal am Rhein
+page: 818
 ---
 
-﻿Einmal am Rhein,  
+Einmal am Rhein,  
 Und dann zu zweien alleine sein,  
 Einmal am Rhein,  
 Beim Gläschen Wein, beim MOndenschein,  

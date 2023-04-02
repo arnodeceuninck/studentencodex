@@ -1,10 +1,9 @@
 ---
 layout: song
-title: eenbusvolhollanders
-page: 404
+title: Een bus vol Hollanders
+page: 918
+author: Katastroof
 ---
-
-* Katastroof *  
 
 Wat is het meest bedreigend voor de vrede in het land?  
 Een financiele crisis? een politieke schand?  

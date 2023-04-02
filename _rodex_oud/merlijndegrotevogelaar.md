@@ -1,10 +1,9 @@
 ---
 layout: song
-title: merlijndegrotevogelaar
-page: 404
+title: Merlijn de grote vogelaar
+page: 868
+melodie: Merlijn de grote tovenaar
 ---
-
-﻿* melodie: Merlijn de grote tovenaar *  
 
 Merlijn de grote vogelaar,  
 Zag op een dag langs de boulevard,  

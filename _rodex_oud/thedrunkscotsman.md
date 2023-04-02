@@ -1,10 +1,9 @@
 ---
 layout: song
-title: thedrunkscotsman
+title: The Drunk Scotsman
 page: 404
+note: Traditional drinking song
 ---
-
-* Traditional drinking song *  
 
 Well a Scotsman clad in kilt left a bar one evening fair  
 And one could tell by how he walked that he'd drunk more than his share  

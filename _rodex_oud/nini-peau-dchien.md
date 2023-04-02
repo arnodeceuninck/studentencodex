@@ -1,10 +1,10 @@
 ---
 layout: song
-title: nini-peau-dchien
-page: 404
+title: Nini-peau-d'chien
+page: 834
 ---
 
-﻿Quand elle était petite,  
+Quand elle était petite,  
 Le soir elle allait,  
 A Sainte-Marguerite,  
 Ou est-ce qu'elle dessalait,  

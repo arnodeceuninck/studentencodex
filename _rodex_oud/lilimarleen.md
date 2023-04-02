@@ -1,10 +1,9 @@
 ---
 layout: song
-title: lilimarleen
-page: 404
+title: Lili Marleen
+page: 827
+author: Hans Leip & Nortbert Schultze
 ---
-
-﻿* Hans Leip & Nortbert Schultze *  
 
 Vor der Kaserne,  
 Vor dem großen Tor,  

@@ -1,10 +1,9 @@
 ---
 layout: song
-title: opdewegnaarschool
-page: 404
+title: Op de weg naar school
+page: 866
+melodie: Lili Marleen
 ---
-
-﻿* melodie: Lili Marleen *  
 
 Op de weg naar school,  
 Daar stond een hoerekot,  

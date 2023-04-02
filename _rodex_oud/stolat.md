@@ -1,10 +1,9 @@
 ---
 layout: song
-title: stolat
-page: 404
+title: Sto Lat
+page: 947
+note: Traditioneel Pools lied
 ---
-
-﻿* Traditioneel Pools lied *  
 
 Sto lat, sto lat,  
 Niech żyje, żyje nam.  

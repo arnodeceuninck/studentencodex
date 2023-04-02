@@ -1,10 +1,9 @@
 ---
 layout: song
-title: countryroads
-page: 404
+title: Country Roads
+page: 948
+note: John Denver
 ---
-
-* John Denver *  
 
 Almost heaven, West Virginia,  
 Blue Ridge Mountains, Shenandoah River.  
@@ -12,8 +11,8 @@ Life is old there, older than the trees,
 younger than the mountains, blowing like a breeze.  
 
 Refrein:  
-Country roads, take me home, to the place I belong.  
-West Virginia, mountain mamma, take me home, country roads.  
+_Country roads, take me home, to the place I belong.  
+West Virginia, mountain mamma, take me home, country roads._  
 
 All my memories gather round her,  
 miner's lady, stranger to blue water.  

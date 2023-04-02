@@ -1,7 +1,7 @@
 ---
 layout: song
-title: komtvriendeninderonde
-page: 404
+title: Komt vrienden in de ronde
+page: 811
 ---
 
 Komt vrienden in de ronde,  

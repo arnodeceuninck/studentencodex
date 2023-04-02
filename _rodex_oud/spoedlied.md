@@ -1,10 +1,10 @@
 ---
 layout: song
-title: spoedlied
-page: 404
+title: Spoedlied
+page: 929
+melodie: Het lied van Hertog Jan
+author: Dagelijks bestuur vzw De Spoed 2007-2008
 ---
-
-* Melodie: Het lied van Hertog Jan  Tekst:  Dagelijks bestuur vzw De Spoed 2007-2008 *  
 
 We zijn hier allen tezamen  
 Al in de Spoed, die mooie Spoed  

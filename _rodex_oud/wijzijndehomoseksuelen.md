@@ -1,10 +1,10 @@
 ---
 layout: song
-title: wijzijndehomoseksuelen
-page: 404
+title: Wij zijn de homoseksuelen
+page: 880
 ---
 
-﻿Wij zijn de homoseksuelen,  
+Wij zijn de homoseksuelen,  
 Wij zullen elkander nooit vervelen,  
 Wij hebben lol in een andere zijne nol,  
 Wij zijn de homoseksuelen.  

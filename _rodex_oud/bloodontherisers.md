@@ -1,10 +1,9 @@
 ---
 layout: song
-title: bloodontherisers
+title: Blood on the risers
 page: 404
+melodie: John Brown
 ---
-
-* melodie: John Brown *  
 
 He was just a rookie trooper and he surely shook with fright,  
 He checked all his equipment and made sure his pack was tight;  

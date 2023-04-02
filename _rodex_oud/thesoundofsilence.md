@@ -1,10 +1,9 @@
 ---
 layout: song
-title: thesoundofsilence
-page: 404
+title: The sound of silence
+page: 950
+note: Simon and Garfunkel
 ---
-
-* Simon and Garfunkel *  
 
 Hello darkness, my old friend  
 I've come to talk with you again  

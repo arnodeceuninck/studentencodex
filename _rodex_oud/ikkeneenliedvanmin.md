@@ -1,10 +1,9 @@
 ---
 layout: song
-title: ikkeneenliedvanmin
-page: 404
+title: Ik ken een lied van min
+page: 876
+melodie: in Holland staat een huis
 ---
-
-* melodie: in Holland staat een huis *  
 
 Ik ken een lied van min, (bis)  
 Ik ken een lied van tchingelingela,  

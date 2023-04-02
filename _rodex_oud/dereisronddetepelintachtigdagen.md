@@ -1,10 +1,9 @@
 ---
 layout: song
-title: dereisronddetepelintachtigdagen
-page: 404
+title: De reis rond de tepel in tachtig dagen
+page: 873
+melodie: Op de purp'ren Heide
 ---
-
-* melodie: Op de purp'ren Heide *  
 
 Op de stille Greta, op haar borstjes fijn,  
 Dronk een grote strontvlieg, aan een fles azijn,  

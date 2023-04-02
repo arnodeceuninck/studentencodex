@@ -1,7 +1,8 @@
 ---
 layout: song
-title: lordofthedance
-page: 404
+title: Lord of the dance
+page: 952
+note: The dubliners
 ---
 
 * The dubliners *  

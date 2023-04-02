@@ -1,10 +1,9 @@
 ---
 layout: song
-title: johnnyihardlyknewye
-page: 404
+title: Johnny I Hardly Knew Ye
+page: 942
+note: Een Iers anti-oorlogslied
 ---
-
-* Een Iers anti-oorlogslied *  
 
 While goin' the road to sweet Athy, hurroo, hurroo  
 While goin' the road to sweet Athy, hurroo, hurroo  
@@ -13,12 +12,12 @@ A stick in me hand and a drop in me eye
 A doleful damsel I heard cry,  
 Johnny I hardly knew ye.  
 
-With your drums and guns and guns and drums, hurroo, hurroo  
+_With your drums and guns and guns and drums, hurroo, hurroo  
 With your drums and guns and guns and drums, hurroo, hurroo  
 With your drums and guns and guns and drums  
 The enemy nearly slew ye  
 Oh my darling dear, Ye look so queer  
-Johnny I hardly knew ye.  
+Johnny I hardly knew ye._  
 
 Where are the eyes that looked so mild, hurroo, hurroo  
 Where are the eyes that looked so mild, hurroo, hurroo  

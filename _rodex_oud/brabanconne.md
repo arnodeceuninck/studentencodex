@@ -1,10 +1,10 @@
 ---
 layout: song
-title: brabanconne
-page: 404
+title: Brabançonne
+page: 911
 ---
 
-﻿Je me souvins lorsque j' étais une fille  
+Je me souvins lorsque j' étais une fille  
 Qu' un garçon qui passait par bonheur  
 Il me trouva si jeune et si gentille  
 Qu' il me fit voir sa grosse pine en chaleur  

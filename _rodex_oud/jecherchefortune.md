@@ -1,27 +1,26 @@
 ---
 layout: song
-title: jecherchefortune
-page: 404
+title: Je cherche fortune
+page: 903
+note: "Aristide Bruant : Le chat noir"
 ---
 
-﻿* Aristide Bruant : Le chat noir *  
-
 Chez l' boulanger (bis)  
-Fais moi crédit (bis)  
+_Fais moi crédit (bis)  
 J' n' ai plus d' argent(bis)  
 J' paierai sam'di (bis)  
-Si tu n' veux pas (bis)  
+Si tu n' veux pas (bis)_  
 M' donner du pain (bis)  
 J' te cass' la gueulle (bis)  
 Dans ton pétrin. (bis)  
 
-Non, c'est pas moi, c'est ma soeur  
+_Non, c'est pas moi, c'est ma soeur  
 Qui a cassé la machine a vapeur  
 Ta gueule, ta gueule, ta gueule.  
 Je cherche fortune  
 Tout autour du chat noir  
 Et au clair de la lune  
-A Montmartre le soir  
+A Montmartre le soir_  
 
 * In volgende strofen worden regels 2 t/m 5 ingepast *  
 

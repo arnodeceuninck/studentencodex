@@ -1,10 +1,10 @@
 ---
 layout: song
-title: warumistesamrheinsoschon
-page: 404
+title: Warum ist es am Rhein so schön?
+page: 835
 ---
 
-﻿Warum ist es am Rhein so schön?  
+Warum ist es am Rhein so schön?  
 Am Rhein so schön?  
 Weil die Madel so lustig,  
 Und die Burschen so durstig.  

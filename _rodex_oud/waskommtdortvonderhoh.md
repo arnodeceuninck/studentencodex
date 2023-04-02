@@ -1,10 +1,9 @@
 ---
 layout: song
-title: waskommtdortvonderhoh
-page: 404
+title: Was kommt dort von der Hoh?
+page: 941
+note: Originele versie van schachtendoop
 ---
-
-﻿* Originele versie van schachtendoop *  
 
 Was kommt dort von der Hoh' (bis)  
 was kommt dort von der ledern' Hoh',  

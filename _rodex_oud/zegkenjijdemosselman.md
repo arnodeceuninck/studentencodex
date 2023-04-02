@@ -1,10 +1,9 @@
 ---
 layout: song
-title: zegkenjijdemosselman
-page: 404
+title: Zeg ken jij de mosselman
+page: 928
+note: Kinderliedje
 ---
-
-* Kinderliedje *  
 
 Zeg ken jij de mosselman, de mosselman, de mosselman  
 Zeg ken jij de mosselman, die woont in Scheveningen  

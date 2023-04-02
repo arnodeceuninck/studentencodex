@@ -1,10 +1,9 @@
 ---
 layout: song
-title: rayssong
-page: 404
+title: Ray's song
+page: 831
+note: Uit de volksmond opgetekend door Mon Myklebust
 ---
-
-* Uit de volksmond opgetekend door Mon Myklebust *  
 
 And this is number 1 and the fun has just begun.  
 

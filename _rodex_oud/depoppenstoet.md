@@ -1,10 +1,9 @@
 ---
 layout: song
-title: depoppenstoet
-page: 404
+title: De Poppenstoet
+page: 845
+author: Louis Neefs
 ---
-
-* Louis Neefs *  
 
 Op-zij! Op-zij! Op-zij!  
 De poppenstoet gaat hier voorbij,  

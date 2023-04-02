@@ -1,7 +1,7 @@
 ---
 layout: song
-title: hetliedekenvanantoon
-page: 404
+title: Het liedeken van Antoon
+page: 878
 ---
 
 Er was een boerenmeisje,  
@@ -9,10 +9,10 @@ Er was een boerenzoon,
 Sofie heete het meisje,  
 Antoon heette de zoon.  
 
-En hedd;m niet gezien,  
-'t Was zo ne vuile smeerlap,  
-En hedd'm niet gezien,  
-Antoon!  
+**En hedd'm niet gezien,**  
+**'t Was zo ne vuile smeerlap,**  
+**En hedd'm niet gezien,**  
+**Antoon!**  
 
 Het meisje had sex-appeal,  
 De jngen was heel heet,  

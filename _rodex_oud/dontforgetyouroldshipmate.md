@@ -1,18 +1,17 @@
 ---
 layout: song
-title: dontforgetyouroldshipmate
-page: 404
+title: Don't forget your old shipmate
+page: 940
+note: Gezongen door Britse matrozen
 ---
 
-* Gezongen door Britse matrozen *  
-
 Safe and sound at home again, let the waters roar, Jack.  
 Safe and sound at home again, let the waters roar, Jack.  
 
-Long we've tossed on the rolling main.  
+_Long we've tossed on the rolling main.  
 Now we're safe ashore, Jack.  
 Don't forget your old shipmate.  
-Faldee raldee raldee ralde rye-eye-doe!  
+Faldee raldee raldee ralde rye-eye-doe!_  
 
 Since we sailed from Plymouth Sound, four years gone, or nigh, Jack.  
 Was there ever chummies, now, such as you and I, Jack?  

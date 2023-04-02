@@ -1,7 +1,7 @@
 ---
 layout: song
-title: jijbentdezon
-page: 404
+title: Jij bent de zon
+page: XXIII
 ---
 
 Soms droom ik dat jij er niet meer zal zijn  

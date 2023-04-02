@@ -1,10 +1,10 @@
 ---
 layout: song
-title: dekaarskesvandenhagar
-page: 404
+title: De kaarskes van den Hagar
+page: 887
+melodie: lichtjes van de Schelde
+author: Stijn Paridaens
 ---
-
-* melodie: lichtjes van de Schelde , tekst: Stijn Paridaens *  
 
 De tijd is er weer om een cantus te doen  
 De codices komen weer boven  

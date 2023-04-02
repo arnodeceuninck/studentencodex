@@ -1,7 +1,7 @@
 ---
 layout: song
-title: sinterklaas
-page: 404
+title: Sinterklaas
+page: 885
 ---
 
 Sinterklaas kapoentje, leg wat in mijn schoentje,  

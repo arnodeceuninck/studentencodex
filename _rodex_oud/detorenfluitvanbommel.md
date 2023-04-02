@@ -1,10 +1,9 @@
 ---
 layout: song
-title: detorenfluitvanbommel
-page: 404
+title: De torenfluit van Bommel
+page: 853
+melodie: De torenspits van Bommel
 ---
-
-* melodie: De torenspits van Bommel *  
 
 Op een vlot van houten planken, planken,  
 Stond zij in haar blote kont,  

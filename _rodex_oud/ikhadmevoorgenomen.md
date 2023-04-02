@@ -1,10 +1,9 @@
 ---
 layout: song
-title: ikhadmevoorgenomen
-page: 404
+title: Ik had me voorgenomen
+page: 914
+note: "'n Norbert Zwarts-lied"
 ---
-
-* 'n Norbert Zwarts-lied *  
 
 ABC, Zeg meisje ga je mee...  
 En ik had me voorgenomen,  

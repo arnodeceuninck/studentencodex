@@ -1,10 +1,9 @@
 ---
 layout: song
-title: injedemvollenglasewein
-page: 404
+title: In jedem vollen glasse wein
+page: 823
+author: Rudolf Hermanns & Otto Lob
 ---
-
-﻿* Rudolf Hermanns & Otto Lob *  
 
 In jedem vollen Glase Wein,  
 Seh' unten auf dem Grund,  

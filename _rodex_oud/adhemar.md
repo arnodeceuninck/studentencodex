@@ -1,10 +1,9 @@
 ---
 layout: song
-title: adhemar
-page: 404
+title: Adhemar
+page: 840
+melodie: Gaudeamus Igitur
 ---
-
-* melodie: Gaudeamus Igitur *  
 
 Adhemar heeft syfilis		)  
 Wat verdomd vervelend is,	) (bis)  

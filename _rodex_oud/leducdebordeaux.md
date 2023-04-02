@@ -1,16 +1,16 @@
 ---
 layout: song
-title: leducdebordeaux
-page: 404
+title: Le duc de Bordeaux
+page: 905
 ---
 
-﻿Le duc de Bordeaux ressemble à son frère,  
+Le duc de Bordeaux ressemble à son frère,  
 Son frère à son père et son père à mon cul;  
 De la je conclus qu'le duc de Bordeaux  
 Ressemble a mon cul comme deux gouttes d' eau.  
 
-Taiaut, taiaut, taiaut!  
-Ferme ta gueulle, répondit l' echo  
+**Taiaut, taiaut, taiaut!  
+Ferme ta gueulle, répondit l' echo**  
 
 Le duc de Chevreuse ayant déclaré,  
 Que tous les cocus devraient être noyés;  

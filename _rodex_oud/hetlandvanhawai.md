@@ -1,7 +1,7 @@
 ---
 layout: song
-title: hetlandvanhawai
-page: 404
+title: Het land van Hawai
+page: 841
 ---
 
 Wij gaan naar 't land van Hawai,  

@@ -1,7 +1,7 @@
 ---
 layout: song
-title: indekluis
-page: 404
+title: In de kluis
+page: 884
 ---
 
 En wat drinken wij, wat drinken wij,	)  
@@ -10,7 +10,7 @@ Wij drinken gewoon plat water,
 Voor ons is dat niet slecht,  
 Champangne is voor d' heren van 't gerecht.  
 
-'tis een miserie, nondedieu, (ter)  
+__'tis een miserie, nondedieu, (ter)__  
 
 En wat eten wij, wat eten wij,	)  
 Wat eten wij in de kluis?	) (bis)  
@@ -42,4 +42,4 @@ Wij krijgen daarvoor levenslang,
 Voor ons is dat niet slecht,  
 De kogel is voor d' heren van 't gerecht.  
 
-En 't is een weelde nondedieu. (ter)  
+__En 't is een weelde nondedieu. (ter)__  

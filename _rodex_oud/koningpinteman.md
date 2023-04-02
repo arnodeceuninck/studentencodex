@@ -1,10 +1,9 @@
 ---
 layout: song
-title: koningpinteman
-page: 404
+title: Koning Pinteman
+page: 931
+note: Band zonder banaan
 ---
-
-* Band zonder banaan *  
 
 Het is het eind van de week en maag is flink van streek,  
 Wnat hij komt iets te kort, sherry, whisky, pils of port.  

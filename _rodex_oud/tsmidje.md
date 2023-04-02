@@ -1,10 +1,9 @@
 ---
 layout: song
 title: tsmidje
-page: 404
+page: 915
+author: Lais
 ---
-
-* Lais *  
 
 Wie wil horen een historie  
 Al van ene jonge smid  
@@ -41,4 +40,4 @@ En mij stellen uit gevaar
 Was ik nog, nog met mijnen hamer  
 Was ik nog met geweld op mijn aambeeld  
 Was ik nog, nog met mijnen hamer  
-Was ik nog met geweld op mijn aambeeld  
+Was ik nog met geweld op mijn aambeeld

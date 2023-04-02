@@ -1,10 +1,9 @@
 ---
 layout: song
-title: verdammtichliebdich
-page: 404
+title: Verdammt ich lieb Dich
+page: 936
+note: Matthias Reim
 ---
-
-* Matthias Reim *  
 
 Ich ziehe durch die Strassen bis nach Mitternacht  
 Ich hab' das frueher auch gern gemacht  

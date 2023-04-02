@@ -1,10 +1,11 @@
 ---
 layout: song
 title: havanagiela
-page: 404
+page: 818
+note: Laat ons vrolijk zijn: israelische hups (parendans)
 ---
 
-﻿Hava nagiela,		)  
+Hava nagiela,		)  
 Hava nagiela, (bis)	) bis  
 Venismega,		)  
 

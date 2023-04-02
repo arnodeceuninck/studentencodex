@@ -1,18 +1,18 @@
 ---
 layout: song
-title: eennederlandseamerikaan
-page: 404
+title: Een Nederlandse Amerikaan
+page: 896
 ---
 
-Een NEderlandse Amerikaan  
+Een Nederlandse Amerikaan  
 Die zie je al van verre staan  
 Een Nederlandse Amerikaan  
 Die zie je al van verre staan.  
 
-Van voor naar achter, van links naar rechts  
+__Van voor naar achter, van links naar rechts  
 Van boven naar onder, van links naar rechts  
 Van voor naar achter, van links naar rechts  
-Van boven naar onder, van links naar rechts  
+Van boven naar onder, van links naar rechts__  
 
 Zijn hoofd lijkt wel een varkenskop  
 Er groeit geen enkele haar meer op  

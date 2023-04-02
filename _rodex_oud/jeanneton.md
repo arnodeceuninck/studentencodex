@@ -1,10 +1,10 @@
 ---
 layout: song
-title: jeanneton
-page: 404
+title: Jeanneton
+page: 838
 ---
 
-﻿Jeanneton prend sa faucille,  
+Jeanneton prend sa faucille,  
 Larirette, larirette,  
 Jeanneton prend sa faucille,  
 Pour aller couper du jonc. (bis)  

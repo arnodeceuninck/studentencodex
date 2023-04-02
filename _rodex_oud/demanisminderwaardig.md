@@ -1,10 +1,10 @@
 ---
 layout: song
-title: demanisminderwaardig
-page: 404
+title: De man is minderwaardig
+page: 862
+author: Jos Smos
+note: Muziek door Zjuul Krapuul
 ---
-
-* Tekst: Jos Smos, Muziek: Zjuul Krapuul *  
 
 De man is minderwaardig,  
 Aardig, aardig,  

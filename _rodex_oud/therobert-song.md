@@ -1,10 +1,9 @@
 ---
 layout: song
-title: therobert-song
+title: The Robert - Song
 page: 404
+author: Zjuul Krapuul
 ---
-
-* Tekst & muziek : Zjuul Krapuul *  
 
 Sometimes it's fine, in the pissijn,  
 I have some fun, with die van mijn,  

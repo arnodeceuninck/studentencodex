@@ -1,10 +1,9 @@
 ---
 layout: song
-title: diegedankensindfrei
-page: 404
+title: Die gedanken sind frei
+page: 944
+note: Oud Duits lied der vrijzinnigen
 ---
-
-﻿* Oud Duits lied der vrijzinnigen *  
 
 Die Gedanken sind frei wer kann sie erraten?  
 Sie fliehen vorbei wie nächtliche Schatten.  

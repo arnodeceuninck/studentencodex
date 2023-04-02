@@ -1,10 +1,9 @@
 ---
 layout: song
-title: thedrinkingsong
-page: 404
+title: The Drinking Song
+page: 949
+note: Mario Lanza
 ---
-
-* Mario Lanza *  
 
 Ein zwei drei vier  
 Lift your stein and drink your beer  

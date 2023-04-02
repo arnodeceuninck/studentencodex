@@ -1,10 +1,9 @@
 ---
 layout: song
-title: opneschonezomeravond
-page: 404
+title: Op ne schone zomeravond
+page: 842
+melodie: Clementine
 ---
-
-* melodie : Clementine *  
 
 Op ne schone zomeravond,  
 Ging ik wandelen in het bos,   

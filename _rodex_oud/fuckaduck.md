@@ -1,10 +1,9 @@
 ---
 layout: song
-title: fuckaduck
-page: 404
+title: Fuck a duck
+page: 893
+melodie: Do, a deer, a female deer
 ---
-
-* melodie: Do, a deer, a female deer *  
 
 Fuck a duck, a female duck  
 Screw a babykangaroo  

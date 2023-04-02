@@ -1,10 +1,9 @@
 ---
 layout: song
-title: themistymountainscold
-page: 404
+title: The misty mountains cold
+page: 932
+note: The Hobbit
 ---
-
-* The Hobbit *  
 
 Far over the misty mountains cold  
 To dungeons deep and caverns old  

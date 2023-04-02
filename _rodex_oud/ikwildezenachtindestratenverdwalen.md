@@ -1,10 +1,9 @@
 ---
 layout: song
-title: ikwildezenachtindestratenverdwalen
-page: 404
+title: Ik wil deze nacht in de straten verdwalen
+page: 920
+note: Wannes Van De Velde
 ---
-
-* Wannes Van De Velde *  
 
 Ik wil deze nacht in de straten verdwalen,  
 De klank van de stad maakt mijn ziel amoureus,  

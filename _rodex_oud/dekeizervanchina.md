@@ -1,7 +1,7 @@
 ---
 layout: song
-title: dekeizervanchina
-page: 404
+title: De Keizer van China
+page: 867
 ---
 
 De keizer van CHina, die poepte zijn Mina,  

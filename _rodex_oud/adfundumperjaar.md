@@ -1,7 +1,7 @@
 ---
 layout: song
-title: adfundumperjaar
-page: 404
+title: Ad fundum per jaar
+page: XXIV
 ---
 
 En al wie voor 't eerste jaar in         ))  

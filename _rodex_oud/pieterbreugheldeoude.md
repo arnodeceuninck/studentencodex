@@ -1,7 +1,8 @@
 ---
 layout: song
-title: pieterbreugheldeoude
-page: 404
+title: Pieter Breughel de Oude
+page: 906
+author: Wannes Van De Velde
 ---
 
 * Wannes Van De Velde *  
@@ -60,7 +61,7 @@ Nadat hem op zijn kamer
 Een heel klein maar een fijn schilderij  
 Vol kleur had doen ontstaan.  
 
-* De laatste strofe werd aangepast door Wannes Van De Velde zelf (Zangfeest VUB 1992) *  
+_De laatste strofe werd aangepast door Wannes Van De Velde zelf (Zangfeest VUB 1992)_ 
 
 En daarop stond geschilderd  
 Ne Vlaming in de val  
@@ -68,10 +69,10 @@ De Val van zijn complexen
 Fanatisme staat erbij aan zijn zij!  
 Zo komt hij nooit niet vrij!  
 
-* Vroeger werd gezongen:  
+_Vroeger werd gezongen:_ 
 
-En daarop stond geschilderd  
+_En daarop stond geschilderd  
 Ne Vlaming in 't gevang  
 't Gevang van zijn coplexen  
 De sleutel ligt erbij aan zijn zij  
-Doet open, maakt hem vrij! *  
+Doet open, maakt hem vrij!_

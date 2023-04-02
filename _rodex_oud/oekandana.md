@@ -1,10 +1,9 @@
 ---
 layout: song
-title: oekandana
-page: 404
+title: Oekandana
+page: 886
+melodie: The lion sleeps tonight
 ---
-
-* melodie: The lion sleeps tonight *  
 
 Vele Vlamingen spreken Frans,  
 Engels, Duits of Portugees,  

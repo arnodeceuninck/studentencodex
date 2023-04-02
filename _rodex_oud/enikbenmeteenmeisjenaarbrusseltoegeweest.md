@@ -1,7 +1,7 @@
 ---
 layout: song
-title: enikbenmeteenmeisjenaarbrusseltoegeweest
-page: 404
+title: En ik ben met een meisje naar Brussel toe geweest
+page: 870
 ---
 
 En ik ben met een meisje naar Brussel toe geweest,  
