@@ -1,6 +1,6 @@
 ---
 layout: song
-title: 't Snorrelied
+title: "'t Snorrelied"
 page: 817
 ---
 

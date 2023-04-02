@@ -1,6 +1,6 @@
 ---
 layout: song
-title: tsmidje
+title: "'t Smidje"
 page: 915
 author: Lais
 ---
