@@ -1,8 +1,8 @@
 ---
 layout: song
-title: havanagiela
+title: Hava Nagiela
 page: 818
-note: Laat ons vrolijk zijn: israelische hups (parendans)
+note: "Laat ons vrolijk zijn: israelische hups (parendans)"
 ---
 
 Hava nagiela,		)  

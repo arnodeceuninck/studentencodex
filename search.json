@@ -3,12 +3,14 @@
 [
   {% for song in site.rodex_oud %}
   {
-    "title": "{{ song.title | escape }}",
+    "title": {{ song.title | jsonify}},
     "url": "{{ site.url }}{{ song.url }}",
     "page": "{{ song.page }}",
-    "content": {{ song.content | jsonify }}
-  {% comment %} , "lyrics": "{{ song.content | strip_html | strip_newlines | escape }}" {% endcomment %}
-  }
-  {% unless forloop.last %},{% endunless %}
+    "content": {{ song.content | jsonify }},
+    "author": {{ song.author | jsonify}},
+    "melodie": {{ song.melodie | jsonify }},
+    "note": {{ song.note | jsonify }}
+  } {% unless forloop.last %},{% endunless %}
+
   {% endfor %}
 ]

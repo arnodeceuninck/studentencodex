@@ -5,8 +5,6 @@ page: 861
 author: Jos Smos
 ---
 
-* tekst en muziek: Jos Smos *  
-
 Met de wijven niks as last,  
 Met de wijven niks as last,  
 Met de wijven niks as trobbels,  
