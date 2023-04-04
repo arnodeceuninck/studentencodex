@@ -9,7 +9,17 @@ layout: base
 
     {{ content }}
 
-    <!-- Html Elements for Search -->
+    <form>
+        <div class="btn-group d-flex" role="group" aria-label="Basic example">
+            <button type="button" class="btn btn-secondary" data-category="antwerpse" id="antwerpse-selector">Antwerpse Codex</button>
+            <button type="button" class="btn btn-light" data-category="rodex_oud" id="rodex_oud-selector">Rodex (Oud)</button>
+        </div>
+    </form></br>
+
+    <!-- Html Elements for Search Antwerpse Codex -->
+
+    <script src="assets/js/search.js"></script>
+
     <div id="search-container">
         <input class="form-control" type="search" id="search-input" onkeyup="mySearch()" placeholder="Search...">
         <ul id="results-container"></ul>
@@ -20,16 +30,26 @@ layout: base
     <table id="search-table" class="table table-hover">
         <tbody>
 
-        {%- for song in site.rodex_oud -%}
-        <tr scope="row" role="button" onclick="window.location='{{ song.url | relative_url }}';">
+        {%- for song in site.antwerpse -%}
+        <tr scope="row" role="button" data-category="antwerpse" onclick="window.location='{{ song.url | relative_url }}';">
             <td>{{ song.title | escape }}</td>
             <td>{{ song.page }}</td>
+            <input type="hidden" name="category" value="antwerpse">
+        </tr>
+        {%- endfor -%}
+
+        {%- for song in site.rodex_oud -%}
+        <tr scope="row" role="button" data-category="rodex_oud" onclick="window.location='{{ song.url | relative_url }}';" style="display:none;">
+            <td>{{ song.title | escape }}</td>
+            <td>{{ song.page }}</td>
+            <input type="hidden" name="category" value="rodex_oud">
         </tr>
         {%- endfor -%}
 
         </tbody>
     </table>
 
-
+    <script src="assets/js/codex-toggle-btns.js"></script>
 
 </div>
+

@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Rode Codex (oud)
+title: Codex
 email: arnodece@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -57,11 +57,18 @@ plugins:
 collections:
   rodex_oud:
     output: true
+  antwerpse:
+    output: true
 
 defaults:
   - scope:
       path: ""
       type: rodex_oud
+    values:
+      layout: "song"
+  - scope:
+      path: ""
+      type: antwerpse
     values:
       layout: "song"
 
