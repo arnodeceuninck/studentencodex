@@ -1,34 +1,34 @@
 ---
 title: Vliegt de blauwvoet
 page: 100
----
+---  
 
-1. Eén en één is twee (bis)
-Al de Franskiljons
-Die moeten in de zee!
-
-
-- En vliegt de Blauwvoet? (ter)
-Storm op zee!
-En vliegt de Blauwvoet? (ter)
-Storm op zee!
+1. Eén en één is twee (bis)  
+Al de Franskiljons  
+Die moeten in de zee!  
 
 
-2. Twee en twee is vier, (bis)
-Al de Franskiljons
-In een vaatje bier!
+- En vliegt de Blauwvoet? (ter)  
+Storm op zee!  
+En vliegt de Blauwvoet? (ter)  
+Storm op zee!  
 
 
-3. Drie en drie is zes, (bis)
-Al de Franskiljons
-In een tutterfles
+2. Twee en twee is vier, (bis)  
+Al de Franskiljons  
+In een vaatje bier!  
 
 
-4. Vier en vier is acht, (bis)
-Al de Franskiljons
-in de zee versmacht!
+3. Drie en drie is zes, (bis)  
+Al de Franskiljons  
+In een tutterfles  
 
 
-5. Vijf en vijf is tien, (bis)
-Al de Franskiljons
-in een wasmachien!
+4. Vier en vier is acht, (bis)  
+Al de Franskiljons  
+in de zee versmacht!  
+
+
+5. Vijf en vijf is tien, (bis)  
+Al de Franskiljons  
+in een wasmachien!  
