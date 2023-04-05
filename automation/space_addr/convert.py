@@ -12,7 +12,7 @@ files = os.listdir('files')
 for file in files:
     filename = file.split('.')[0]
     # Open the file
-    with open('files/' + file, 'r', encoding='utf-8') as f:
+    with open('files/' + file, 'r') as f:
         # Read the file
         data = f.read()
 

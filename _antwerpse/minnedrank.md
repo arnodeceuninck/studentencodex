@@ -8,19 +8,19 @@ Op den dag der kerelsmaal,
 Welgezind te gare kwamen  
 In de wijde gilde zal,  
 Wierd de schale volgeschonken  
-En de min in ’t rond gedronken  
+En de min in â€™t rond gedronken  
 Bij der liedren vrijen klank.  
 
 
 - Ei! De schalen volgeschonken,  
 En den Vlaamschen minnedrank  
-Broederlijk in ’t rond gedronken,  
-Bij der lied’ren vrijen klank!  
+Broederlijk in â€™t rond gedronken,  
+Bij der liedâ€™ren vrijen klank!  
 
 
 2. Sa, het bier schuime in de schale,  
-’t Zuiver, krachtig, Vlaamse bier;  
-’t Is hier gilde, ’t is hier male,  
+â€™t Zuiver, krachtig, Vlaamse bier;  
+â€™t Is hier gilde, â€™t is hier male,  
 En der zitten kerels hier!  
 Bond en gilde, en minne krachtig,  
 Band, gesloten hand in hand,  
@@ -33,6 +33,6 @@ Minne van ons Vlaanderland
 Van ons vaders, de oude Vlamen,  
 En van onzen gildeband,  
 Van den Klauwaart, van den Blauwvoet,  
-Van ’t voorspelde zeegedruis,  
+Van â€™t voorspelde zeegedruis,  
 Van hetgeen des Klauwaarts klauw hoedt,  
-’t Lieve dierbaar Christi kruis  
+â€™t Lieve dierbaar Christi kruis  

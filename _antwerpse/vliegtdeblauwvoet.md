@@ -3,7 +3,7 @@ title: Vliegt de blauwvoet
 page: 100
 ---  
 
-1. Eén en één is twee (bis)  
+1. EÃ©n en Ã©Ã©n is twee (bis)  
 Al de Franskiljons  
 Die moeten in de zee!  
 

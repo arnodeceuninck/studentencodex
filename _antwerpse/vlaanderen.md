@@ -3,12 +3,12 @@ title: Vlaanderen
 page: 62
 author: Willem Gijssels
 melodie:  Renaat Veremans
-note: © Metropolis Music Publishers
+note: Â© Metropolis Music Publishers
 ---  
 
-1. 't Zijn weiden als wiegende zeeën,  
+1. 't Zijn weiden als wiegende zeeÃ«n,  
 Die groenen langs stroom en rivier,  
-Hier, vredige dorpkens daar steêen,  
+Hier, vredige dorpkens daar steÃªen,  
 Die rijzen met torens vol zwier,  
 't Zijn welige velden en wouden,  
 Of vlakten der heide vol rust.  

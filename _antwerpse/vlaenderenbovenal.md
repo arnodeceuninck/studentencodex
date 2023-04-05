@@ -19,7 +19,7 @@ beemden en velden staen overal groen.
 
 3. Vlaenderen, boven al hebbic u lief.  
 Ghi minen lust, myn smert,    )  
-ghi licht mi diep in ’t hert, ) (bis)  
+ghi licht mi diep in â€™t hert, ) (bis)  
 Vlaenderen, boven al hebbic u lief.  
 
 

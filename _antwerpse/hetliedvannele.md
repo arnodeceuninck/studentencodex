@@ -3,7 +3,7 @@ title: Het lied van nele
 page: 63
 author: Johan de Maegt
 melodie: Emiel Hullebroeck
-note: © ANZ vzw
+note: Â© ANZ vzw
 ---  
 
 1. Ik zie er dat Vlaand'ren zo geren!  

@@ -19,7 +19,7 @@ Stel met uw broeders de dienende daad,
 bouw voor uw volk, wroet aan uw taak!  
 
 
-3. Sta in de avond de vrêe op 't gelaat,  
+3. Sta in de avond de vrÃªe op 't gelaat,  
 zing met uw volk, zing om uw taak!  
 Voel dat ge weer op de wereld bestaat,  
-eén met uw volk, rijk om uw taak!  
+eÃ©n met uw volk, rijk om uw taak!  

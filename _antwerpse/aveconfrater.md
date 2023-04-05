@@ -5,10 +5,10 @@ note: Dit lied wordt gezongen door twee commilitones als teken van verbroedering
 ---  
 
 C1: Ave confrater!  
-C2: ‘k Drink liever bier dan water!  
-C1: Drink dan op het commando van één, twee, drie, vier, vijf, zes, zeven!  
+C2: â€˜k Drink liever bier dan water!  
+C1: Drink dan op het commando van Ã©Ã©n, twee, drie, vier, vijf, zes, zeven!  
 
-_Commiliton 2 begint bij één te drinken.  
+_Commiliton 2 begint bij Ã©Ã©n te drinken.  
 Het glas moet leeg zijn bij 'zeven'._  
 
 C2: Er is niets meer in mijn glas gebleven!  
