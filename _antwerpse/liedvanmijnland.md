@@ -11,7 +11,7 @@ uit alle dalen der herinnering,
 over de heuv’len van ruisend koren  
 en de rivier in haar steigering.  
 
- 
+   
 - Liefelijk land, in de bruisende horen  
 hoor ik u Vlaand’ren en zing en zing.  
 Liefelijk land, in de bruisende horen  

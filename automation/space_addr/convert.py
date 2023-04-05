@@ -12,7 +12,7 @@ files = os.listdir('files')
 for file in files:
     filename = file.split('.')[0]
     # Open the file
-    with open('files/' + file, 'r') as f:
+    with open('files/' + file, 'r', encoding='utf-8') as f:
         # Read the file
         data = f.read()
 
@@ -38,7 +38,7 @@ for file in files:
             output.append(lines[i])
 
         # write lines to file in _antwerpse/output
-        with open('output/' + filename + '.md', 'w') as f:
+        with open('output/' + filename + '.md', 'w', encoding="utf-8") as f:
             f.write('\n'.join(output))
 
 
