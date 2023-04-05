@@ -20,7 +20,7 @@ de Reus is hier.
 de Reus is gram.  
 
 
-4.Sa moeder, tapt van 't beste bier,  
+4. Sa moeder, tapt van 't beste bier,  
 de Reus is gier.  
 
 
