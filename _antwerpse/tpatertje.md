@@ -1,5 +1,5 @@
 ---
-title: 't Patertje
+title: "'t Patertje"
 page: 181
 ---  
 
@@ -8,8 +8,8 @@ page: 181
 Hij had een nonneken by der hand:  
 
 
-- Hei, ’t was in de mei zoo zei,  
-Hei, ’t was in de mei!  
+- Hei, ï¿½t was in de mei zoo zei,  
+Hei, ï¿½t was in de mei!  
 
 
 2. Sa, pater, gy moet knielen gaen,  
@@ -17,7 +17,7 @@ Maer, nonneken, gy moet blyven staen!
 
 
 3. Sa, pater, spreid uw zwarte kap,  
-Daer uw heilige non op stapp’!  
+Daer uw heilige non op stappï¿½!  
 
 
 4. Sa, pater, geef uw non een zoen!  
@@ -33,7 +33,7 @@ Maer, nonneken, gy moet blyven staen!
 
 
 7. Sa, nonneken, wil nu kiezen gaen  
-En neeem een’ anderen pater aen!  
+En neeem eenï¿½ anderen pater aen!  
 
 
 8. Sa, nonneken, gy moet knielen gaen   
