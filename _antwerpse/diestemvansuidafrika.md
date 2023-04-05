@@ -9,7 +9,7 @@ melodie: 1921, Marthinus Lourens De Villiers (1885-1977)
 uit die diepte van ons see,  
 Oor ons ewige gebergtes,  
 waar die kranse antwoord gee,  
-Deur ons vÃ©r verlate vlaktes  
+Deur ons vér verlate vlaktes  
 met die kreun van ossewa -  
 Ruis die stem van ons geliefde,  
 van ons land Suid-Afrika.  
@@ -40,20 +40,20 @@ By die klink van huweliksklokkies,
 by die kluit-klap op die kis.  
 Streel jou stem ons nooit verniet nie,   
 weet jy waar jou kinders is.  
-Op jou roep sÃª ons nooit nee nie,   
-sÃª ons altyd, altyd ja:  
+Op jou roep sê ons nooit nee nie,   
+sê ons altyd, altyd ja:  
 Om te lewe, om te sterwe -   
 Ja, ons kom Suid-Afrika.  
 
 4. Op U Almag vas vertrouend   
 het ons vadere gebou:  
 Skenk ook ons die krag, o Here!   
-om te handhaaf en te hou â€”  
+om te handhaaf en te hou —  
 Dat die erwe van ons vadere  
 vir ons kinders erwe bly:  
 Knegte van die Allerhoogste,   
-teen die hele wÃªreld vry.  
+teen die hele wêreld vry.  
 Soos ons vadere vertrou het,   
-leer ook ons vertrou, o Heer â€”  
+leer ook ons vertrou, o Heer —  
 Met ons land en met ons nasie   
 sal dit wel wees, God regeer.  

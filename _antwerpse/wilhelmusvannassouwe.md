@@ -3,7 +3,7 @@ title: Wilhelmus van Nassouwe
 page: 50
 author: vermoedelijk 1572
 melodie: "1568"
-note: "Oorspronkelijk Geuzenlied, naar het spotliedje 'Autre chanson de la ville de Chartres assiÃ©ges par le prince de CondÃ©'"
+note: "Oorspronkelijk Geuzenlied, naar het spotliedje 'Autre chanson de la ville de Chartres assiéges par le prince de Condé'"
 ---  
 
 1. Wilhelmus van Nassouwe  
@@ -13,7 +13,7 @@ blijf ik tot in den dood.
 Een Prinse van Oranje  
 ben ik, vrij, onverveerd,  
 den Koning van Hispanje  
-heb ik altijd geÃ«erd.  
+heb ik altijd geëerd.  
 
 
 2. In Godes vrees te leven  

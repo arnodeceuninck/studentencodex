@@ -5,10 +5,10 @@ page: 90
 
 1. Fransche ratten, rolt uw matten,  
 wilt naer huys nu keeren;  
-zegt: â€˜dag vrienden, die ons minden,â€™  
+zegt: ‘dag vrienden, die ons minden,’  
 of men zal u leeren  
 op de pypen dansen;  
-nu hebt gy goÃª kanssen:  
+nu hebt gy goê kanssen:  
 weg gascon, wie de bon, bon, bon,  
 voor 't Russisch schoon kanon.  
 

@@ -3,7 +3,7 @@ title: Were di
 page: 56
 author: Eugeen De Ridder (1893-1962)
 melodie: Armand Preud'homme (1904-1986)
-note: Â© ANZ vzw
+note: © ANZ vzw
 ---  
 
 1. Schoon is de jeugd, die zelf zich eert,  

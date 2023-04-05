@@ -4,27 +4,27 @@ page: 217
 ---  
 
 
-1. Het zwartbruine bier dat drink ik zo geern
-En zwartbruine meisjes die kus ik zo geern
+1. Het zwartbruine bier dat drink ik zo geern  
+En zwartbruine meisjes die kus ik zo geern  
 
 
-- Ei gij, ei gij,
-Ei gij bekoorlijk dudeldudeldij
-Juvivallerallera (bis) En ge laat geen rust aan mij
-Ge laat geen rust (bis) En ge laat geen rust aan mij!
+- Ei gij, ei gij,  
+Ei gij bekoorlijk dudeldudeldij  
+Juvivallerallera (bis) En ge laat geen rust aan mij  
+Ge laat geen rust (bis) En ge laat geen rust aan mij!  
 
 
-2. Het meisje heeft twee oogskens fijn,
-Die fonk'len als een sterrekijn.
+2. Het meisje heeft twee oogskens fijn,  
+Die fonk'len als een sterrekijn.  
 
 
-3. Het meisje heeft een rozige mond,
-En wie die kust die wordt gezond.
+3. Het meisje heeft een rozige mond,  
+En wie die kust die wordt gezond.  
 
 
-4. Het meisje heeft een rozige kin,
-Met in het midden een putteken in.
+4. Het meisje heeft een rozige kin,  
+Met in het midden een putteken in.  
 
 
-5. Het meisje heeft een hertekijn:
-Dat zal voor eeuwig 't mijne zijn! 
+5. Het meisje heeft een hertekijn:  
+Dat zal voor eeuwig 't mijne zijn!   

@@ -3,19 +3,19 @@ title: Lied van mijn land
 page: 64
 author: Anton Van Wilderode
 melodie: Ignace de Sutter
-note: Â© De Crans Uitgave vzw
+note: © De Crans Uitgave vzw
 ---  
 
 1. Lied van mijn land 'k zal u altijd horen  
 uit alle dalen der herinnering,  
-over de heuvâ€™len van ruisend koren  
+over de heuv’len van ruisend koren  
 en de rivier in haar steigering.  
 
- 
+   
 - Liefelijk land, in de bruisende horen  
-hoor ik u Vlaandâ€™ren en zing en zing.  
+hoor ik u Vlaand’ren en zing en zing.  
 Liefelijk land, in de bruisende horen  
-hoor ik u Vlaandâ€™ren en zing en zing.  
+hoor ik u Vlaand’ren en zing en zing.  
 
 
 2. Lied van mijn land 'k zal u altijd horen  
@@ -26,5 +26,5 @@ onder de huif van de zomerwind.
 
 3. Lied van mijn land 'k zal u altijd horen,  
 lied van verlangen en vertedering,  
-dat met de kindâ€™ren altijd herboren,  
+dat met de kind’ren altijd herboren,  
 zacht met de doden tot zaad verzinkt.  

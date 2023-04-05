@@ -4,7 +4,7 @@ page: 96
 ---  
 
 1. Wij stappen geren zingend langs de baan,  
-dat mag in ons de Kerels nog verra√¢n.  
+dat mag in ons de Kerels nog verra‚n.  
 De Kerels ook, zij stapten geren aan,  
 al zingen 't vrije lied.  
 
@@ -33,7 +33,7 @@ Klonk weer op zij, en door de wijde lucht
 Daar dreunde 't vrije lied.  
 
 
-5. De Kerelsaard blijve in ons hert en da√¢n,  
+5. De Kerelsaard blijve in ons hert en da‚n,  
 en om te tonen dat wij nog bestaan,  
 Zo dreune luid door 't veld en langs de baan,  
 het vrije Vlaamse lied.  

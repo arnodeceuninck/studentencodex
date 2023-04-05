@@ -7,14 +7,14 @@ page: 88
 om kabeljauw te vangen  
 en te visschen met verlangen,  
 naer Iseland, naer Iseland toe,  
-tot driendertig reyzen, zy zyn nog niet moÃª.  
+tot driendertig reyzen, zy zyn nog niet moê.  
 
 
 2. Als den tyd van de foye komt aen,  
 wy dansen met behagen  
 en me weten van geen klagen.  
 Maer komt den tyd van naer zee te gaen,  
-iedereen is al met een zoo zwaer hoofd belaÃªn.  
+iedereen is al met een zoo zwaer hoofd belaên.  
 
 
 3. Alser de wind van het noorden waeyt,  
@@ -26,9 +26,9 @@ tot dat den lesten stuyver is uyt onzen zak.
 
 4. Alser de wind van het oosten waeyt,  
 den schipper, bly van herten,  
-zegt: â€˜wat willen wy laveren?  
+zegt: ‘wat willen wy laveren?  
 't zal beter zyn, ja 't zal beter zyn  
-te loopen voor de wind regt de Canele in.â€™  
+te loopen voor de wind regt de Canele in.’  
 
 
 5. Langs de Leezaers en de Schorels voorby;  

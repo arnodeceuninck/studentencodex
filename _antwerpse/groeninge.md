@@ -13,7 +13,7 @@ De leeuwen dansen.
 
 1. De winden schudden met geweld,  
 De zwarte blomme in 't geluw veld;  
-De kwaden zien, benÃªen de transen  
+De kwaden zien, benêen de transen  
 De leeuwen dansen!  
 
 Met bezemen zo komen z'af,  

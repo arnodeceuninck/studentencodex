@@ -31,7 +31,7 @@ O land van Artevelde,     )
 de Geuzen houden wacht!   ) (bis)  
 
 
-3. JezuÃ¯eten zaaien tweedracht  
+3. Jezuïeten zaaien tweedracht  
 zij blazen haat en twist  
 wij juichen "Recht en rede"  
 zij grijnzen "laag en list"  

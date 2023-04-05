@@ -18,8 +18,8 @@ onverveerd voor Outer en Heerd ! (bis)
 
 
 2. Zij steunden op Oranje's:  
-de Nederlanden Ã©Ã©n !  
-En juichten toen BrittanniÃ«'s  
+de Nederlanden één !  
+En juichten toen Brittannië's  
 beloofde vloot verscheen.  
 Kloekmoedig in de gouwen  
 van Diets Zuid-Nederland,  
