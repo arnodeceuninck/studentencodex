@@ -43,4 +43,4 @@ Cielito lindo, dame un abrazo.
 6. Una flecha en el aire,  
 Cielito lindo, lanzó Cupido,  
 y como fue jugando,  
-Cielito lindo, yo fui el herido.
+Cielito lindo, yo fui el herido.  

@@ -4,58 +4,58 @@ page: 376
 ---  
 
 
-1.  There's a hole in my bucket, dear Liza, dear Liza,
-There's a hole in my bucket, dear Liza, a hole.
-Then fix it, dear Henry, dear Henry, dear Henry,
-Then fix it, dear Henry, dear Henry, mend it.
- 
-2. With what shall I fix it, dear Liza, dear Liza?
-With what shall I fix it, dear Liza, with what?
-With straw, dear Henry, dear Henry, dear Henry,
-With straw, dear Henry, dear Henry, with straw.
+1.  There's a hole in my bucket, dear Liza, dear Liza,  
+There's a hole in my bucket, dear Liza, a hole.  
+Then fix it, dear Henry, dear Henry, dear Henry,  
+Then fix it, dear Henry, dear Henry, mend it.  
+   
+2. With what shall I fix it, dear Liza, dear Liza?  
+With what shall I fix it, dear Liza, with what?  
+With straw, dear Henry, dear Henry, dear Henry,  
+With straw, dear Henry, dear Henry, with straw.  
 
 
-3. The straw is too long, dear Liza, dear Liza,
-The straw is too long, dear Liza, too long.
-Then cut it, dear Henry, dear Henry, dear Henry,
-Then cut it, dear Henry, dear Henry, cut it.
+3. The straw is too long, dear Liza, dear Liza,  
+The straw is too long, dear Liza, too long.  
+Then cut it, dear Henry, dear Henry, dear Henry,  
+Then cut it, dear Henry, dear Henry, cut it.  
 
 
-4. With what shall I cut it, dear Liza, dear Liza?
-With what shall I cut it, dear Liza, with what?
-With an axe, dear Henry, dear Henry, dear Henry,
-With an axe, dear Henry, dear Henry, a knife.
+4. With what shall I cut it, dear Liza, dear Liza?  
+With what shall I cut it, dear Liza, with what?  
+With an axe, dear Henry, dear Henry, dear Henry,  
+With an axe, dear Henry, dear Henry, a knife.  
 
 
-5. The axe is too dull, dear Liza, dear Liza,
-The axe is too dull, dear Liza, too dull.
-Then sharpen it, dear Henry, dear Henry, dear Henry,
-Then sharpen it, dear Henry, dear Henry, sharpen it.
+5. The axe is too dull, dear Liza, dear Liza,  
+The axe is too dull, dear Liza, too dull.  
+Then sharpen it, dear Henry, dear Henry, dear Henry,  
+Then sharpen it, dear Henry, dear Henry, sharpen it.  
 
 
-6. On what shall I sharpen it, dear Liza, dear Liza?
-On what shall I sharpen it, dear Liza, with what?
-On a whetstone, dear Henry, dear Henry, dear Henry,
-On a whetstone, dear Henry, dear Henry, a stone.
+6. On what shall I sharpen it, dear Liza, dear Liza?  
+On what shall I sharpen it, dear Liza, with what?  
+On a whetstone, dear Henry, dear Henry, dear Henry,  
+On a whetstone, dear Henry, dear Henry, a stone.  
 
 
-7. The stone is too dry, dear Liza, dear Liza,
-The stone is too dry, dear Liza, too dry.
-Well wet it, dear Henry, dear Henry, dear Henry,
-Well wet it, dear Henry, dear Henry, wet it.
+7. The stone is too dry, dear Liza, dear Liza,  
+The stone is too dry, dear Liza, too dry.  
+Well wet it, dear Henry, dear Henry, dear Henry,  
+Well wet it, dear Henry, dear Henry, wet it.  
 
 
-8. With what shall I wet it, dear Liza, dear Liza?
-With what shall I wet it, dear Liza, with what?
-With water, dear Henry, dear Henry, dear Henry,
-With water, dear Henry, dear Henry, with water.
+8. With what shall I wet it, dear Liza, dear Liza?  
+With what shall I wet it, dear Liza, with what?  
+With water, dear Henry, dear Henry, dear Henry,  
+With water, dear Henry, dear Henry, with water.  
 
 
-9. In what shall I fetch it, dear Liza, dear Liza?
-In what shall I fetch it, dear Liza, in what?
-In a bucket, dear Henry, dear Henry, dear Henry,
-In a bucket, dear Henry, dear Henry, in a bucket.
+9. In what shall I fetch it, dear Liza, dear Liza?  
+In what shall I fetch it, dear Liza, in what?  
+In a bucket, dear Henry, dear Henry, dear Henry,  
+In a bucket, dear Henry, dear Henry, in a bucket.  
 
 
-10. But there's a hole in my bucket, dear Liza, dear Liza,
-There's a hole in my bucket, dear Liza, a hole.
+10. But there's a hole in my bucket, dear Liza, dear Liza,  
+There's a hole in my bucket, dear Liza, a hole.  

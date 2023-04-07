@@ -4,56 +4,56 @@ page: 388
 ---  
 
 
-1.  1. In a cavern, in a canyon,
-Excavating for a mine
-Dwelt a miner forty niner,
-And his daughter Clementine.
+1.  1. In a cavern, in a canyon,  
+Excavating for a mine  
+Dwelt a miner forty niner,  
+And his daughter Clementine.  
 
 
-Refrain
-Oh my darling, oh my darling,
-Oh my darling, Clementine!
-You were lost and gone forever
-Dreadful sorry, Clementine.
+Refrain  
+Oh my darling, oh my darling,  
+Oh my darling, Clementine!  
+You were lost and gone forever  
+Dreadful sorry, Clementine.  
 
 
-2. Light she was and like a fairy,
-And her shoes were number nine,
-Herring boxes, without topses,
-Sandals were for Clementine.
+2. Light she was and like a fairy,  
+And her shoes were number nine,  
+Herring boxes, without topses,  
+Sandals were for Clementine.  
 
 
-3. Drove she ducklings to the water
-Ev'ry morning just at nine,
-Stubbed her toe against a splinter,
-Fell into the foaming brine.
+3. Drove she ducklings to the water  
+Ev'ry morning just at nine,  
+Stubbed her toe against a splinter,  
+Fell into the foaming brine.  
 
 
-4. Ruby lips above the water,
-Blowing bubbles, soft and fine,
-But, alas, I was no swimmer,
-So I lost my Clementine.
+4. Ruby lips above the water,  
+Blowing bubbles, soft and fine,  
+But, alas, I was no swimmer,  
+So I lost my Clementine.  
 
 
-5. In a churchyard on a hillside,
-Where the flowers grow and twine,
-There grow roses amongst the posies
-Fertilised by Clementine.
+5. In a churchyard on a hillside,  
+Where the flowers grow and twine,  
+There grow roses amongst the posies  
+Fertilised by Clementine.  
 
 
-6. Then the miner, forty-niner,
-Soon began to peak and pine,
-Thought he oughter join his daughter,
-Now he's with his Clementine.
+6. Then the miner, forty-niner,  
+Soon began to peak and pine,  
+Thought he oughter join his daughter,  
+Now he's with his Clementine.  
 
 
-7. In my dreams she still doth haunt me,
-Robed in garments soaked in brine;
-How in life I used to hug her,
-Now she's dead, I draw the line.
+7. In my dreams she still doth haunt me,  
+Robed in garments soaked in brine;  
+How in life I used to hug her,  
+Now she's dead, I draw the line.  
 
 
-8. How I missed her! How I missed her,
-How I missed my Clementine,
-But I kissed her little sister,
-I forgot my Clementine.
+8. How I missed her! How I missed her,  
+How I missed my Clementine,  
+But I kissed her little sister,  
+I forgot my Clementine.  
