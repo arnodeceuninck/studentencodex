@@ -26,4 +26,3 @@ Het goud van uw zandzee, het purper der hei
 Het tovert visioenen van willust in mij.  
 Van dennen en berken, van berken en den,  
 Hoe heerlijk de Kempen, zo schoon ik niets ken!  
-
