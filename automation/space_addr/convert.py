@@ -5,14 +5,17 @@
 import os
 import re
 
+INPUT_DIRECTORY = '../../_antwerpse'
+OUTPUT_DIRECTORY = '../../_antwerpse'
+
 # Get all the files in the directory
-files = os.listdir('files')
+files = os.listdir(INPUT_DIRECTORY)
 
 # Loop through the files
 for file in files:
     filename = file.split('.')[0]
     # Open the file
-    with open('files/' + file, 'r', encoding='utf-8') as f:
+    with open(f'{INPUT_DIRECTORY}/{file}', 'r', encoding='utf-8') as f:
         # Read the file
         data = f.read()
 
@@ -38,7 +41,7 @@ for file in files:
             output.append(lines[i])
 
         # write lines to file in _antwerpse/output
-        with open('output/' + filename + '.md', 'w', encoding="utf-8") as f:
+        with open(f'{OUTPUT_DIRECTORY}/{file}', 'w', encoding="utf-8") as f:
             f.write('\n'.join(output))
 
 

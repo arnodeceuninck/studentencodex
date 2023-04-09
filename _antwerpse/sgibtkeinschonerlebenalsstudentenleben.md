@@ -1,5 +1,5 @@
 ---
-title: 's Gibt kein schoner Leben als Studentenleben
+title: "'s Gibt kein schoner Leben als Studentenleben"
 page: 282
 ---  
 

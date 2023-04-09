@@ -1,5 +1,5 @@
 ---
-title: 't Ros Beyaert
+title: "'t Ros Beyaert"
 page: 462
 ---  
 
