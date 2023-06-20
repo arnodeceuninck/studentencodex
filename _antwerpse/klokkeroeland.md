@@ -33,7 +33,7 @@ O bronzen lied, ik weet uw bedied
 En ik versta het verwijtend klagen;  
 Doch wees getroost: Zie, het oosten bloost  
 En Vlaanderens zonne gaat aan het dagen.  
-Vlaanderen die leeu! Tril, oude toren,  
+Vlaanderen die leeuw! Tril, oude toren,  
 En paar uw lied met onze koren,  
 Zing: ik ben Roeland, ik kleppe brand,  
 Luide triomf in Vlaanderland!  

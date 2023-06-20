@@ -12,13 +12,19 @@ Enkele dingen waar je rekening mee moet houden:
 - Nieuwe alineas in markdown worden aangegeven met twee lege regels. Eén lege regel geeft dus geen nieuwe alinea!
 - Nieuwe regels in markdown worden ofwel aangegeven met één lege regel tussen, ofwel twee spaties op het einde van de voorgaande regel. Het scriptje `automation/space_addr/convert.py` voegt dit overal toe waar dat niet het geval is. 
 
+## Lokaal draaien
+Om de site lokaal te draaien, moet je eerst Jekyll installeren. Dit kan je doen met `gem install jekyll bundler`. Daarna kan je de site lokaal draaien met `bundle exec jekyll serve`. De site is dan te vinden op http://localhost:4000/studentencodex/. Dit genereert de nodiges statische bestanden, waaronder de `codices.json` die gebruikt wordt door de mobiele app.
+
+Als je naar github pusht, wordt de site automatisch gegenereerd en gepusht naar de `gh-pages` branch.
+
 ## Mobiele app
-Er bestaat ook een mobiele app, gemaakt in Flutter. Hiervoor moet je de gegenereerde `search.json` in de assets folder van de app repo zetten. 
+Er bestaat ook een mobiele app, gemaakt in Flutter. Hiervoor moet je de gegenereerde `codices.json` in de assets folder van de app repo zetten. 
 
 De repo van de app: https://github.com/arnodeceuninck/studentencodex-app
 
 ## TODO's
 - Antwerpse codex: Alle liedjes vanaf p. 515
+- Nummering: het refrein reset de nummering. Nummers staan wel juist in de markdown files, maar markdown nummert bv. 9. ook vanzelf en past het cijfer dus aan.
 
 ## Liedjes toevoegen
 Gewoon een nieuw bestand toevoegen, bv. in de `_antwerpse` folder. Neem een kijkje naar de andere bestanden in die folder om te weten hoe je het bestand moet opbouwen. 
