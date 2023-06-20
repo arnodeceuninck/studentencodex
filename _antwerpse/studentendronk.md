@@ -3,6 +3,7 @@ title: Studentendronk
 page: 118
 ---  
 
+{:start="1"}  
 1.  Studenten! Hoog de beker in de hand,  
 En hoog het hart daarbij!  
 Zingt luid een lied voor 't vaderland,  
@@ -14,6 +15,7 @@ Het klinke vrij,
 En hoog het hart daarbij!  
 
 
+{:start="2"}  
 2. Studenten! Reikt elkaar de gulle hand,  
 En zweert den vromen eed  
 Van trouw, en plicht, en recht, en land,  
@@ -25,6 +27,7 @@ In lust en leed,
 Komt! zweert den vromen eed!  
 
 
+{:start="3"}  
 3. Studenten! Reikt elkaar de broederhand  
 Tot steun bij stormgetij,  
 En brengt, in eendracht, licht in 't land,  

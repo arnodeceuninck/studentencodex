@@ -3,6 +3,7 @@ title: Demetris
 page: 486
 ---  
 
+{:start="1"}  
 1. Gerst, hop, mout en gist,  
 we weten dat ’t verfrist.  
 Na al die studiepijn,  
@@ -19,6 +20,7 @@ Dat hebben we weeral gehad,
 Demetris boven al!  
 
 
+{:start="2"}  
 2. Onze fallus is de gids,  
 Vanachter onze rits,  
 Hij staat altijd paraat,  
@@ -27,6 +29,7 @@ Of met nen helen trits,
 We weten dat hij altijd staat.  
 
 
+{:start="3"}  
 3. En onze tetten zijn de best,  
 Ze zijn al muug getest,  
 Onze tepels die staan altijd stijf,  

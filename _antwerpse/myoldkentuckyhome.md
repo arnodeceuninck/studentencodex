@@ -4,6 +4,7 @@ page: 395
 ---  
 
 
+{:start="1"}  
 1. The sun shines bright in the old Kentucky home,  
 'Tis summer, the darkies are gay;  
 The corn-top's ripe and the meadow's in the bloom,  
@@ -20,6 +21,7 @@ We will sing one song for the old Kentucky home,
 For the Old Kentucky Home far away.  
 
 
+{:start="2"}  
 2. They hunt no more for the possum and the coon,  
 On meadow, the hill and the shore,  
 They sing no more by the glimmer of the moon,  
@@ -30,6 +32,7 @@ The time has come when the darkies have to part,
 Then my old Kentucky home, goodnight.  
 
 
+{:start="3"}  
 3. The head must bow and the back will have to bend,  
 Wherever the darky may go;  
 A few more days, and the trouble all will end,  

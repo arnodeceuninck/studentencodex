@@ -4,6 +4,7 @@ page: 40
 note: "Vertaling van het Duitse 'O alte Burschemherrlichkit', 1825. Dit lied wordt gezongen om de cantus af te sluiten."
 ---  
 
+{:start="1"}  
 1. vrij-studentenheerlijkheid  
 Waar zijt gij thans verzonden?  
 O keer nog eenmaal, schone tijd,  
@@ -15,6 +16,7 @@ En vind uw sporen nimmerweer!
 O quae mutatio rerum!  
 
   
+{:start="2"}  
 2. _(oud-studenten)_  
 Waar zijn zij die voor 't Werchters bier  
 Hun laatste cent verdronken,  
@@ -24,6 +26,7 @@ Zij gingen, 't hart gebroken, voort
 Van hier naar 't stil geboorteoord  
 
    
+{:start="3"}  
 3. _(Exacte, Economische,Farmaceutische, Sociale en Ingenieurswetenschappen)_  
 Daar ligt er een als man van plicht,  
 Op een buro gebogen;  
@@ -34,6 +37,7 @@ Wie dacht ooit dat een schurk zo fijn
 Zou zo pedant geworden zijn?  
 
 
+{:start="4"}  
 4. _(Geneeskunde, Verpleegkunde)_  
 Een dokter preekt de matigheid,  
 En was hier grote rolder;  
@@ -45,6 +49,7 @@ De rechter straft nu drankmisbruik
 En vroeger sliep hij met de kruik!  
 
 
+{:start="5"}  
 5. _(Al de leden van de corona staan recht, en reiken elkaar met gekruiste armen de handen)_  
 Sa vrienden, reikt elkaar de hand,  
 Opdat hij zich vernauwe  

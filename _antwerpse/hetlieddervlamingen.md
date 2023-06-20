@@ -5,6 +5,7 @@ author: 1869, Emmanuel Hiel (1834-1899)
 melodie: 1869, Peter Benoit (1834-1901)
 ---  
 
+{:start="1"}  
 1. Waar Maas en Schelde vloeien,  
 De Noordzee bruist en stormt.  
 Waar vrede en kunsten bloeien,  
@@ -16,6 +17,7 @@ Daar is, daar is ons vaderland,
 Daar is ons vaderland.  
 
 
+{:start="2"}  
 2. Daar stijgen uit het verleden  
 De Geus en Klauwaart op.  
 Zij hebben stout gestreden,  
@@ -27,6 +29,7 @@ Het vrije, vrije vaderland,
 Het vrije vaderland.  
 
 
+{:start="3"}  
 3. O Nederland, o vrijheid  
 Gij adelt ons gevoel,  
 Wij zweren ook met blijheid,  

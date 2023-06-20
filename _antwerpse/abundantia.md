@@ -6,6 +6,7 @@ melodie: "Sarie Marais"
 
 Marais"  
 
+{:start="1"}  
 1. Mijn Abundantia ligt mij na aan het hart,  
 Ik hoop dat het nooit vergaat!  
 Wij roken goei sigaren en zuipen ’t Helse bier,  
@@ -18,6 +19,7 @@ Daar in De Salamander, in dat hemelse café,
 Daar staat mijn Duvel klaar!  
 
 
+{:start="2"}  
 2. Den overvloed aan drank en de vriendschap staan centraal,  
 Daar leven wij ook naar!  
 We zingen en we zuipen en we zorgen voor plezier,  

@@ -14,6 +14,7 @@ En we schieten vuur en vlam
 We tsjippen alle konijntjes lam  
 
 
+{:start="1"}  
 1. En de mannen van de Kempen  
 Zijn de beste van de hoop  
 Die schieten nog de volle stoot  

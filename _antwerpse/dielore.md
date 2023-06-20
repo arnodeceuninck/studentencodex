@@ -4,6 +4,7 @@ page: 304
 ---  
 
 
+{:start="1"}  
 1. Im Wald, im grünen Walde, )  
 Da steht ein Försterhaus,  ) (bis)  
 Da schauet jeden Morgen,  
@@ -25,6 +26,7 @@ Grüß mir die Lore noch einmal,     )
 ade, ade, ade.                     ) (bis)  
 
 
+{:start="2"}  
 2. Der Förster und die Tochter, )  
 Die schossen beide gut.         ) (bis)  
 Der Förster schoß das Hirschlein,  
@@ -36,6 +38,7 @@ Tira lala, tira lala,
 Tief in das junge Herz hinein.  
 
 
+{:start="3"}  
 3. Steh' ich auf Bergeshöhen,  
 Schau über Täler hin, (bis)  
 Dann sehe ich so gerne  

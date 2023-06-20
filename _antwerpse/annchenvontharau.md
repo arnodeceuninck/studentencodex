@@ -4,6 +4,7 @@ page: 343
 ---  
 
 
+{:start="1"}  
 1. Ännchen von Tharau ist's, die mir gefällt,  
 sie ist mein Leben, mein Gut und mein Geld.  
 Ännchen von Tharau hat wieder ihr Herz  
@@ -12,6 +13,7 @@ auf mich gerichtet in Lieb und in Schmerz.
 du meine Seele, mein Fleisch und mein Blut!  
 
 
+{:start="2"}  
 2. Käm alles Wetter gleich auf uns zu schlahn,  
 wir sind gesinnt bei einander zu stahn.  
 Krankheit, Verfolgung, Betrübnis und Pein  
@@ -20,6 +22,7 @@ soll unsrer Liebe Verknotigung sein.
 du meine Seele, mein Fleisch und mein Blut!  
 
 
+{:start="3"}  
 3. Recht als ein Palmenbaum über sich steigt,  
 hat ihn erst Regen und Sturmwind gebeugt;  
 so wird die Lieb' in uns mächtig und groß  
@@ -28,6 +31,7 @@ nach manchen Leiden und traurigem Los.
 du meine Seele, mein Fleisch und mein Blut!  
 
 
+{:start="4"}  
 4. Würdest du gleich einmal von mir getrennt,  
 lebtest da wo man die Sonne kaum kennt;  
 ich will dir folgen durch Wälder, durch Meer,  

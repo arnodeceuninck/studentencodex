@@ -4,6 +4,7 @@ page: 341
 ---  
 
 
+{:start="1"}  
 1. Vor der Kaserne  
 Bei dem großen Tor  
 Stand eine Lanterne  
@@ -13,6 +14,7 @@ Bei der Lanterne wollen wir steh'n
 Wie einst Lili Marleen'. (bis)  
 
 
+{:start="2"}  
 2. Unsere beide Schatten  
 Sah'n wie einer aus  
 Daß wir so lieb uns hatten  
@@ -22,6 +24,7 @@ Wenn wir bei der Laterne steh'n
 Wie einst Lili Marleen. (bis)  
 
 
+{:start="3"}  
 3. Schon rief der Posten,  
 Sie blasen Zapfenstreich  
 Es kann drei Tage kosten  
@@ -31,6 +34,7 @@ Wie gerne wollt ich mit dir geh'n
 Mit dir Lili Marleen'. (bis)  
 
 
+{:start="4"}  
 4. Deine Schritte kennt sie,  
 Deine Zierengang  
 Alle abend brennt sie,  
@@ -40,6 +44,7 @@ Wer wird bei der Lanterne stehen
 Mit dir Lili Marleen'? (bis)  
 
 
+{:start="5"}  
 5. Aus dem stillen Raume,  
 Aus der Erden Grund  
 Küßt mich wie im Traume  

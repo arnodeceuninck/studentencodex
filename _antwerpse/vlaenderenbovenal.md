@@ -5,30 +5,35 @@ note: "Opgetekend in 'Horae Belgicae' (1854) van August Heinrich Hoffman von Fal
 melodie: Florimond Van Duyse (1843-19100'
 ---  
 
+{:start="1"}  
 1. Vlaenderen, dach en nacht denc ic aen u.  
 Waer ic ooc ben en vaer, )  
 ghi syt mi altyt naer,   ) (bis)  
 Vlaenderen, dach en nacht denc ic aen u  
 
 
+{:start="2"}  
 2. Beemden en velden staen overal groen;  
 schoon is ons lant geheel, )  
 schoon als een lustprieel, ) (bis)  
 beemden en velden staen overal groen.  
 
 
+{:start="3"}  
 3. Vlaenderen, boven al hebbic u lief.  
 Ghi minen lust, myn smert,    )  
 ghi licht mi diep in ’t hert, ) (bis)  
 Vlaenderen, boven al hebbic u lief.  
 
 
+{:start="4"}  
 4. Overal vrolichheit, overal lust,  
 Maechden van fier gelaet,  )  
 cnapen so vroom en draet.  ) (bis)  
 Overal vrolichheit, overal lust.  
 
 
+{:start="3"}  
 3. Vlaenderen, allentyt blyf di mi lief.  
 Neemt van mi hert en hant, )  
 neemt mine trou te pant,   ) (bis)  

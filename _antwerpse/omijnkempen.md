@@ -4,6 +4,7 @@ page: 451
 ---  
 
 
+{:start="1"}  
 1. Geen land ook ter wereld, hoe schoon of hoe rijk  
 Is 't land van mijn harte, mijn heimat gelijk.  
 Hier zaaiden ons handen en groeit er ons brood,  
@@ -18,6 +19,7 @@ Hoe heerlijk de Kempen, zo schoon ik niets ken!
 En waarvoor een vlam van liefde Eeuwig in mijn harte brandt!  
 
 
+{:start="2"}  
 2. Hier malen de molens de rust over 't land,  
 Verdolen de wegels in 't stuivende zand.  
 Hier heersen de vlakten en ruiselt ons lied,  

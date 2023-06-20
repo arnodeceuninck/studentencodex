@@ -10,6 +10,7 @@ En hij hield niet van het krijgsgeweld
 Maar trompetter was hij wel in hart en ziel  
 
 
+{:start="1"}  
 1. Het leger sloeg zijn tenten op  
 Voor Alkmaar in het veld.  
 En zo lang geen vijand zich liet zien,  
@@ -25,6 +26,7 @@ Maar Jan Klaassen sliep in de armen
 Van de dochter van de schout.  
 
 
+{:start="2"}  
 2. De prins sprak op inspectie  
 Tot de majoor van de compagnie:  
 Ik zie hier alle stukken wel van mijn artillerie.  
@@ -37,6 +39,7 @@ En niemand die Jan Klaassen zag die bij de stadspoort zat
 En honderd liedjes speelde voor de kinderen van de stad.  
 
 
+{:start="3"}  
 3. Jan Klaassen zei: vaarwel, mijn lief,  
 Ik zie je volgend jaar.  
 Wanneer de lente terugkomt  

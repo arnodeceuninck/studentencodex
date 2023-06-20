@@ -6,6 +6,7 @@ melodie:  Renaat Veremans
 note: © Metropolis Music Publishers
 ---  
 
+{:start="1"}  
 1. 't Zijn weiden als wiegende zeeën,  
 Die groenen langs stroom en rivier,  
 Hier, vredige dorpkens daar steêen,  
@@ -22,6 +23,7 @@ Mijn land is het land van de stilte,
 De vreedzame, brede natuur.  
 
 
+{:start="2"}  
 2. 't Zijn beelden en doeken en zangen,  
 Uit al wat een kunstenaar schiep,  
 Straalt gij als met tover omhangen,  

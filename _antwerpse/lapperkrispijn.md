@@ -4,6 +4,7 @@ page: 222
 ---  
 
 
+{:start="1"}  
 1. De schoentjes gaan er met paren,  
 en jammer, de mensen ook.  
 't Verstand komt niet vóór de jaren.  
@@ -14,6 +15,7 @@ Ik zitte mijn schoentje te naaien,
 en trekke mijn draadje toe.  
 
 
+{:start="2"}  
 2. Hoe groeide uit dat lustige Grietje  
 die knorrige, dolle katijf?  
 Een lief als een hemelbietje,  
@@ -24,6 +26,7 @@ Ik zitte mijn schoentje te naaien,
 en trekke mijn draadje toe.  
 
 
+{:start="3"}  
 3. Wat heb-je aan die pinten, die pijpen?  
 Neem liever een druppel, een dop!  
 Ei, moet-je dat elsen weer slijpen?  
@@ -34,6 +37,7 @@ Ik zitte mijn schoentje te naaien,
 en trekke mijn draadje toe.  
 
 
+{:start="4"}  
 4. Nu zit ze de passie te preken,  
 bij Anneken van den gebuur.  
 En, lapper, geen woordje te spreken,  
@@ -44,6 +48,7 @@ Ik zitte mijn schoentje te naaien,
 en trekke mijn draadje toe.  
 
 
+{:start="5"}  
 5. Weet iemand - daar valt mij alweder  
 dat schoenmakersraadselken in -  
 't verschil tussen wijven en leder?  

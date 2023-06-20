@@ -4,6 +4,7 @@ page: 510
 melodie: Die kat kom weer
 ---  
 
+{:start="1"}  
 1. Die student die kon ni kies  
 Het zat hem echt niet mee  
 Hij had niks te verlies  
@@ -22,6 +23,7 @@ Geloof me het is waar
 Socio Economica is daar!  
 
 
+{:start="2"}  
 2. Geel, wit, bordeaux  
 Wij zorgen voor 't plezier  
 Soms achter den bureau  

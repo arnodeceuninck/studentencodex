@@ -3,6 +3,7 @@ title: Bums valdera
 page: 295
 ---  
 
+{:start="1"}  
 1.  Kinder, hört mal her, heut muss was geschehn.  
 Heut wird mal die Nacht zum Tage gemacht.  
 So was hat die Welt schon lang nicht gesehn:  
@@ -17,6 +18,7 @@ Wir möchten jetzt erst recht noch mehr!
 Wir machen durch bis morgen früh  
 und singen bums valdera, bums valdera bis morgen früh!  
 
+{:start="2"}  
 2. Heut geb ich den letzten Pfennig noch aus,  
 mir ist's ganz egal - heut leben wir mal.  
 Denn die Hypothek von unserem Haus  

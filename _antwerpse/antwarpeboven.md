@@ -3,6 +3,7 @@ title: Antwarpe boven
 page: 447
 ---  
 
+{:start="1"}  
 1. Schotland is van de Schotten  
 Afrika van d'Hottentotten  
 Antwarpe is van de mense lak wij  
@@ -18,6 +19,7 @@ Gaan wij iel het land beschave
 Antwarpeners, die vieren overal feest  
 
 
+{:start="2"}  
 2. Mannen van over 't water  
 Die komen altijd later  
 Die van de stad, die gon overal veur  
@@ -26,6 +28,7 @@ Maneblussers, Schapenkoppen
 Keeskoppen, wij sleure z'er allemaal deur  
 
 
+{:start="3"}  
 3. Ze noemen ons de dikke nekken  
 Iedereen die mag verrekke  
 Die niks te maken ee me Antwarpe Stad  

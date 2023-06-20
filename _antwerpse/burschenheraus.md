@@ -4,6 +4,7 @@ page: 277
 ---  
 
 
+{:start="1"}  
 1. Burschen heraus!  
 Lasst es schallen von Haus zu Haus!  
 Wenn der Lerche Silberschlag  
@@ -13,6 +14,7 @@ Frisch mit Lied und Lautenspiel!
 Burschen heraus!  
 
 
+{:start="2"}  
 2. Burschen heraus!  
 Lasst es schallen von Haus zu Haus!  
 Ruft um Hilf die Poesei  
@@ -22,6 +24,7 @@ Bis sie wieder freigemacht!
 Burschen heraus!  
 
 
+{:start="3"}  
 3. Burschen heraus!  
 Lasst es schallen von Haus zu Haus!  
 Wenn es gilt fürs Vaterland,  

@@ -3,6 +3,7 @@ title: De lichtjes van de Schelde
 page: 446
 ---  
 
+{:start="1"}  
 1.  De tijd zit erop en we varen weer thuis  
 Het duurt nog maar enkele weken  
 Een paar keer op wacht en dan kom ik naar huis  
@@ -23,6 +24,7 @@ Die zo heel veel liefs vertellen
 Dan ben ik als een prins zo rijk  
 
 
+{:start="2"}  
 2. Je weet wel, m'n schat, dat ik veel van je hou  
 Dat hoef ik je niet te verklaren  
 Een zeeman is dol op z'n kind'ren en vrouw  

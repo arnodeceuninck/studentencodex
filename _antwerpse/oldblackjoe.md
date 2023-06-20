@@ -4,6 +4,7 @@ page: 394
 ---  
 
 
+{:start="1"}  
 1. Gone are the days  
 When my heart was young and gay.  
 Gone are my friends  
@@ -22,6 +23,7 @@ I hear their gentle voices
 Calling : Old black Joe  
 
 
+{:start="2"}  
 2. Why do I weep  
 When my heart should feel no pain?  
 Why do I sigh  
@@ -32,6 +34,7 @@ I hear their gentle voices
 Calling : Old black Joe  
 
 
+{:start="3"}  
 3. Where are the hearts  
 Once so happy and so free?  
 Children so dear  

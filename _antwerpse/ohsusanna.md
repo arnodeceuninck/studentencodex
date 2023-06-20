@@ -4,6 +4,7 @@ page: 392
 ---  
 
 
+{:start="1"}  
 1.  I come from Alabama with a banjo on my knee  
 I'm goin' to Louisiana, my true love for to see  
 It rained all night the day I left  
@@ -16,6 +17,7 @@ Susanna don't you cry
 Cos' I come from Alabama with a banjo on my knee  
 
 
+{:start="2"}  
 2. I had a dream the other night  
 When everything was still  
 I thought I saw Susanna  
@@ -26,6 +28,7 @@ I said I'm coning from the south,
 Susanna don't you cry  
 
 
+{:start="3"}  
 3. I soon will be in New Orleans  
 And then I'll look around  
 And when I find Susanna  

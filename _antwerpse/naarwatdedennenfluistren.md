@@ -4,6 +4,7 @@ page: 230
 ---  
 
 
+{:start="1"}  
 1.  1. Naar wat de dennen fluistren  
 Die buigen kruin aan kruin,  
 Zit ik zo vaak te luist'ren  
@@ -15,6 +16,7 @@ Maar alles gaat voorbij,
 Maar alles gaat voorbij.  
 
 
+{:start="2"}  
 2. De winter komt gedrenteld  
 En weg is 't paradijs!  
 De wereld ligt gewenteld  
@@ -26,6 +28,7 @@ Maar alles gaat voorbij,
 Maar alles gaat voorbij.  
 
 
+{:start="3"}  
 3. Wij zien hoe 't mensenleven  
 Verstuift aan onze voet:  
 De jongen piepen even  
@@ -37,6 +40,7 @@ Nog sluiten en voorbij,
 Nog sluiten en voorbij.  
 
 
+{:start="4"}  
 4. Maar gaat de liefde wonen  
 In harten e'el van klank.  
 Dan blijft zij daarin tronen  

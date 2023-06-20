@@ -4,6 +4,7 @@ page: 411
 ---  
 
 
+{:start="1"}  
 1.  Au clair de la lune,  
 Mon ami Pierrot,  
 Prête-moi ta plume  
@@ -14,6 +15,7 @@ Ouvre-moi ta porte,
 Pour l'amour de Dieu.  
 
 
+{:start="2"}  
 2. Au clair de la lune,  
 Pierrot répondit :  
 « Je n'ai pas de plume,  
@@ -24,6 +26,7 @@ Car dans sa cuisine
 On bat le briquet. »  
 
 
+{:start="3"}  
 3. Au clair de la lune,  
 L'aimable Lubin  
 Frappe chez la brune,  
@@ -34,6 +37,7 @@ Il dit à son tour :
 Pour le dieu d'amour !  
 
 
+{:start="4"}  
 4. Au clair de la lune,  
 On n'y voit qu'un peu.  
 On chercha la plume,  

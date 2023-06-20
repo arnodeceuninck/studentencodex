@@ -3,6 +3,7 @@ title: Klokke Roeland
 page: 457
 ---  
    
+{:start="1"}  
 1. Boven Gent rijst, eenzaam en grijst,  
 Het Oud Belfort, zinbeeld van het verleden;  
 Somber en groots, steeds stom en doods  
@@ -15,6 +16,7 @@ Mijn naam is Roeland, ik kleppe brand
 En luide storm in Vlaanderland!  
 
 
+{:start="2"}  
 2. Een bont verschiet schept het bronzen lied,  
 Prachtig weertoverd mij voor de ogen,  
 Mijn ziel erkent het oude Gent,  
@@ -27,6 +29,7 @@ Mijn naam is Roeland, ik kleppe brand
 En luide storm in Vlaanderland!  
 
 
+{:start="3"}  
 3. O heldentolk, o reuzenvolk,  
 O pracht en macht van vroeger dagen!  
 O bronzen lied, ik weet uw bedied  

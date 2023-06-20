@@ -3,6 +3,7 @@ title: Deftig drinklied
 page: 238
 ---  
 
+{:start="1"}  
 1. Marieke, vul nog eens de glazen,  
 Het leven lacht ons zonnig toe,  
 En laat de droge levers razen,  
@@ -19,6 +20,7 @@ Laat ons klinken, laat ons drinken
 Elke pint brengt meer plezier!  
 
 
+{:start="2"}  
 2. Wie zit daar steen en been te klagen  
 En zwemt in 't zwart miseriebad?  
 Hij moet een kloeke gersten wagen,  

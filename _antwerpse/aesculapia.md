@@ -4,6 +4,7 @@ page: 127
 melodie: "Het loze vissertje"
 ---  
 
+{:start="1"}  
 1. Aesculapia moet marcheren,  
 De porren komen aan, ja aan.  
 ’t Vrijen zullen wij nooit verleren,  
@@ -19,12 +20,14 @@ Ja naar de hemel laten gaan
 Met onze knuppel kunnen wij je naar de hemel  
 Ja naar de hemel laten gaan  
 
+{:start="2"}  
 2. Wij weten niet van stoppen,  
 Wij weten niet van gaan, ja gaan.  
 Als het bier komt op de proppen,  
 Zijn wij niet weg te slaan, ja slaan.  
 
 
+{:start="3"}  
 3. Aesculapia moet studeren,  
 Dat hebben wij nooit gedaan, ja daan.  
 Welke prof gaat ons dat leren,  

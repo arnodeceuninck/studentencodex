@@ -3,6 +3,7 @@ title: De soldaat
 page: 242
 ---  
 
+{:start="1"}  
 1. Een soldaat van Napoleon de Grote  
 was het leger grondig beu.  
 Hij had gestreden, gevochten en geschoten,  
@@ -22,6 +23,7 @@ Links, rechts, één, twee, leve de sergeant
 en ze wuifde met haar hand  
 
 
+{:start="2"}  
 2. Een soldaat van Napoleon de Grote  
 lag te slapen in het gras.  
 Hij had nog net een liedeke gefloten  
@@ -32,6 +34,7 @@ en ieder jaar werd er voor hem een vlam gebrand,
 en zijn oude moeder leefde praktisch gratis.  
 
 
+{:start="3"}  
 3. Een soldaat van Napoleon de Grote  
 die ontwaakte van de kou.  
 In de buurt werd er plotseling geschoten,  

@@ -4,6 +4,7 @@ page: 216
 ---  
 
 
+{:start="1"}  
 1. De machtigste koning van storm en van wind  
 is de arend geweldig en groot.  
 De vogels zij sidd'ren en vluchten van angst  
@@ -18,6 +19,7 @@ de koningen van de zee.
 _[gevolgd door de laatste twee regels van elke strofe]_  
 
 
+{:start="2"}  
 2. Verschijnt er een schip op de oceaan  
 dan juichen wij luide en wild.  
 Ons trotse schip als een pijl uit de boog  
@@ -28,6 +30,7 @@ En daar klimt de mast langs omhoog,
 onze bloedrode zeeroversvlag.  
 
 
+{:start="3"}  
 3. Wij werpen ons op het vijandige schip  
 als een wegslingerende speer.  
 De kanonnen dreunen, 't geweer knalt rondom  
@@ -38,6 +41,7 @@ Lang leve de bruisende zee,
 lang leve de zeeroverij.  
 
 
+{:start="4"}  
 4. En is overwonnen ons laatste gevecht  
 En is de laatste overwinning behaald  
 Dan fluks onze wrakkige schuit naar de duivel  

@@ -3,6 +3,7 @@ title: Suid-Afrikaans studentelied
 page: 258
 ---  
 
+{:start="1"}  
 1.  Die studente jare gaan verbij  
 Verbij studenteweelde  
 Nooit keer hul ooit terug vir mij  
@@ -12,6 +13,7 @@ Mij skulde moet ik self betaal
 O treurigheid op note )  
 Ek sta op eie pote    ) (bis)  
 
+{:start="2"}  
 2. Soos miliepitte spat uiteen  
 Die oue trouwe vriende  
 Ik staan nou moedersiel alleen  
@@ -21,6 +23,7 @@ Ik werk met Paul en Piet en Klaas
 O treurigheid op note )  
 Ek staan op eie pote  ) (bis)  
 
+{:start="3"}  
 3. Maar moe nie glo al word ons oud  
 Ons hart kan nooit verander  
 Ons liefde is nog lang nie koud  

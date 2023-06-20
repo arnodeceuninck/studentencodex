@@ -4,6 +4,7 @@ page: 312
 ---  
 
 
+{:start="1"}  
 1. Lustig ist das Zigeunerleben,  
 Faria, fario, ho.  
 Brauchen dem Kaiser kein Zins zu geben,  
@@ -14,6 +15,7 @@ Faria, faria, faria, faria
 Faria, fario, ho.  
 
 
+{:start="2"}  
 2. Sollt uns einmal der Hunger plagen,  
 Faria, fario, ho.  
 Tun wir uns ein Hirschlein jagen:  
@@ -24,6 +26,7 @@ Faria, faria, faria, faria
 Faria, fario, ho.  
 
 
+{:start="3"}  
 3. Sollt uns einmal der Durst sehr quälen,  
 Faria, fario, ho.  
 Gehn wir hin zu Waldesquellen,  
@@ -34,6 +37,7 @@ Faria, faria, faria, faria
 Faria, fario, ho.  
 
 
+{:start="4"}  
 4. Mädel, willst du Tabak rauchen,  
 Faria, fario, ho.  
 Brauchst dir keine Pfeif' zu kaufen,  
@@ -44,6 +48,7 @@ Faria, faria, faria, faria
 Faria, fario, ho.  
 
 
+{:start="5"}  
 5. Mädchen, willst du Kaffee trinken,  
 Fa-ria, fa-ria, ho,  
 So mußt du die Schale schwenken,  
@@ -54,6 +59,7 @@ Faria, faria, faria, faria
 Faria, fario, ho.  
 
 
+{:start="6"}  
 6. Wenn uns tut der Beutel hexen,  
 Faria, fario, ho.  
 Lassen wir unsre Taler wechseln,  
@@ -64,6 +70,7 @@ Faria, faria, faria, faria
 Faria, fario, ho.  
 
 
+{:start="7"}  
 7. Wenn wir auch kein Federbett haben,  
 Faria, fario, ho.  
 Tun wir uns ein Loch ausgraben,  

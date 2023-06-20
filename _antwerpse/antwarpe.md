@@ -3,6 +3,7 @@ title: Antwarpe
 page: 444
 ---  
 
+{:start="1"}  
 1.  De lichtshes oep de Schelde  
 den beiord van den tore  
 mensen oep een baenk  
@@ -17,8 +18,8 @@ Aentwaerpe waar da 'kik oek ben
 ik kan nieverans mijnen draai ni’ vinde  
 'k weet et 't is flau, mor ik beken  
 ba ae zen 'k thuis, en onder vrinde  
-   
-   
+
+{:start="2"}  
 2. Een ziêmanskróeg, de dokke  
 de Vogelemart oep zondagmorge  
 ’t Sint Jansplein  

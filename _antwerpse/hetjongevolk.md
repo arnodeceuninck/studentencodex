@@ -3,6 +3,7 @@ title: Het jonge volk
 page: 143
 ---  
 
+{:start="1"}  
 1. Heil 't jonge volk! Het klinke weer en zinge  
 Van zorgen vrij, met blij gemoed  
 Dat kloek het lied ons aller hart ontspringe  
@@ -18,6 +19,7 @@ Studenten op! Het zal wel gaan!                )
 Steunt aller trouw, allen trouw ons vrije vaan ) (bis)  
 
 
+{:start="2"}  
 2. Al lang genoeg is 't winter in den land  
 De geest is koud, het harte stijf  
 Dat bij uw kus, o lente, weer ontbrande  
@@ -28,6 +30,7 @@ Zij kleppe weer, de klokke: "Wee den vreemde!"
 Als vroeger in den heldentijd  
 
 
+{:start="3"}  
 3. Ook lang genoeg gedoold hier in het duister  
 Een kille nacht omsluit ons gans  
 Rijze uit dien nacht een licht met hellen luister  

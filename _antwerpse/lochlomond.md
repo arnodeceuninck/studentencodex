@@ -4,6 +4,7 @@ page: 355
 ---  
 
 
+{:start="1"}  
 1. By yon bonnie banks and by yon bonnie braes,  
 Where the sun shines bright on Loch Lomon'  
 Where me and my true love were ever wont to gae  
@@ -16,12 +17,14 @@ For me and my true love will never meet again,
 On the bonnie, bonnie banks of Loch Lomon'  
 
 
+{:start="2"}  
 2. Twas there that we parted in yon shady glen,  
 On the steep, steep side of Ben Lomon'  
 Where in deep purple hue, the highland hills we view  
 And the moon coming out in the gloaming.  
 
 
+{:start="3"}  
 3. The wee birdies sing and the wild flowers spring  
 And in sushine the waters are sleeping;  
 But the broken heart, it kens no second spring again,  

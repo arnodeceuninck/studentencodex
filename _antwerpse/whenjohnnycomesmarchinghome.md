@@ -3,6 +3,7 @@ title: When Johnny comes marching home
 page: 380
 ---  
    
+{:start="1"}  
 1. When Johnny comes marching home again,  
 Hurrah! Hurrah!  
 We'll give him a hearty welcome then,  
@@ -13,6 +14,7 @@ And we'll all feel gay
 When Johnny comes marching home.  
 
 
+{:start="2"}  
 2. The old church bells will peal with joy,  
 Hurrah! Hurrah!  
 To welcome home our darling boy,  
@@ -23,6 +25,7 @@ And we'll all feel gay
 When Johnny comes marching home.  
 
 
+{:start="3"}  
 3. Get ready for the Jubilee,  
 Hurrah! Hurrah!  
 We'll give the hero three times three,  
@@ -33,6 +36,7 @@ And we'll all feel gay
 When Johnny comes marching home.  
 
 
+{:start="4"}  
 4. Let love and friendship on that day,  
 Hurrah! Hurrah!  
 Their choicest treasures then display,  

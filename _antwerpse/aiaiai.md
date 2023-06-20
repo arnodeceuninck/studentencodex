@@ -3,6 +3,7 @@ title: Ai ai ai
 page: 448
 ---  
 
+{:start="1"}  
 1.  ne nonkel van mij, z'n beenhouwerij  
 die wou toch mor ni florere  
 toen ging hem ne stunt placere  
@@ -19,6 +20,7 @@ daar zulle misschien, nog jare nadien
 de mense nog over klappe ...  
 
 
+{:start="2"}  
 2. ik had is 'n schildpad, en luistert wa die had  
 da beestje was blind gebore  
 na kreeg ze 't in heuren tore  
@@ -29,6 +31,7 @@ mor z'is ni te benije
 z'is mè nen Duitsen helm on 't vrije  
 
 
+{:start="3"}  
 3. 'k koom zat van me wark, ik ging in 'n kark  
 ze ware de mis on 't leze en wa dee den deze  
 'k liep nor 't altaar goe d'aangeveze  

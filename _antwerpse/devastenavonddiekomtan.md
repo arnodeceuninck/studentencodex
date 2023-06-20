@@ -4,6 +4,7 @@ page: 218
 ---  
 
 
+{:start="1"}  
 1. De vastenavond die komt an  
 wij zingen ho-man-ho  
 Geeft ons een pankoek uit de pan  
@@ -15,6 +16,7 @@ diri don don don don deine
 het spelen gaat gewis.  
 
 
+{:start="2"}  
 2. Sa meiskes zet de pan te vier  
 slaat eieren in het meel  
 en haalt een kruikje smokkelbier  
@@ -26,6 +28,7 @@ diri don don don don deine
 wij spelen met de kaart.  
 
 
+{:start="3"}  
 3. Wat raad je zal het klavertroef  
 of zal het schoppen zijn  
 Neen geen van bei, 't is harteboef  
@@ -37,6 +40,7 @@ diri don don don don deine
 zie daar is lanterlu.  
 
 
+{:start="4"}  
 4. Hier hoort ook wel een glaasje bij  
 ik breng jou op een som  
 Uw naast' gebuuren aan weerszij  

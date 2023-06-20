@@ -4,6 +4,7 @@ page: 225
 ---  
 
 
+{:start="1"}  
 1. Heimwee doet ons hart verlangen  
 Naar de heimat onzer jeugd,  
 Naar de bronzen klokkenzangen  
@@ -14,6 +15,7 @@ Over 't dorpje droomverloren
 Kronkelend aan zijn voet gebouwd.  
 
 
+{:start="2"}  
 2. Heimwee doet ons hart verlangen  
 Naar de geur van brem en hei,  
 Naar de weiden mistomhangen  
@@ -24,6 +26,7 @@ Naar de vennen, stijfgevroeren,
 Waar wij sierden op het ijs.  
 
 
+{:start="3"}  
 3. Heimwee doet ons hart verlangen  
 Naar de ouderlijke haard  
 Met zijn rust, niet te vervangen,  

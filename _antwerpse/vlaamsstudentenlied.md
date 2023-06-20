@@ -3,6 +3,7 @@ title: Vlaams studentenlied
 page: 140
 ---  
 
+{:start="1"}  
 1. Wanneer we 's avonds werkens moe  
 Vereendzijn, tafeltje rond  
 De fles ontkurkt, de boeken toe )   
@@ -13,6 +14,7 @@ Een heilzang voor 't vaderland )
 En voor het vrij gedacht        ) (bis)  
 
 
+{:start="2"}  
 2. Dan vieren wij op zwierige toon,  
 Met jeugdige dichtergloed  
 De Vlaamse meisjes, lief en schoon )  
@@ -23,6 +25,7 @@ Dan zingen wij het liefdesvuur )
 En 't harte klopt de maat      ) (bis)  
 
 
+{:start="3"}  
 3. We vieren Vlaandren's vroegeren glans  
 Zijn grootheid, zijne macht  
 En pralend met de lauwerkrans )  
@@ -33,6 +36,7 @@ Die Vlaanderen, door vernuft en moed, )
 Zijn gloriefaam verwierf              ) (bis)  
 
 
+{:start="4"}  
 4. En u, o vrijheid van den geest  
 Zo vaak de prooi der vlam  
 Die immer 't kenmerk zijt geweest )  

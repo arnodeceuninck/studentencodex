@@ -4,6 +4,7 @@ page: 214
 ---  
 
 
+{:start="1"}  
 1. Hoog op de gele wagen  
 rijd ik door berg en dal  
 Lustig de kleppers draven,  
@@ -16,6 +17,7 @@ Ik kan van uw schoon haast niet scheiden,
 maar 't gaat voorbij, voorbij!  
 
 
+{:start="2"}  
 2. Bassen, violen en fluiten  
 zingen door dorpen blond  
 Vrolijke frisse kornuiten  
@@ -28,6 +30,7 @@ Hoe graag bleef ik daar bij die linde,
 maar 't gaat voorbij, voorbij!  
 
 
+{:start="3"}  
 3. Postiljon in de taveerne  
 voedert de rossen in vlucht  
 Lachende waard komt zich weren,  
@@ -40,6 +43,7 @@ Mijn hart zou zo graag daar verpozen,
 maar 't gaat voorbij, voorbij!  
 
 
+{:start="4"}  
 4. Eens snelt voorbij mijn wagen,  
 duistere schim leidt mijn reis  
 Klinkende horens versagen,  

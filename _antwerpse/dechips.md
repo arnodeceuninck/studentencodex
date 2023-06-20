@@ -4,6 +4,7 @@ page: 501
 melodie: "Al die willen te kap'ren varen"
 ---  
 
+{:start="1"}  
 1. Aan de oevers van de Schelde,  
 Ligt de grootstad van mijn hart,  
 ’t Is de stad van Vlaamsche Helden,  
@@ -16,18 +17,21 @@ Geel, Wit, Groen, wij blijven drinken,
 Wij blijven klinken, De Chips van voor!  
 
 
+{:start="2"}  
 2. In de grootstad aan de haven,  
 Heb ik gans mijn hart verloren,  
 Waar wij onze dorsten laven,  
 Kan men steeds studenten horen.   
 
 
+{:start="3"}  
 3. Met de hand op de pet,  
 En de schouder onder ’t lint,  
 Bederft er niemand onze pret,  
 Want wij blijven goed gezind.   
 
 
+{:start="4"}  
 4. Zolang er hier studenten leven,  
 En er water in ’t Schelde staat,  
 Zullen we ’t bierke blijven geven,  

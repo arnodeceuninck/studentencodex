@@ -3,6 +3,7 @@ title: De rolders in de nacht
 page: 136
 ---  
 
+{:start="1"}  
 1. Iedereen slaapt, het is rustig, het is nacht.  
 Een smalle straat, een lantaarn, 't lijkt verdacht :  
 Geen pandoeren, slechts de stilte houdt de wacht  
@@ -13,6 +14,7 @@ Want zij blijven steeds maar dorsten naar het bier
 Ohohohohohoho ... ohohohohohoho ...  
 
 
+{:start="2"}  
 2. En gij zijt mijnen allerbeste vriend,  
 Zo nen chikken tip heb ekik nog niet gekind :  
 Doevei drinke w' oep aaf gezondheid nog een pint,  
@@ -23,6 +25,7 @@ En ons pinten moeten op de slag terug vol !
 Ohohohohohoho ... ohohohohohohoho ...  
 
 
+{:start="3"}  
 3. Bij Margot was er overlest bagaar  
 Daar was ambras en dat ambeteerde haar,  
 Ze werd koleirig en ze deed geweldig raar:  
@@ -33,6 +36,7 @@ En haar Vlaamse jongens zijn toen op een ander moeten gaan !
 Ohohohohohoho ... ohohohohohohoho ...  
 
 
+{:start="4"}  
 4. Daar laveert nog een eenzaat door de stad,  
 Hij is bedronken, hij is bezopen, stapelzat,  
 Zijn lijf zit vol alkohol en gerstenat ...  

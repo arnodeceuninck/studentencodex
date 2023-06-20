@@ -4,6 +4,7 @@ page: 439
 ---  
 
 
+{:start="1"}  
 1. L'avi Siset em parlava  
 de bon matí al portal  
 mentre el sol esperàvem  
@@ -24,6 +25,7 @@ segur que tomba, tomba, tomba,
 i ens podrem alliberar.	  
 
 
+{:start="2"}  
 2. Però, Siset, fa molt temps ja,  
 les mans se'm van escorxant,  
 i quan la força se me'n va  
@@ -34,6 +36,7 @@ que a cops la força m'oblida.
 Torna'm a dir el teu cant:	  
 
 
+{:start="3"}  
 3. L'avi Siset ja no diu res,  
 mal vent que se l'emportà,  
 ell qui sap cap a quin indret  

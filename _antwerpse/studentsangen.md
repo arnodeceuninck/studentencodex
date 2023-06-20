@@ -3,6 +3,7 @@ title: Studentsangen
 page: 436
 ---  
 
+{:start="1"}  
 1. Sjungom studentens lyckliga dag  
 låtom oss fröjdas i ungdomens vår!  
 Än klappar hjärtat med friska slag  
@@ -15,6 +16,7 @@ där de härliga lagrarna gro,
 Hurra!  
 
 
+{:start="2"}  
 2. Svea vår moder hugstor och skön,  
 manar till bragd som i fornstora dar,  
 vinkar med segerns och ärans lön,  

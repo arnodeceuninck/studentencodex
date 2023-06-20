@@ -3,6 +3,7 @@ title: Het kaerelslied
 page: 
 ---  
 
+{:start="1"}  
 1. Ic wil van den kaerle singhen  
 Al met sinen langen baert  
 Hine laet ghenen ruter hem dwinghen  
@@ -19,6 +20,7 @@ Vri alset veulen en kent i gheen noot
 Ende lacht de ruters uut  
 
 
+{:start="2"}  
 2. Hi esser een vriman gheboren  
 Ter see, upt velt of int bosch  
 Waerom sou gheen plek hem behoren,  
@@ -29,6 +31,7 @@ Bi dunen, bi vlacten, bi stromen
 Dat en doet dir kaerel niet!  
 
 
+{:start="3"}  
 3. Hine wert niet den ruter een slave  
 Ter kermesse blifdi gaen  
 Met ghespen, knijf ende stave  
@@ -45,6 +48,7 @@ Vri alset veulen en kenic  gheen noot
 Ende lacht de ruters uut  
 
 
+{:start="4"}  
 4. Sine wijf is een vroudighe daerne  
 Hi ploeght, ende si, si spint  
 Hi cust ende blust se so gaerne  
@@ -55,6 +59,7 @@ Nu esser die waerelt de sine
 Met steden, casteel ende lant  
 
 
+{:start="5"}  
 5. Si willen den kaerel doen greinsen  
 Al dravende over 't velt  
 Hi es coener dan si wael peinsen  

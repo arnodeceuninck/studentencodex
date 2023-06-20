@@ -4,6 +4,7 @@ page: 399
 ---  
 
 
+{:start="1"}  
 1.  How many roads must a man walk down  
 Before you call him a man?  
 How many seas must a white dove sail  
@@ -16,6 +17,7 @@ Before they're forever banned?
 The answer is blowin' in the wind  
 
 
+{:start="2"}  
 2. How many years must a mountain exist  
 Before it is washed to the sea?  
 And how many years can some people exist  
@@ -24,6 +26,7 @@ How many times can a man turn his head
 And pretend that he just doesn't see?  
 
 
+{:start="3"}  
 3. How many times must a man look up  
 Before he can see the sky?  
 And how many ears must one man have  

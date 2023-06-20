@@ -3,6 +3,7 @@ title: Gold und Silber
 page: 284
 ---  
 
+{:start="1"}  
 1. Gold und Silber lieb' ich sehr,  
 Kann's auch gut gebrauchen,  
 Hätt' ich doch ein ganzes Meer,  
@@ -14,6 +15,7 @@ Sei's das Gold der Sterne. ) (bis)
 
 
 
+{:start="2"}  
 2. Doch viel schönser ist das Gold  
 Das vom Lockenköpfchen  
 Meines Liebchens niederrollt  
@@ -24,6 +26,7 @@ Bis die Locken silber sind )
 Und wir scheiden müssen. ) (bis)  
 
 
+{:start="3"}  
 3. Trautes Schatzchen, trag nicht Leid,  
 Blicke nicht so trube,  
 Dass du nicht die einz'ge Maid,  
@@ -34,6 +37,7 @@ Bin ich nicht mehr Studio, )
 Lieb'ich dich alleine.    ) (bis)  
 
 
+{:start="4"}  
 4. Wer nur eine einz'ge kusst,   
 Bis zur Jahreswende;  
 Und die andern schuchtern grusst  
@@ -44,6 +48,7 @@ War'er auch gar manches Jahr )
 Ins Kolleg marschiert        ) (bis)  
 
 
+{:start="5"}  
 5. Gram dich nicht den ganzen Tag,  
 Dass wir gerne trinken,   
 Dass ich dich nicht kussen mach  
@@ -54,6 +59,7 @@ Wenn er auch gar ganze Jahr )
 Ins Kolleg marschiert.     ) (bis)  
 
 
+{:start="6"}  
 6. Seht, wie blinkt der goldne Wein  
 Hier in meinem Becher;  
 Horcht, wie klingt so silberrein  

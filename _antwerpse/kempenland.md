@@ -4,6 +4,7 @@ page: 452
 note: WINAKland
 ---  
 
+{:start="1"}  
 1. Kempenland, aan de Dietsche kroon  
 wonderfrisse perel;  
 Kempenland, welig-zoete woon  
@@ -18,6 +19,7 @@ vrij van haag en heg,
 op de heide waait de wind  
 alle zorgen weg.  
 
+{:start="2"}  
 2. Kempenland, aan de Dietsche kroon  
 wonderfrisse perel;  
 Kempenland, welig-zoete woon  
@@ -27,6 +29,7 @@ rondom in het loover,
 wolken blank of grauw als gruis  
 trekken traag daarover.  
 
+{:start="3"}  
 3. Kempenland, aan de Dietsche kroon  
 wonderfrisse perel;  
 Kempenland, welig-zoete woon  
@@ -36,6 +39,7 @@ hebt ge mij verkoren,
 bij de gagel, voor altijd,  
 mij uw trouw gezworen.  
 
+{:start="4"}  
 4. Kempenland, aan de Dietsche kroon  
 wonderfrisse perel;  
 Kempenland, welig-zoete woon  

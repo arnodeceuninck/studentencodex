@@ -3,6 +3,7 @@ title: Lob der edlen Musika
 page: 314
 ---  
 
+{:start="1"}  
 1. Ein lustger Musikante  
 Marschierte am Nil,  
 O tempora, o mores!  
@@ -18,6 +19,7 @@ Gelobet seist du jederzeit,
 Frau Musika!  
 
 
+{:start="2"}  
 2. Da nahm der Musikante  
 Seine alte Geigen,  
 O tempora, o mores,  
@@ -27,6 +29,7 @@ O tempora, o mores! ­
 Allegro, dolche, presto ­  
 
    
+{:start="3"}  
 3. Und wie der Musikante  
 Den ersten Streich getan,  
 O tempora, o mores,  
@@ -36,6 +39,7 @@ O tempora, o mores,
 Menuett, Galopp und Walzer,  
 
    
+{:start="4"}  
 4. Er tanzte wohl im Sande,  
 Im Kreise herum  
 O tempora, o mores,  
@@ -45,6 +49,7 @@ O tempora, o mores,
 Denn die sind lange wackelig,  
 
    
+{:start="5"}  
 5. Und als die Pyramiden  
 Das Teufelsvieh erschlagen,  
 O tempora, o mores,  
@@ -54,6 +59,7 @@ O tempora, o mores,
 Tokaierwein, Burgunderwein,  
 
    
+{:start="6"}  
 6. 'ne Musikantenkehle,  
 Die ist als wie ein Loch,  
 O tempora, o mores,  

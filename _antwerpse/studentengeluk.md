@@ -3,6 +3,7 @@ title: Studentengeluk
 page: 142
 ---  
 
+{:start="1"}  
 1.	Zingt van 't studentengeluk elke dag  
 Vrolijk zijn wij, altijd blij en nooit moe  
 Fris klopt ons hart met gezwinde slag  
@@ -16,6 +17,7 @@ Leve vriendschap en levenskracht! (bis)
 Hoera!  
 
 
+{:start="2"}  
 2.	Ooit op een dag zijt ge afgestudeerd  
 Dan moet ge gaan, 't is gedaan met d'unief  
 Ge hebt een diploma, ge zijt nu geleerd  

@@ -3,6 +3,7 @@ title: Krambamboelie
 page: 122
 ---  
 
+{:start="1"}  
 1. Krambambouli zo wordt geheten  
 Dat heerlijk rood studentennat.  
 Wie zou d'r op d'aarde iets beters weten  
@@ -12,6 +13,7 @@ Drink ik mijn glas krambamboeli
 Krambimbambambouli, krambamboeli.  
 
 
+{:start="2"}  
 2. En brandt mijn hoofd en mijne wangen,  
 Of breekt mijn herteken van verdriet,  
 Of krult mijn maag in honderdduizend tangen  
@@ -21,6 +23,7 @@ En drink mijn glas krambambouli,
 Krambimbambambouli, krambamboeli.  
 
 
+{:start="3"}  
 3. War' ik als edelman geboren,  
 Als keizer Karel of als Maximiliaan,  
 Ik stichtte een orde uitverkoren  
@@ -30,6 +33,7 @@ C'est l'ordre du Crambambouli,
 Crambimbambambouli, crambambouli.  
 
 
+{:start="4"}  
 4. Is moeders geld nog uitgebleven  
 En heb ik schulden met de macht,  
 Heeft 't zoete lief me niet geschreven  
@@ -39,6 +43,7 @@ Een schuimend glas Krambambouli,
 Krambimbambamboeli, krambamboeli.  
 
 
+{:start="5"}  
 5. En is mijn geld al naar de donder  
 Dan peezuig ik van elke schacht,  
 ik dnk: Al heb ik geld, ofwel al zit ik zonder,  

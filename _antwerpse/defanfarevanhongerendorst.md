@@ -3,6 +3,7 @@ title: De fanfare van honger en dorst
 page: 252
 ---  
 
+{:start="1"}  
 1.  We liepen in Gent rond, we waren met zessen  
 We kwamen van nergens, gingen nergens naartoe  
 Vanaf de terrassen, in de koffiehuizen  
@@ -13,6 +14,7 @@ En iedereen riep 'kijk daar loopt de fanfare'
 De fanfare van honger en dorst  
 
 
+{:start="2"}  
 2. We hadden geen geld om eten te kopen  
 Maar we wisten vor alles het beste adres  
 Mosselen bij Leentje en frieten bij Helga  
@@ -24,6 +26,7 @@ Met de fanfare van honger en dorst
 De fanfare van honger en dorst  
 
 
+{:start="3"}  
 3. En kwam er een vrouw die één van ons meenam  
 Dan namen we afscheid en zegden vaarwel  
 De fanfare trok verder met minder leden  
@@ -35,6 +38,7 @@ Met de fanfare van honger en dorst
 De fanfare van honger en dorst  
 
 
+{:start="4"}  
 4. Wie van ons had ooit durven denken  
 Dat iedereen van ons voorgoed weg zou gaan  
 We hebben dan zelf de fanfare ontbonden  

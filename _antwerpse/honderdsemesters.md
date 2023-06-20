@@ -3,6 +3,7 @@ title: Honderd semesters
 page: 146
 ---  
 
+{:start="1"}  
 1. Als ik sluimerde te nacht,  
 Zijn er mooie dromen  
 Uit mijn jeugd in volle pracht,  
@@ -19,6 +20,7 @@ Post molestam senectutem,
 Nos Habebit Humus.  
 
 
+{:start="2"}  
 2. Blauwe tabak riekt en rookt  
 Rond de volle flessen,  
 Kelen branden, 't herte kookt:  
@@ -33,6 +35,7 @@ Vadite ad superos, transité ad inferos,
 Ubi Jam fuere.  
 
 
+{:start="3"}  
 3. Toen ontwaakte ik, klokkeklaar,  
 Ruiste 't door mijn oren:  
 Heden zijt gij 70 jaar  
@@ -48,6 +51,7 @@ Venit mors velociter, rapit nos atrociter,
 Nemeni parcetur.  
 
 
+{:start="4"}  
 4. In mijn bedde sprong ik recht,  
 'k riep: wat heeft me 't leven  
 Toch in weinig tijd, veel slecht  
@@ -63,6 +67,7 @@ Vivat membrum quodlibet, vivant membra quaelibet,
 Semper sint in flore!  
 
 
+{:start="5"}  
 5. Mijn studententijd verliep  
 Rap, lijk lopend water,  
 En het werk'lijk leven riep  
@@ -78,6 +83,7 @@ Vivant et mulieres, tenerae, amabiles,
 Bonae, laboriosae!  
 
 
+{:start="6"}  
 6. Vrouw en kind'ren aan mijn hand.  
 Heb ik deugd van 't leven;  
 Nuttig zijn aan 't Vaderland  
@@ -93,6 +99,7 @@ Vivat nostra civitas, maecenatum caritas
 Quae nos hic protegit!  
 
 
+{:start="7"}  
 7. 't Oud Latijnse liedje gaf  
 't beeld van heel mijn leven,  
 Van de wieg tot aan het graf.  

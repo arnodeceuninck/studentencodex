@@ -3,6 +3,7 @@ title: Hageland
 page: 455
 ---  
 
+{:start="1"}  
 1. Van 't oude Brabant, kroonjuweel,  
 en van gans Vlaand'ren 't liefste deel,  
 dat is ons Hageland.  
@@ -19,6 +20,7 @@ zijn hart en hand en eer verpand:
 de Kerel, houw en trouw !  
 
 
+{:start="2"}  
 2. En klim dan eens de heuv'len op  
 wanneer de zonne rijst in top:  
 wat heerlijk vergezicht.  

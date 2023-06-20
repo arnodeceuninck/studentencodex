@@ -4,6 +4,7 @@ page: 300
 ---  
 
 
+{:start="1"}  
 1. Du, du liegst mir am Herzen,  
 Du, du liegst mir im Sinn,  
 Du, du machst mir viel Schmerzen,  
@@ -12,6 +13,7 @@ Ja, ja, ja, ja,
 Weißt nicht wie gut ich dir bin.  
 
 
+{:start="2"}  
 2. So, so wie ich dich liebe,  
 So, so liebe auch mich,  
 Die, die zärtlichsten Triebe,  
@@ -20,6 +22,7 @@ Ja, ja, ja, ja,
 Fühl ich allein nur für dich.  
 
 
+{:start="3"}  
 3. Doch, doch darf ich dir trauen,  
 Dir, dir mit leichtem Sinn?  
 Du, du darfst auf mich bauen,  
@@ -28,6 +31,7 @@ Ja, ja, ja, ja,
 Weißt ja wie gut ich dir bin.  
 
 
+{:start="4"}  
 4. Und, und wenn in der Ferne,  
 Mir, mir dein Bild erscheint,  
 Dann, dann wünscht ich so gerne,  

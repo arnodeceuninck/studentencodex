@@ -3,6 +3,7 @@ title: "'s Werelds handel"
 page: 204
 ---  
 
+{:start="1"}  
 1. De boerkens smelten van vreugd en plezier  
 Als den oegst is binnen getreden,  
 Zy gaen met hunne boerinnen te bier,  
@@ -19,6 +20,7 @@ Op keteltjes, lepeltjes, tikke, tik, tanck.
 En dat duert er den heelen nacht lang  
 
 
+{:start="2"}  
 2. Den advocaet en prokureur  
 Zijn zulke borzeschuimers,  
 Zy loopen met uw schijven deur,  
@@ -35,6 +37,7 @@ Requisitorialen die zakken uitmalen,
 Nog krijgt gy 't proces aen uw gat  
 
 
+{:start="3"}  
 3. Let op den handel van greffiers,  
 Baljuws of wel ontvangers,  
 Zy schrijven daer een hand papier,  
@@ -51,6 +54,7 @@ Dat smeeren zy op en vullen den krop,
 En drinken van Bacchus sop.  
 
 
+{:start="4"}  
 4. Veel liever houd ik my op het land  
 Met boerkens en boerinnekens:  
 Zy houden 't geldeken in de hand  

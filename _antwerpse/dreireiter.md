@@ -4,6 +4,7 @@ page: 345
 ---  
 
 
+{:start="1"}  
 1. Es ritten drei Reiter zum Tore hinaus,  
 Adé!  
 Feinsliebchen, das schaute zum Fenster heraus,  
@@ -14,6 +15,7 @@ Adé, adé, adé!
 Ja, Scheiden und Meiden tut weh!  
 
 
+{:start="2"}  
 2. Goldringelein reichen, o das tut so weh,  
 Ade!  
 Wir beide, wir scheiden uns nimmermeh',  
@@ -24,6 +26,7 @@ Ade, ade, ade!
 Ja, Scheiden und Meiden tut weh.  
 
 
+{:start="3"}  
 3. Und der uns scheidet, das ist der Tod,  
 Adé!  
 Er scheidet so manches Jungfräulein rot,  
@@ -34,6 +37,7 @@ Adé, adé, adé!
 Ja, Scheiden und Meiden tut weh!  
 
 
+{:start="4"}  
 4. Er scheidet vom Kindelein in der Wieg'n,  
 Adé!  
 Wann werd ich mein schwarzbraunes Mädel doch krieg'n?  

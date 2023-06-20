@@ -3,6 +3,7 @@ title: Stad van Diamant (A, moeder)
 page: 445
 ---  
 
+{:start="1"}  
 1.  Waar het royaal Bolleke\  
 Steeds het beste smaakt  
 En waar onze Lieve Vrouw  
@@ -13,6 +14,7 @@ Ja, daar is mijn koekenstad
 Eeuwig zot van A  
 
 
+{:start="2"}  
 2. Waar er kunst t' aanschouwen is  
 MASsaal naast de stroom  
 En men vaak aan 't bouwen is  
@@ -23,6 +25,7 @@ Ja, daar is mijn bakerstad
 Antwerpen Centraal  
 
 
+{:start="3"}  
 3. Waar de wereld steed vergaart  
 Als ze koopjes doen  
 Meir noch Haven blijft gespaard  

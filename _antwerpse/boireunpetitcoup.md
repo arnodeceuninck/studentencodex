@@ -13,6 +13,7 @@ Un petit coup, la la la la
 Un petit coup, c'est doux.  
 
 
+{:start="1"}  
 1. Allons dans les bois ma mignonnette  
 Allons dans les bois du Roi  
 Nous y cueillerons la fraîche violette  
@@ -20,6 +21,7 @@ Allons dans les bois ma mignonnette
 Allons dans les bois du Roi  
 
 
+{:start="2"}  
 2. J'aime le jambon et la saucisse  
 Et j'aime le vin quand il est bon  
 Mais j'aime encor mieux le lait de ma nourrice  
@@ -27,6 +29,7 @@ J'aime le jambon et la saucisse
 Et j'aime le vin quand il est bon  
 
 
+{:start="3"}  
 3. Non Lucien tu n'auras pas ma rose  
 Non Lucien tu n'auras rien  
 Monsieur le curé a défendu la chose  

@@ -4,6 +4,7 @@ page: 196
 ---  
 
 
+{:start="1"}  
 1. Des winters als het regent  
 dan zijn de paadjes diep, ja diep.  
 Dan komt dat loze vissertje  
@@ -18,12 +19,14 @@ met zijne lere, van dirre dom dere,
 met zijne lere laarsjes aan.  
 
 
+{:start="2"}  
 2. Dat loze molenarinnetje  
 ging in haar deurtje staan, ja staan,  
 omdat dat aardig vissertje  
 voorbij haar henen zou gaan, ja gaan.  
 
 
+{:start="3"}  
 3. Wat heb ik jou misdreven,  
 wat heb ik jou misdaan, ja daan;  
 en dat ik niet met vreden,  
@@ -33,6 +36,7 @@ voorbij jouw deurtje mag gaan, ja gaan.
 - Met mijne rijfstok, ...  
 
 
+{:start="4"}  
 4. Gij hebt mij niets misdreven,  
 gij hebt mij niets misdaan, ja daan;  
 gij moet mij driemaal zoenen,  

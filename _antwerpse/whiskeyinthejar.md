@@ -4,6 +4,7 @@ page: 364
 ---  
 
 
+{:start="1"}  
 1.  As I was going over the far famed Kerry mountains,  
 I met with Captain Farrell and his money he was count'n.  
 I first produced me pistol, and then produced me rapier,  
@@ -16,24 +17,28 @@ Whack fol the daddy o
 There's whiskey in the jar  
 
 
+{:start="2"}  
 2. He counted out his money and it made a pretty penny,  
 I put it in me pocket and I took it home to darling Jenny.  
 She sighed and she swore that she never would deceave me,  
 But the devil take the women for they always lie so easy.  
 
 
+{:start="3"}  
 3. I went into me chamber all for to take a slumber  
 To dream of gold and jewels and of course it was no wonder,  
 Me Jenny took me charges and she filled them up with water,  
 And sent for Captain Farrel, to get ready for the slaughter.  
 
 
+{:start="4"}  
 4. 'Twas early in the morning before I rose to travel,  
 There came a band of footmen and likewise Captain Farrell;  
 I goes to draw me pistol, for she'd stole away my rapier  
 But I couldn't shoot the water, so a prisoner I was taken.  
 
 
+{:start="5"}  
 5. Well, they put me into jail   
 with a judge all a writin'  
 For robbing captain Farrell   
@@ -44,6 +49,7 @@ And bid a farewell to
 to his tight fisted town.  
 
 
+{:start="6"}  
 6. I'd like to find me brother   
 the one that's in the army,  
 I don't know where he's stationed   
@@ -54,6 +60,7 @@ And I swear he'd treat me better
 than me darling' sporting Jenny.  
 
 
+{:start="7"}  
 7. There's some takes delight   
 in the carriages and rolling,  
 Some takes delight   

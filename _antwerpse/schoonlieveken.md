@@ -3,22 +3,26 @@ title: Schoon lieveken
 page: 185
 ---  
 
+{:start="1"}  
 1. \- ‘Schoon lieveken, waar waarde gij den eersten meiennacht,  
 dat gij mij geenen mei en bracht?’  
 - ‘Den eersten meiennacht, schoon lief, dan was ik ziek!  
 Schoon lieveken, ik kon er van mijn beddeken niet.’  
 
 
+{:start="2"}  
 2. \- ‘Schoon lieveken, waar waarde gij den tweeden meiennacht,  
 dat gij mij geenen mei en bracht?’  
 \- ‘Den tweeden meiennacht, zocht ik eenen eglantier,  
 schoon lieveken, sta op en uwen mei is hier.’  
 
 
+{:start="3"}  
 3. \- ‘Ik en sta er, voorwaar, voor uwen schoonen mei niet op,  
 of en zal er mijn venster niet ontsluiten. Uwen mei die komt te laat! Plant vrij hem op de straat. Schoon lieveken, plant uwen mei daar buiten.’  
 
 
+{:start="4"}  
 4. - En als ik mijnen mei hier buiten planten zal,  
 en zal het u dan niet verdrieten?’  
 \- ‘Neen! Zijt dan maar verblijd! Met den lieven meientijd,  

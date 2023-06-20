@@ -4,6 +4,7 @@ page: 208
 ---  
 
 
+{:start="1"}  
 1. Een smidje in zijn smisse  
 die zong de hele dag;  
 zijn stemme klonk zo helder  
@@ -14,6 +15,7 @@ het klonk zo lustig dan,
 het liedje van de zwarte man.  
 
 
+{:start="2"}  
 2. Een meisje op haar kamer,  
 die had dat lied gehoord.  
 Haar hartje ging aan ‘t jagen  
@@ -24,6 +26,7 @@ het sloeg zo teder dan
 het liedje van de zwarte man.  
 
 
+{:start="3"}  
 3. Och smidje van hierover,  
 leer mij dat schone lied.  
 Lief meisje ‘k zal ‘t u leren  
@@ -34,6 +37,7 @@ Wij zingen samen dan
 het liedje van de zwarte man.  
 
 
+{:start="4"}  
 4. Het meisje werd zijn vrouwtje  
 en hij haar beste man.  
 En kleine kleuters kwamen,  

@@ -4,6 +4,7 @@ page: 464
 ---  
 
 
+{:start="1"}  
 1. Toen de Hertog Jan kwam varen  
 Te peerd parmant, al triumfant  
 Na zevenhonderd jaren  
@@ -14,6 +15,7 @@ Na zevenhonderd jaren
 In dit edel Brabants land.  
 
 
+{:start="2"}  
 2. Hij kwam van over 't water:  
 Den Scheldevloed, aan wal te voet,  
 't Antwerpen op de straten  
@@ -23,6 +25,7 @@ Harba lorifa, enz.
 Lere lezen aan zijn voet.  
 
 
+{:start="3"}  
 3. Och Turnhout, stedeke schone,  
 Zijn uw ruitjes groen, maar uw hertjes koen:  
 Laat den Herto binnenkomen  
@@ -32,6 +35,7 @@ Laat den Hertog binnenkomen;
 Hij heeft een peerd vandoen.  
 
 
+{:start="4"}  
 4. Hij heeft een peerd gekregen,  
 Een schoon wit peerd, een schimmelpeerd,  
 Daar is hij opgestegen,  
@@ -41,6 +45,7 @@ Daar is hij opgestegen
 en hij reed naar Valkensweerd.  
 
 
+{:start="5"}  
 5. In Valkensweerd daar zaten daar zaten,  
 Al in de kast, de zilverkast  
 De gulde-koning zin platen,  
@@ -50,6 +55,7 @@ De guldekoning zijn platen,
 Toen had hij een harnas.  
 
 
+{:start="6"}  
 6. Rooise boeren, komt naar buiten;  
 Met de grote trom, met de kleine trom,  
 Trompetten en cornetten ende fluiten,  
@@ -59,6 +65,7 @@ Trompetten en cornetten ende fluiten,
 In dit Brabants Hertogdom.  
 
 
+{:start="7"}  
 7. Wij reden allemaal samen  
 Op Oirschot aan, door een kanidasselaan,  
 En Jan riep: In Gods name!  
@@ -68,6 +75,7 @@ En Jan riep: In Gods name!
 Reikt mij mijn standaard aan!  
 
 
+{:start="8"}  
 8. De standaard was de gouwe:  
 Die waaide dan, die draaide dan  
 Die droeg de leeuw mee klauwen,  
@@ -77,6 +85,7 @@ Die droeg de leeuw mee klauwen,
 Ja, de leeuw van Hertog Jan!  
 
 
+{:start="9"}  
 9. Hij is in de n Bosch gekommen  
 Al in den nacht, en niemand zag't,  
 En op de Sint Jan geklommen,  

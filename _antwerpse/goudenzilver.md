@@ -3,6 +3,7 @@ title: Goud en zilver
 page: 233
 ---  
 
+{:start="1"}  
 1. Goud en zilver min ik fel  
 En ik kan 't gebruiken  
 Waar de zee er vol van, wel  
@@ -13,6 +14,7 @@ Uit de zilv'ren manenschijn )
 En de gouden zonne          ) (bis)  
 
 
+{:start="2"}  
 2. Doch veel schoner is het goud  
 Van mijn liefkens lokken  
 Dat haar schouderen omschauwt  
@@ -23,6 +25,7 @@ Tot mijn haar zal zilver zijn )
 En wij scheiden moeten        ) (bis)  
 
 
+{:start="3"}  
 3. Zie nu toch de gulden wijn  
 In de bekers blinken  
 Hoort de stemmen zilverfijn  

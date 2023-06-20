@@ -4,6 +4,7 @@ page: 246
 ---  
 
 
+{:start="1"}  
 1.  's middags word ik wakker met een houten kop  
 mijn ogen zijn nog moeilijk te gebruiken  
 en achter in mijn hersenpan hoor ik de vogels fluiten  
@@ -14,6 +15,7 @@ en achter in mijn oren kan ik een krekel horen
 van hopsafaldera wat een gevoelen  
 
 
+{:start="2"}  
 2. dan kruip ik op de tast tussen de lakens uit  
 om veilig op mijn knieí«n te belanden  
 ik wankel naar de spiegel ik grijns es naar mijn tanden  
@@ -24,6 +26,7 @@ mijn keel is uitgedroogd en de zon schijnt al hoog
 van hopsafaldera door de ruiten  
 
 
+{:start="3"}  
 3. de geur van verse groenten stijgt de trappen op  
 en prikkelt mijn vermoeide reukorganen  
 ik sleep me naar beneden mijn ingewanden draaien  
@@ -34,6 +37,7 @@ en aan mijn rechternier voel ik het nachtelijk bier
 van hopsafaldera nog klotsen  
 
 
+{:start="4"}  
 4. maar 's avonds dan ben ik weer de frisse knaap  
 dan heb ik mijn gezicht terug gevonden  
 mijn ogen staan weer recht mijn blik is ongeschonden  

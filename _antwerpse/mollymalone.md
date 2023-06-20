@@ -4,6 +4,7 @@ page: 363
 ---  
 
 
+{:start="1"}  
 1. In Dublin's fair city,  
 Where girls are so pretty,  
 I first set my eyes on sweet Molly Malone,  
@@ -16,6 +17,7 @@ Crying, Cockles and mussels, alive, alive oh!
 Crying, Cockles and mussels, alive, alive oh!  
 
 
+{:start="2"}  
 2. Now she was a fishmonger,  
 And sure twas no wonder,  
 For so were her mother and father before,  
@@ -24,6 +26,7 @@ Through streets broad and narrow,
 Crying, Cockles and mussels, alive, alive oh!  
 
 
+{:start="3"}  
 3. She died of a fever,  
 And no one could save her,  
 And that was the end of sweet Molly Malone.  

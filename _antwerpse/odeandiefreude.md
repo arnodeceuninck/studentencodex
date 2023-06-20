@@ -3,6 +3,7 @@ title: Ode an die Freude
 page: 334
 ---  
 
+{:start="1"}  
 1.  Freude, schöner Götterfunken,  
 Tochter aus Elysium,  
 Wir betreten feuertrunken,  
@@ -13,6 +14,7 @@ Alle Menschen werden Brüder,
 Wo dein sanfter Flügel weilt.  
 
 
+{:start="2"}  
 2. Wem der große Wurf gelungen,  
 Eines Freundes Freund zu sein,  
 Mische seinen Jubel ein!  
@@ -22,6 +24,7 @@ Und wer's nie gekonnt, der stehle
 Weinend sich aus diesem Bund.  
 
 
+{:start="3"}  
 3. Freude trinken alle Wesen  
 An den Brüsten der Natur;  
 Alle Guten, alle Bösen  
@@ -32,6 +35,7 @@ Wollust ward dem Wurm gegeben,
 Und der Cherub steht vor Gott.  
 
 
+{:start="4"}  
 4. Seid umschlungen, Millionen!  
 Diesen Kuß der ganzen Welt!  
 Brüder, über'm Sternenzelt  

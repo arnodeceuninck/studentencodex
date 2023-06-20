@@ -5,6 +5,7 @@ melodie: "Studentenhymne"
 note: R.I.P.
 ---  
 
+{:start="1"}  
 1.  Voor Óðinn heren al te samen,  
 Zal ik mijn man voor eeuwig staan.  
 In bier en sterke drank bekwamen,  
@@ -15,6 +16,7 @@ En weet men Óðinn geeft zijn zegen,
 Ja, sta je man, sta je wet!  
 
 
+{:start="2"}  
 2. Voor Óðinn vallen alle vrouwen,  
 Spontaan voor onze voeten neer.  
 Het is niet moeilijk te vertrouwen,  
@@ -25,6 +27,7 @@ En weet men Óðinn geeft zijn zegen,
 Ja, sta je man, sta je wet!  
 
 
+{:start="3"}  
 3. Voor Óðinn's werkelijke leden,  
 Zijn whisky, stropdas en sigaar.  
 In maatpak hebben zij gestreden,  

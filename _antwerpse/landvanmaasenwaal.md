@@ -12,6 +12,7 @@ Want daar achter de hoge bergen ligt het land
 Van Maas en Waal  
 
 
+{:start="1"}  
 1. Ik loop gearmd met een kater voorop  
 Daarachter twee konijnen met een trechter op hun kop  
 En dan de grote snoeshaan, die legt een glazen ei  
@@ -31,6 +32,7 @@ Want daar achter de hoge bergen ligt het land
 Van Maas en Waal  
 
 
+{:start="2"}  
 2. We zijn aan de koning van Spanje ontsnapt  
 Die had ons in zijn bed en de provisiekast betrapt  
 We staken alle kerken met brandewijn in brand  

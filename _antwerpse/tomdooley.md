@@ -12,18 +12,21 @@ Hang down your head, Tom Dooley
 Poor boy, you're bound to die  
 
 
+{:start="1"}  
 1. I met her on the mountain  
 There I took her life  
 Met her on the mountain  
 Stabbed her with my knife  
 
 
+{:start="2"}  
 2. This time tomorrow  
 Reckon where I'll be  
 Hadn't a-been for Grayson  
 I'd a-been in Tennessee  
 
 
+{:start="3"}  
 3. This time tomorrow  
 Reckon where I'll be  
 Down in some lonesome valley  

@@ -10,12 +10,14 @@ zoude zoo geiren, zonder lanteren
 zoude zoo geiren te vryen gaen.  
 
 
+{:start="1"}  
 1. Hier is het vleesch en daer is het visch,  
 en daer is het Mannekenpis.  
 Vleesch ende visch, Mannekenpis,  
 en daer is den vogel die bedriegelyk is.  
 
 
+{:start="2"}  
 2. Daer is de zon en daer is de maen,  
 en daer is den kraeyenden haen.  
 Zon ende maen, kraeyenden haen,  
@@ -23,6 +25,7 @@ Vleesch ende visch, Mannekenpis,
 en daer is den vogel die bedriegelyk is.  
 
 
+{:start="3"}  
 3. Daer is het glas en daer is de kan,  
 en daer is den dronken Jan.  
 Glas ende kan, dronkene Jan,  
@@ -31,6 +34,7 @@ Vleesch ende visch, Mannekenpis,
 en daer is den vogel die bedriegelyk is.  
 
 
+{:start="4"}  
 4. Daer is den hond en daer is de kat,  
 en daer is d' Oostindische rat.  
 Hond ende kat, d'Oostindische rat,  

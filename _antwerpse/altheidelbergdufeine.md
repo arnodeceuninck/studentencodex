@@ -4,6 +4,7 @@ page: 322
 ---  
 
 
+{:start="1"}  
 1.  Alt Heidelberg, du feine  
 Du Stadt an Ehren reich  
 Am Neckar und am Rheine  
@@ -14,6 +15,7 @@ Klar ziehn des Stromes Wellen
 Blauäuglein blitzen drein. (bis)  
 
 
+{:start="2"}  
 2. Und kommt aus lindem Süden  
 Der Frühling übers Land,  
 So webt er dir aus Blüten  
@@ -24,6 +26,7 @@ Es klingt wie junges Lieben
 Dein Name mir so traut. (bis)  
 
 
+{:start="3"}  
 3. Alt Heidelberg, du feine  
 Du Stadt an Ehren reich  
 Am Neckar und am Rheine  

@@ -3,6 +3,7 @@ title: Het lindemeisje
 page: 212
 ---  
 
+{:start="1"}  
 1. ‘k Zoog uit ’t glas het laatste nat,  
 Mijne beurs is leeg en plat,  
 Dorstig hart en tonge.  
@@ -11,6 +12,7 @@ Uwer oogjes helle schijn,
 Lindenmeisje, gij jonge! (bis)  
 
 
+{:start="2"}  
 2. "Nimmer schrijft men hier in ’t krijt,  
 Wij zijn ’t laatste krijtje kwijt!"  
 Lacht het meisje lustig!  
@@ -19,6 +21,7 @@ Leg uw reiszak hier maar neer,
 En drink op dan, rustig!" (bis)  
 
 
+{:start="3"}  
 3. Zijne reiszak heeft de gast  
 Gauw voor ene kruik belast!  
 Nu voor ’t scheiden zorgen!  
@@ -27,6 +30,7 @@ G’hebt nog mantel, stok en hoed,
 Drink en laat ze borgen!" (bis)  
 
 
+{:start="4"}  
 4. Zijne mantel, hoed en stok,  
 Ruilde hij voor ene slok,  
 Sprak bedroefd: "Vervlogen!  
@@ -35,6 +39,7 @@ Lindenmeisje jong en slank,
 Vreugde mijner ogen!" (bis)  
 
 
+{:start="5"}  
 5. ’t Meisje fluistert nogmaals: "Blijf,  
 G’hebt een hart nog in uw lijf,  
 Laat het mij te pande!"  
@@ -43,6 +48,7 @@ Op des meisjes rode mond
 Warm een ander brandde!" (bis)  
 
 
+{:start="6"}  
 6. Wie dit nieuwe liedje dacht  
 Zong het in de zomernacht  
 Lustig in de winde.  

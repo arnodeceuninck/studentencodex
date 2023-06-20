@@ -5,6 +5,7 @@ author: Theodoor Sevens (1848-1927)
 melodie: Karel Mestdagh (1850-1924)
 ---  
 
+{:start="1"}  
 1. De beiaard speelt zo schoon hij kan,  
 De vreugde heerst alom;  
 Met bloemen kroont de vrouw haar man,  
@@ -22,12 +23,14 @@ Bij klank en zang.
 Hou eeuwig stand, o heilig vaderland.  
 
 
+{:start="2"}  
 2. Voorgoed vergeten zij de hoon,  
 Vergeten ook het wee.  
 Nu schall'uit slot en poorterswoon,  
 Het lied van heil en vree.  
 
 
+{:start="3"}  
 3. Nu schalle boven veld en woud  
 En over land en zee:  
 Genot en heil aan jong en oud,  

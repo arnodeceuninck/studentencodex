@@ -3,6 +3,7 @@ title:
 page: 84
 ---  
 
+{:start="1"}  
 1. Merck toch hoe sterck nu int werck sich al stekt  
 Die t'allen tijd soo ons vrijheijt heeft bestreden  
 Siet hoe hij slaeft graeft en draeft met gewekt  
@@ -19,6 +20,7 @@ Laets lands boom end zijn stroom
 Trouw'lijck toch bewaren  
 
 
+{:start="2"}  
 2. t'Moedige bloedige woedige swaerd  
 Blonck en het klonck dat de voncken daer uyt vlogen  
 Beving en leving , opgeving der aerd  
@@ -35,6 +37,7 @@ t'Heeft s'lands boom end'zijn stroom
 Trouw'lijck doen bewaren  
 
 
+{:start="3"}  
 3. Die van Oranjen suam Spanjen aen boord  
 Om uyt het velt als een helt , t'gewelt te weren  
 Maer also dra Spinola t'heeft gehoord  

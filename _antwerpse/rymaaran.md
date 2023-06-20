@@ -4,12 +4,14 @@ page: 271
 ---  
 
 
+{:start="1"}  
 1.  Rij maar an, ossewâ, rij maar an, (bis)  
 Weet je wel waarheen ie gaan,  
 wel naar huis toe rij die wâ.  
 Rij maar an, ossewâ, rij maar an  
 
 
+{:start="2"}  
 2. Huis toe gaan, ossewa, huis toe gaan (bis)  
 Langs die owelandse pad  
 Wag mij dierbare skat8  

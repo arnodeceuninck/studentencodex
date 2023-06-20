@@ -3,6 +3,7 @@ title: Triomfantelijk lied van de zilvervloot
 page: 87
 ---  
 
+{:start="1"}  
 1. Heb je van de Zilveren Vloot wel gehoord,  
 De Zilveren Vloot van Spanje?  
 Die had er veel Spaanse matten aan boord  
@@ -16,6 +17,7 @@ Die heeft gewonnen de Zilveren Vloot,
 Die heeft gewonnen, gewonnen de Zilvervloot.  
 
 
+{:start="2"}  
 2. Zei toen niet Piet Hein met een aalwarig woord:  
 Wel jongetjes van Oranje,  
 Kom klim 'reis aan dit en dat Spaanse boord  
@@ -23,6 +25,7 @@ En rol me de matten van Spanje!
 Piet Hein, enz.  
 
 
+{:start="3"}  
 3. Klommen niet de jongens als katten in 't want  
 En vochten ze niet als leeuwen?  
 Ze maakten de Spanjers duchtig te schand,  
@@ -30,6 +33,7 @@ Tot Spanje klonk hun schreeuwen.
 Piet Hein, enz.  
 
 
+{:start="4"}  
 4. Kwam er nu nog eenmaal zo'n Zilveren Vloot,  
 Zeg, zou jullie nog zo kloppen?  
 Of zoudt gij u veilig buiten schoot  

@@ -4,6 +4,7 @@ page: 368
 ---  
 
 
+{:start="1"}  
 1.  By a lonely prison wall, I heard a young girl calling  
 "Michael, they have taken you away,  
 For you stole Trevelyan's corn,  
@@ -18,6 +19,7 @@ We had dreams and songs to sing
 It's so lonely round the fields of Athenry.  
 
 
+{:start="2"}  
 2. By a lonely prison wall, I heard a young man calling  
 "Nothing matters, Mary, when you're free  
 Against the famine and the crown,  
@@ -25,6 +27,7 @@ I rebelled, they cut me down.
 Now you must raise our child with dignity." CHORUS  
 
 
+{:start="3"}  
 3. By a lonely harbor wall, she watched the last star fall  
 As the prison ship sailed out against the sky  
 Sure she'll wait and hope and pray for her love in Botany Bay  

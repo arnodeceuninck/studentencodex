@@ -4,6 +4,7 @@ page: 193
 ---  
 
 
+{:start="1"}  
 1. Zeg kwezelken wilde gij dansen?  
 Ik zal u geven een ei.  
 Wel neen ik, zei dat kwezelken,  
@@ -16,18 +17,21 @@ Dansen is onze regel niet,
 Begijntjes en kwezelkes dansen niet.  
 
 
+{:start="2"}  
 2. Zeg kwezelken wilde gij dansen?  
 Ik zal u geven een koe.  
 Wel neen ik, zei dat kwezelken,  
 Van dansen wordt ik te moe.  
 
 
+{:start="3"}  
 3. Zeg kwezelken wilde gij dansen?  
 Ik zal u geven een paard  
 Wel neen ik, zei dat kwezelken,  
 ‘t En is mij ‘t dansen niet waard.  
 
 
+{:start="4"}  
 4. Zeg kwezelken wilde gij dansen?  
 Ik zal u geven een man.  
 Wel ja ik, zei dat kwezelken,  

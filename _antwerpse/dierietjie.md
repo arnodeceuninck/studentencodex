@@ -3,6 +3,7 @@ title: dierietjie
 page: 257
 ---  
 
+{:start="1"}  
 1.  So lank as die rietjie in die water lê  
 In die water lê, in die water lê,  
 So lank as die rietjie in die water lê  

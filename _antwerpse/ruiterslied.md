@@ -6,6 +6,7 @@ author: 1907, Emiel Vereecken
 melodie: Justus Wilhelm Lyra (1822-1882)
 ---  
 
+{:start="1"}  
 1. De bange nacht is weeral om,  
 We rijden stil, we rijden stom,  
 We rijden ten verderve!  
@@ -14,6 +15,7 @@ Weerdin, nu nog een glas gezwind
 Voor 't sterven. (bis)  
 
 
+{:start="2"}  
 2. Hoe staat het jonge gras nu groen,  
 Maar bloeden zal het morgen doen,  
 Mijn eigen bloed zal 't verven  
@@ -23,6 +25,7 @@ Voor 't sterven. (bis)
 
 
 _(Hier wordt een eerste slok gedronken.)_  
+{:start="3"}  
 3. De tweede slok van d'edele wijn,  
 Zal voor de heilige vrijheid zijn,  
 Voor vrijheid, have en erve;  

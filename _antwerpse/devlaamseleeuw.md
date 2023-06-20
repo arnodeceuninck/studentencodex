@@ -5,6 +5,7 @@ author: 1847, Hippoliet Van Peene (1811-1864)
 melodie: 1847, Karel Miry (1823-1889)
 ---  
 
+{:start="1"}  
 1. Zij zullen hem niet temmen,   
 De fiere Vlaamse Leeuw,  
 Al dreigen zij zijn vrijheid   
@@ -21,6 +22,7 @@ Zolang de Leeuw kan klauwen, )
 zolang hij tanden heeft.     ) (bis)  
     
 
+{:start="2"}  
 2. De tijd verslindt de steden,   
 geen tronen blijven staan:  
 De legerbenden sneven,   
@@ -31,6 +33,7 @@ Wij lachen met zijn woede,
 de Vlaamse Leeuw is daar   
 
 
+{:start="3"}  
 3. Hij strijdt nu duizend jaren   
 voor vrijheid, land en God;  
 En nog zijn zijne krachten   
@@ -41,6 +44,7 @@ Dan richt hij zich bedreigend
 en vrees'lijk voor hen op.  
 
 
+{:start="4"}  
 4. Wee hem, de onbezonnen',   
 die vals en vol verraad,  
 De Vlaamse Leeuw komt strelen   
@@ -51,6 +55,7 @@ En voelt hij zich getroffen,
 hij stelt zijn maan en briest.  
 
 
+{:start="5"}  
 5. Het wraaksein is gegeven,   
 hij is hun tergen moe;  
 Met vuur in't oog, met woede  

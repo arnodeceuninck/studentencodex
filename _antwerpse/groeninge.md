@@ -11,6 +11,7 @@ Alhier, aldaar aan lange lansen,
 De leeuwen dansen.  
 
 
+{:start="1"}  
 1. De winden schudden met geweld,  
 De zwarte blomme in 't geluw veld;  
 De kwaden zien, benêen de transen  
@@ -22,6 +23,7 @@ Als ijdel kaf, dat 't zweerd onweerd is.
 De leeuwen dansen! (ter)  
 
 
+{:start="2"}  
 2. Harop! Harop! de trompe steekt,  
 De boeien los, de banden breekt!  
 Ten vijand in! Dat op zijn schansen  

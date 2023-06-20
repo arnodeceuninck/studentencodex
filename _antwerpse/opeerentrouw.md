@@ -3,6 +3,7 @@ title: Op eer en trouw
 page: 97
 ---  
 
+{:start="1"}  
 1. Komt kameraden, komt!  
 Komt kameraden, komt! Komt kameraden, en meldt u blij.  
 Wij vinden paden in bos en hei.  
@@ -12,6 +13,7 @@ Ons wachtwoord schalle door heel de gouw,
 in dienst van allen, op eer en trouw.  
 
 
+{:start="2"}  
 2. Komt kameraden, komt!  
 Komt kameraden, komt!  
 Wij trekken lustig langs weg en baan,  

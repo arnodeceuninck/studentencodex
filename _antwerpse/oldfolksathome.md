@@ -4,6 +4,7 @@ page: 400
 ---  
 
 
+{:start="1"}  
 1.  1. Way down upon the Swanee River,  
 Far, far away  
 That's where my heart is turning ever  
@@ -19,6 +20,7 @@ Oh darkies _(brothers)_, how my heart grows weary
 Far from the old folks at home  
 
 
+{:start="2"}  
 2. All 'round the little farm I wandered,  
 When I was young  
 Then many happy days I squandered,  
@@ -29,6 +31,7 @@ Oh, take me to my kind old mother,
 There let me live and die  
 
 
+{:start="3"}  
 3. One little hut among the bushes,  
 One that I love  
 Still sadly to my mem'ry rushes,  

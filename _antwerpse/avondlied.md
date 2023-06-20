@@ -3,6 +3,7 @@ title: Avondlied
 page: 231
 ---  
 
+{:start="1"}  
 1.  O Heer, d'avond is neergekomen,  
 de zonne zonk, het duister klom.  
 De winden doorruisen de bomen  

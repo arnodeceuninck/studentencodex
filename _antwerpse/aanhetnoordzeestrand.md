@@ -3,6 +3,7 @@ title: Aan het Noordzeestrand
 page: 471
 ---  
 
+{:start="1"}  
 1.  Ik heb op zee m'n leven lang gevaren  
 M'n vissersdorp ligt aan het noordzeestrand  
 Ik win m'n brood met zwalpen op de baren  
@@ -17,6 +18,7 @@ Waar de klokken luiden 'visser vaar naar huis'
 Daar ben ik geboren, daar voel ik me thuis  
 
 
+{:start="2"}  
 2. Ik voel me klein wanneer de stormen huilen  
 Bij donkere nacht belust op zwakke buit  
 Maar voor geen geld ter wereld wil ik ruilen  

@@ -3,6 +3,7 @@ title: Tsjechisch drinklied
 page: 127
 ---  
 
+{:start="1"}  
 1. Drink uit dan, broeder drink!  )  
 Drink uit tot op den grond        )  
 Want nooit zien w'ons weerom      )  

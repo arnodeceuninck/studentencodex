@@ -4,6 +4,7 @@ page: 492
 melodie: "Krambambuli"
 ---  
 
+{:start="1"}  
 1.  Kinesia zo wordt geheten,  
 Het beste clubje van ons land.  
 Wie zou er op aarde iets beter weten,  
@@ -14,6 +15,7 @@ Ja, 't is Kinesia Kinesia!
 Ja, 't is Kinesia Kinesia!  
 
 
+{:start="2"}  
 2. Rood wit rood zijn onze kleuren,  
 De kleuren van victoria.  
 Valt er op aarde wat te gebeuren,  

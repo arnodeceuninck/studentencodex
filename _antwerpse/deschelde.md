@@ -5,6 +5,7 @@ author: Theodoor Sevens
 melodie: Karel Mestdagh
 ---  
 
+{:start="1"}  
 1. Door de nederlanden,  
 Naar de wijde, diepe zee,  
 Stroomt de schone Schelde  
@@ -16,6 +17,7 @@ O machtige prachtige vloed,
 Wees gegroet!  
 
 
+{:start="2"}  
 2. Door de nederlanden,  
 Waar de krijg heeft uitgewoed  
 Stroomt de vrije Schelde,  
@@ -27,6 +29,7 @@ O machtige prachtige vloed,
 Wees gegroet!  
 
 
+{:start="3"}  
 3. Door de nederlanden,  
 Vrolijk zingend eeuwen lang  
 Stroomt de lieve schelde,  

@@ -3,6 +3,7 @@ title: Die lied van Jong Suid-Afrika
 page: 256
 ---  
 
+{:start="1"}  
 1. En hoor jy die magtige dreuning?  
 Oor die veld kom dit wyd gesweef:  
 die lied van 'n volk se ontwaking  
@@ -13,6 +14,7 @@ Dit is die LIED van Jong Suid-Afrika,
 dit is die LIED van Jong Suid-Afrika,  
 dit is die LIED van Jong Suid-Afrika.  
 
+{:start="2"}  
 2. Die klop van die Voortrekkerwawiel  
 het die eeue se rus verstoor;  
 die klank van die voorlaaierskote  
@@ -23,6 +25,7 @@ Dit is die KOMS van Jong Suid-Afrika,
 dit is die KOMS van Jong Suid-Afrika,  
 dit is die KOMS van Jong Suid-Afrika.  
 
+{:start="3"}  
 3. Waar songloed in glorie die berge  
 oor hul fronsende voorhoof streel,  
 waar ruisende wind oor die vlaktes  
@@ -33,6 +36,7 @@ Dit is die LAND van Jong Suid-Afrika,
 dit is die LAND van Jong Suid-Afrika,  
 dit is die LAND van Jong Suid-Afrika.  
 
+{:start="4"}  
 4. Die golwende veld is ons woning  
 en ons dak is die hemelblou;  
 die Vryheid alleen is ons koning,  

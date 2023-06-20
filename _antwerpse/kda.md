@@ -5,6 +5,7 @@ melodie: "Triomfantelijk lied van de Zilvervloot"
 ---  
 
 
+{:start="1"}  
 1. Wij zijn de toffe jongens van het KDA  
 De Kring Der Alchemisten  
 Wij kunnen het beste zuipen van al  
@@ -18,6 +19,7 @@ Wij kunnen zuipen, ja zuipen op 't KDA
 Zuipen, ja zuipen op 't KDA  
 
 
+{:start="2"}  
 2. Wij zijn de toffe meisjes van het KDA  
 De Kring Der Alchemisten  
 Wij kunnen het beste zingen van al  
@@ -31,6 +33,7 @@ Wij kunnen zingen, ja zingen op 't KDA
 Zingen, ja zingen op 't KDA  
 
 
+{:start="3"}  
 3. Wij zijn de toffe jongens van het KDA  
 De Kring Der Alchemisten  
 Wij kunnen het beste vrijen van al  

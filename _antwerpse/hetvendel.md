@@ -5,6 +5,7 @@ author: Jan Hoogensteyn
 note: Oud Nederlands soldatenlied, op muziek gezet rond 1560
 ---  
 
+{:start="1"}  
 1. Het vendel moet marcheren,  
 want Vlaanderen is in nood.  
 Sint Joris geef ons kleren,  
@@ -16,6 +17,7 @@ dat kan geen zonde zijn!
 Marcheer, landsknecht, marcheer!  
 
 
+{:start="2"}  
 2. Wij slikken stof bij 't wandelen,  
 verstomd zijn lied en lach;  
 De keizer slikt heel Vlaanderen,  
@@ -27,6 +29,7 @@ als ik niet wederkeer.
 Marcheer, landsknecht, marcheer!  
 
 
+{:start="3"}  
 3. De tamboer slaat parade,  
 Sint Joris sterke held,  
 Bescherm ons in genade,  

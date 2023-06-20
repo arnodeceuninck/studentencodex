@@ -3,6 +3,7 @@ title: Heute ist heut
 page: 339
 ---  
    
+{:start="1"}  
 1. Was die Welt Morgen bringt,  
 Ob sie mir Sorgen bringt,  
 Leid oder Freud?  
@@ -12,6 +13,7 @@ Morgen ist auch ein Tag )
 Heute ist heut! ) (bis)  
 
 
+{:start="2"}  
 2. Wenn's dem Geschick gefällt,  
 Sind wir in alle Welt  
 Morgen zerstreut!  
@@ -20,6 +22,7 @@ Mädel, schenk ein, schenk ein! )
 Heute ist heut! ) (bis)  
 
 
+{:start="3"}  
 3. Ob ihren Rosenmund  
 Morgen schön Hildegund  
 Anderen beut  
@@ -29,6 +32,7 @@ Wenn sie mich heut nur mag )
 Heute ist heut! ) (bis)  
 
 
+{:start="4"}  
 4. Klingklang, stosst an und singt!  
 Morgen vielleicht erklingt  
 Sterbegeläut!  

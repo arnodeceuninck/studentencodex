@@ -5,6 +5,7 @@ author: Lambrecht Lambrechts (1865-1932)
 melodie: Emiel Hullebroeck (1878-1965)
 ---  
 
+{:start="1"}  
 1. Verliefd, gij jongens, kiest alleen een bruid  
 In 't koor der Vlaamsgezinde maagden uit.  
 Blijft Vlaandrens heilige idealen trouw  
@@ -14,6 +15,7 @@ En't zegenwoord van Pater Callewaert:
 Crescite et multiplicamini!  
 
 
+{:start="2"}  
 2. Alwaar gij zwerft en werft ten allen kant,  
 Maakt onze meisjes Vlaams Vaderland,  
 Bekeert he, kneedt hen, port hen: Storm op zee!  
@@ -21,6 +23,7 @@ En zijn ze rijp gezongen, trouwt ermee!
 Zo wint ge....enz.  
 
 
+{:start="3"}  
 3. Niet langer zal Parijs met hoed en keurs  
 Nog zegepralen op de huwelijksbeurs.  
 Bericht aan menig dubbend pensionaat:  

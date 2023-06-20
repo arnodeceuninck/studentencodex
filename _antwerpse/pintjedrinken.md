@@ -3,6 +3,7 @@ title: Pintjedrinken
 page: 138
 ---  
 
+{:start="1"}  
 1. In de Brugse catechismus  
 staat te lezen kort en goed  
 Dat men spijzen al wie honger,  
@@ -24,12 +25,14 @@ tap nog eentje,
 vul de glazen boordevol!  
 
 
+{:start="2"}  
 2. Ook ons Here op de bruiloft  
 maakte ras van water wijn.  
 Spijtig dat wij toen in Kana  
 niet aan tafel konden zijn.  
 
 
+{:start="3"}  
 3. Als de kwezels water drinken  
 lacht in d'hemel Sinte Pier,  
 Want de kost is daar voor eeuwig  

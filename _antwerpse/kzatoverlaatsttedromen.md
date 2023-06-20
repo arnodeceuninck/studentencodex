@@ -3,6 +3,7 @@ title: "'k Zat overlaatst te dromen"
 page: 144
 ---  
 
+{:start="1"}  
 1. 'k Zat overlaast te dromen,  
 Te dromen op mijn kot,  
 Mijn hoofd dat was van 't blokken  
@@ -17,6 +18,7 @@ O, dagen, zoete dagen
 Waarom toch bleeft ge niet?  
 
 
+{:start="2"}  
 2. Toen ik voor 't eerst in Leuven  
 Studeerde aan d'hogeschool,  
 Was ik zo'n brave jongen,  
@@ -31,6 +33,7 @@ O, leraars, strenge leraars,
 U toch vergeet ik niet.  
 
 
+{:start="3"}  
 3. Toch werd ik langsom stouter;  
 Ik mocht weldra het bier,  
 En 'k trok soms met de vrienden  
@@ -45,6 +48,7 @@ Ei, maantje, lieve maantje,
 Dat ook vergeet ik niet!  
 
 
+{:start="4"}  
 4. 'k Trof in 't studentenleven,  
 Soms wondre dingen aan,  
 En 'k ben voor vele coursen  
@@ -59,6 +63,7 @@ O water, Zoete Water,
 U ook vergeet ik niet!  
 
 
+{:start="5"}  
 5. 'k Heb ik deez' laatste jaren  
 Veel meisjes zot gevrijd;  
 En 'k was, God weet hoe dikwijls,  

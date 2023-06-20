@@ -28,6 +28,7 @@ for file in files:
 
         # find the line with ---
         split_ctr = 0
+        previous_line = ''
         for i in range(len(lines)):
             # if the line starts with ---
             if lines[i].startswith('---'):
@@ -37,6 +38,20 @@ for file in files:
                 # if line doesn't end with two spaces and is not empty, add two spaces
                 if not lines[i].endswith('  ') and lines[i] != '':
                     lines[i] += '  '
+
+                # add {:start="n"} after before each list n. (n = 1, 2, 3, ...) (string should start with digits followeed by a dot)
+                if re.match(r'^\d+\.', lines[i]):
+                    previous_line = lines[i-1] if i > 0 else ''
+                    if not previous_line.startswith('{:start='):
+                        idx = lines[i].split(".")[0]
+                        line = "{:start=\"" + str(idx) + "\"}  "
+                        output.append(line)
+
+                if re.match(r'^\{:start=\d+\}', lines[i]):
+                    lines[i] = lines[i].replace('{:start=', '{:start="')
+                    lines[i] = lines[i].replace('}', '"}')
+
+
 
             output.append(lines[i])
 

@@ -4,6 +4,7 @@ page: 278
 ---  
 
 
+{:start="1"}  
 1. Student sein, wenn die Veilchen blühen,  
 das erste Lied die Lerche singt,  
 Der Maiensonne junges Glühen  
@@ -14,6 +15,7 @@ Das ist des Daseins schönste Feier! )
 Herr, lass sie nie zu Ende geh’n! ) (bis)  
 
 
+{:start="2"}  
 2. Student sein, wenn die Humpen kreisen,  
 in lieberschloss’nem Freundesbund  
 von alter Treue bei den Weisen  
@@ -24,6 +26,7 @@ Das ist des Daseins schönste Feier! )
 Herr, lass sie nie zu Ende geh’n! ) (bis)  
 
 
+{:start="3"}  
 3. Student sein, wenn zwei Augen locken,  
 ein süßer Mund verschwiegen küsst,  
 dass jählings alle Pulse stocken,  
@@ -34,6 +37,7 @@ Das ist das Leben ohne Sorgen!   )
 Herr, lass es nie vorübergeh’n!  ) (bis)  
 
 
+{:start="4"}  
 4. Student sein, wenn die Hiebe fallen  
 im scharfen Gang, der selbstgewählt  
 im blut’gen Aneinanderprallen  
@@ -44,6 +48,7 @@ An deines Leben Wagemorgen     )
 Herr lass die Zeiten nie vergeh’n ) (bis)  
 
 
+{:start="5"}  
 5. Student sein, wenn im Abendmatten  
 dein Weg sich sacht schon niederneigt,  
 von West die Schar der Wolkenschatten  

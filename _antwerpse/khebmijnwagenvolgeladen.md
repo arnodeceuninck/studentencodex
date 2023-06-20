@@ -4,6 +4,7 @@ page: 197
 ---  
 
 
+{:start="1"}  
 1. 'k Heb mijn wagen volgeladen,  
 vol met oude wijven;  
 toen ze op de mar(re)kt kwamen  
@@ -13,6 +14,7 @@ geen oude wijven op mijn wagen.
 Hop, paardje, hop!  
 
 
+{:start="2"}  
 2. 'k Heb mijn wagen wolgeladen,  
 vol met oude mannen;  
 toen ze op de mar(re)kt kwamen  
@@ -22,6 +24,7 @@ geen oude mannen op mijn wagen.
 Hop, paardje, hop!  
 
 
+{:start="3"}  
 3. 'k Heb mijn wagen volgeladen,  
 vol met jonge meisjes;  
 toen ze op de mar(re)kt kwamen  

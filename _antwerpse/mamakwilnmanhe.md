@@ -4,6 +4,7 @@ page: 262
 ---  
 
 
+{:start="1"}  
 1. Mamma, 'k wil 'n man hê!  
 Watter man, my liewe kind?  
 Wil jy dan 'n Fransman hê?  
@@ -14,6 +15,7 @@ dit is my plesier,
 met die Boerjongkêrels hier!  
 
 
+{:start="2"}  
 2. Mamma, 'k wil 'n man hê!  
 Watter man, my liewe kind?  
 Wil jy dan 'n Hollander hê?  
@@ -24,6 +26,7 @@ dit is my plesier,
 met die Boerjongkêrels hier!  
 
 
+{:start="3"}  
 3. Mamma, 'k wil 'n man hê!  
 Watter man, my liewe kind?  
 Wil jy dan 'n Duitser hê?  
@@ -34,6 +37,7 @@ dit is my plesier,
 met die Boerjongkêrels hier!  
 
 
+{:start="4"}  
 4. Mamma, 'k wil 'n man hê!  
 Watter man, my liewe kind?  
 Wil jy dan 'n Boerseun hê?  

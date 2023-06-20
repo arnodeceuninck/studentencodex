@@ -6,6 +6,7 @@ melodie: Armand Preud'homme (1904-1986)
 note: © ANZ vzw
 ---  
 
+{:start="1"}  
 1. Schoon is de jeugd, die zelf zich eert,  
 sterk als gedegen staal.  
 Vredig van aard, maar die zich weert,  
@@ -21,12 +22,14 @@ Were di, waar het lot u ook leidt,
 Were di !  
 
 
+{:start="2"}  
 2. Flink is de jeugd, die durft en wil  
 wat heur behoort in recht.  
 Nooit zich vergooit voor vreemde wil,  
 taai om heur waarden vecht !  
 
 
+{:start="3"}  
 3. Rijk is de jeugd die denkt en strijdt,  
 om wat nog komen moet.  
 Kloek en beraden zich bereidt,  

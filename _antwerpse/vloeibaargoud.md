@@ -3,6 +3,7 @@ title: Vloeibaar goud
 page: 139
 ---  
 
+{:start="1"}  
 1. Er liepen twee schachtinnekes 's avonds over straat   
 Z' ontmoetten licht beschonken   
 ne zatte kameraad   
@@ -17,6 +18,7 @@ Wie kan weerstaan aan 't onschuldige pleziertje
 Waar d' student van houdt   
 
 
+{:start="2"}  
 2. Er ging eens een commilito 's avonds op cafe   
 Bij 't kuisen van een vriend op straat,   
 vroeg hij hem dan maar mee   
@@ -25,6 +27,7 @@ Verloren ze met een pint in d'hand
 Weer het uur eens uit het oog   
 
 
+{:start="3"}  
 3. Onthoud het nu voor altijd, tot in der eeuwigheid   
 Het bier dat brengt ons samen,   
 tot spijt van wie 't benijdt   

@@ -4,6 +4,7 @@ page: 458
 ---  
 
 
+{:start="1"}  
 1. Te Gent, de oude stede,  
 Daar lag het Gravensteen (bis)  
 Sinds eeuwen als vergeten,  
@@ -24,6 +25,7 @@ Past op, past op, past op, past op!
 Uilenspiegel, Uilenspiegel voert hen aan?  
 
 
+{:start="2"}  
 2. 't Pandoerenheir, zeeghaftig,  
 Rolt ladders bij de muur,  
 En neemt met waterlansen,  
@@ -34,6 +36,7 @@ En 't slijmig schroot zaait pletsend,
 Verwarring in het rond.  
 
 
+{:start="3"}  
 3. 't Studentengild, verbeten  
 Bedekt met stof en as,  
 Verschoot zijn laatste appel,  

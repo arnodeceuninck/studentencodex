@@ -3,6 +3,7 @@ title: Geuzenlied
 page: 68
 ---  
 
+{:start="1"}  
 1. Zij brullen: "Leeuw van vlaanderen!"  
 en huilen tegen ons  
 zij die de leeuw doen kruipen  
@@ -17,6 +18,7 @@ wee wee de landverraadren, )
 wanneer hun uur zal slaan! ) (bis)  
 
 
+{:start="2"}  
 2. Blikt om U heen, O Broedren!  
 Trekt gans den wereld rond  
 weer rijzen als paleizen  
@@ -31,6 +33,7 @@ O land van Artevelde,     )
 de Geuzen houden wacht!   ) (bis)  
 
 
+{:start="3"}  
 3. Jezuïeten zaaien tweedracht  
 zij blazen haat en twist  
 wij juichen "Recht en rede"  
@@ -45,6 +48,7 @@ van 't ongedierte der papen,  )
 verlost ons vaderland!        ) (bis)  
 
 
+{:start="4"}  
 4. Wanneer rijst eens het daglicht  
 in d' aardse rampwoestijn  
 dat elk zijn eigen koning  

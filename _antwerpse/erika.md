@@ -3,6 +3,7 @@ title: Erika
 page: 307
 ---  
    
+{:start="1"}  
 1. Auf der Heide blüht ein kleines Blümelein  
 und das heisst Erika.  
 Heiss von hunderttausend kleinen Bienelein  
@@ -13,6 +14,7 @@ Auf der Heide blüht ein kleines Blümelein
 und das heisst Erika.  
 
 
+{:start="2"}  
 2. In der Heimat wohnt ein kleines Mägdelein  
 und das heisst Erika.  
 Dieses Mädel ist mein treues Schätzelein  
@@ -23,6 +25,7 @@ Auf der Heide blüht ein kleines Blümelein
 und das heisst Erika.  
 
 
+{:start="3"}  
 3. In meinem Kämmerlein blüht auch ein Blümelein  
 und das heisst Erika.  
 Schon beim Morgengraun, so wie beim Dämmerschein,  

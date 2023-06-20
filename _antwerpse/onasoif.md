@@ -10,6 +10,7 @@ Une petite bière, on à soif
 on à soif, on à soif  
 
 
+{:start="1"}  
 1. Quand j'étais à la légion étrangère  
 je traversais tous les jours le désert  
 le sable chaud, le soleil quelle misère  
@@ -20,6 +21,7 @@ quand on avait le cafard fallait le faire
 on chantait la chanson des légionnaires.  
 
 
+{:start="2"}  
 2. Un jour j'suis tombé en panne de super  
 y avait plus d'essence dans mon dromadaire  
 Soudain devant moi j'ai vu un berbère  
@@ -30,6 +32,7 @@ un collier en plastique pour ta mouquère
 y avait de tout de tout sauf de la bière.  
 
 
+{:start="3"}  
 3. Après avoir marché pendant six mois  
 le gosier c'est que je vous jure c'est pas la joie  
 j'étais à la recherche de l'autoroute  

@@ -4,6 +4,7 @@ page: 317
 ---  
 
 
+{:start="1"}  
 1. Was müssen das für Bäume sein,  
 wo die großen Elefanten spazieren geh'n,  
 ohne sich zu stoßen?  
@@ -13,6 +14,7 @@ wo die großen Elefanten spazieren geh'n,
 ohne sich zu stoßen!  
 
 
+{:start="2"}  
 2. Was müssen das für Flüsse sein,  
 wo die großen Elefanten zum baden gehn‘  
 ohne Badehosen.  
@@ -22,6 +24,7 @@ wo die großen Elefanten zum baden gehn‘
 ohne Badehosen.  
 
 
+{:start="3"}  
 3. Was müssen das für Brücken sein  
 wo die großen Elefanten spazieren gehn  
 ohne sich zu bücken  
@@ -31,6 +34,7 @@ wo die großen Elefanten spazieren gehn
 ohne sich zu bücken.  
 
 
+{:start="4"}  
 4. Was müssen das für Berge sein,  
 wo die großen Elefanten gern klettern gehen,  
 ohne abzustürzen.  

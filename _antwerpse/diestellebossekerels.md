@@ -4,6 +4,7 @@ page: 267
 ---  
 
 
+{:start="1"}  
 1. Bobbejaan klim die berg, so haastig en so lustig, (bis)  
 Bobbejaan klim die berg om die rooinek te vererg:  
 Hoera! Vir die boer, hoera!  
@@ -13,11 +14,13 @@ Hoera! Vir die boer, hoera!
 Die Stellenbosse kerls kom weer           ) (bis)  
 
 
+{:start="2"}  
 2. Bobbejaan sluip die dal, so haastig en zo lustig, (bis)  
 Bobbejaan sluip die dal om die rooinek t'overval:  
 Hoera vir die boer, hoera!  
 
 
+{:start="3"}  
 3. Bobbejaan kruip die haag, so haastig en zo lustig, (bis)  
 Bobbejaan kruip die haag om die rooinek te verjaag  
 Hoera vir die boer, hoera!  

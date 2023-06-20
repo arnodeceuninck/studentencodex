@@ -4,6 +4,7 @@ page: 328
 ---  
 
 
+{:start="1"}  
 1. Am Brunnen vor dem Tore  
 Da steht ein Lindenbaum;  
 Ich träumt in seinem Schatten  
@@ -14,6 +15,7 @@ Es zog in Freud' und Leide
 Zu ihm mich immer fort.  
 
 
+{:start="2"}  
 2. Ich mußt' auch heute wandern  
 Vorbei in tiefer Nacht,  
 Da hab' ich noch im Dunkel  
@@ -24,6 +26,7 @@ Komm her zu mir, Geselle,
 Hier find'st du deine Ruh'!  
 
 
+{:start="3"}  
 3. Die kalten Winde bliesen  
 Mir grad ins Angesicht;  
 Der Hut flog mir vom Kopfe,  

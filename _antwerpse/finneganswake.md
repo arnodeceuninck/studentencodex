@@ -3,6 +3,7 @@ title: Finnegan's wake
 page: 366
 ---  
 
+{:start="1"}  
 1.  Tim Finnegan lived in Walkin street,  
 A gentleman Irish, mighty odd.  
 He had a brogue both rich and sweet  
@@ -19,6 +20,7 @@ Isn't it the truth I told ya?
 Lots of fun at Finnegan's wake.  
 
 
+{:start="2"}  
 2. One morning Tim was rather full;  
 His head felt heavy, which made him shake.  
 He fell from a ladder and he broke his skull  
@@ -29,6 +31,7 @@ With a bottle of whiskey at his feet
 And a barrel of porter at his head.  
 
 
+{:start="3"}  
 3. His friends assembled at the wake  
 And Mrs. Finnegan called for lunch.  
 First she brought in tay and cake,  
@@ -40,6 +43,7 @@ Find more lyrics at ※ Mojim.com
 'Arragh, hold yer gob!' says Paddy McGee.  
 
 
+{:start="4"}  
 4. Then Maggie O'Connor took up the job.  
 'Oh Biddy,' says she, 'you're wrong, I'm sure.'  
 Biddy gave her a belt in the gob  
@@ -50,6 +54,7 @@ Shillelagh law was all the rage
 And a row and a ruction soon began.  
 
 
+{:start="5"}  
 5. Then Mickey Maloney ducked his head  
 When a noggin of whiskey flew at him.  
 It missed, and falling on the bed  

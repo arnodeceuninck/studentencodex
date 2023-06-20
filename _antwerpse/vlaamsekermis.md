@@ -4,6 +4,7 @@ page: 220
 ---  
 
 
+{:start="1"}  
 1. Bezem uit! ’t Is kermis!  
 Knechten, meiden, vrouwen, mans,  
 Heel de bonte zwerm is  
@@ -20,6 +21,7 @@ Niets zo leutig, fraai en fris
 Als ’t Vlaamse leven is!  
 
 
+{:start="2"}  
 2. Zonder wufte poeders,  
 Zonder valse lok in ’t haar  
 Schoon gelijk uw moeders  
@@ -30,6 +32,7 @@ Een mond beroosd, een wang die bloost,
 Een borst die zuchtjes loost  
 
 
+{:start="3"}  
 3. Kerels, kloek als eiken,  
 Rode guit en bruine kwant  
 Treden voor en reiken  
@@ -40,6 +43,7 @@ Totdat ge hijgt, terneder zijgt
 En warme kussen krijgt  
 
 
+{:start="4"}  
 4. Trouwt en kweekt ge kindren,  
 Wordt ge van den ouden tijd  
 Komt geen jonkheid hind’ren  

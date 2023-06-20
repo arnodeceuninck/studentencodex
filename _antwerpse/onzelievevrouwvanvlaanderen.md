@@ -3,6 +3,7 @@ title: Onze Lieve Vrouw van Vlaanderen
 page: 229
 ---  
 
+{:start="1"}  
 1. Liefde gaf u duizend namen, groot en edel, schoon en zoet.  
 Maar geen één die 't hart der Vlamen even hoog verblijden doet.  
 Als de naam, o Moedermaagd, die Gij in ons landje draagt,  
@@ -11,6 +12,7 @@ Onze Lieve Vrouw van Vlaand'ren
 Onze Lieve Vrouw van Vlaand'ren  
 
 
+{:start="2"}  
 2. Waar men gaat langs Vlaamse wegen, oude hoeve, huis of tronk,  
 komt men u, Maria, tegen, staat uw beeltenis te pronk.  
 Lacht ons toe uit lindegroen, bloemenkrans of blij festoen.  
@@ -19,6 +21,7 @@ O, Gij Lieve Vrouw van Vlaand'ren
 O, Gij Lieve Vrouw van Vlaand'ren  
 
 
+{:start="3"}  
 3. Blijf in 't Vlaamse harte tronen als de hoogste Koningin,  
 als de beste moeder wonen in elk Vlaamse huisgezin.  
 Sta ons bij in alle nood, nu en in het uur der dood,  

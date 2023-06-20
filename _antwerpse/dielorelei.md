@@ -4,6 +4,7 @@ page: 321
 ---  
 
 
+{:start="1"}  
 1. Ich weisz nicht was soll es bedeuten  
 Dasz ich so traurig bin  
 Ein Märchen aus alten Zeiten  
@@ -14,6 +15,7 @@ Der Gipfel des Berges funkelt
 Im Abendsonnenschein  
 
 
+{:start="2"}  
 2. Die schönste Jungfrau sitzet  
 Dort oben wunderbar  
 Ihr goldenes Geschmeide blitzet  
@@ -24,6 +26,7 @@ Das hat eine wundersame
 Gewaltige Melodei  
 
 
+{:start="3"}  
 3. Den Schiffer im kleinen Schiffe  
 Ergreift es mit wildem Weh  
 Er schaut nicht die Felsenriffe  

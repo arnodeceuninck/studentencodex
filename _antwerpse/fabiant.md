@@ -11,18 +11,21 @@ Beestjes in potten
 En popupopuliere zat !  
 
 
+{:start="1"}  
 1. En van de beestjes  
 Zien wij het af  
 En al ons grieten  
 Maken wij pompaf  
 
 
+{:start="2"}  
 2. De vruchtbeginsels  
 En d’honingklier  
 Houden ons mannen  
 Van het schuimend bier  
 
 
+{:start="3"}  
 3. De wet van ohm  
 En chi-kwadraat  
 Geef ons een pint  

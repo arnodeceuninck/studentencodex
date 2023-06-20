@@ -3,6 +3,7 @@ title: Die winter is verganghen
 page: 182
 ---  
 
+{:start="1"}  
 1. ‘Die winter is verganghen,  
 ic sie des meien schijn;  
 ic sie die bloemkens hanghen,  
@@ -13,6 +14,7 @@ daer singhet die nachtegale,
 also menich woutvoghelkijn.  
 
 
+{:start="2"}  
 2. ‘Ic wil den mei gaen houwen  
 al in dat groene gras,  
 ende schenken mijn boel die trouwe,  
@@ -23,6 +25,7 @@ ende ontfanghen den mei met bloemen,
 hi is so wel ghedaen.’  
 
 
+{:start="3"}  
 3. Ende doe die suiverlike  
 sijn reden hadde ghehoort,  
 doe stont si trurentlike,  
@@ -33,6 +36,7 @@ Hi cust si aen haer wanghen:
 was dat niet eerbaerheit?  
 
 
+{:start="4"}  
 4. Hi nam si sonder truren  
 al in sijn aermkens blanc.  
 Die wachter op der muren  
@@ -43,6 +47,7 @@ ic sie den dach op dringhen
 al door die wolken claer.’  
 
 
+{:start="5"}  
 5. \- ‘Och wachter op der muren,  
 hoe quelstu mi so hart,  
 ic ligghe in swaren truren,  
@@ -53,6 +58,7 @@ dat claghic God den Heren,
 dat ic si laten moet.  
 
 
+{:start="6"}  
 6. ‘Adieu myn alreliefste,  
 adieu schoon bloemken fijn,  
 adieu schoon rosebloeme,  

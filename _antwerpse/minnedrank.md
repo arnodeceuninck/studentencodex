@@ -3,6 +3,7 @@ title: Minnedrank
 page: 99
 ---  
 
+{:start="1"}  
 1. Eertijds toen de vrije Vlamen,  
 Op den dag der kerelsmaal,  
 Welgezind te gare kwamen  
@@ -18,6 +19,7 @@ Broederlijk in ’t rond gedronken,
 Bij der lied’ren vrijen klank!  
 
 
+{:start="2"}  
 2. Sa, het bier schuime in de schale,  
 ’t Zuiver, krachtig, Vlaamse bier;  
 ’t Is hier gilde, ’t is hier male,  
@@ -28,6 +30,7 @@ En gedronken minne eendrachtig
 Tot het sterken van den band.  
 
 
+{:start="3"}  
 3. Drinken we al ons minne samen:  
 Minne van ons Vlaanderland  
 Van ons vaders, de oude Vlamen,  

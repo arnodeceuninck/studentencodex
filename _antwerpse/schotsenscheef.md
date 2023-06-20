@@ -3,6 +3,7 @@ title: Schots en scheef
 page: 159
 ---  
 
+{:start="1"}  
 1.  Een schot was op erasmus aan de Schelde vorig jaar  
 En als hij uitging droeg hij fier zijn kilt in 't openbaar   
 Maar op een avond dronk bij zich met Belgisch bier halfrond  
@@ -13,6 +14,7 @@ Ring ding tingeling dong
 En legde zich toen uitgeteld te slapen in de goot  
 
 
+{:start="2"}  
 2. Er waren twee studentes in diezelfde buurt op stap  
 En een van die twee meisjes vond die Schot waanzinnig knap  
 Ze heeft de vraag in ieders hoofd onmiddelijk gesteld:   
@@ -24,18 +26,21 @@ Ring ding tingeling dong
 _[De laatste regel wordt telkens herhaald]_  
 
 
+{:start="3"}  
 3. Dus giechelend beslopen ze de Schot daar in de goot  
 Ze trokken traag zijn kilt omhoog, totdat die inzicht bood  
 En niet verhuld door ondergoed, maar ongerept en puur,  
 Hing daar in volle glorie een Schots wonder der natuur  
 
 
+{:start="4"}  
 4. In heerlijke bewondering om onze kampioen  
 Besloten ze iets grappigs met zijn doedelzak te doen  
 En als verassing bonden ze dus rond zijn Keltisch kruis  
 Een stukje van hun clublint en toen gingen ze naar huis  
 
 
+{:start="5"}  
 5. En 's morgens werd de Schot gewekt door hoogdringende druk  
 Hij zwalpte naar een brievenbus en greep zijn Pietje Puk  
 Hij dacht verbaasd: Ik weet niet eens meer dat ik heb gezoend  

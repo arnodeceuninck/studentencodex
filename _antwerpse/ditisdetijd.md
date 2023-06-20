@@ -4,6 +4,7 @@ page: 248
 ---  
 
 
+{:start="1"}  
 1. Dit is de tijd dat van land tot land,  
 de stormwind waait, die zucht van eeuwen lijden,  
 die zuiv'ren zal en kaf van koren scheiden.  
@@ -12,6 +13,7 @@ voor nieuw geloof, de nieuwe eng'len rijden.
 Dit is de tijd!  
 
 
+{:start="2"}  
 2. Dit is de tijd dat van stad tot stad,  
 de vonken slaan waarin zich pijn ontspande,  
 tot zuiv'rend vuur dat alles zal verbranden.  
@@ -20,6 +22,7 @@ tot as vergaat met balken en met wanden.
 Dit is de tijd!  
 
 
+{:start="3"}  
 3. Dit is de tijd dat van straat tot straat,  
 de boodschap kruipt dat tirannen moeten wijken.  
 Dat jonge handen nieuwe maten ijken,  
@@ -28,6 +31,7 @@ de meters zijn voor armen en voor rijken.
 Dit is de tijd!  
 
 
+{:start="4"}  
 4. Dit is de tijd dat van huis tot huis,  
 de zekerheid groeit dat 't ergste is geleden,  
 de zekerheid dat 't hardste is gestreden.  

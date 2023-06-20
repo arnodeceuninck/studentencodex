@@ -4,6 +4,7 @@ page: 369
 ---  
 
 
+{:start="1"}  
 1.  Up to mighty London came  
 An Irish lad one day,  
 All the streets were paved with gold,  
@@ -24,6 +25,7 @@ It's a long long way to Tipperary,
 But my heart's right there.  
 
 
+{:start="2"}  
 2. Paddy wrote a letter  
 To his Irish Molly O',  
 Saying, "Should you not receive it,  
@@ -34,6 +36,7 @@ Molly dear", said he,
 Don't lay the blame on me".  
 
 
+{:start="3"}  
 3. Molly wrote a neat reply  
 To Irish Paddy O',  
 Saying, "Mike Maloney wants  

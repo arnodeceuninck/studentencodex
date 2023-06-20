@@ -3,6 +3,7 @@ title: Van twee conincskinderen
 page: 176
 ---  
 
+{:start="1"}  
 1. Het waren twee conincskinderen,  
 Sy hadden malcander soo lief;  
 Sy conden byeen niet comen,  
@@ -13,6 +14,7 @@ Als savonds het dagelicht sonc.
 Dat deed sconincs sone, was jonc.  
 
 
+{:start="2"}  
 2. Dit sach daer een oude quene1  
 Een al soo vilijnich vel:  
 Sy ghinker dat licht uytblasen.  
@@ -23,6 +25,7 @@ Mocht icker een wijle gaen wandelen;
 Gaen wandelen al langs de see!’  
 
 
+{:start="3"}  
 3. \- ‘Och dochter, mijn liefste dochter,  
 Alleen en moogt ghy daer niet gaen:  
 Maer wect uwe joncste suster,  
@@ -33,6 +36,7 @@ Sy pluckter wel alle die bloemekens
 Die sy onder weghen vint.  
 
 
+{:start="4"}  
 4. Sy pluckter wel alle die bloemekens,  
 Die bladerkens laet sy staen.  
 Dan claghen die lieden en seggen  
@@ -43,6 +47,7 @@ Maer wect uwen joncsten broeder,
 Laet hem met u wandelen gaen.’  
 
 
+{:start="5"}  
 5. \- ‘Och moeder, mijn joncste broeder  
 Is noch een soo cleinen kint:  
 Hy loopter naer alle de voghels  
@@ -53,6 +58,7 @@ Tot sy er by twater een visscher,
 Haers vaders visscher, vant.  
 
 
+{:start="6"}  
 6. ‘Och visscher, soo sprac sy, visscher,  
 Mijns vaders visscherkijn,  
 Ghy soudt er voor my eens visschen  
@@ -63,6 +69,7 @@ Int corte was daer gevisschet
 Sconincs sone, van jaren was jonc.  
 
 
+{:start="7"}  
 7. Wat troc sy van haren hande?  
 Een vingherlinc roode van goud.  
 ‘Houd daer, seyde sy, goede visscher,  
@@ -73,6 +80,7 @@ En custe hem aen sijnen mond.
 Och, herteken, waert ghy gesont!’  
 
 
+{:start="8"}  
 8. Sy hielter haer lief in haer armen  
 En spronc er met hem in de see.  
 ‘Adieu, seyde sy, schoone wereld,  

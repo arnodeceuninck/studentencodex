@@ -3,6 +3,7 @@ title: Ergo bibamus
 page: 109
 ---  
 
+{:start="1"}  
 1. Hier zijn we te samen om leutig te doen  
 Sa broederkens "Ergo Bibamus"!  
 De glazekens lachen, toe geef ze 'nen zoen.  
@@ -13,6 +14,7 @@ De lustige echo van 't feestelijk oord,
 Het heerlijke "Ergo Bibamus"! (bis)  
 
 
+{:start="2"}  
 2. Ons hart is nog jong en ons lied klinkt nog hel,  
 Ons feestelijk Ergo Bibamus!  
 En moeten we scheiden ons laatste vaarwel  
@@ -23,6 +25,7 @@ De vrolijke vrienden uit vroegeren tijd
 Die 't zongen, ons Ergo Bibamus! (bis)  
 
 
+{:start="3"}  
 3. En komen wij ooit naar de hogeschool weer  
 En zingt men ons nog Ergo Bibamus!  
 Dat 't dreun' door de straten lijk 't dreunde weleer,  

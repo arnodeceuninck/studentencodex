@@ -3,6 +3,7 @@ title: Die Lore am Tore
 page: 288
 ---  
 
+{:start="1"}  
 1. Von allen den Mädchen so blink und so blank  
 Gefällt mir am besten die Lore;  
 Von allen den Winkeln und Gässchen der Stadt  
@@ -13,6 +14,7 @@ Sie ist mein Gedanke bei Tag und bei Nacht
 und wohnet im Winkel am Tore  
 
 
+{:start="2"}  
 2. Und kommt sie getrippelt das Gäßchen herab,  
 so wird mir ganz schwül vor den Augen,  
 Und hör‘ ich von weitem ihr leises Klipp, Klapp,  
@@ -23,6 +25,7 @@ Sie ist mein Gedanke bei Tag und bei Nacht,
 und wohnet im Winkel am Tore.  
 
 
+{:start="3"}  
 3. Und kommt nun das Frühjahr und Pfingsten heran,  
 nach Handwerksgebrauch müßt ich wandern,  
 Dann werd ich jedoch für mein eigenes Geld  

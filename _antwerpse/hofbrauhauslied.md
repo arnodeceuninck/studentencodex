@@ -5,6 +5,7 @@ page: 290
 
 
 
+{:start="1"}  
 1. Da, wo die grüne Isar fließt,  
 Wo man mit "Grüß Gott" dich grüßt,  
 Liegt meine schöne Münch'ner Stadt,  
@@ -28,6 +29,7 @@ Und spät am Abend kam er heraus
 So schön ist's im Hofbräuhaus.  
 
 
+{:start="2"}  
 2. Da trinkt man Bier nicht aus dem Glas,  
 Da gibt's nur "die große Maß!"  
 Und wenn der erste Maßkrug leer,  
@@ -39,6 +41,7 @@ Die wissen besser Bescheid!
 In München steht ein...  
 
 
+{:start="3"}  
 3. Wenn auch so manche schöne Stadt  
 Sehenswürdigkeiten hat,  
 Eins gibt es nirgendwo wie hier:  

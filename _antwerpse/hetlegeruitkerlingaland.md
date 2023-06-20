@@ -3,6 +3,7 @@ title: Het leger uit Kerlingaland
 page: 92
 ---  
 
+{:start="1"}  
 1. De vrijheidszwaarden vroom gewijd  
 vast in ons vuist gekneld!  
 Met Zannekin gaan we ten strijd  
@@ -15,12 +16,14 @@ Staat de jeugd van Kerlingaland,
 trouw op de wacht!  
 
 
+{:start="2"}  
 2. De trommen roff'len voor de slag,  
 klaroenen schallen wijd,  
 Wij bouwen rond de Leeuwenvlag  
 een wal van weerbaarheid.  
 
 
+{:start="3"}  
 3. En bijten velen in 't zand,  
 wij blijven moedig trouw!  
 Want 't leger uit Kerlingaland  

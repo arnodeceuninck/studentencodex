@@ -11,12 +11,14 @@ Toch blijf ik maar drinken, het zit mij in ’t bloed
 Ik ben als de zee met een eeuwige vloed.  
 
 
+{:start="1"}  
 1. Mijn handen staan scheef, mijn benen staan krom  
 Ik weet dat ik leef, maar ik weet niet waarom  
 Geen vrouw kijkt me aan, geen lief lacht me toe  
 Mijn triestig gezicht zijn ze allemaal moe.  
 
 
+{:start="2"}  
 2. Ik pas in geen huis, ik slaap in geen bed  
 Nooit heeft mij een vrouw een bord soep voorgezet  
 Ik ben heel alleen, ik heb zo'n verdriet  

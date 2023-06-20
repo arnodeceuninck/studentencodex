@@ -3,6 +3,7 @@ title: De liereman
 page: 210
 ---  
 
+{:start="1"}  
 1. Der was eens ne liereman  
 Uit lieren ja gegaan,  
 En wat zag hij onder   

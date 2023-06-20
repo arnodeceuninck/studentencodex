@@ -6,6 +6,7 @@ melodie: Emiel Hullebroeck
 note: © ANZ vzw
 ---  
 
+{:start="1"}  
 1. Ik zie er dat Vlaand'ren zo geren!  
 Kent gij de taal van mijn land?  
 De taal is het niet van de Heren,  
@@ -18,6 +19,7 @@ Ik sta voor mijn Vlaams, 't Vlaams van mijn land,
 van Vlaand'ren!  
 
 
+{:start="2"}  
 2. Ik zie er dat Vlaanderen zo geren!  
 Kent gij het volk van mijn land?  
 Het wroet om verlost van de Heren,  
@@ -30,6 +32,7 @@ Ik sta voor mijn volk, 't volk van mijn land,
 van Vlaand'ren!  
 
 
+{:start="3"}  
 3. Ik zie er dat Vlaand'ren zo geren!  
 Kent gij dat Vlaand'ren, mijn land?  
 Mijn toren, die lacht om de Heren,  

@@ -3,6 +3,7 @@ title: Tineke van Heule
 page: 472
 ---  
 
+{:start="1"}  
 1. Tineke van Heule, ons maartje,  
 Kan werken gelijk een paardje,  
 Kan melken, kan mesten,  
@@ -20,6 +21,7 @@ Liever dan een freule, Tineke van Heule, )
 Tineke, ons maartjen in haar hemd ! ) (bis)  
 
 
+{:start="2"}  
 2. Tineke heeft geld noch goedje,  
 Noch landeke, noch pandeke, noch koetje,  
 Noch huisje, noch kruisje,  
@@ -31,6 +33,7 @@ Met haar emmer in de zon,
 En haar klompeken vast aan haar voetje.  
 
 
+{:start="3"}  
 3. Tineke van Heule, mijn minneken,  
 Op u staat mijn zoetste zinneken,  
 U lust ik, u kust' ik,  

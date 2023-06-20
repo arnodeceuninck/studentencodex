@@ -4,6 +4,7 @@ page: 432
 ---  
 
 
+{:start="1"}  
 1.  Quae voluptas quae voluptas )  
     Est amare )  
     Pulchram filiam pastoris! ) (bis)  
@@ -11,6 +12,7 @@ page: 432
     O admiranda filia pastoris! ) (bis)  
 
 
+{:start="2"}  
 2. Tis hedone, tis hedone )  
     Estin Agapan )  
     Kalan koren poimenos! ) (bis)  
@@ -18,6 +20,7 @@ page: 432
     O thaumasia koren poimenos! ) (bis)  
 
 
+{:start="3"}  
 3. Welch Vergnügen welch Vergnügen )  
     Ist's zu lieben )  
     Des Hirten schönstes Töchterlein! ) (bis)  
@@ -25,6 +28,7 @@ page: 432
     O wunderbares Hirten Töchterlein! ) (bis)  
 
 
+{:start="4"}  
 4. Quel delice, quel delice )  
     Est d'aimer )  
     La jolie fille du pasteur! ) (bis)  
@@ -32,6 +36,7 @@ page: 432
     O merveilleuse fille du pasteur! ) (bis)  
 
 
+{:start="5"}  
 5. Que delicia, que delicia )  
     Es amarte )  
     Hermosa hija del pastor! ) (bis)  
@@ -39,6 +44,7 @@ page: 432
     O mas hermosa hija del pastor! ) (bis)  
 
 
+{:start="6"}  
 6. Co za radosc, co za radosc )  
     Jest kochanie )  
     Piekna corke pastora! ) (bis)  
@@ -46,6 +52,7 @@ page: 432
     O nadzwyczajna corko pastora! ) (bis)  
 
 
+{:start="7"}  
 7. Hvad fornojelse, hvad fornojelse )  
     Er at elske )  
     Hyrdens smukke datteren! ) (bis)  
@@ -53,6 +60,7 @@ page: 432
     O vidunderlig hyrdens datter! ) (bis)  
 
 
+{:start="8"}  
 8. What a pleasure, what a pleasure )  
     't Is to love )  
     The most gorgeous sheperd's girl! ) (bis)  
@@ -60,6 +68,7 @@ page: 432
     Oh magnificent, graceful shepard's girl! ) (bis)  
 
 
+{:start="9"}  
 9. Welk genoegen welk genoegen )  
    Is't te minnen )  
    Het mooiste meisje van de stad ) (bis)  

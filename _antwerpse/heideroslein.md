@@ -4,6 +4,7 @@ page: 309
 ---  
 
 
+{:start="1"}  
 1. Sah ein Knab' ein Röslein steh'n,  
 Röslein auf der Heiden,  
 War so jung und war so schön  
@@ -13,6 +14,7 @@ Röslein, Röslein, Röslein rot,
 Röslein auf der Heiden.  
 
 
+{:start="2"}  
 2. Knabe sprach: Ich breche dich,  
 Röslein auf der Heiden.  
 Röslein sprach: Ich steche dich,  
@@ -22,6 +24,7 @@ Röslein, Röslein, Röslein rot,
 Röslein auf der Heiden.  
 
 
+{:start="3"}  
 3. Und der wilde Knabe brach  
 's Röslein auf der Heiden;  
 Röslein wehrte sich und stach,  

@@ -3,6 +3,7 @@ title: Testament van een student
 page: 150
 ---  
 
+{:start="1"}  
 1. In het diepste mijner schoven,  
 Vond ik laatst het testament  
 Van een jongen, die te Loven  
@@ -20,6 +21,7 @@ Keer ze daaglijks 't bovenste onder
 D'oude Petermannenstee!  
 
 
+{:start="2"}  
 2. 'k Laat u op mijn oude kamer,  
 Neen, te Leuven zegt men kot,  
 Enen stok gelijk 'nen hamer  
@@ -30,6 +32,7 @@ Mocht hij u ook lange jaren,
 Kloek en trouw ter zijde staan.  
 
 
+{:start="3"}  
 3. 'k Laat u nog hetgeen me op aarde  
 't Kostbaarste en het liefste was:  
 Mijne muts die 't al vervaarde,  
@@ -40,6 +43,7 @@ En gaat u in 't bier versmoren,
 Bier uit mijne dekselpint!  
 
 
+{:start="4"}  
 4. Zo geraakt ge aan de oude dagen  
 Zonder enen enk'len traan;  
 En vangt dan de wijze, al klagen,  

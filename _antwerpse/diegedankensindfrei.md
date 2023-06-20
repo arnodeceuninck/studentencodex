@@ -4,6 +4,7 @@ page: 318
 ---  
 
 
+{:start="1"}  
 1. Die Gedanken sind frei,  
 Wer kann sie errathen?  
 Sie rauschen vorbei  
@@ -14,6 +15,7 @@ Es bleibet dabei:
 Die Gedanken sind frei.  
 
 
+{:start="2"}  
 2. Ich denke was ich will  
 Und was mich beglücket,  
 Doch alles in der Still  
@@ -24,6 +26,7 @@ Es bleibet dabei:
 Die Gedanken sind frei.  
 
 
+{:start="3"}  
 3. Und sperrt man mich ein  
 Im finsteren Kerker,  
 Das alles sind rein  
@@ -34,6 +37,7 @@ Und Mauern entzwei:
 Die Gedanken sind frei.  
 
 
+{:start="4"}  
 4. Nun will ich auf immer  
 Den Sorgen entsagen,  
 Und will mich auch nimmer  
@@ -44,6 +48,7 @@ Und denken dabei:
 Die Gedanken sind frei.  
 
 
+{:start="5"}  
 5. Ich liebe den Wein,  
 Mein Mädchen vor allen,  
 Die thut mir allein  

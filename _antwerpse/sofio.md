@@ -4,12 +4,14 @@ page: 511
 melodie: Land of Hope and Glory
 ---  
 
+{:start="1"}  
 1. Met zwaard en weegschaal en ’t wetboek,  
 SOFIA dienen wij!  
 Maar ook pinten en liedren,  
 horen er zeker bij  
 
 
+{:start="2"}  
 2. Wij zijn hier allen tesamen,  
 staan hier hand in hand,  
 om het glas te heffen  

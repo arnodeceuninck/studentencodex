@@ -3,6 +3,7 @@ title: Hemelhuis
 page: 232
 ---  
 
+{:start="1"}  
 1.  1. Door mijn woning  
 speelt een zonnig licht.  
 'k Voel m'een kleine koning  
@@ -12,6 +13,7 @@ op mijn sterke jeugd;
 En ze hoog te dragen )  
 in mijn vreugd! ) (bis)  
 
+{:start="2"}  
 2. Daar op 't schouwke  
 prijkt mijn enig kruis.  
 Wees mijn engel, vrouwke,  
@@ -21,6 +23,7 @@ wees mijn zoetste troost,
 frisse levensbloemen, )  
 krachtig kroost. ) (bis)  
 
+{:start="3"}  
 3. O, mijn kind'ren!  
 Graag gebroken brood!  
 Zou 't geluk vermind'ren  

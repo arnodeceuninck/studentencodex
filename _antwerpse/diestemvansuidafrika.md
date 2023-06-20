@@ -5,6 +5,7 @@ author: 1918, Cornelis Jacobus Langenhoven (1873-1932)
 melodie: 1921, Marthinus Lourens De Villiers (1885-1977)
 ---  
 
+{:start="1"}  
 1. Uit die blou van onse hemel,  
 uit die diepte van ons see,  
 Oor ons ewige gebergtes,  
@@ -19,6 +20,7 @@ Ons sal lewe, ons sal sterwe -
 ons vir jou, Suid-Afrika.  
 
 
+{:start="2"}  
 2. In die merg van ons gebeente,  
 in ons hart en siel en gees,  
 In ons roem op ons verlede,  
@@ -32,6 +34,7 @@ van jou naam met ere dra:
 Waar en trou, as Afrikaners -  
 kinders van Suid-Afrika.  
 
+{:start="3"}  
 3. In die songloed van ons somer,   
 in ons winternag se kou,  
 In die lente van ons liefde,   
@@ -45,6 +48,7 @@ sê ons altyd, altyd ja:
 Om te lewe, om te sterwe -   
 Ja, ons kom Suid-Afrika.  
 
+{:start="4"}  
 4. Op U Almag vas vertrouend   
 het ons vadere gebou:  
 Skenk ook ons die krag, o Here!   

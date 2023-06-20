@@ -3,6 +3,7 @@ title: Voor outer en heerd
 page: 86
 ---  
 
+{:start="1"}  
 1. Geen roekeloze wagers:  
 stil volk dat zich beraadt  
 Aleer het zijn belagers  
@@ -17,6 +18,7 @@ of grepen naar 't geweer.
 onverveerd voor Outer en Heerd ! (bis)  
 
 
+{:start="2"}  
 2. Zij steunden op Oranje's:  
 de Nederlanden één !  
 En juichten toen Brittannië's  
@@ -27,6 +29,7 @@ Zijn allen sterk en trouwe
 gesprongen in de brand.  
 
 
+{:start="3"}  
 3. Rolliers, Corbeels, Van Gansen,  
 bevochten onverveerd,  
 Met wisselende kansen,  

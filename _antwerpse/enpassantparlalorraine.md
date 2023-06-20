@@ -3,6 +3,7 @@ title: En passant par la Lorraine
 page: 407
 ---  
 
+{:start="1"}  
 1. En passant par la Lorraine, Avec mes sabots, (bis)  
 Rencontrai trois capitaines,  
 

@@ -4,6 +4,7 @@ page: 415
 ---  
 
 
+{:start="1"}  
 1.  Je me baladais sur l'avenue  
 Le cœur ouvert à l'inconnu  
 J'avais envie de dire bonjour à n'importe qui  
@@ -20,6 +21,7 @@ Il y a tout ce que vous voulez
 Aux Champs-Élysées  
 
 
+{:start="2"}  
 2. Tu m'as dit "j'ai rendez-vous  
 Dans un sous-sol avec des fous  
 Qui vivent la guitare à la main du soir au matin"  
@@ -28,6 +30,7 @@ On a chanté, on a dansé
 Et l'on n'a même pas pensé à s'embrasser  
 
 
+{:start="3"}  
 3. Hier soir deux inconnus  
 Et ce matin sur l'avenue  
 Deux amoureux tout étourdis par la longue nuit  

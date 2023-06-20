@@ -10,6 +10,7 @@ Al heb ik geen geld om plezier te betalen,
 Ik vind wel een vrouwke heel net en genereus,  
 
 
+{:start="1"}  
 1. Onder de glans van de manestralen,  
 Wordt heel onze wereld een huwelijks bed,  
 Ga mee naar de kroegen vol vrouwen en matrozen,  
@@ -22,6 +23,7 @@ Al heb ik geen geld om plezier te betalen,
 Ik vind wel een vrouwke naar mijn keus,  
 
 
+{:start="2"}  
 2. Laat ons dan samen de wereld verteren,  
 Met klinkende glazen vol Franse wijn,  
 Zingt mee met de mensen dat hebben ze geiren,  

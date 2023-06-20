@@ -3,6 +3,7 @@ title: Aan de schachten
 page: 120
 ---  
 
+{:start="1"}  
 1. Tracht 't kollegie te vergeten,  
 Schaten, en het dood latijn,  
 Dat u nievers meer in Leuven  
@@ -12,6 +13,7 @@ Maar onthoudt de wijze les:
 'Nunquam soli, semper tres.'  
 
 
+{:start="2"}  
 2. Leert de blijde vrijheid kennen,  
 Leuven, leven en genot  
 Laat de domgeleerde blokkers  
@@ -21,6 +23,7 @@ en begrijpt de wijze les:
 'Nunquam soli, semper tres'  
 
 
+{:start="3"}  
 3. Zingt en buldert 's avonds late,  
 staakt uw woelig tieren niet  
 tot de laatste en meeste slaper  
@@ -30,6 +33,7 @@ en begrijpt de wijze les:
 'Nunquam soli, semper tres'  
 
 
+{:start="4"}  
 4. Tergt de grillige 'pandoeren'  
 Wijkt voor niemand en miskent  
 al de zotte stipulatien  
@@ -39,6 +43,7 @@ en begrijpt de wijze les:
 'Nunquam soli, semper tres'  
 
 
+{:start="5"}  
 5. Nunquam soli, hard gevierd!  
 Geen pandoeren mogen rusten!  
 Nooit alleene! Roept en tiert  

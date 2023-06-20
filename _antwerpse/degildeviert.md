@@ -3,6 +3,7 @@ title: De gilde viert
 page: 106
 ---  
 
+{:start="1"}  
 1. De gilde viert, de gilde juicht,  
 Wat zit gij daar en blokt en buigt  
 Nog over uwe boeken?  
@@ -18,6 +19,7 @@ Hoog het glas! Hoog het hart!
 Hoog het lied!  
 
 
+{:start="2"}  
 2. De beker ruist, de beker schuimt!  
 Sa makkers, fris en opgeruimd  
 Het glas aan uwe lippen!  
@@ -26,6 +28,7 @@ En, geestvesnipp'rend, dwaasheen snoert,
 Drink water als de kippen!  
 
 
+{:start="3"}  
 3. Het pijpke dampt in monkelmond  
 En spreidt wellustig in het rond  
 Studentikoze geuren!  
@@ -34,6 +37,7 @@ En perkamenten reuken snuift,
 Krijgt perkamenten kleuren!  
 
 
+{:start="4"}  
 4. De gilde juicht, de gilde viert,  
 Hoera! de pet omhoog gezwierd,  
 En nog eens hard geklonken!  

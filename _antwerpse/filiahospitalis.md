@@ -3,6 +3,7 @@ title: Filia Hospitalis
 page: 
 ---  
 
+{:start="1"}  
 1. O heerlijke studententijd  
 Met talloze vermaken,  
 Met minnetochten wijd en zijd,  
@@ -15,6 +16,7 @@ En toch is niets aequalis, )
 Aan Filia Hospitalis       ) (bis)  
 
 
+{:start="2"}  
 2. Ik kwam als eerstejaars hier aan  
 En speurde door de straten  
 Waar ik een stoel en bed vond staan  
@@ -27,6 +29,7 @@ Want niemand is aequalis, )
 Aan Filia Hospitalis      ) (bis)  
 
 
+{:start="3"}  
 3. Het is zo'n alleraardigst kind  
 Met zachte blauwe ogen,  
 De voetjes trippelend gezwind  
@@ -39,6 +42,7 @@ Neen niemand is aequalis, )
 Aan Filia Hospitalis      ) (bis)  
 
 
+{:start="4"}  
 4. Drie huurders heeft ze: de jurist  
 Bezoekt slechts fijne kringen,  
 De medicus heeft zich vergist  
@@ -51,6 +55,7 @@ Daarom is niets aequalis, )
 Aan Filia Hospitalis      ) (bis)  
 
 
+{:start="5"}  
 5. O liefste blonde, wist ik toch,  
 Wat God wil met ons beiden,  
 Een laatste kusje geef me nog  

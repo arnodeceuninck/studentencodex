@@ -4,6 +4,7 @@ page: 37
 note: "Internationaal studentenlied ontstaan in Leiden aan het eind van de 18e eeuw"
 ---  
 
+{:start="1"}  
 1. Io vivat! Io vivat!  
 Nostrorum sanitas!  
 Hoc est amoris poculum,  
@@ -12,6 +13,7 @@ Io vivat! Io vivat!
 Nostrorum sanitas!  
 
 
+{:start="2"}  
 2. Io vivat! Io vivat!  
 Nostrorum sanitas!  
 Dum nihil est in poculo,  
@@ -20,6 +22,7 @@ Io vivat! Io vivat!
 Nostrorum sanitas!  
 
 
+{:start="3"}  
 3. Io vivat! Io vivat!  
 Nostrorum sanitas!  
 Nos iungit amicitia,  
@@ -28,6 +31,7 @@ Io vivat! Io vivat!
 Nostrorum sanitas!  
 
 
+{:start="4"}  
 4. Io vivat! Io vivat!  
 Nostrorum sanitas!  
 Est vita nostra brevior,  
@@ -36,6 +40,7 @@ Io vivat! Io vivat!
 Nostrorum sanitas!  
 
 
+{:start="5"}  
 5. Io vivat! Io vivat!  
 Nostrorum sanitas!  
 Osores nostri pereant,  
@@ -44,6 +49,7 @@ Io vivat! Io vivat!
 Nostrorum sanitas!  
 
 
+{:start="6"}  
 6. Io vivat! Io vivat!  
 Nostrorum sanitas!  
 Iam tota Academia,  

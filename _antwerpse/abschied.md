@@ -4,6 +4,7 @@ page: 298
 ---  
 
 
+{:start="1"}  
 1. Muß i' denn, muß i' denn  
 Zum Städtele hinaus, Städtele hinaus,  
 Und du, mein Schatz, bleibst hier.  
@@ -18,6 +19,7 @@ Wieder, wiederkomm, kehr i' ein,
 Mein Schatz bei dir.  
 
 
+{:start="2"}  
 2. Wie du weinst, wie du weinst,  
 Daß ich wandere muß, wandere muß,  
 Wie wenn d' Lieb' jetzt wär' vorbei.  
@@ -31,6 +33,7 @@ Der Mädele viel, Mädele viel,
 Lieber Schatz, i' bleib dir treu.  
 
 
+{:start="3"}  
 3. Übers Jahr, übers Jahr,  
 Wenn mer Träubele schneid't,  
 Träubele schneid't,  

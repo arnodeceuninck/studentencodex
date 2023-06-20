@@ -3,6 +3,7 @@ title: Ach liefelijke meisjes
 page: 119
 ---  
 
+{:start="1"}  
 1. Er liep eens een schachtje door Leuven;  
 Hij was vol ijver en vlijt.  
 Toen zag hij de schoonste schachtin van het jaar,  
@@ -17,6 +18,7 @@ Alleen studeren telt
 Aan d'Universiteit.  
 
 
+{:start="2"}  
 2. Toen kwam er de dag dat hij groot werd:  
 Hij ging voor 't eerst naar de club.  
 Hij werd er gedoopt en hij dronk er jack-Op  
@@ -31,6 +33,7 @@ Alleen de club die telt
 Aan d'Universiteit.  
 
 
+{:start="3"}  
 3. Maar eens komt een eind' aan 't studeren.  
 Dan werkt hij zelf voor zijn brood.  
 Dan denkt hij aan trouwen, aan kind'ren en huis  

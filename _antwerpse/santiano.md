@@ -2,6 +2,7 @@
 title: Santiano
 page: 413
 ---  
+{:start="1"}  
 1.  C'est un fameux trois-mâts fin comme un oiseau  
 Hissez haut ! Santiano !  
 Dix-huit nœuds, quatre cents tonneaux  
@@ -14,12 +15,14 @@ D'y penser j'avais le coeur gros
 En doublant les feux de Saint-Malo  
 
 
+{:start="3"}  
 3. On prétend que, là-bas, l'argent coule à flot  
 Hissez haut ! Santiano !  
 On trouve l'or au fond des ruisseaux  
 J'en ramènerai plusieurs lingots  
 
 
+{:start="4"}  
 4. Un jour je reviendrai chargé de cadeaux  
 Hissez haut ! Santiano !  
 Au pays j'irai voir Margot  

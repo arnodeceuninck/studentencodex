@@ -4,6 +4,7 @@ page: 292
 ---  
 
 
+{:start="1"}  
 1. Das Trinken, das soll man nicht lassen,  
 Das Trinken regiert doch die Welt,  
 Man soll auch den Menschen nicht hassen,  
@@ -22,6 +23,7 @@ Meide den Kummer und meide den Schmerz,
 Dann ist das Leben ein Scherz!  
 
 
+{:start="2"}  
 2. Das Lieben, das Trinken, das Singen  
 Schafft Freude und fröhlichen Mut.  
 Den Frauen, den mußt du eins bringen,  
@@ -32,6 +34,7 @@ Denn wenn man beim schönsten Trunk ist,
 Bekommt man sehr leicht eine Frau.  
 
 
+{:start="3"}  
 3. Der Moses, der hat, gar nicht übel,  
 Ein elftes Gebot noch erdacht,  
 Das steht aber nicht in der Bibel,  
@@ -42,6 +45,7 @@ Ich aber, ich will es euch sagen,
 Ja, wißt ihr denn auch wie es heißt?  
 
 
+{:start="4"}  
 4. Wenn du erwachst am Morgen  
 Und schlägst die Augen dann auf,  
 Bedrängen dich oft Sorgen  
@@ -52,6 +56,7 @@ An solchen schweren Tagen
 Ruf ich als Freund dir zu:  
 
 
+{:start="5"}  
 5. Bei Freunden, Frau'n und Liedern  
 Beruhigst du oft dein Herz,  
 Doch kommt der Gram bald wieder,  

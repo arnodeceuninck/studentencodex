@@ -3,6 +3,7 @@ title: Is er schoner leven dan 't studentenleven?
 page: 128
 ---  
 
+{:start="1"}  
 1. Is er schoner leven dan 't studentenleven:  
 't Spoor van Bacchus en Gambrinus gaan?  
 Al je geld verzuipen, laat je bed in kruipen,  
@@ -13,6 +14,7 @@ Bij je laatste sollen denk je: geld moet rollen!
 Da's een toegewijd commilito.  
    
 
+{:start="2"}  
 2. Ook voor liefjes sparen, zijn de studiejaren  
 Ideaal: wij staan in Venus' gunst.  
 Jonge meisjes plagen, dan om liefde vragen,  
@@ -23,6 +25,7 @@ Ergens diep inwendig, brandt het vuur bestendig
 Bij elk toegewijd commilito.  
 
 
+{:start="3"}  
 3. Bij de mooiste dingen is het samen zingen,   
 Dat geeft aan het leven grote vreugd.  
 Ook in oude boeken, nieuwe liedjes zoeken,   
@@ -33,6 +36,7 @@ Vieren met gezangen, pet op, lint omhangen,
 Da's een toegewijd commilito.  
 
    
+{:start="4"}  
 4. Vader zegt: "Zo'n cantus is slecht voor 't verstand, dus  
 Dat helpt u bij het studeren niet."  
 Ik zeg: "Pa, geen zorgen, blokken doe ik morgen.   

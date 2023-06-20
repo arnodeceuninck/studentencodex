@@ -27,6 +27,7 @@ Ja want iets mooiers kon er niet bestaan.
 dat er tijden zijn van komen en van gaan.  
 
    
+{:start="2"}  
 2. In ’t tweede en in ’t derde jaar  
 leefd’ ik niet meer als kluizenaar,  
 maar ging geregeld op de rol.  
@@ -51,6 +52,7 @@ Ik was nu een rolder en besefte al wat meer
 dat er tijden zijn van komen en van gaan.  
 
 
+{:start="3"}  
 3. Het laatste jaar ging snel voorbij  
 met steeds meer vrienden aan mijn zij.  
 De studie zat er bijna op.  
