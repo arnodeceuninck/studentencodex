@@ -1,13 +1,13 @@
 ---
 title: Het kaerelslied
-page: 
+page: 76
 ---  
 
 {:start="1"}  
 1. Ic wil van den kaerle singhen  
 Al met sinen langen baert  
 Hine laet ghenen ruter hem dwinghen  
-Ontembaer so is ho vanaert  
+Ontembaer so is hi vanaert  
 Ende of sine cleeder ontnaeit sijn  
 Sin hooft mit een hoetkin ghecapt  
 En mach sin caproen ooc verdraeit sijn  

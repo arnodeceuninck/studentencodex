@@ -20,7 +20,7 @@ Wir sind die Moorsoldaten...
 
 
 {:start="4"}  
-4. Heimwärts, heimwärts jeder sehnet, zu den Eltern, Weib und Kind. Manche Brust ein Seufzer dehnet, weil wir hier gefangen sind.   
+4. Heimwärts, heimwärts jeder sehnet, Sich nach Eltern, Weib und Kind. Manche Brust ein Seufzer dehnet, weil wir hier gefangen sind.   
 Wir sind die Moorsoldaten...  
 
 

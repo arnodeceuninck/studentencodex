@@ -17,8 +17,8 @@ Wie ist das Leben schön!
 
 
 {:start="2"}  
-2. Alle Möpse rollen )  
-Alle Möpse rollen )  
+2. Alle Möpse bellen )  
+Alle Möpse bellen )  
 Nur der kleine Rollmops nicht! ) (bis)  
 
 

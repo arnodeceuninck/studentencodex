@@ -17,7 +17,7 @@ Maar onthoudt de wijze les:
 2. Leert de blijde vrijheid kennen,  
 Leuven, leven en genot  
 Laat de domgeleerde blokkers  
-hen begraven op hun kot!  
+zich begraven op hun kot!  
 Leert de blijde vrijheid kennen  
 en begrijpt de wijze les:  
 'Nunquam soli, semper tres'  
@@ -44,7 +44,8 @@ en begrijpt de wijze les:
 
 
 {:start="5"}  
-5. Nunquam soli, hard gevierd!  
+5. Leve Leuven en de vreugde!
+Nunquam soli, hard gevierd!  
 Geen pandoeren mogen rusten!  
 Nooit alleene! Roept en tiert  
 want men bezigt slechts in juli,  

@@ -4,7 +4,7 @@ page: 206
 ---  
 
 {:start="1"}  
-1. Sa, laat ons vroolijk wezen  
+1. Sa, laat ons vrolijk wezen  
 op Sint Antonius feest, feest, feest,  
 op Sint Antonius feest.  
 Sint Antonius en den duivel waren gemeen  
@@ -14,7 +14,7 @@ en ze dansten om het zeest.
 
 {:start="2"}  
 2. Een van Lucifers posturen  
-die wilde vroolijk zijn;  
+die wilde vrolijk zijn;  
 hij droeg een ijzer braadpan op zijn hoofd  
 en een vaatje met brandewijn.  
 

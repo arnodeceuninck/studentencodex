@@ -5,7 +5,7 @@ page: 884
 ---
 
 En wat drinken wij, wat drinken wij,	)  
-Wat drinken wij in de klues?		) (bis)  
+Wat drinken wij in de kluis?		) (bis)  
 Wij drinken gewoon plat water,  
 Voor ons is dat niet slecht,  
 Champangne is voor d' heren van 't gerecht.  

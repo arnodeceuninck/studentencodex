@@ -29,7 +29,7 @@ Van de dochter van de schout.
 {:start="2"}  
 2. De prins sprak op inspectie  
 Tot de majoor van de compagnie:  
-Ik zie hier alle stukken wel van mijn artillerie.  
+Ik zag hier alle stukken wel van mijn artillerie.  
 Ja zelfs dat kleine in uw kraag  
 En het blonde in uw bed.  
 Maar waar zit dat stuk ongeluk  

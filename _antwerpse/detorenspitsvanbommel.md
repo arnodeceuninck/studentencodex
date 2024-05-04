@@ -5,12 +5,12 @@ page: 236
 
 {:start="1"}  
 1.  Op een vlot van houten planken, planken  
-Zat een grote herdershond, herdershond  
+Zat een oude herdershond, herdershond  
 Zo erbarmelijk te janken, janken  
 Omdat hij zijn baas niet vond  
 
 - Maar te midden van die rommel, rommel  
-Dreef de torenspits van Bommel, bommel  
+Staat de torenspits van Bommel, bommel  
 Maar te midden van die rommel, rommel  
 Staat de torenspits van Bommel, bommel  
 
@@ -22,7 +22,7 @@ Want zijn schip dat was vergaan, was vergaan
 
 
 {:start="3"}  
-3. In een mand met verse broodjes, broodjes  
+3. In een mand vol verse broodjes, broodjes  
 Dreef des bakkers jongste kind, jongste kind  
 Zwaaide met zijn blote pootjes, pootjes  
 En stonk uren in de wind, in de wind  

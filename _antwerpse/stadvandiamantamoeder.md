@@ -4,7 +4,7 @@ page: 445
 ---  
 
 {:start="1"}  
-1.  Waar het royaal Bolleke\  
+1.  Waar het royaal Bolleke  
 Steeds het beste smaakt  
 En waar onze Lieve Vrouw  
 Statig over ons waakt  

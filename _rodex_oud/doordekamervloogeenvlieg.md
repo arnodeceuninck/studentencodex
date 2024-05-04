@@ -21,4 +21,4 @@ Nu is de kikker weduwnaar.
 In een gracht, zwart als de nacht,  
 Zwom een goudvis traag en zacht.  
 Aan de draad hing een rode aal,  
-Nu zwemt de vis in ee nbokaal.  
+Nu zwemt de vis in een bokaal.  

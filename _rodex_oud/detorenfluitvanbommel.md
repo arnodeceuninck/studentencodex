@@ -26,6 +26,6 @@ Zij lag heet om meer te hijgen,
 Maar ik stak hem zo ver ik kon.  
 
 Zij lag onder mij te wringen, wringen,  
-Ze zei ge poept gelijk ne goed,  
+Ze zei ge poept gelijk ne god,  
 Maar ik zei dat is niet waar,  
 Want ne god is voor de pot.  
