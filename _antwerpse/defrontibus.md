@@ -6,8 +6,8 @@ page: 172
 
 Ami (*naam*), ami (*naam*), lève ton verre ! \]
 
-Et surtout, ne le renverse pas ! \] (bis) Et porte-le
-
+Et surtout, ne le renverse pas ! \] (bis) 
+Et porte-le
 Au frontibus
 
 Au nasibus
@@ -26,8 +26,8 @@ Et glou et glou et glou \...
 
 Il\* est des nôtres
 
-Il\* a bu son verre comme les autres C\'est un\* ivrogne
-
+Il\* a bu son verre comme les autres 
+C\'est un\* ivrogne
 Ça se voit rien qu\'à sa trogne
 
 -   *Pas het voornaamwoord aan als het nodig is:* elle, une

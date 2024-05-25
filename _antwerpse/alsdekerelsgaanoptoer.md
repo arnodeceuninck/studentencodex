@@ -8,7 +8,9 @@ page: 79
 
 ^②^ Luide dreunt dan \'t blije lied.
 
-^③^ Hand in hand en broer naast broer. ^④^ Wie kent er de kerels niet?
+^③^ Hand in hand en broer naast broer. 
+
+^④^ Wie kent er de kerels niet?
 
 
 

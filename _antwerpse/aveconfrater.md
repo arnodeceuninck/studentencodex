@@ -14,8 +14,7 @@ brengen het glas ter hoogte van de mond.*
 
 *C2:* \'k Drink liever bier dan water!
 
-*C1:* Drink dan op het commando van één, twee, drie, vier, vijf, zes,
-zeven!
+*C1:* Drink dan op het commando van één, twee, drie, vier, vijf, zes, zeven!
 
 *Commilito 2 begint bij \'één\' te drinken.*
 

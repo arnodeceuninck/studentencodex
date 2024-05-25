@@ -4,7 +4,8 @@ page: 417
 ---
 
 
-**R**\.  Alouette, gentille alouette Alouette, je te plumerai
+**R**\.  Alouette, gentille alouette 
+Alouette, je te plumerai
 
 **1**\. Je te plumerai la tête (bis)
 
