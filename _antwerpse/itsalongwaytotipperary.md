@@ -1,5 +1,5 @@
 ---
-title: It\'s a long way to Tipperary
+title: It's a long way to Tipperary
 page: 369
 ---
 

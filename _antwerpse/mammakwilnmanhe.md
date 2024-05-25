@@ -1,5 +1,5 @@
 ---
-title: Mamma, \'k wil \'n man hê
+title: Mamma, 'k wil 'n man hê
 page: 262
 ---
 

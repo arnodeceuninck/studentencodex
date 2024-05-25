@@ -1,5 +1,5 @@
 ---
-title: Ik wil deze nacht \...
+title: Ik wil deze nacht ...
 page: 450
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Hallelujah, I\'m a bum
+title: Hallelujah, I'm a bum
 page: 383
 ---
 

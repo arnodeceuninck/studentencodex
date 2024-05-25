@@ -1,5 +1,5 @@
 ---
-title: Finnegan\'s wake
+title: Finnegan's wake
 page: 367
 ---
 

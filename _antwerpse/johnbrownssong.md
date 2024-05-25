@@ -1,5 +1,5 @@
 ---
-title: John Brown\'s song
+title: John Brown's song
 page: 381
 ---
 

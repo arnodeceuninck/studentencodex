@@ -1,5 +1,5 @@
 ---
-title: Nun leb\' wohl, du kleine Gasse
+title: Nun leb' wohl, du kleine Gasse
 page: 344
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: It ain\'t gonna rain no more
+title: It ain't gonna rain no more
 page: 390
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Al zingen \'t vrije lied
+title: Al zingen 't vrije lied
 page: 96
 ---
 

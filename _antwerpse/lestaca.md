@@ -1,5 +1,5 @@
 ---
-title: L\'Estaca
+title: L'Estaca
 page: 439
 ---
 

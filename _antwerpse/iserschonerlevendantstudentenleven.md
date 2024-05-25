@@ -1,5 +1,5 @@
 ---
-title: Is er schoner leven dan \'t studentenleven?
+title: Is er schoner leven dan 't studentenleven?
 page: 128
 ---
 

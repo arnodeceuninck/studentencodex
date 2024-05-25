@@ -1,5 +1,5 @@
 ---
-title: C\'est à boire qu\'il nous faut
+title: C'est à boire qu'il nous faut
 page: 420
 ---
 

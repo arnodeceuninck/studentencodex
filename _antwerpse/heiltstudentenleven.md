@@ -1,5 +1,5 @@
 ---
-title: Heil \'t studentenleven
+title: Heil 't studentenleven
 page: 117
 ---
 
