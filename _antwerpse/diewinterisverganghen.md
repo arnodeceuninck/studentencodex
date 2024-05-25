@@ -1,69 +1,51 @@
 ---
 title: Die winter is verganghen
-page: 182
----  
-
-{:start="1"}  
-1. ‘Die winter is verganghen,  
-ic sie des meien schijn;  
-ic sie die bloemkens hanghen,  
-des is mijn hert verblijt.  
-So ver aen ghenen dale  
-daer ist ghenoechlic sijn,  
-daer singhet die nachtegale,  
-also menich woutvoghelkijn.  
+page: 183
+---
 
 
-{:start="2"}  
-2. ‘Ic wil den mei gaen houwen  
-al in dat groene gras,  
-ende schenken mijn boel die trouwe,  
-die mi die lieveste was,  
-ende bidden, dat si wil comen  
-al voor haer vensterken staen  
-ende ontfanghen den mei met bloemen,  
-hi is so wel ghedaen.’  
+1.  Die winter is verganghen, Ic sie des meien schijn;
+
+Ic sie die bloemkens hanghen, Des is mijn hert verblijt.
+
+So ver aen ghenen dale Daer ist ghenoechlic sijn, Daer singhet die
+nachtegale, Also menich woutvoghelkijn.
+
+2.  Ic wil den mei gaen houwen Al in dat groene gras,
+
+Ende schenken mijn boel die trouwe, Die mi die lieveste was,
+
+Ende bidden, dat si wil comen Al voor haer vensterken staen
+
+Ende ontfanghen den mei met bloemen, Hi is so wel ghedaen.
+
+3.  Ende doe die suiverlike Sijn reden hadde ghehoort, Doe stont si
+    trurentlike, Met des sprac si een woort: \"Ic heb den mei ontfanghen
+    Met groter eerwaerdicheit.\" Hi cust si aen haer wanghen: Was dat
+    niet eerbaerheit?
 
 
-{:start="3"}  
-3. Ende doe die suiverlike  
-sijn reden hadde ghehoort,  
-doe stont si trurentlike,  
-met des sprac si een woort:  
-‘ic heb den mei ontfanghen  
-met groter eerwaerdicheit.’  
-Hi cust si aen haer wanghen:  
-was dat niet eerbaerheit?  
+
+4.  Hi nam si sonder truren Al in sijn aermkens blanc. Die wachter op
+    der muren Die hief op een liet ende sanc: \"En is daer ieman inne,
+
+Die mach wel thuiswaert gaen: Ic sie den dach op dringhen Al door die
+wolken claer.\"
+
+5.  Och wachter op der muren, Hoe quelstu mi so hart,
+
+Ic ligghe in swaren truren, Mijn herte dat lidet smert. Dat doet die
+alreliefste
+
+Dat ic van haer scheiden moet, Dat claghic God den Heren, Dat ic si
+laten moet.
+
+6.  Adieu myn alreliefste, Adieu schoon bloemken fijn, Adieu schoon
+    rosebloeme, Daer moet ghescheiden sijn; Hent dat ic weder come Die
+    liefste soudt ghi sijn; Dat herte in minen live Dat hoort, ja,
+    altijt dijn.
+
+> *Tekst en muziek: 1537, naar het handschrift van Weimar*
 
 
-{:start="4"}  
-4. Hi nam si sonder truren  
-al in sijn aermkens blanc.  
-Die wachter op der muren  
-die hief op een liet ende sanc:  
-‘en is daer ieman inne,  
-die mach wel thuiswaert gaen:  
-ic sie den dach op dringhen  
-al door die wolken claer.’  
 
-
-{:start="5"}  
-5. \- ‘Och wachter op der muren,  
-hoe quelstu mi so hart,  
-ic ligghe in swaren truren,  
-mijn herte dat lidet smert.  
-Dat doet die alreliefste  
-dat ic van haer scheiden moet,  
-dat claghic God den Heren,  
-dat ic si laten moet.  
-
-
-{:start="6"}  
-6. ‘Adieu myn alreliefste,  
-adieu schoon bloemken fijn,  
-adieu schoon rosebloeme,  
-daer moet ghescheiden sijn;  
-hent dat ic weder come  
-die liefste soudt ghi sijn;  
-dat herte in minen live  
-dat hoort, ja, altijt dijn.’  

@@ -1,26 +1,35 @@
 ---
 title: Tourdion
 page: 406
----  
+---
 
-_Sop._ Quand je bois du vin clairet  
-Ami tout tourne, tourne, tourne, tourne.  
-Aussi désormais je bois Anjou ou Arbois.  
 
-Chantons et buvons, à ce flacon faisons la guerre,  
-Chantons et buvons, les amis, buvons donc!  
+*Sop*. Quand je bois du vin clairet
 
-_Alt_ Le bon vin nous a rendu gais, chantons  
-Oublions nos peines, chantons.  
+Ami tout tourne, tourne, tourne, tourne Aussi désormais je bois Anjou
+ou Arbois
 
-_Ten._ Buvons bien, buvons mes amis  
-Trinquons, buvons, gaiement chantons  
+Chantons et buvons, à ce flacon faisons la guerre Chantons et buvons,
+mes amis, buvons donc
 
-En mangeant d'un gras jambon  
-A ce flacon faisons la guerre  
+*Alt* Le bon vin nous a rendus gais, chantons Oublions nos peines,
+chantons
 
-_Bas_ Buvons bien, buvons mes amis  
-Trinquons, buvons, gaiement chantons  
+En mangeant d\'un gras jambon À ce flacon faisons la guerre
 
-En mangeant d'un gras jambon  
-A ce flacon faisons la guerre  
+> *Ten.* Buvons bien, buvons mes amis Trinquons, buvons, gaiement
+chantons
+
+En mangeant d\'un gras jambon À ce flacon faisons la guerre
+
+*Bas* Buvons bien, buvons mes amis Trinquons, buvons, gaiement chantons
+
+En mangeant d\'un gras jambon À ce flacon faisons la guerre
+
+*Vierstemmig drinklied gebaseerd op een Bourgondische volksdans Muziek:
+Pierre Attaingnant (± 1494-1551)*
+
+*Tekst en arrangement: 1949, César Geoffray (1901-1972)*
+
+
+

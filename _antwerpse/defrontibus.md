@@ -1,28 +1,34 @@
 ---
 title: De frontibus
 page: 172
----  
-
-Ami _(naam)_, ami _(naam)_, leve ton verre! )  
-Et surtout, ne le renverse pas!             ) (bis)  
+---
 
 
-Et porte-le  
-Au frontibus  
-Au nasibus  
-Au mentibus  
-Au ventribus  
-Au sexibus  
-Et glou et glou et glou ...  
+Ami (*naam*), ami (*naam*), lève ton verre ! \]
 
+Et surtout, ne le renverse pas ! \] (bis) Et porte-le
 
-_De genoemde commilito drinkt zijn glas leeg._  
+Au frontibus
 
+Au nasibus
 
-Il* est des notres  
-Il* a bu son verre comme les autres  
-Cést un* ivrogne  
-Et d'ailleurs ca se voit rien qu'a sa trogne  
+Au mentibus
 
+Au ventribus
 
-_*Pas het voornaamwoord aan als het nodig is: elle, une_  
+Au sexibus
+
+Au piedibus
+
+Et glou et glou et glou \...
+
+> *De genoemde commilito drinkt zijn glas leeg.*
+
+Il\* est des nôtres
+
+Il\* a bu son verre comme les autres C\'est un\* ivrogne
+
+Ça se voit rien qu\'à sa trogne
+
+-   *Pas het voornaamwoord aan als het nodig is:* elle, une
+

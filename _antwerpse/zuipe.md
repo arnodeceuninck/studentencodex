@@ -1,51 +1,46 @@
 ---
 title: Zuipe
 page: 449
----  
-
-- zuipe, zuipe, da kannik goe  
-da kanne kikke blindelings met mijn ogen toe  
-zuipe, zuipe, tegen mijn haar omhoog  
-mijne mond is nog ni leeg of mijn keel is weeral droog  
+---
 
 
-{:start="1"}  
-1. vanaf da'k was geboren was kik al inteligent  
-ik pakte recht naar moeders beurst gelak ne grote vent  
-'t was ni voor mee te spelen, da'k pakte nor die beurst  
-ook ni voor't seksuele, 't was van de groten deurst  
+R.  Zuipe, zuipe, da kan ik goe
 
+Dat kanne kik blindelings en met mijn ogen toe Zuipe, zuipe, tegen
+mijn haar omhoog
 
-{:start="2"}  
-2. ik dronk kik alles leeg, ons moe wist gene raad  
-ik blette totda'k kreeg ne melkautomaat  
-ook toen ik al op school zat, beterde het geen fluit  
-as niemand mij in d'oog had, zoop ik den inktpot uit  
+Mijne mond is nog ni leeg of mijn keel is weeral droog
 
+1.  Vanaf dat \'k was geboren, was kik al intelligent
 
-{:start="3"}  
-3. Oep zestien jaar was kik al wereldkampioen  
-'k zoop iedereen onder tafel, aan mij was niks te doen  
-na zeven dagen drinken, lag iedereen al plat  
-daarna ging'k oep de lappen want ik was kik nog ni zat  
+Ik pakte recht naar moeders borst gelak ne grote vent \'t Was nie voor
+mee te spelen, da\'k pakte noar die borst Oek ni voor \'t seksuele,
+\'t was van den groten dorst.
 
+Ik zoop ik alles leeg, ons moe wist gene raad Ik blette totda \'k
+kreeg ne melkautomaat
 
-{:start="4"}  
-4. zo zat ik eens in Holland, 't was een eer voor de belgen  
-die kezen aan het leren hoeda Belgen kunnen zwelgen  
-zo zoop kik in mijn eentje, wel twintig vaten leeg  
-oemda'k dan zekers wist da'k een vatje gratis kreeg  
+Ook toen ik al op school zat beterde het geen fluit Als niemand mij in
+\'t oog had, zoop ik den inktpot uit
 
-   
-{:start="5"}  
-5. ik kwam bij ne geneesheer, die mij toen onderzocht  
-die vent bezien kik nooit ni meer, ik voelde mij bekocht  
-het was nog een joenk gastje, hij kwam mor pas van 't school  
-hij zei: gij hebt geen bloed maat, da's zuiveren alkool!  
+2.  Oep zestien jaar was kik al wereldkampioen
 
+\'k Zoop z\'allemaal onder tafel, aan mij was niks te doen Na zeven
+dagen drinken lag iedereen al plat Daarna gink oep de lappen want ik
+was kik nog ni zat
 
-{:start="6"}  
-6. en al is't geen geheim ni meer, toch blef het onder ons  
-a maag dat is geen maag ni meer dat is begot een spons  
-a keelgat is geen keelgat vent, al denkte gij van wel  
-a'k vergelijk dan is't oemtrent de Kennedy-tunnèl  
+Zo zat ik eens in Olland, \'t was geen eer voor de Belgen Die Kezen
+aan te leren hoedat Belgen kunnen zwelgen Zo zoop kik oep mijn eentje
+wel twintig vaten leeg Oemda \'k dan zekerst wist da\'k e vatje gratis
+kreeg
+
+3.  Ik kwam bij ne geneesheer die mij toens onderzocht Die vent bezien
+    kik nooit ni meer, ik voelde mij bekocht Het was nog e jonk gastje,
+    hij kwam maar pas van \'t school Hij zei: gij hebt geen bloed maat,
+    da\'s zuiveren alkool
+
+En al is \'t geen geheim meneer, toch blijft het onder ons Uw maag
+daddis geen maag nimeer, daddis begot een spons Uw keelgat is geen
+keelgat maat, al denkte gij van wel Ak vergelijk dan is \'t omtrent de
+Kennedytunnel
+

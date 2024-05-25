@@ -1,56 +1,51 @@
 ---
 title: Roll me over
 page: 374
----  
+---
 
-{:start="0"}  
-0. We've tried it once or twice  
-And we found it rather nice  
 
-- Roll me over, lay me down and do it again  
-Roll me over, in the clover,  
-Roll me over, lay me down and do it again  
+1.  We\'ve tried it once or twice And we found it rather nice
 
-{:start="1"}  
-1. Oh, this is number one  
-And the fun has just begun  
+<!-- -->
 
-{:start="2"}  
-2. Oh, this is number two  
-And he's got me in a stew  
+R.  Roll me over, lay me down and do it again Roll me over, in the
+    clover,
 
-{:start="3"}  
-3. Oh, this is number three  
-And his hand is on my knee  
+Roll me over, lay me down and do it again
 
-{:start="4"}  
-4. Oh, this is number four  
-And he's got me on the floor  
+1.  Oh, this is number one And the fun has just begun
 
-{:start="5"}  
-5. Oh, this is number five  
-And his hand is on my thigh  
+2.  Oh, this is number two And he\'s got me in a stew
 
-{:start="6"}  
-6. Oh, this is number six  
-And he's got me doing tricks  
+3.  Oh, this is number three And his hand is on my knee
 
-{:start="7"}  
-7. Oh, this is number seven  
-And he takes me straight to heaven  
+4.  Oh, this is number four And he\'s got me on the floor
 
-{:start="8"}  
-8. Oh, this is number eight  
-And the doctor's at the gate  
+5.  Oh, this is number five
 
-{:start="9"}  
-9. Oh, this is number nine  
-And the twins are doing fine  
+And his hand is on my thigh
 
-{:start="10"}  
-10. Oh, this is number ten  
-And he's started once again  
+6.  Oh, this is number six
 
-{:start="11"}  
-11. Oh, this is number eleven  
-And it's just like number seven  
+And he\'s got me doing tricks
+
+7.  Oh, this is number seven
+
+And he takes me straight to heaven
+
+8.  Oh, this is number eight And the doctor\'s at the gate
+
+9.  Oh, this is number nine And the twins are doing fine
+
+
+
+10. Oh, this is number ten
+
+And he\'s started once again
+
+11. Oh, this is number eleven
+
+And it\'s just like number seven
+
+> *Ontstaan in Engeland tijdens de Tweede Wereldoorlog*
+

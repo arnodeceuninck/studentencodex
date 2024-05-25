@@ -1,40 +1,39 @@
 ---
 title: Voor outer en heerd
 page: 86
----  
-
-{:start="1"}  
-1. Geen roekeloze wagers:  
-stil volk dat zich beraadt  
-Aleer het zijn belagers  
-manhaft te lijve gaat.  
-Zij wisten wat zij wilden,  
-toen zij tot stout verweer  
-De pik of zeis optilden  
-of grepen naar 't geweer.  
+---
 
 
-- Voor vrijheid en recht. Ongeknecht,  
-onverveerd voor Outer en Heerd ! (bis)  
+1.  Geen roekeloze wagers Stil volk dat zich beraadt Aleer het zijn
+    belagers Manhaft te lijve gaat Zij wisten wat zij wilden Toen zij
+    tot stout verweer De piek of zeis optilden Of grepen naar \'t geweer
 
+<!-- -->
 
-{:start="2"}  
-2. Zij steunden op Oranje's:  
-de Nederlanden één !  
-En juichten toen Brittannië's  
-beloofde vloot verscheen.  
-Kloekmoedig in de gouwen  
-van Diets Zuid-Nederland,  
-Zijn allen sterk en trouwe  
-gesprongen in de brand.  
+R.  Voor vrijheid en recht, ongeknecht Onverveerd voor outer en heerd
 
+<!-- -->
 
-{:start="3"}  
-3. Rolliers, Corbeels, Van Gansen,  
-bevochten onverveerd,  
-Met wisselende kansen,  
-de vijand van hun heerd.  
-Zij kampten koen als leeuwen,  
-en werden z'overmand,  
-hun namen staan voor eeuwen  
-in 't hart van 't volk gebrand  
+2.  Zij steunden op Oranjes De Nederlanden één!
+
+En juichten toen Brittanjes Beloofde vloot verscheen Kloekmoedig in de
+gouwen Van Diets Zuid-Nederland Zijn allen sterk en trouwe Gesprongen
+in de brand
+
+3.  Rollier, Corbeels, Van Gansen, Bevochten onverveerd
+
+Met wisselende kansen Den vijand van hun heerd Zij kampten koen als
+leeuwen En werden z\'overmand
+
+Hun namen staan voor eeuwen In \'t hart van \'t volk gebrand
+
+\]
+
+\] (bis)
+
+> *Tekst: Jozef Simons (1888-1949)*
+
+> *Muziek: Armand Preud\'homme (1904-19) © ANZ vzw*
+
+~~ *Over de Boerenkrijg (1798)*
+

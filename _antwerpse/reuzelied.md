@@ -1,33 +1,27 @@
 ---
 title: Reuzelied
 page: 239
----  
-
-{:start="1"}  
-1. Al die daer zeidt: ‘de Reus die kom'!’  
-zy liegen daer om.  
+---
 
 
-- Keere weêrom, Reusken, Reusken,  
-keere weêrom,  
-Reuzegom'!  
+1.  Al die daar zeidt, de reus die komt De reus die komt, zij liegen
+    daarom
 
+<!-- -->
 
-{:start="2"}  
-2. Sa moeder, zet den pot op 't vier,  
-de Reus is hier.  
+R.  Keere weer om, reusken reusken Keere weer om, reuzegom
 
+<!-- -->
 
-{:start="3"}  
-3. Sa moeder, snijd een boterham,  
-de Reus is gram.  
+2.  Sa moeder zet den pot op \'t vier De pot op \'t vier, de reus is
+    hier
 
+3.  Sa moeder snijdt een boterham Een boterham, de reus is gram
 
-{:start="4"}  
-4. Sa moeder, tapt van 't beste bier,  
-de Reus is gier.  
+4.  Sa moeder tapt van \'t beste bier Van \'t beste bier, de reus is
+    hier
 
+5.  Sa moeder stopt nu maar het vat Nu maar het vat, de reus is zat
 
-{:start="5"}  
-5. Sa moeder, stopt nu maer het vat,  
-de Reus is zat.  
+> *Vrij naar de hymne \'Conditor alme siderum\' (7de eeuw)*
+

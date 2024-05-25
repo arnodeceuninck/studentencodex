@@ -1,45 +1,37 @@
 ---
 title: Gertjie
 page: 268
----  
+---
 
 
-{:start="1"}  
-1. Wanneer kom ons troudag, Gertjie, Gertjie?  
-Hoe's dit dan so stil met jou?  
-Ons is so lank verloof al, Gertjie, Gertjie;  
-dit is tyd dat ons gaan trou.  
+1.  Wanneer kom ons troudag, Gertjie, Gertjie? Hoe \'s dit dan so stil
+    met jou?
+
+Ons is so lank verloof al Gertjie, Gertjie Dit is tyd dat ons gaan
+trou
+
+R.  Glo tog Gertjie, ek sal nooit nie, nooit nie Nog langer aan jou
+    sleeptou bly nie, bly nie Jy dink miskien: ek kan nie dood nie, dood
+    nie Maar my jare gaan verby
+
+<!-- -->
+
+2.  \'k Hoor jy is verliefd op Sarie Maar die pret moet jy laat staan
+    Pas maar op vir Pieter en Danie Hul is kêrls, wat somaer slaan
+
+3.  Jy weet, as ons Sondags kuier Agter om die kop verby
+
+Dan seg ek: Nonnie, lig jou sluier Kom en gee een soen vir my
+
+4.  Jannie, al die soentjes help nie Kyk vir Pieter en vir Griet Vandaag
+    wil hul mekaar nie hê nie Al die soentjies is verniet
+
+5.  Ons moet dan die pret maar staan laat Ons moet maar die soen laat
+    bly
+
+Ek sal my eie pad dan kry maar En ek sal na Sarie vry
+
+> *Oud Transvaals lied, als duet gezongen*
 
 
-- Glo tog, Gertjie, ek sal nooit nie, nooit nie  
-nog langer aan jou sleeptou bly nie, bly nie.  
-Jy dink miskien ek kan nie dood nie, dood nie;  
-maar my jare gaan verby.  
 
-
-{:start="2"}  
-2. 'k Hoor jy is verlief op Sarie, Sarie;  
-maar die pret moet jy laat staan!  
-O, pas maar op vir Pieter en Danie, Danie,  
-hul is kerls, wat somaer slaan.  
-
-
-{:start="3"}  
-3. Jy weet, as ons Sondags kuier, kuier  
-agter om die kop verby,  
-dan sêg ek: Nonnie lig jou sluier, sluier,  
-kom en gee 'n soen vir my.  
-
-
-{:start="4"}  
-4. Jannie, al die soentjies help nie, help nie;  
-kyk vir Pieter en vir Griet:  
-vandag wil hul mekaar nie hê nie, hê nie;  
-al die soentjie was verniet.  
-
-
-{:start="5"}  
-5. Jannie, laat staan die pret maar liewer, liewer,  
-ons moet maar die soen laat bly;  
-ek volg my eie pad dan kry maar, kry maar;  
-En ek sal na Sarie vry.  

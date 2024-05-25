@@ -1,56 +1,45 @@
 ---
-title: "Heil 't studentenleven"
+title: Heil \'t studentenleven
 page: 117
----  
-
-{:start="1"}  
-1. Heft het glas, studentikozen,  
-Sim serim sim, sim sim sim,  
-Zonder blikken, zonder blozen,  
-Sim serim sim, sim sim sim,  
-Op het heil van de student,  
-Ta ra ta ta ta ta ra,  
-Die nooit of nimmer zorgen kent.  
-Ta ra ta ta ta ta ra,  
+---
 
 
-- Heil ’t studentenleven!  
-Wo-o-o-o-o  
-Heil ’t studentenleven!  
-We drinken er op, (x2)  
-Drinken er saam een pintje op.  
+\. Heft het glas, studentikozen Sim serim sim sim sim sim Zonder
+blikken, zonder blozen Sim serim sim sim sim sim
 
+Op het heil van de student Taratata tara Die nooit of nimmer zorgen
+kent Taratata ta
 
-{:start="2"}  
-2. Laat ons met de glazen klinken,  
-Sim serim sim, sim sim sim,  
-En op onze kleuren drinken,  
-Sim serim sim, sim sim sim,  
-Toast ook op het wapenschild;  
-Ta ra ta ta ta ta ra,  
-Symbool van ons studentgild’.  
-Ta ra ta ta ta ta ra,  
+R.  Heil \'t studentenleven! Wo-o-o-o-o
 
+Heil \'t studentenleven!
 
-{:start="3"}  
-3. Rond een tafel altezamen,  
-Sim serim sim, sim sim sim,  
-Proevend van het aangename  
-Sim serim sim, sim sim sim,  
-Heerlijke studentenvocht.  
-Ta ra ta ta ta ta ra,  
-Dat ’t eeuwig stromen blijven mocht!  
-Ta ra ta ta ta ta ra,  
+We drinken erop, we drinken erop Drinken er saam een pintje op
 
+\. Laat ons met de glazen klinken Sim serim sim sim sim sim En op
+onze kleuren drinken Sim serim sim sim sim sim Toost ook op het
+wapenschild Taratata tara Symbool van ons studentengild Taratata ta
 
-{:start="4"}  
-4. Zijn de kelen droog gezongen,  
-Sim serim sim, sim sim sim,  
-Roep dan samen maar “Bierjongen!”  
-Sim serim sim, sim sim sim,  
-Drink je pint tot op de grond  
-Ta ra ta ta ta ta ra,  
-Ter ere van onz’ levensbond!  
-Ta ra ta ta ta ta ra,  
+\. Rond een tafel altezamen Sim serim sim sim sim sim
 
-_De glazen worden leeggedronken_  
+Proevend van het aangename Sim serim sim sim sim sim
+
+Heerlijke studentenvocht Taratata tara
+
+Dat \'t eeuwig stromen blijven mocht Taratata ta
+
+4.  Zijn de kelen droog gezongen Sim serim sim sim sim sim Roep dan
+    samen maar \"Bierjongen!\" Sim serim sim sim sim sim
+
+Drink je pint tot op de grond Taratata tara
+
+Ter ere van onz\' levensbond Taratata ta
+
+> *De glazen worden leeggedronken.*
+
+> *Tekst: 004, Akim Willems*
+
+> *Melodie: 875, Ludwig Teichgräber (\'Als die Römer frech geworden\')*
+
+7
+

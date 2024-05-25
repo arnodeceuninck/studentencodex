@@ -1,76 +1,68 @@
 ---
 title: Als de kerels te gare zijn
 page: 78
----  
-
-{:start="1"}  
-1. Als de kerels te gare zijn,  
-doedle, bomle, rom, dom, dom.  
-Wat liedje moet er gezongen zijn,  
-doedle, rom, dom, dom?  
+---
 
 
-- 't Kerelslied, 't kerelslied,  
-doedle, bomle, rom, dom, dom  
-'t kerelslied, 't kerelslied,  
-doedle rom, dom, dom.  
+1.  Als de kerels te gare zijn, Doedle bomle rom dom dom. Wat liedje
+    moet er gezongen zijn? Doedle rom dom dom!
+
+<!-- -->
+
+R.  \'t Kerelslied, \'t Kerelslied, Doedle bomle rom dom dom. \'t
+    Kerelslied, \'t Kerelslied, Doedle rom dom dom.
+
+<!-- -->
+
+2.  Zij renden met zessen langs de baan, Doedle bomle rom dom dom.
+
+Zij hadden stalen kleren aan, Doedle rom dom dom!
+
+R.  Isegrims, Isegrims \...
+
+<!-- -->
+
+3.  Zij hadden waaiend\' helmen aan, Doedle bomle rom dom dom.
+
+Zij renden zingend langs de baan, Doedle rom dom dom!
+
+R.  Wat zongen zij? Wat zongen zij? \...
+
+<!-- -->
+
+4.  Van edele ridders en heren groot, Doedle bomle rom dom dom. Van
+    nijdige kerels en galgedood, Doedle rom dom dom!
+
+<!-- -->
+
+R.  Isegrims, Isegrims \...
 
 
-{:start="2"}  
-2. Ze renden met zessen langs de baan,  
-doedle, bomle, rom, dom, dom.  
-zij hadden stalen kleeren aan;  
-doedle, rom, dom, dom?  
 
-   
-- Isegrims, Isegrims ...  
+5.  De kerels kennen een schoondren zang, Doedle bomle rom dom dom.
 
+De zang der kerels en is niet lang, Doedle rom dom dom!
 
-{:start="3"}  
-3. Zij hadden waaiende helmen aan,  
-doedle, bomle, rom, dom, dom.  
-zij renden zingend langs de baan.  
-doedle, rom, dom, dom?  
+R.  Maar zegt veel, maar zegt veel \...
 
+<!-- -->
 
-- Wat zongen zij? Wat zongen zij? ...  
+6.  Vliegt de blauwvoet? Storm op zee! Doedle bomle rom dom dom. Vliegt
+    de blauwvoet? Storm op zee! Doedle rom dom dom!
 
+<!-- -->
 
-{:start="4"}  
-4. Van edele ridders en heren groot,  
-doedle, bomle, rom, dom, dom.  
-van nijdige kerels en galgedood.  
-doedle, rom, dom, dom?  
+R.  Storm op zee! Storm op zee! \...
 
+<!-- -->
 
-- Isegrims, Isegrims ...  
+7.  En als de kerel aan \'t zingen valt, Doedle bomle rom dom dom.
 
+Zijn liedje vromer als de andere schalt: Doedle rom dom dom!
 
-{:start="5"}  
-5. De kerels kennen een schoonder zang,  
-doedle, bomle, rom, dom, dom.  
-de zang der kerels en is niet lang,  
-doedle, rom, dom, dom?  
+R.  Storm op zee! Storm op zee! \...
 
+> *Tekst: Albrecht Rodenbach (1856-1880)*
 
-- Maar zegt veel, maar zegt veel ...  
+> *Muziek: naar \'Annemarie-Katrien\' (oude volkswijze)*
 
-
-{:start="6"}  
-6. Vliegt de Blauwvoet? - Storm op zee!  
-doedle, bomle, rom, dom, dom.  
-Vliegt de Blauwvoet? - Storm op zee!  
-doedle, rom, dom, dom?  
-
-
-- Storm op zee! Storm op zee! ...  
-
-
-{:start="7"}  
-7. En als de kerel aan 't zingen valt,  
-doedle, bomle, rom, dom, dom.  
-zijn liedje vromer als de andere schalt:  
-doedle, rom, dom, dom?  
-
-
-- Storm op zee! Storm op zee! ...  

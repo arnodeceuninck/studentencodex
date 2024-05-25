@@ -1,37 +1,32 @@
 ---
 title: Ade zur guten Nacht
 page: 348
----  
-
-{:start="1"}  
-1. Ade zur guten Nacht!  
-Jetzt wird der Schluß gemacht,  
-Daß ich muß scheiden;.  
-Im Sommer da wächst der Klee,  
-Im Winter, da schneit’s den Schnee,  
-Da komm ich wieder.  
+---
 
 
-{:start="2"}  
-2. Es trauern Berg und Tal,  
-Wo ich viel tausendmal  
-Bin drüber gangen;  
-Das hat deine Schönheit gemacht,  
-die hat mich zum Lieben gebracht  
-mit großem Verlangen.  
+1.  Ade zur guten Nacht!
 
-{:start="3"}  
-3. Das Brünnlein rinnt und rauscht  
-Wohl dort am Holderstrauch,  
-Wo wir gesessen,  
-Wie manchen Glockenschlag,  
-da Herz bei Herzen lag,  
-das hast du vergessen.  
+Jetzt wird der Schluß gemacht, Daß ich muß scheiden;
 
-{:start="4"}  
-4. Die Mädchen in der Welt  
-Sind falscher als das Geld  
-Mit ihrem Lieben.  
-Ade zur guten Nacht,  
-jetzt wird der Schluß gemacht,  
-daß ich muß scheiden.  
+Im Sommer da wächst der Klee, Im Winter, da schneit\'s den Schnee, Da
+komm ich wieder.
+
+2.  Es trauern Berg und Tal, Wo ich viel tausendmal Bin drüber gangen;
+
+Das hat deine Schönheit gemacht, Die hat mich zum Lieben gebracht Mit
+großem Verlangen.
+
+3.  Das Brünnlein rinnt und rauscht Wohl dort am Holderstrauch, Wo wir
+    gesessen,
+
+Wie manchen Glockenschlag, Da Herz bei Herzen lag, Das hast du
+vergessen.
+
+4.  Die Mädchen in der Welt Sind falscher als das Geld Mit ihrem Lieben.
+
+Ade zur guten Nacht,
+
+Jetzt wird der Schluß gemacht, Daß ich muß scheiden.
+
+
+

@@ -1,95 +1,65 @@
 ---
-title: Auf de schwabsche Eisebahne
-page: 350
----  
+title: Auf de schwäbsche Eisebahne
+page: 352
+---
 
 
-{:start="1"}  
-1. Auf de schwäbsche Eisenbahne  
-Gibts es viele Halststatione  
-Schtügert, Ulm und Biberach  
-Meckebeure, Durlesbach  
-Trula, trula, trula la, trula, trula, trula la  
-Schtügert, Ulm und Biberach  
-Meckebeure, Durlesbach  
+1.  Auf de schwäbsche Eisebahne Geit es viele Haltstatione: Stuegert,
+    Ulm ond Biberach, Meckebeure, Durlesbach.
+
+Trula, trula, trula la, trula, trula, trula la. Stuegert, Ulm ond
+Biberach, Meckebeure, Durlesbach.
+
+2.  Auf de schwäbsche Eisebahne Geit es viele Reschtratione, Wo ma esse,
+    trinke ka, Älles, wa d\'r Maga ma.
+
+Trula, trula, trula la, trula, trula, trula la.
+
+> *\[Regel 3 en 4 worden telkens herhaald\]*
+
+3.  Auf de schwäbsche Eisebahne Braucht ma koine Poschtillione,
+
+Denn was sonscht das Poschthorn blies, Pfeifet jetzt de Lokomotiv.
+
+4.  Auf de schwäbsche Eisebahne Könne Küh ond Ochse fohre, D\' Studente
+    fahret erschte Klass: Se machet des halt nor zom Spaß.
+
+5.  Auf de schwäbsche Eisebahne Wollt amol ä Bäurle fohre, Goht an
+    Schalter, lupft de Huet: \"Oi Billetle, send so guet!\"
+
+6.  Eine Geiß hat er gekaufet,
+
+Und daß die ihm nicht entlaufet, Bindet se der guete Ma Hende an de
+Wage na.
 
 
-{:start="2"}  
-2. Auf de schwäbsche Eisenbahne  
-Gibt es viel Restauratione  
-Wo man esse, trinke ka  
-Alles was der Magen ma  
-Trula, trula, trula la, trula, trula, trula la  
-Wo man esse, trinke ka  
-Alles was der Magen ma  
-_[Regel 3 en 4 worden telkens herhaald]_  
+
+7.  \"Böckle, tue nor woidle springe, \'s Fueder will i der scho
+    bringe.\" Setzt si zu seim Weible na Ond brennt \'s stinket Pfeifle
+    a.
+
+8.  \'s Fahre tut en mächtig freue, Doch er mueß es z\' spät bereue, Daß
+    er hot des Ungschick tau Ond de Bock am Wage glau.
+
+9.  Auf de nächschte Haltstatione, Wo er will sei Böckle hole, Findt er
+    nor no Kopf ond Soil An dem hendre Wagetoil.
+
+10. Do kriegt er en große Zore, Nimmt de Kopf mitsamt de Hoore, Schmeißt
+    en, was er schmeiße ka, \'m Konduktör an d\' Auhre na.
+
+11. \"So, du kaascht de Schade zahle, Worum bischt so schnell gfahre, Du
+    alloi bischt Schuld dara, Daß i jetzt koi Geiß meh ha.\"
+
+12. So, jetzt wär des Liedle gsunge,
+
+\'s Hätt euch wohl in d\' Auhre klunge, Wers no net begreife ka,
+
+Fangts halt wieder vo vorne a.
+
+> *Muziek: naar een soldatenlied uit Bazel, omstreeks 1850 Eerst
+verschenen in het \'Kommersbuch\' van Tübingen, 1853*
 
 
-{:start="3"}  
-3. Auf de schwäbsche Eisenbahne  
-Braucht man keine Postillione  
-Denn was sonst das Posthorn blies  
-Pfeifet jetzt die Lokomotiv  
 
 
-{:start="4"}  
-4. Auf de schwäbsche Eisenbahne  
-Konne Kuh ond Ochse fohre,  
-D' Studente fahret erschte Klass:  
-Se machet des halt nor zom Spass  
 
-
-{:start="5"}  
-5. Auf de schwäbsche Eisenbahne  
-Wollt amol a Bäurle fahre  
-Geht an Schalter lupft de Huet  
-"Oi Billetle, seid so gut"  
-
-
-{:start="6"}  
-6. Eine Geiß hat er gekaufet,  
-Und dass die ihm nicht entlaufet,  
-Bindet se der guete Ma  
-Hende an de Wage na.  
-
-
-{:start="7"}  
-7. Böckli, tu nur woidle springe,  
-'s Fueder will i der scho bringe  
-Setzt sich zu seinm Weible na  
-Ond brennt 's stinket Pfeifle a  
-
-
-{:start="8"}  
-8. 's Fahre tut en machtig freue,  
-Doch er muess es z'spat bereue,  
-Dass er hot des Ungschick tau  
-Ond de Bock am Wage glau  
-
-
-{:start="9"}  
-9. Auf de nächste Haltstatione  
-Wo er will sein Böckle hole  
-Findt er nur noch Kopf und Soil  
-An dem hinde Wagentoil  
-
-
-{:start="10"}  
-10. Do kriegt er en große Zorne,  
-Nimmt den Kopf mitsamt dem Horne  
-Schmeißet en, was er schmeiße ka  
-'m Konduktör an d'Auhre na  
-
-
-{:start="11"}  
-11. So, du kannst den Schade zahle,  
-Worum bischt so schnell gfahre,  
-Du alloi bischt Schuld dara,  
-Dass i jetzt koi Geiss meh ha  
-
-
-{:start="12"}  
-12. So jetzt wär das Liedle gsunge,  
-'s Hatt euch wohl in d'Auhre klunge,  
-Wers no net begreife ka,  
-Fangts halt wieder vo vorne a  

@@ -1,30 +1,37 @@
 ---
 title: Onze Lieve Vrouw van Vlaanderen
 page: 229
----  
-
-{:start="1"}  
-1. Liefde gaf u duizend namen, groot en edel, schoon en zoet.  
-Maar geen één die 't hart der Vlamen even hoog verblijden doet.  
-Als de naam, o Moedermaagd, die Gij in ons landje draagt,  
-schoner klinkt hij, dan al d' and'ren:  
-Onze Lieve Vrouw van Vlaand'ren  
-Onze Lieve Vrouw van Vlaand'ren  
+---
 
 
-{:start="2"}  
-2. Waar men gaat langs Vlaamse wegen, oude hoeve, huis of tronk,  
-komt men u, Maria, tegen, staat uw beeltenis te pronk.  
-Lacht ons toe uit lindegroen, bloemenkrans of blij festoen.  
-Moge 't nimmer hier verand'ren  
-O, Gij Lieve Vrouw van Vlaand'ren  
-O, Gij Lieve Vrouw van Vlaand'ren  
+1.  Liefde gaf U duizend namen Groot en edel, schoon en zoet
+
+Maar geen een die \'t hart der Vlamen Even hoog verblijden doet
+
+Als de naam, o Moedermaagd, Die gij in ons landje draagt. Schoner
+klinkt hij dan al d\'andren.
+
+Onze Lieve Vrouw van Vlaand\'ren (bis).
+
+2.  Waar men ga langs Vlaamse wegen Oude hoeve, huis of tronk,
+
+Komt men U, Maria, tegen, Staat Uw beeltenis te pronk Lacht ons toe
+uit lindegroen Bloemenkrans of blij festoen Moge \'t nimmer hier
+verand\'ren
+
+O gij Lieve Vrouw van Vlaand\'ren (bis)
+
+3.  Blijf in \'t Vlaamse herte tronen Als de hoogste koningin
+
+Als de beste moeder wonen In elk Vlaamse huisgezin Sta ons bij in alle
+nood, Nu en in het uur der dood
+
+Ons, Uw kind\'ren, en ook d\'and\'ren Liefste Lieve Vrouw van
+Vlaand\'ren (bis).
+
+> *Tekst: 1910, August Cuppens (1862-1924)*
+
+> *Muziek: 1910, Lodewijk de Vocht (1887-1977)*
 
 
-{:start="3"}  
-3. Blijf in 't Vlaamse harte tronen als de hoogste Koningin,  
-als de beste moeder wonen in elk Vlaamse huisgezin.  
-Sta ons bij in alle nood, nu en in het uur der dood,  
-ons Uw kind'ren, en ook d' and'ren:  
-Liefste Lieve Vrouw van Vlaand'ren  
-Liefste Lieve Vrouw van Vlaand'ren   
+

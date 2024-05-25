@@ -1,58 +1,43 @@
 ---
-title: "'t Ros Beyaert"
-page: 462
----  
-
-{:start="1"}  
-1.  't Ros Beyaerd doet zyn ronde  
-in de stad van Dendermonde;  
-die van Aelst die zyn zoo kwaed,  
-om dat hier 't Ros Beyaerd gaet.  
+title: \'t Ros Beyaert
+page: 463
+---
 
 
-- De vier Aymons kinderen jent  
-met blancken sweirde in d' handt,  
-ziet ze rijden,  
-'t zyn de schoonste al van ons landt.  
+1.  \'t Ros Beyaert doet zyn ronde In de stadt van Dendermonde; Die van
+    Aalst die syn zoo quaet, Omdat hier \'t Ros Beyaert gaet.
+
+\'t Ros Beyaert hoog verheven Heeft hem in vuer begeven; En \'t Ros
+Beyaert is een peirt Met een strick op synen steirt.
+
+R.  De Vier Aymonskinderen jent, Met blancken sweirde in d\'handt; Ziet
+    ze rijden,
+
+\'t Zijn de schoonste van ons landt!
+
+2.  \'t Ros Beyaerts oogen vonckelen Syne breede maenen kronckelen, En
+    het wendt hem fraey en vlug Met vier broers op synen rug.
+
+Siet hun harnas, schilt en lansen Blincken bij de sonneglansen; En den
+beyaert \'t voyske geeft, Daer het Ros synen eer in heeft.
+
+3.  \'t Ros Beyaert is ons glorie, En benyt ge ons die victorie Gy hebt
+    nog veel min verstant Als ons ridderros vaillant.
 
 
-{:start="2"}  
-2. 't Ros Beyaerd hoog verheven,  
-heeft hem in vuer begeven  
-en 't Ros Beyaert is een peird  
-met een strick op synen steirt.  
+
+\'t Ros Beyaert is verheven,
+
+Men heeft hem in het vuer begeven,
+
+En het week op \'t oorlogsvelt,
+
+Alles voor syn groot gewelt.
+
+4.  O Dendermondenaren,
+
+Blyft altyt den roem bewaeren Van het peirt soo wyt vermaert, Als den
+grootsten man op aerd.
 
 
-{:start="3"}  
-3. 't Ros Beyaerts ooghen vonckelen,  
-syne breede manen kronckelen  
-en hy wend hem fraey en vlugh  
-met vier broêrs op synen rugh.  
 
-
-{:start="4"}  
-4. Siet hun harnas, schild en lansen  
-blincken by de sonneglansen,  
-en den beyaerd 't voysken geeft,  
-daer het ros syne eer in heeft.  
-
-
-{:start="5"}  
-5. 't Ros Beyaert is ons glorie,  
-en benydt ghe ons die victorie,  
-Aelst, ghy hebt nog min verstand  
-als ons ridderros vaillant.  
-
-
-{:start="6"}  
-6. 't Ros Beyaert is verheven;  
-Men heeft hem in 't vuer begeven,  
-en het week, op 't oorlogsveld,  
-alles voor syn groot geweld.  
-
-
-{:start="7"}  
-7. O Dendermondenaren,  
-blyft altyd den roem bewaren  
-van het peird, soo wyd vermaerd  
-als den grootsten man op aerd.  

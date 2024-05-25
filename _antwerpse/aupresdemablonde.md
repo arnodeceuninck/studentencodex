@@ -1,52 +1,69 @@
 ---
-title: Aupres de ma blonde
-page: 410
----  
+title: Auprès de ma blonde
+page: 6
+---
 
 
-{:start="1"}  
-1. Dans les jardins d' mon père )  
-Les lilas sont fleuris, ) (bis)  
-Tous les oiseaux du monde  
-Vienn'nt y faire leur nid.  
+1.  Dans les jardins de mon père Les lauriers sont fleuris Tous les
+    oiseaux du monde Viennent y faire leurs nids
+
+<!-- -->
+
+R.  Auprès de ma blonde
+
+Qu\'il fait bon, fait bon, fait bon Auprès de ma blonde
+
+Qu\'il fait bon dormir
+
+2.  La caille, la tourterelle Et la jolie perdrix
+
+Et la blanche colombe Qui chante jour et nuit
+
+3.  Elle chante pour les filles Qui n\'ont pas de mari
+
+C\'est pas pour moi qu\'elle chante Car j\'en ai t-un joli
+
+4.  \"Dites-nous donc la belle Où donc est votre ami ?\" Il est dans la
+    Hollande Les Hollandais l\'ont pris
+
+5.  Il est dans la Hollande Les Hollandais l\'ont pris \"Que
+    donneriez-vous, belle Pour revoir votre ami ?\"
 
 
-- Auprès de ma blonde  
-Qu'il fait bon, fait bon, fait bon,  
-Auprès de ma blonde  
-Qu'il fait bon dormir.  
 
+\]
 
-{:start="2"}  
-2. La caill', la tourterelle )  
-Et la joli perdrix, ) (bis)  
-Et ma joli' colombe,  
-Qui chante jour et nuit.  
+\] (bis)
 
+\]
 
-{:start="3"}  
-3. Elle chante pour les filles )  
-Qui n'ont point de mari, ) (bis)  
-Cést pas puor moi quélle chante  
-Car j'en ai t-un joli.  
+\] (bis)
 
+\]
 
-{:start="4"}  
-4. Dites-nous donc, la belle, )  
-Ou donc est votr' mari? ) (bis)  
-Il est dans la Hollande.  
-Les Hollandais l'ont pri.  
+\] (bis)
 
+\]
 
-{:start="5"}  
-5. Il est dans la Hollande, )  
-Les Hollandais l'ont pris. ) (bis)  
-Que donneriez-vous, belle,   
-Pour revoir votre ami?  
+\] (bis
 
+\]
 
-{:start="6"}  
-6. Je donnerais Versailles, )  
-Paris et Saint-Denis.) (bis)  
-Le royaume de mon pere  
-Celui de ma mere aussi  
+\] (bis)
+
+\. Je donnerais Versailles
+
+Paris et Saint-Denis
+
+Le royaume de mon père
+
+Celui de ma mère aussi
+
+\]
+
+\] (bis)
+
+> *Tekst: 1704, André Joubert du Collet*
+
+> *Frans marslied, originele titel \'Le prisonnier de Hollande\'*
+

@@ -1,19 +1,25 @@
 ---
-title: Trifolium 
+title: Trifolium
 page: 431
----  
+---
 
-  1. Dul-ce cum so-da-li-bus sa-pit vi-num bo-num.  
-Os-cu-la-ri vir-gi-nes, dul-ci-us est do-num;  
-do-num est dul-cis-si-mum ly-ra ceu Ma-ro-num  
-si his tri-bus gau-de-am, sper-no re-gis thro-num.  
 
-{:start="2"}  
-2. In me Bacchus excitat Veneris amorem; Venus mox poëti-  
-cum Phoebi dat furorem; immortalem Phoebus dux comparat hono-  
-rem; vae mihi, si tribus his infidelis forem!  
+1.  Dulce cum sodalibus sapit vinum bonum. Osculari virgines, dulcius
+    est donum; Donum est dulcissimum lyra ceu Maronum; Si his tribus
+    gaudeam, sperno regis thronum.
 
-{:start="3"}  
-3. Sed tyrannus jubeat. „Vinum dato!“ Darem. „Non amato  
-virgines!“ Aegre non amarem. „Frange lyram, abjice!“ Pertinax  
-negarem! „Lyram da, seu morere!“ Cantans exspirarem!  
+2.  In me Bacchus excitat Veneris amorem; Venus mox poëticum Phoebi dat
+    furorem; Immortalem Phoebus dux comparat honorem; Vae mihi, si
+    tribus his infidelis forem!
+
+3.  Sed tyrannus jubeat: \"Vinum dato!\" Darem. \"Non amato virgines!\"
+    Aegre nen amarem. \"Frange lyram, abjice!\" Pertinax negarem!
+
+\"Lyram da, seu morere!\" Cantans exspirarem!
+
+> *Tekst: 1822, Johann Christoph Friedrich Haug (1761 -1829)*
+
+> *Muziek: Friedrich Ferdinand Flemming (1778-1813)*
+
+
+

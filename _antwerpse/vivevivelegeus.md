@@ -1,99 +1,79 @@
 ---
 title: Vive, vive le Geus
-page: 82
----  
-
-{:start="1"}  
-1. Ick hope, dat den tijt noch comen sal,  
-datmen sal roepen over al,  
-eendrachtich voor een leus,  
-als Breerode met blijde gheschal:  
-Vive, vive le Geus!  
+page: 83
+---
 
 
-{:start="2"}  
-2. Die edele Heere van Breeroe soet,  
-metten Graef van Nassou, dat edel bloet  
-seer ingenieus,  
-den Grave van Culenburch metter spoet:  
-Vive, vive le Geus  
+1.  Ick hope dat den tijt noch comen sal, Dat men sal roepen over al,
+    Eendrachtich voor een Leus,
+
+Als Breerode met blijde gheschal, Vive vive le Geus.
+
+2.  Die edele heere van Breeroe soet, Metten graef van Nassou dat edel
+    bloet Seer ingenieus,
+
+Den Grave van Culenburch metter spoet, Vive vive le Geus.
+
+3.  Dese hebben ons verlost vanden cardinael En van de kettermeesters
+    int generael, Van den bisschop seer pompeus,
+
+Dus roepen wy met blijschap altemael, Vive vive le Geus.
+
+4.  Sy hadden ons ghepast te brenghen inden noot, Als slachtschaepkens
+    die men doot
+
+Met tyrannije beus:
+
+Dus roepen wy, want Godt verdroot, Vive vive le Geus.
+
+5.  Sy hadden na ons bloedt ghevast,
+
+Ons goet te nemen hadden sy ghepast, Want sy maken ons fameus
+
+Voor den coninck, maer roept ontlast, Vive vive le Geus.
+
+6.  Hertoch Eerick heeft hem sterck gheset, Teghen die waerheyt reyn en
+    net, Met lancen ende speer:
+
+Hierom gheeft Godt diet heeft belet, Lof, glory, prijs, end eer.
 
 
-{:start="3"}  
-3. Dese hebben ons verlost vanden Cardinael  
-en van de Kettermeesters int generael,  
-vanden Bisschop seer pompeus;  
-dus roepen wy met blyschap altemael:  
-Vive, vive le Geus!  
+
+7.  Die prins van Orangien triumphant, Met andere baroenen hier int
+    lant, Sy waren damboreus,
+
+Godt maeckte haer synen wille bekant, Vive vive le Geus.
+
+8.  De deken van Ronsen om Gods woort bloot, Hy heeft ghebracht menich
+    christen ter doot Met moede preus:
+
+Daerom roepen wy cleyn en groot, Vive vive le Geus.
+
+9.  De marcgraef van Antwerpen is een wreet tyrant, Hy heeft de
+    christenen verdroncken en verbrant, Met nijde dangereus,
+
+Dus roepen wy tot zijnder schandt, Vive vive le Geus.
+
+10. Bisschoppen en prelaten acht men nu niet meer, Noch den paus met
+    syne valsche leer,
+
+Want sy zijn venineus:
+
+Dus roepen wy teghen haer eer, Vive vive le Geus.
+
+11. Verblijt u alle gader met groot iolijt,
+
+Die den cardinalen draghen de trouw te spijt, Als sy vragen na de
+leus,
+
+Dus segt altijt en weest verblijt, Vive vive le Geus.
+
+12. Danckt Godt den prins van hemelrijck. Ghy die de waerheyt soeckt
+    ghelijck, Hoe langer hoe meer,
+
+Betert u, gheeft Godt autentijck, Lof, glory, prijs end eer.
+
+> *Uit \'Een Nieu Guese Liede Boecxken\', 1576*
 
 
-{:start="4"}  
-4. Sy hadden ons ghepast te brenghen inden noot,  
-als slachtschaepkens, diemen doot  
-met tyrannije beus:  
-dus roepen wy, want Godt verdroot:  
-Vive, vive le Geus!  
 
-
-{:start="5"}  
-5. Sy hadden na ons bloedt ghevast,  
-ons goet te nemen hadden sy ghepast,  
-want sy maken ons fameus  
-voor den Coninck; maer roept ontlast:  
-Vive, vive le Geus!  
-
-
-{:start="6"}  
-6. Hertoch Eerick heeft hem sterck gheset  
-teghen die waerheyt reyn en net  
-met lancen ende speer;  
-hierom gheeft God, diet heeft belet,  
-lof, glory, prijs, end eer!  
-
-
-{:start="7"}  
-7. Die Prins van Orangien triumphant,  
-met andere Baroenen hier int lant,  
-sy waren damboreus;  
-Godt maeckte haer synen wille bekant:  
-Vive, vive le Geus!  
-
-
-{:start="8"}  
-8. De Deken van Ronsen om Gods woort bloot,  
-hij heeft ghebracht menich Christen ter doot  
-met moede preus;  
-daerom roepen wy cleyn en groot:  
-Vive, vive le Geus!  
-
-
-{:start="9"}  
-9. De Marcgraef van Antwerpen is een wreet tyrant,  
-hij heeft de Christenen verdroncken en verbrant  
-met nijde dangereus;  
-dus roepen wy, tot zijnder schandt:  
-Vive, vive le Geus!  
-
-
-{:start="10"}  
-10. Bisschoppen en Prelaten achtmen nu niet meer,  
-noch den Paus met syne valsche leer,  
-want sy zijn venineus;  
-dus roepen wy teghen haer eer:  
-Vive, vive le Geus!  
-
-
-{:start="11"}  
-11. Verblijt u allegader met groot iolijt,  
-die den Cardinalen draghen de trouw te spijt,  
-als sy vraghen na de leus;  
-dus segt altijt en weest verblijt:  
-Vive, vive le Geus!  
-
-
-{:start="12"}  
-12. Danckt Godt, den Prins van Hemelrijck,  
-ghy, die de waerheyt soeckt ghelijck,  
-hoe langher hoe meer:  
-betert u, gheeft Godt autentijck  
-lof, glory, prijs end eer!  

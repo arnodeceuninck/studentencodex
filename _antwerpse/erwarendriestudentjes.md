@@ -1,46 +1,47 @@
 ---
 title: Er waren drie studentjes
 page: 130
----  
-
-{:start="1"}  
-1. Er waren drie studentjes  
-van dingela, domela, deine,  
-er waren drie studentjes  
-aan d'universiteit (ter)  
-er waren drie studentjes  
-aan d'universiteit.  
+---
 
 
-{:start="2"}  
-2. De eerste was een blokker  
-en hij heeft zich doodgeblokt  
+1.  Er waren drie studentjes Van dingela, domela, deine Er waren drie
+    studentjes Aan d\'universiteit (ter) Er waren drie studentjes Aan
+    d\'universiteit
+
+2.  De eerste was een blokker \...
+
+En hij heeft zich doodgeblokt
+
+3.  De tweede was een vrijer \...
+
+En hij heeft zich doodgevrijd
+
+4.  De derde was een rolder \...
+
+En hij heeft zich doodgerold
+
+5.  Er waren geen studenten \...
+
+Aan d\'universiteit
+
+6.  De profs die vlogen buiten \...
+
+Uit d\'universiteit
+
+7.  De doos die werd gesloten
+
+Van dingela, domela, deine
+
+De vice die moest gaan doppen
+
+Tot in der eeuwigheid (ter)
+
+De vice die moest gaan doppen
+
+Tot in der eeuwigheid
+
+> *Muziek: naar het Franse \'Malbrough s\'en va-t-en guerre\', 18de
+eeuw*
 
 
-{:start="3"}  
-3. De tweede was een vrijer,  
-en hij heeft zich dood gevrijd.  
 
-
-{:start="4"}  
-4. De derde was een rolder,  
-en hij heeft zich doodgerold.  
-
-
-{:start="5"}  
-5. Er waren geen studenten,  
-aan d'universiteit.  
-
-
-{:start="6"}  
-6. De profs die vlogen buiten,  
-uit d'universiteit.  
-
-
-{:start="7"}  
-7. De doos die werd gesloten,  
-van dingela, domela, deine,  
-De vice die moest gaan doppen,  
-tot in der eeuwigheid (ter)  
-De vice die moest gaan doppen,  
-tot in der eeuwigheid   

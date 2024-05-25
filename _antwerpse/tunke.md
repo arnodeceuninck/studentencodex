@@ -1,55 +1,38 @@
 ---
 title: Tunke
 page: 280
----  
+---
 
 
-{:start="1"}  
-1. Viola, Bass und Geigen  
-die müssen alle schweigen  
-vor dem Trompetenschall  
-ja vor dem Schall  
-vor dem Trompeten-  
-tunke, tunke, tunke, tunk, vivallalera  
-vor dem Trompetenschall, ja vor dem Schall.  
+1.  Viola, Bass und Geige
+
+Die müssen alle schweigen Vor dem Trompetenschall Ja vor dem Schall
+(septies) Vor dem Trompeten\...
+
+Tunke, tunke, tunke, tunk, vivallalera (bis) Vor dem Trompetenschall,
+ja vor dem Schall!
+
+2.  Die Stimme uns\'res Küsters Die ist nur leis\' Geflüster Vor \...
+
+3.  Die Vöglein in dem Walde Die schweigen alsobalde Vor \...
+
+4.  Leb wohl, mein kleines Städtchen Leb wohl, schwarzbraunes Mädchen
+    Leb wohl und denk an mich
+
+Ja denk an mich (septies) Leb wohl und denk an
+
+Tunke, tunke, tunke, tunk, vivallalera (bis) Leb wohl und denk an
+mich, ja denk an mich!
+
+5.  Mein Jena, du sollst leben Sollst reichen Stoff uns geben Du bist
+    ein Bierkanal
+
+Ja Bierkanal (septies) Du bist ein Bierka-
+
+Tunke, tunke, tunke, tunk, vivallalera (bis) Du bist ein Bierkanal, ja
+Bierkanal!
+
+> *Studentenlied uit Heidelberg, omstreeks 1825*
 
 
-{:start="2"}  
-2. Die Stimme unsres Küsters  
-ist nur ein leis Geflüsters  
-vor dem Trompetenschall  
-ja vor dem Schall  
-vor dem Trompeten-  
-tunke, tunke, tunke, tunk, vivallalera  
-vor dem Trompetenschall, ja vor dem Schall.  
 
-
-{:start="3"}  
-3. Die Vöglein in dem Walde  
-die schweigen alsobalde  
-vor dem Trompetenschall  
-ja vor dem Schall  
-vor dem Trompeten-  
-tunke, tunke, tunke, tunk, vivallalera  
-vor dem Trompetenschall, ja vor dem Schall.  
-
-
-{:start="4"}  
-4. Leb wohl, mein kleines Städtchen  
-leb wohl, schwarzbraunes Mädchen  
-leb wohl und denk an mich  
-leb wohl und denk an mich  
-vor dem Trompeten-  
-tunke, tunke, tunke, tunk, vivallalera  
-vor dem Trompetenschall, ja vor dem Schall.  
-
-
-{:start="5"}  
-5. Mein Jena, du sollst leben,  
-sollst reichen Stoff uns geben  
-du bist ein Bierkanal,  
-Bierkanal, ja Bierkanal  
-du bist ein Bierka-  
-tunke, tunke, tunke, tunk, vivallalera  
-du bist ein Bierkanal, ja Bierkanal!  
-  

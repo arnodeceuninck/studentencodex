@@ -1,14 +1,22 @@
 ---
 title: Pinten hoog
-page: 172
----  
+page: 173
+---
 
-Pinten hoog, van hop falderala lierela  
-Pinten hoog, van hop falderalala  
-En wie ze niet krijgt leeggedronken  
-Krijgt ze niet meer volgeschonken  
-Pinten hoog!  
 
-_het glas wordt leeggedronken._  
+Pinten hoog, van hop falderala lierela
 
-Van hopfalderalalala!  
+Pinten hoog, van hop falderalala
+
+En wie ze niet krijgt leeggedronken
+
+Krijgt ze niet meer volgeschonken
+
+Pinten hoog!
+
+> *Het glas wordt leeggedronken.*
+
+Van hopfalderalala!
+
+
+

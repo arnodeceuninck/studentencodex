@@ -1,24 +1,16 @@
 ---
 title: Kalinka
-page: 441
----  
+page: 443
+---
 
-- Kalinka, kalinka, kalinka moja )  
-V sadoe jagoda malinka, malinka moja ) (ter)  
 
-Ach, pod sosnojoe, pod zelenojoe  
-Spatj polozjitje vy menja  
-Aj-ljoeli, ljoeli, aj-ljoeli, ljoeli  
-Spatj polozjitje vy menja  
+*Tekst en muziek: 1860, Ivan Petrovitsj Larionov (1830 -1889)*
 
-{:start="2"}  
-2. Ach, sosenoesjka ty zelenaja  
-Nje sjoemi zje nado mnoj  
-Aj-ljoeli, ljoeli, aj-ljoeli, ljoeli  
-Ne sjoemi zje nado mnoj  
+*Russische volkswijze (\'kalinka\' is Russisch voor \'Gelderse roos\')*
 
-{:start="3"}  
-3. Ach krasavitsa, doesja-devitsa  
-Poljoebi zje ty menja  
-Aj-ljoeli, ljoeli, aj-ljoeli, ljoeli  
-Poljoebi zje ty menja  
+
+
+
+
+
+

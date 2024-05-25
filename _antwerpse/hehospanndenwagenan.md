@@ -1,11 +1,18 @@
 ---
 title: Heho, spann den Wagen an
 page: 316
----  
+---
 
-{:start="1"}  
-1. He, ho, spann den Wagen an,  
-{:start="2"}  
-2. denn der Wind treibt Regen über's Land  
-{:start="3"}  
-3. Hol'den golden Garben, Hol'den golden Garben  
+
+-   Heho, spann den Wagen an
+
+<!-- -->
+
+-   Seht, der Wind treibt Regen übers Land ^③^ Holt die gold\'nen Garben
+
+Holt die gold\'nen Garben
+
+*Canon voor drie stemmen, 19de eeuw Naar een oude Engelse melodie*
+
+
+

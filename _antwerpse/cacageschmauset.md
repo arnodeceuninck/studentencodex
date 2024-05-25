@@ -1,74 +1,46 @@
 ---
-title: Ca ca geschmauset
+title: Ça ça geschmauset
 page: 349
----  
-
-{:start="1"}  
-1.  Ça ça geschmauset,  
-Laßt uns nicht rappelköpfig sein!  
-Wer nicht mithauset,  
-Der bleibt daheim.  
-
-- Edite, bibite, colegiales!  
-Post multa saecula pocula nulla! (bis)  
-
-{:start="3"}  
-3. Der Herr Professor  
-Liest heut kein Kollegium:  
-Drum ist es besser,  
-Man trinkt eins 'rum.  
+---
 
 
-{:start="3"}  
-3. Trinkt nach Gefallen,  
-Bis ihr die Finger danach leckt;  
-Dann hat's uns allen  
-Recht wohl geschmeckt!  
+1.  Ça ça geschmauset, laßt uns nicht rappelköpfich sein! Wer nicht mit
+    hauset, der bleib daheim.
+
+<!-- -->
+
+R.  Edite, bibite, colegiales!
+
+Post multa saecula pocula nulla! (bis)
+
+2.  Der Herr Professor liest heut kein Collegium: Drum ist es besser,
+    man trinkt eins \'rum.
+
+3.  Trinkt nach Gefallen, bis ihr die Finger darnach leckt; Dann hat\'s
+    uns allen recht wohl geschmeckt.
+
+4.  Auf, auf, ihr Brüder! erhebt den Bacchus auf den Thron Und setzt
+    euch nieder, wir trinken schon.
+
+5.  So lebt man immer, so lang der junge Lenz uns blinkt Und
+    Jugendschimmer die Wangen schminkt.
+
+6.  Knaster, den gelben, hat uns Apolda präpariert Und uns denselben
+    rekommandiert.
+
+7.  Hat dann ein jeder sein Pfeifchen Knaster angebrannt, So nehm er
+    wieder sein Glas zur Hand!
+
+8.  So lebt man lustig, weil es noch flotter Bursche heißt, Bis daß man
+    rüstig ad patres reist.
+
+9.  Bis daß mein Hieber vom Corpus iuris wird besiegt, So lang ihr
+    Brüder, leb ich vergnügt!
+
+10. Denkt oft, ihr Brüder, an unsre Jugendfröhlichkeit, Sie kehrt nicht
+    wieder, die goldne Zeit!
+
+> *Tekst en muziek: 1781, Christian Wilhelm Kindleben (1748-1785)*
 
 
-{:start="4"}  
-4. Auf, auf, ihr Brüder!  
-Erhebt den Bacchus auf den Thron  
-Und setzt euch nieder,  
-Wir trinken schon.  
 
-
-{:start="5"}  
-5. So lebt man immer,  
-Solang der junge Lenz uns blinkt  
-Und Jugenschimmer  
-Die Wangen schminkt.  
-
-
-{:start="6"}  
-6. Knaster, den gelben,  
-Hat uns Apolda prüpariert  
-Und uns denselben  
-Rekommandiert.  
-
-{:start="7"}  
-7. Hat dann ein jeder  
-Sein Pfeifchen Knaster angebrannt,  
-So nehm er wieder  
-Sein Glas zur Hand!  
-
-
-{:start="8"}  
-8. So lebt man lustig,  
-Weil es noch flotter Bursche heißt,  
-Bis daß man rüstig  
-Ad patres reist.  
-
-
-{:start="9"}  
-9. Bis daß mein Hieber  
-Vom Corpus iuris wird besiegt,  
-So lang ihr Brüder,  
-Leb ich vergnügt!  
-
-
-{:start="10"}  
-10. Denkt oft, ihr Brüder,  
-An unsre Jugendfröhlichkeit,  
-Sie kehrt nicht wieder,  
-Die goldne Zeit!  

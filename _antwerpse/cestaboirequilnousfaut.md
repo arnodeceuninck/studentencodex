@@ -1,43 +1,45 @@
 ---
-title: C'est à boire qu'il nous faut
+title: C\'est à boire qu\'il nous faut
 page: 420
----  
+---
 
 
-{:start="1"}  
-1. C'était cinq à six bons bougres qui venaient de Longjumeau  
-Ils entrèrent dans une auberge pour y boire du vin nouveau  
+1.  C\'étaient cinq à six bons bougres Qui venaient de Longjumeaux Ils
+    entrèrent dans une auberge Pour y boire du vin nouveaux, oh !
+
+<!-- -->
+
+R.  C\'est à boire, à boire, à boire
+
+C\'est à boire qu\'il nous faut, oh oh oh oh !
+
+2.  Chacun fouilla dans sa poche Quand il fallu payer l\'écot Le plus
+    riche dans sa bourse Ne trouva qu\'un écu faux, oh !
+
+3.  Nom de Dieu, dit la patronne Qu\'on leur prenne leurs chapeaux
+    Sacrebleu, dit la servante
+
+Leurs falzards, leurs godillots, oh !
+
+4.  Et quand ils furent en chemise Ils montèrent sur les tonneaux Nom de
+    Dieu, dit la patronne
+
+Qu\'ils sont noirs, mais qu\'ils sont beaux, oh !
+
+5.  Sacrebleu, dit la servante Tous les six il me les faut Et tous les
+    six y passèrent
+
+Du plus p\'tit jusqu\'au plus gros, oh !
 
 
-- C'est à boire, a boire, a boire, mesdames  
-C'est à boire qu'il nous faut, oh oh oh oh!  
 
+6.  Nom de Dieu, dit la patronne Qu\'on leur rende leurs chapeaux
+    Sacrebleu, dit la servante
 
-{:start="2"}  
-2. Chacun fouilla dans sa poche quand il fallut payer l'pot  
-Le plus riche retourne la sienne et n'y trouve qu'un écu faux  
+Leurs falzards, leurs godillots, oh !
 
+7.  Et depuis dans cette auberge On lit sur un écriteau :
 
-{:start="3"}  
-3. Nom de Dieu, dit la patronne, Qu'on leur prenne leurs chapeaus  
-Sacrebleu, dit la servante, Leurs falzards, leurs godillots  
+C\'est ici qu\'les beaux gars boivent Mais ne payent pas leurs écots,
+oh !
 
-
-{:start="4"}  
-4. Et quand ils furent en chemise, ils montèrent sur des tonneaux  
-Nom de nom dit la patronne, qu'ils sont sales, mais qu'ils sont beaux  
-
-
-{:start="5"}  
-5. Sacrebleu, dit la servante, tous les six il me les faut  
-Et tous les six y passerent, du plus p'tit jusqu'au plus gros  
-
-
-{:start="6"}  
-6. Nom de Dieu, dit la patronne, Qu'on leur rende leurs chapeaux  
-Sacrebleu dit la servante, Leurs falzards, leurs godillots  
-
-
-{:start="7"}  
-7. Et depuis dans cette auberge, On lit sur un ecriteau  
-C'est ici qu'les beaux gars boivent, Mais ne payent pas leurs ecots  

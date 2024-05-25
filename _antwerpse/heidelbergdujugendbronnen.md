@@ -1,52 +1,72 @@
 ---
-title: Heidelberg du Jugendbrunnen
-page: 332
----  
+title: Heidelberg du Jugendbronnen
+page: 333
+---
 
-{:start="1"}  
-1. Heidelberg, du Jugendbronnen  
-Zauberin am Neckarstrand  
-solchen Fleck, uns warm zu sonnen  
-gab der Herrgott keinem Land.  
-Schläger schwirren, Gläser klingen  
-alles atmet Frohnatur,  
-selbst im Wald die Vöglein singen:  
-Gaudeamus igitur ! (bis)  
 
-{:start="2"}  
-2. Wohl die alte Burg voll Narben  
-trauert um vergangne Zeit,  
-doch sie tut´s in lichten Farben  
-fröhlichfeuchter Traurigkeit.  
-Schaut sie so aufs viele Bürsten  
-wie mit sanfter Rührung hin,  
-denkt sie ihrer alten Fürsten,  
-die so groß und stark darin. (bis)  
+1.  Heidelberg, du Jugendbronnen, Zauberin am Neckarstrand, Solchen
+    Fleck, uns warm zu sonnen, Gab der Herrgott keinem Land! Schläger
+    schwirren, Gläser klingen,
 
-{:start="3"}  
-3. Schäumend tosten hier die Becher,  
-und Herrn Otto Heinrich galt's,  
-der berühmter noch als Zecher,  
-denn als Graf der schönen Pfalz.  
-Nur ein Burgzwerg traf's noch besser,  
-der ging recte gleich zum Spund,  
-und das größte aller Fässer  
-schlürft' er aus bis auf den Grund! (bis)  
+Alles atmet Frohnatur,
 
-{:start="4"}  
-4. Seine Tat, so kühn gelungen, lebt im Lied unsterblich fort,  
-und der Sänger, der's gesungen, ragt in Erz gegossen dort.  
-Schar um Schar zum Scheffelhaine wogt empor auf Waldespfad,  
-und "Alt-Heidelberg, du Feine" summt's dort oben früh und spat! (bis)  
+Selbst im Laub die Vöglein singen: \]
 
-{:start="5"}  
-5. Frohe Stadt, zum Unterpfande, daß dein Glück dich nicht verläßt,  
-grüßt uns hoch vom Dachesrande ein verwegnes Storchennest!  
-Ei, wie han's die lebensfrischen Weiblein hier sich gut bestellt:  
-geht der Storch im Neckar baden, kommt ein Löwenfux zur Welt! (bis)  
+Gaudeamus igitur! \] (bis)
 
-{:start="6"}  
-6. So gedeih bei Storch und Kater, fröhliche Studentenschaft!  
-Brausend klingt dein Landesvater stets bei Wein und Gerstensaft!  
-Prosit deinem Sangesmeister, Prosit deinem großen Zwerg,  
-Scheffels und Perkeos Geister walten über Heidelberg! (bis)  
+2.  Wohl die alte Burg voll Narben Trauert um vergangne Zeit, Doch sie
+    tut\'s in lichten Farben Fröhlich-feuchter Traurigkeit.
+
+Schaut sie so aufs viele Bürsten Wie mit sanfter Rührung hin, Denkt
+sie ihrer alten Fürsten, Die so groß und stark darin.
+
+\]
+
+\] (bis)
+
+3.  Schäumend tosten hier die Becher, Und Herrn Otto Heinrich galt\'s
+    Der berühmter noch als Zecher, Denn als Graf der schönen Pfalz.
+
+Nur ein Burgzwerg traf\'s noch besser, Der ging recte gleich zum
+Spund,
+
+Und das größte aller Fässer \] Schlürft\' er aus bis auf den Grund! \]
+(bis)
+
+
+
+4.  Seine Tat, so kühn gelungen, Lebt im Lied unsterblich fort, Und der
+    Sänger, der\'s gesungen, Ragt in Erz gegossen dort.
+
+Schar um Schar zum Scheffelhaine
+
+Wogt empor auf Waldespfad,
+
+Und \"Alt-Heidelberg, du Feine\" \] Summt\'s dort oben früh und spat!
+\] (bis)
+
+5.  Frohe Stadt, zum Unterpfande, Daß dein Glück dich nicht verläßt,
+    Grüßt uns hoch vom Dachesrande Ein verwegnes Storchennest!
+
+Ei, wie han\'s die lebensfrischen Weiblein hier sich gut bestellt:
+
+Geht der Storch im Neckar fischen, \]
+
+Kommt was Lustiges zur Welt! \] (bis)
+
+6.  So gedeih bei Storch und Kater, Fröhliche Studentenschaft! Brausend
+    klingt dein Landesvater Stets bei Wein und Gerstensaft!
+
+Prosit deinem Sangesmeister, Prosit deinem großen Zwerg, Scheffels und
+Perkeos Geister Walten über Heidelberg!
+
+\]
+
+\] (bis)
+
+> *Tekst: Albrecht von Wickenburg (1838-1911)*
+
+> *Muziek: 1899, Otto Lob (1834-1908)*
+
+
+

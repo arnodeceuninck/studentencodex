@@ -1,46 +1,44 @@
 ---
 title: Het loze vissertje
 page: 196
----  
+---
 
 
-{:start="1"}  
-1. Des winters als het regent  
-dan zijn de paadjes diep, ja diep.  
-Dan komt dat loze vissertje  
-al vissen in dat riet, ja riet.  
+1.  Des winters als het regent,
+
+Dan zijn de paadjes diep, ja diep, Dan komt dat loze vissertje Vissen
+al in dat riet, ja riet.
+
+R.  Met zijne rijfstok, met zijne strijkstok,
+
+Met zijne lapzak, met zijne knapzak,
+
+Met zijne lere, van dirre domme dere, \] Met zijne lere laarsjes aan.
+\] (bis)
+
+2.  Dat loze molenarinnetje
+
+Ging in haar deurtje staan, ja staan, Opdat dat aardig vissertje
+Voorbij haar heen zou gaan, ja gaan.
+
+3.  \"Wat heb ik u misdreven,
+
+Wat heb ik u misdaan, ja daan, Opdat ik niet met vrede
+
+Voorbij uw deur mag gaan, ja gaan?\"
+
+R.  Met mijne rijfstok, \...
+
+<!-- -->
+
+4.  \"Gij hebt mij niets misdreven,
+
+Gij hebt mij niets misdaan, ja daan. Maar moet mij driemaal zoenen,
+Eer gij van hier moogt gaan, ja gaan.\"
+
+R.  Met uwe rijfstok, \...
+
+*Volkswijze uit de 17de eeuw*
 
 
-- Met zijne rijfstok, met zijne strijkstok,  
-met zijne lapzak, met zijne knapzak,  
-met zijne lere, van dirre dom dere,  
-met zijne lere laarsjes aan,  
-met zijne lere, van dirre dom dere,  
-met zijne lere laarsjes aan.  
 
-
-{:start="2"}  
-2. Dat loze molenarinnetje  
-ging in haar deurtje staan, ja staan,  
-omdat dat aardig vissertje  
-voorbij haar henen zou gaan, ja gaan.  
-
-
-{:start="3"}  
-3. Wat heb ik jou misdreven,  
-wat heb ik jou misdaan, ja daan;  
-en dat ik niet met vreden,  
-voorbij jouw deurtje mag gaan, ja gaan.  
-
-
-- Met mijne rijfstok, ...  
-
-
-{:start="4"}  
-4. Gij hebt mij niets misdreven,  
-gij hebt mij niets misdaan, ja daan;  
-gij moet mij driemaal zoenen,  
-eer gij van hier moogt gaan, ja gaan.  
-
-
-- Met uwe rijfstok, ...  

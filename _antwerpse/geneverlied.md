@@ -1,36 +1,28 @@
 ---
 title: Geneverlied
 page: 129
----  
-
-{:start="1"}  
-1. En als wij naar de hemel gaan,  
-Genevertje, genevertje,  
-En als wij naar de hemel gaan,  
-Genevertje gaat mee!  
+---
 
 
-- Stromen, ja stromen,  
-Van bols, van bols,  )  
-Van lekkere bols     ) (bis)  
+1.  En als wij naar de hemel gaan Genevertje, genevertje
 
+En als wij naar de hemel gaan, genevertje gaat mee
 
-{:start="2"}  
-2. En dat ik immer zo lustig ben,  
-Dat heb ik van mijne mama,  
-En dat ik immer zo dorstig ben,  
-Dat heb ik van mijne papa!  
+Stromen, ja stromen \]
 
+Van Bols, van Bols, van lekkere Bols \] (bis)
 
-{:start="3"}  
-3. En waar men een student ontmoet,  
-Genevertje, genevertje,  
-En waar men een student ontmoet,  
-Genevertje is daar!  
+En dat ik immer zo lustig ben
 
+Dat heb ik van mijne mama
 
-{:start="4"}  
-4. En als hij bols genever ruikt  
-Dan kittelt het in zijnen maag,  
-En als hij dan nog een druppel gebruikt,  
-Dan komt er een eind aan vandaag.  
+En dat ik immer zo dorstig ben
+
+Dat heb ik van mijne papa
+
+2.  En waar men een student ontmoet Genevertje, genevertje
+
+En waar men een student ontmoet, genevertje is daar
+
+Stromen, ja stromen \] Van Bols, van Bols, van lekkere Bols \] (bis)
+

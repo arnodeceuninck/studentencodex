@@ -1,31 +1,25 @@
 ---
-title: Te Duinkerk gaat het al verkeerd
+title: Te Duinkerk gaat het ál verkeerd
 page: 219
----  
+---
 
 
-{:start="1"}  
-1. Te Duinkerk gaat het al verkeerd,  
-Te Duinkerk gaat het al verkeerd,  
-De meisjes zijn in't fransch geleerd!  
-Par-le-re-lom, la-re-lom, joep, joep joep,  
-De meisjes zijn in't fransch geleerd.  
-Van I-vi-va!!  
+\. Te Duinkerk gaat het ál verkeerd, (bis) De meisjes zijn \'t Frans
+geleerd, Parlerelom, larelom, joep, joep, joep, De meisjes zijn in \'t
+Frans geleerd.
 
+Van iviva!
 
-{:start="2"}  
-2. De meisjes dragen al zijden roks,  
-De meisjes dragen al zijden roks,  
-De knechten dragen maar leeren broeks!  
-Par-le-re-lom, la-re-lom, joep, joep joep,  
-De meisjes dragen al zijnden roks,  
-Van I-vi-va!!  
+2.  De meisjes dragen al zijden roks, (bis) De knechten dragen maar
+    leren broeks, Parlerelom, larelom, joep, joep, joep, De knechten
+    dragen maar leren broeks. Van iviva!
 
+\. De meisjes dragen markijnen schoens, (bis) De knechten dragen maar
+houten schoens, Parlerelom, larelom, joep, joep, joep,
 
-{:start="3"}  
-3. De meisjes dragen markijnen schoens,  
-De meisjes dragen markijnen schoens,  
-De knechten dragen maar houten schoens.  
-Par-le-re-lom, la-re-lom, joep, joep joep,  
-De knechten dragen maar houten schoens,  
-Van I-vi-va!!   
+De knechten dragen maar houten schoens.
+
+Van iviva!
+
+29
+

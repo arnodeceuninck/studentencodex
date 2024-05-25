@@ -1,34 +1,24 @@
 ---
 title: O Susanna
-page: 316
----  
+page: 1
+---
 
 
-{:start="1"}  
-1. Alle Fische schwimmen, )  
-Alle Fische schwimmen, )  
-Nur der kleine Backfisch nicht! ) (bis)  
+\. Alle Fische schwimmen,
 
+Alle Fische schwimmen
 
-- O Susanna,  
-Wie ist das Leben wunderschön!  
-O Susanna,  
-Wie ist das Leben schön!  
+Nur der kleine Backfisch nicht!
 
+\]
 
-{:start="2"}  
-2. Alle Möpse bellen )  
-Alle Möpse bellen )  
-Nur der kleine Rollmops nicht! ) (bis)  
+\]
 
+\] (bis)
 
-{:start="3"}  
-3. Alle Böcke springen )  
-Alle Böcke springen )  
-Nur der kleine Holzbock nicht! ) (bis)  
+R.  O Susanna,
 
+Wie ist das Leben doch so schön! O Susanna,
 
-{:start="4"}  
-4. Trinke noch ein Tröpfchen )  
-Trinke noch ein Tröpfchen )  
-Aus dem kleinen Henkeltöpfchen! ) (bis)  
+Wie ist das Leben schön!
+

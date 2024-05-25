@@ -1,34 +1,28 @@
 ---
 title: Limburg allein
 page: 454
----  
+---
 
 
-{:start="1"}  
-1.  Dao, woo ich geboare bin  
-Woo m'n awwesjhoes nog steijt  
-De taal, die ich toch zo gouwd kin  
-Woo ich haw mien leijf en leijd  
+1.  Dao, woo ich geboare bin
+
+Woo m\'n awwesjhoes nog steijt De taal, die ich toch zo gouwd kin Woo
+ich haw mien leijf en leijd
+
+R.  Limburg, Limburg allein Dao geit niks boave
+
+Zo is t\'r mer ein
+
+Es mie awd Limburg Limburg allein Dao geit niks boave Zo is t\'r mer
+ein
+
+2.  Gaon ich nao de vreamde hear Of wiet oet Limburg weg Heur ich immer
+    toch zo gear \'t Gowd, \'t kaod, \'t slech
+
+3.  Zeuk ich mich e maedje oet Is dat e Limburgs keindj Dao wo ich mich
+    aanvertroew En nörgens e baeter vinj
+
+> *Tekst en muziek: 1954, Jo Erens (1928-1955)*
 
 
-- Limburg, Limburg allein  
-Dao geit niks boave  
-Zo is t'r mer ein.  
-Es mie awd Limburg,  
-Limburg allein  
-Dao geit niks boave  
-Zo is t'r mer ein.  
 
-
-{:start="2"}  
-2. Gaon ich nao de vreamde hear  
-Of wiet oet Limburg weg  
-Heur ich immer toch zo gear  
-'t Gowd, 't kaod, 't slech.  
-
-
-{:start="3"}  
-3. Zeuk ich mich e maedje oet,  
-Is dat e Limburgs keindj.  
-Dao wo ich mich aanvertroew,  
-en nörgens e baeter vinj.  

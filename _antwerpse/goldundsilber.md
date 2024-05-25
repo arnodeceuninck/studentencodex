@@ -1,70 +1,87 @@
 ---
 title: Gold und Silber
-page: 284
----  
-
-{:start="1"}  
-1. Gold und Silber lieb' ich sehr,  
-Kann's auch gut gebrauchen,  
-Hätt' ich doch ein ganzes Meer,  
-Mich hinein zu tauchen;  
-'s braucht nicht grad geprägt zu sein,  
-Hab's auch so ganz gerne,  
-Sei's des Mondes Silberschein, )  
-Sei's das Gold der Sterne. ) (bis)  
+page: 285
+---
 
 
+1.  Gold und Silber lieb\' ich sehr, Kann\'s auch gut gebrauchen, Hätt\'
+    ich nur ein ganzes Meer, Mich hinein zu tauchen;
 
-{:start="2"}  
-2. Doch viel schönser ist das Gold  
-Das vom Lockenköpfchen  
-Meines Liebchens niederrollt  
-In zwei langen Zöpfchen!  
-D'rum mein liebes Kind,  
-Lass uns herzen, küssen,  
-Bis die Locken silber sind )  
-Und wir scheiden müssen. ) (bis)  
+\'s Braucht nicht grad geprägt zu sein,
 
+Hab\'s auch so ganz gerne,
 
-{:start="3"}  
-3. Trautes Schatzchen, trag nicht Leid,  
-Blicke nicht so trube,  
-Dass du nicht die einz'ge Maid,  
-Die ich herzlich liebe.  
-Schau, Studenten machen's so,  
-Lieben mehr als eine;  
-Bin ich nicht mehr Studio, )  
-Lieb'ich dich alleine.    ) (bis)  
+Sei\'s des Mondes Silberschein, \]
 
+Sei\'s das Gold der Sterne. \] (bis)
 
-{:start="4"}  
-4. Wer nur eine einz'ge kusst,   
-Bis zur Jahreswende;  
-Und die andern schuchtern grusst  
-Der ist kein Student.  
-Wer noch nie betrunken war  
-Der hat nie studiert.  
-War'er auch gar manches Jahr )  
-Ins Kolleg marschiert        ) (bis)  
+2.  Doch viel schöner ist das Gold Das vom Lockenköpfchen Meines
+    Liebchens niederrollt In zwei blonden Zöpfchen! Darum so, mein
+    liebes Kind
 
+Lass uns herzen, küssen,
 
-{:start="5"}  
-5. Gram dich nicht den ganzen Tag,  
-Dass wir gerne trinken,   
-Dass ich dich nicht kussen mach  
-Wenn die Glaser winken  
-Wer noch nie betrunken war  
-Hat noch nie studiert  
-Wenn er auch gar ganze Jahr )  
-Ins Kolleg marschiert.     ) (bis)  
+Bis die Locken silbern sind
+
+Und wir scheiden müssen.
+
+\]
+
+\] (bis)
+
+3.  Trautes Schätzchen, trag nicht Leid, Blicke nicht so trübe,
+
+Dass du nicht die einz\'ge Maid, Die ich herzlich liebe.
+
+Schau, Studenten machen\'s so, Lieben mehr als eine;
+
+Bin ich nicht mehr Studio, Lieb\' ich dich alleine.
+
+\]
+
+\] (bis)
 
 
-{:start="6"}  
-6. Seht, wie blinkt der goldne Wein  
-Hier in meinem Becher;  
-Horcht, wie klingt so silberrein  
-Froher Sang der Zecher!  
-Daß die Zeit einst golden war,  
-Will ich nicht bestreiten,  
-Denk ich noch im Silberhaar )  
-Gern vergang'ner Zeiten. ) bis  
+
+4.  Wer nur eine einz\'ge küsst, Bis zur Jahreswende;
+
+Und die andern schüchtern grüsst Der ist kein Studente.
+
+Wer noch nie betrunken war Der hat nie studieret.
+
+Wär\' er auch gar manches Jahr Ins Kolleg marschieret.
+
+\]
+
+\] (bis)
+
+5.  Gräm dich nicht den ganzen Tag, Dass wir gerne trinken,
+
+Dass ich dich nicht küssen mag, Wenn die Gläser winken
+
+Wer noch nie betrunken war Hat noch nie studieret
+
+Wenn er auch das ganze Jahr Ins Kolleg marschieret.
+
+\]
+
+\] (bis)
+
+6.  Seht, wie blinkt der gold\'ne Wein Hier in meinem Becher; Horcht,
+    wie klingt so silberrein Froher Sang der Zecher;
+
+Dass die Zeit einst golden war
+
+Will ich nicht bestreiten, Denk\' ich doch im Silberhaar Gern
+vergang\'ner Zeiten.
+
+\]
+
+\] (bis)
+
+> *Tekst: 1828, August Schnetzler (1809-1853)*
+
+> *Muziek: 1843, Friedrich Hieronymus Truhn (1811-1886)*
+
+
+

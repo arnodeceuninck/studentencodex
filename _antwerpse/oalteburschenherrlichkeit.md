@@ -1,40 +1,61 @@
 ---
 title: O alte Burschenherrlichkeit
-page: 346
----  
+page: 4
+---
 
-{:start="1"}  
-1. O alte Burschenherrlichkeit! Wohin bist du verschwunden?  
-Nie kehrst du wieder, goldne Zeit, so froh und ungebunden!  
-Vergebens spähe ich umher, ich finde deine Spur nicht mehr.  
-O je-rum, je-rum, je-rum, o quae mutatio re-rum.  
 
-{:start="2"}  
-2. Den Burschenhut bedeckt der Staub, es sank der Flaus in Trümmer,  
-der Hieber ward des Rostes Raub, verblichen ist sein Schimmer.  
-Verklungen der Kommersgesang, verhallt Rapier- und Sporenklang.  
-O je-rum, je-rum, je-rum, o quae mutatio re-rum.  
+1.  O alte Burschenherrlichkeit, Wohin bist du verschwunden, Nie kehrst
+    du wieder, gold\'ne Zeit, So froh und ungebunden! Vergebens spähe
+    ich umher,
 
-{:start="3"}  
-3. Wo sind die, die vom breiten Stein nicht wankten und nicht wichen,  
-die, ohne Moos, bei Scherz und Wein, den Herrn der Erde glichen?  
-Sie zogen mit gesenktem Blick in das Philisterland zurück.  
-O je-rum, je-rum, je-rum, o quae mutatio re-rum.  
+Ich finde deine Spur nicht mehr.
 
-{:start="4"}  
-4. Da schreibt mit finsterm Amtsgesicht der eine Relationen,  
-der andre seufzt beim Unterricht und der macht Rezensionen;  
-der schilt die sünd’ge Seele aus, und der flickt ihr verfall’nes Haus.  
-O je-rum, je-rum, je-rum, o quae mutatio re-rum.  
+R.  O jerum, jerum, jerum, O quae mutatio rerum!
 
-{:start="5"}  
-5. Allein das rechte Burschenherz kann nimmermehr erkalten,  
-im Ernste wird, wie hier im Scherz, der rechte Sinn stet walten.  
-Die alte Schale nur ist fern, geblieben ist uns doch der Kern,  
-und den laßt fest uns halten, und den laßt fest uns halten!  
+<!-- -->
 
-{:start="6"}  
-6. Drum, Freunde, reichet euch die Hand, damit es sich erneue,  
-der alten Freundschaft heil’ges Band, das alte Band der Treue.  
-Stoßt an und hebt die Gläsr hoch, die alten Burschen leben noch,  
-noch lebt die alte Treue, noch lebt die alte Treue!  
+2.  Den Burschenhut bedeckt der Staub, Es sank der Flaus in Trümmer, Der
+    Hieber ward des Rostes Raub, Erblichen ist sein Schimmer, Verklungen
+    der Kommersgesang, Verhallt Rappier- und Sporenklang.
+
+3.  Wo sind sie, die vom breiten Stein Nicht wankten und nicht wichen,
+    Die ohne Moos bei Scherz und Wein Den Herrn der Erde glichen?
+
+Sie zogen mit gesenktem Blick In das Philisterland zurück.
+
+.  Da schreibt mit finsterm Amtsgesicht Der eine Relationen,
+
+Der andre seufzt beim Unterricht, Und der macht Recensionen, Der
+schilt die sünd\'ge Seele aus, Und der flickt ihr verfallnes Haus.
+
+
+
+a Auf öder Strecke schraubt und spannt Das Fadenkreuz der eine,
+
+Der andre seufzt beim Steinverband, Und der legt Pflastersteine;
+
+Der kocht aus Rüben Zuckersaft, Und der aus Wasser Pferdekraft.
+
+b Zur Börse schnell der eine rennt, Zu tät\'gem Geschäfte,
+
+Der and\'re sitzt bei Kontokorrent Und der nützt fremde Kräfte; Der
+importiert aus Turkestan Und der bohrt seine Schuldner an.
+
+5.  Allein das rechte Burschenherz Kann nimmermehr erkalten,
+
+Im Ernste wird, wie hier im Scherz, Der rechte Sinn stets walten.
+
+Die alte Schale nur ist fern, Geblieben ist uns doch der Kern,
+
+R.  Und den laßt fest uns halten! (bis)
+
+<!-- -->
+
+6.  Drum, Freunde, reichet euch die Hand, Damit es sich erneue
+
+Der alten Freundschaft heil\'ges Band, Das alte Band der Treue.
+
+Klingt an und hebt die Gläser hoch: Die alten Burschen leben noch,
+
+R. Noch lebt die alte Treue! (quater)
+

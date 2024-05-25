@@ -1,63 +1,94 @@
 ---
 title: Geuzenlied
-page: 68
----  
-
-{:start="1"}  
-1. Zij brullen: "Leeuw van vlaanderen!"  
-en huilen tegen ons  
-zij die de leeuw doen kruipen  
-doen kruipen voor Bourbons  
-O Breydel en De Coninck,  
-Gent Brugge van weleer  
-heeft Vlaanderen dan geen kerels  
-hebt gij geen Klauwaerts meer?  
-Op Geuzen, wreekt uw vaadren  
-zwaait gij met de leeuwenvaan!  
-wee wee de landverraadren, )  
-wanneer hun uur zal slaan! ) (bis)  
+page: 69
+---
 
 
-{:start="2"}  
-2. Blikt om U heen, O Broedren!  
-Trekt gans den wereld rond  
-weer rijzen als paleizen  
-de kloosters uit den grond  
-het glanzend licht der rede  
-het licht moet uitgedoofd  
-voor bedevaart, mirakels  
-en spoken in het hoofd  
-ach! Over Leie en Schelde  
-hangt zulk een sombere nacht...  
-O land van Artevelde,     )  
-de Geuzen houden wacht!   ) (bis)  
+1.  Zij brullen: \"Leeuw van Vlaanderen!\" En huilen tegen ons.
+
+Zij die de Leeuw doen kruipen, Doen kruipen voor Bourbons! O Breydel
+en De Coninck, Gent, Brugge van weleer,
+
+Heeft Vlaanderen dan geen kaerels, Hebt gij geen Klauwaerts meer? Op,
+Geuzen! Wreekt uw vaad\'ren;
+
+Zwaait gij de leeuwenvaan!
+
+Wee, wee de landverraad\'ren, \]
+
+Wanneer hun uur zal slaan! \] (bis)
+
+\. Blikt om u heen, o broed\'ren!
+
+Trekt gans den wereld rond.
+
+Weer rijzen als paleizen
+
+De kloosters uit den grond.
+
+Het glanzend licht der rede,
+
+Het licht moet uitgedoofd,
+
+Voor bedevaart, mirakels,
+
+En spoken in het hoofd. Ach! Over Leie en Schelde Hangt zulk een
+somb\'re nacht.
+
+O land van Artevelde,
+
+\]
+
+De Geuzen houden wacht!
+
+\] (bis)
 
 
-{:start="3"}  
-3. Jezuïeten zaaien tweedracht  
-zij blazen haat en twist  
-wij juichen "Recht en rede"  
-zij grijnzen "laag en list"  
-hoort! rome smeedt ons ketens  
-voor 't lijf en voor de ziel  
-het zwart gespuis zal 't mensendom  
-verplettren met den hiel  
-dan Geuzen, dan te wapen  
-de Vrijheidsvlag ter hand  
-van 't ongedierte der papen,  )  
-verlost ons vaderland!        ) (bis)  
+
+3.  Jezuïeten zaaien tweedracht, Zij blazen haat en twist.
+
+Wij juichen: \"Recht en rede!\"
+
+Zij grijnzen: \"Laag en list!\" Hoort! Rome smeedt ons ketens Voor \'t
+lijf en voor de ziel.
+
+Het zwart gespuis zal \'t mensdom Verplett\'ren met den hiel.
+
+Dan, Geuzen, dan te wapen,
+
+De vrijheidsvlag ter hand.
+
+Van \'t ongediert\' der papen,
+
+Verlost ons vaderland!
+
+\]
+
+\] (bis)
+
+4.  Wanneer rijst eens het daglicht In d\'aardse rampwoestijn, Dat elk
+    zijn eigen koning, Zijn eigen paus zal zijn? Geen slaven meer aan
+    ketens, Geen ziel aan boei of band.
+
+En \'t mensdom, gans het mensdom, Een enkel broederland!
+
+Dat willen wij, o Geuzen!
+
+Al kost het goed en bloed.
+
+Wij gaan vooruit als reuzen,
+
+Vooruit met leeuwenmoed!
+
+\]
+
+\] (bis)
+
+> *Tekst: 1873, Julius De Geyter (1830-1905)*
+
+> *Muziek: 1873, Alexander Fernau (1836-188)*
+
+> *Oorspronkelijke titel: \'De Vlaamsche Leeuw en de Geuzen\'*
 
 
-{:start="4"}  
-4. Wanneer rijst eens het daglicht  
-in d' aardse rampwoestijn  
-dat elk zijn eigen koning  
-zijn eigen paus zal zijn?  
-Geen slaven meer aan ketens  
-geen ziel aan boei af band  
-en ' t mensendom, gans het mensendom  
-een enkel Broederland  
-dat willen wij, o Geuzen  
-al kost het goed en bloed  
-wij gaan vooruit als reuzen,   )  
-vooruit met leeuwenmoed!       ) (bis)  
+

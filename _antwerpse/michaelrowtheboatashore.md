@@ -1,16 +1,21 @@
 ---
 title: Michael row the boat ashore
 page: 379
----  
+---
 
-{:start="1"}  
-1.  Michael row the boat ashore, hallelujah!  
-Michael row the boat ashore, hallelujah!  
-{:start="2"}  
-2. Then you'll hear the trumpet sound...  
-{:start="3"}  
-3. Trumpet sound the world around...  
-{:start="4"}  
-4. Trumpet sound the jubilee...  
-{:start="5"}  
-5. Trumpet sound for you and me...  
+
+1.  Michael row the boat ashore, hallelujah! Michael row the boat
+    ashore, hallelujah!
+
+2.  Then you\'ll hear the trumpet sound \...
+
+3.  Trumpet sound the world around \...
+
+4.  Trumpet sound the jubilee \...
+
+5.  Trumpet sound for you and me \...
+
+> *Afro-Amerikaans lied, daterend uit de burgeroorlog (1861-1865)*
+
+
+

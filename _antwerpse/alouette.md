@@ -1,91 +1,76 @@
 ---
 title: Alouette
-page: 416
----  
-
-- Alouette, gentille alouette,  
-Alouette, je te plumerai.  
+page: 417
+---
 
 
-{:start="1"}  
-1. Je te plumerai la tête.  
-Je te plumerai la tête.  
-Et la tête ! Et la tête !  
-Alouette, Alouette !  
+R.  Alouette, gentille alouette Alouette, je te plumerai
 
+\. Je te plumerai la tête (bis)
 
-{:start="2"}  
-2. Je te plumerai le bec.  
-Je te plumerai le bec.  
-Et le bec ! (bis)  
-Et la tête ! (bis)  
-Alouette ! (bis)  
+Et la tête ! (bis)
 
+Alouette ! (bis) Aaaa \...
 
-{:start="3"}  
-3. Je te plumerai les yeux.  
-Je te plumerai les yeux.  
-Et les yeux ! (bis)  
-Et le bec ! (bis)  
-Et la tête ! (bis)  
-Alouette ! (bis)  
+\. Je te plumerai le bec (bis)
 
+Et le bec ! (bis)
 
-{:start="4"}  
-4. Je te plumerai le cou.  
-Je te plumerai le cou.  
-Et le cou ! (bis)  
-Et les yeux ! (bis)  
-Et le bec ! ((bis)  
-Et la tête ! (bis)  
-Alouette ! (bis)  
+Et la tête ! (bis)
 
+Alouette ! (bis) Aaaa \...
 
-{:start="5"}  
-5. Je te plumerai les ailes.  
-Je te plumerai les ailes.  
-Et les ailes ! (bis)  
-Et le cou ! (bis)  
-Et les yeux ! (bis)  
-Et le bec ! (bis)  
-Et la tête ! (bis)  
-Alouette ! (bis)  
+3.  Je te plumerai les yeux (bis) Et les yeux ! (bis)
 
+Et le bec ! (bis) Et la tête ! (bis) Alouette ! (bis) Aaaa \...
 
-{:start="6"}  
-6. Je te plumerai les pattes.  
-Je te plumerai les pattes.  
-Et les pattes ! (bis)  
-Et les ailes ! (bis)  
-Et le cou ! (bis)  
-Et les yeux ! (bis)  
-Et le bec ! (bis)  
-Et la tête ! (bis)  
-Alouette ! (bis)  
+4.  Je te plumerai le cou (bis) Et le cou ! (bis)
 
+Et les yeux ! (bis) Et le bec ! (bis) Et la tête ! (bis)
 
-{:start="7"}  
-7. Je te plumerai la queue.  
-Je te plumerai la queue.  
-Et la queue ! (bis)  
-Et les pattes ! (bis)  
-Et les ailes ! (bis)  
-Et le cou ! (bis)  
-Et les yeux ! (bis)  
-Et le bec ! (bis)  
-Et la tête ! (bis)  
-Alouette ! (bis)  
+Alouette ! (bis) Aaaa \...
 
+5.  Je te plumerai les ailes (bis) Et les ailes ! (bis)
 
-{:start="8"}  
-8. Je te plumerai le dos.  
-Je te plumerai le dos.  
-Et le dos ! (bis)  
-Et la queue ! (bis)  
-Et les pattes ! (bis)  
-Et les ailes ! (bis)  
-Et le cou ! (bis)  
-Et les yeux ! (bis)  
-Et le bec ! (bis)  
-Et la tête ! (bis)  
-Alouette ! (bis)  
+Et le cou ! (bis) Et les yeux ! (bis) Et le bec ! (bis) Et la tête !
+(bis)
+
+Alouette ! (bis) Aaaa \...
+
+46
+
+6.  Je te plumerai les pattes (bis) Et les pattes ! (bis)
+
+Et les ailes ! (bis) Et le cou ! (bis)
+
+Et le bec ! (bis)
+
+Et la tête ! (bis)
+
+Alouette ! (bis) Aaaa \...
+
+7.  Je te plumerai la queue (bis) Et la queue ! (bis)
+
+Et les pattes ! (bis) Et les ailes ! (bis) Et le cou ! (bis)
+
+Et le bec ! (bis)
+
+Et la tête ! (bis)
+
+Alouette ! (bis) Aaaa \...
+
+8.  Je te plumerai le dos (bis) Et le dos ! (bis)
+
+Et la queue ! (bis) Et les pattes ! (bis) Et les ailes ! (bis) Et le
+cou ! (bis)
+
+Et le bec ! (bis)
+
+Et la tête ! (bis)
+
+Alouette ! (bis) Aaaa \...
+
+> *Frans kinderliedje, ontstaan in de 9de eeuw of vroeger*
+
+47
+

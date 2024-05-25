@@ -1,51 +1,58 @@
 ---
 title: Alle die willen naer Island gaen
 page: 88
----  
-
-{:start="1"}  
-1. Alle die willen naer Island gaen,  
-om kabeljauw te vangen  
-en te visschen met verlangen,  
-naer Iseland, naer Iseland toe,  
-tot driendertig reyzen, zy zyn nog niet moê.  
+---
 
 
-{:start="2"}  
-2. Als den tyd van de foye komt aen,  
-wy dansen met behagen  
-en me weten van geen klagen.  
-Maer komt den tyd van naer zee te gaen,  
-iedereen is al met een zoo zwaer hoofd belaên.  
+1.  Alle die willen naar Island gaan, Om kabeljauw te vangen
+
+En te visschen met verlangen, Naar Iseland *(bis)*, naar Iseland toe,
+
+Tot drieëndertig reizen, zij zijn nog niet moe.
+
+2.  Als den tijd van de foye komt aan, Wij dansen met behagen
+
+En we weten van geen klagen.
+
+Maar komt den tijd *(bis)* naar zee te gaan, Iedereen is al met een zo
+zwaar hoofd belaan.
+
+3.  Alser de wind van het noorden waait, Wij gaan naar de herberge
+
+En wij drinken zonder erge.
+
+Wij drinken daar *(bis)* op ons gemak,
+
+Tot dat den lesten stuiver is uit onzen zak.
+
+4.  Alser de wind van het oosten waait, Den schipper, blij van herten,
+    Zegt: \"Wat willen wij laveren?
+
+\'t Zal beter zijn *(bis)*, \'t zal beter zijn
+
+Te loopen voor de wind regt de canele in.\"
+
+5.  Langs de Leezaers en de Schorels voorbij; Van daar al naar Cap
+    Claire,
+
+Die niet weet, hij zal wel leeren.
+
+Toen komter bij *(bis)* onzen stiereman,
+
+En hij geeft ons de coers regte naar Iseland.
 
 
-{:start="3"}  
-3. Alser de wind van het noorden waeyt,  
-wy gaen naer de herberge  
-en wy drinken zonder erge.  
-Wy drinken daer al op ons gemak,  
-tot dat den lesten stuyver is uyt onzen zak.  
 
+6.  Dan loopen wij \'t eiland Rookol voorbij, Al naar de Vogelscharen,
 
-{:start="4"}  
-4. Alser de wind van het oosten waeyt,  
-den schipper, bly van herten,  
-zegt: ‘wat willen wy laveren?  
-'t zal beter zyn, ja 't zal beter zyn  
-te loopen voor de wind regt de Canele in.’  
+Dat kan ieder openbaren;
 
+En van daar *(bis)* naar Bredefiort,
 
-{:start="5"}  
-5. Langs de Leezaers en de Schorels voorby;  
-van daer al naer Cap Claire,  
-die niet weet, hy zal wel leeren.  
-Toen komter by onzen stiereman,  
-en hy geeft ons de coers regte naar Iseland.  
+Daar smeten wij de kollen al buiten bord.
 
+> *Volkswijze uit Frans-Vlaanderen zoals neergeschreven door*
 
-{:start="6"}  
-6. Dan loopen wy 't eyland Kookol voorby,  
-al naer de Vogelscharen,  
-dat kan ieder openbaren;  
-en van daer naer den hoek Bredefiort,  
-daer smeten wy de kollen al buyten bord.  
+> *De Coussemaker in \'Chants populaires des Flamands de France\'
+(1856)*
+

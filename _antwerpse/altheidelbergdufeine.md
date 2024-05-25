@@ -1,37 +1,32 @@
 ---
 title: Alt Heidelberg, du feine
 page: 322
----  
+---
 
 
-{:start="1"}  
-1.  Alt Heidelberg, du feine  
-Du Stadt an Ehren reich  
-Am Neckar und am Rheine  
-Kein andre kommt dir gleich.  
-Stadt fröhlicher Gesellen  
-An Weisheit schwer und Wein  
-Klar ziehn des Stromes Wellen  
-Blauäuglein blitzen drein. (bis)  
+1.  Alt Heidelberg, du feine Du Stadt an Ehren reich Am Neckar und am
+    Rheine Kein andre kommt dir gleich Stadt fröhlicher Gesellen
+
+An Weisheit schwer und Wein Klar ziehn des Stromes Wellen Blauäuglein
+blitzen drein (bis)
+
+2.  Und kommt aus lindem Süden Der Frühling übers Land
+
+So webt er dir aus Blüten
+
+Ein schimmernd Brautgewand Auch mir stehst du geschrieben Ins Herz
+gleich einer Braut
+
+Es klingt wie junges Lieben Dein Name mir so traut (bis)
+
+3.  Alt Heidelberg, du feine Du Stadt an Ehren reich Am Neckar und am
+    Rheine Kein andre kommt dir gleich Und stechen mich die Dornen Und
+    wird mir\'s draus zu kahl Geb ich dem Roß die Sporen Und treibs ins
+    Neckartal (bis)
+
+> *Tekst: 1854, Joseph Victor von Scheffel (1826-1886)*
+
+> *Muziek: 1861, Anton Zimmerman (1807-1876)*
 
 
-{:start="2"}  
-2. Und kommt aus lindem Süden  
-Der Frühling übers Land,  
-So webt er dir aus Blüten  
-Ein schimmernd Brautgewand.  
-Auch mir stehst du geschrieben  
-Ins Herz gleich einer Braut,  
-Es klingt wie junges Lieben  
-Dein Name mir so traut. (bis)  
 
-
-{:start="3"}  
-3. Alt Heidelberg, du feine  
-Du Stadt an Ehren reich  
-Am Neckar und am Rheine  
-Kein andre kommt dir gleich.  
-Und stechen mich die Dornen  
-Und wird mir's draus zu kahl  
-Geb ich dem Roß die Sporen  
-Und reit ins Neckartal. (bis)  
