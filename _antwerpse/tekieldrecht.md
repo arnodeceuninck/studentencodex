@@ -7,51 +7,49 @@ page: 468
 **1**\.  Te Kieldrecht, te Kieldrecht Daer zijn de meiskens koene Zy vrijen
     tot den middernacht En slapen tot den noene
 
-Ik maei, is dat niet fraei?
+Ik maei, is dat niet fraei? \]
 
-En slapen tot den noene
+En slapen tot den noene \] (bis)
 
-\]
 
-\] (bis)
+**2**\.  Als ze opstaen, als ze opstaen
 
-**2**\.  Als ze opstaen, als ze opstaen Dan kijken ze in de wolken
+Dan kijken ze in de wolken
 
 Zy zeggen: Wel hoe laet is \'t al?
 
 Mijn koe staet ongemolken
 
-Ik maei, is dat niet fraei?
+Ik maei, is dat niet fraei? \] 
 
-Mijn koe staet ongemolken
+Mijn koe staet ongemolken \] (bis)
 
-\]
 
-\] (bis)
+**3**\.  Als ze uitgaen, als ze uitgaen 
 
-**3**\.  Als ze uitgaen, als ze uitgaen Komt haer de koster tegen: Wel
-    koster, zeg hoe laet is \'t al? Wat uer is \'t daer geslegen?
+Komt haer de koster tegen: 
 
-Ik maei, is dat niet fraei Wat uer is \'t daer geslegen
+Wel koster, zeg hoe laet is \'t al? 
 
-\]
+Wat uer is \'t daer geslegen?
 
-\] (bis)
+Ik maei, is dat niet fraei \] 
+Wat uer is \'t daer geslegen \] (bis)
 
-**4**\.  Het uer dat daer geslegen is Dat kunt gy wel bemerken De hoogmis is
-    al lang gedaen
+**4**\.  Het uer dat daer geslegen is 
 
-En \'t volk komt van der kerken
+Dat kunt gy wel bemerken 
 
-Ik maei, is dat niet fraei
+De hoogmis is al lang gedaen
 
 En \'t volk komt van der kerken
 
-\]
+Ik maei, is dat niet fraei \]
 
-\] (bis
+En \'t volk komt van der kerken \] (bis)
 
-\. En als zy komen in de wei
+
+**5**\. En als zy komen in de wei
 
 Zy zeggen: koeiken blare!
 
@@ -59,11 +57,6 @@ Ik ben hier met mijn lieveken
 
 En zal u dat niet varen?
 
-Ik maei, is dat niet fraei
+Ik maei, is dat niet fraei \]
 
- En zal u dat niet varen?
-
-\]
-
-\] (bis)
-
+En zal u dat niet varen? \] (bis)

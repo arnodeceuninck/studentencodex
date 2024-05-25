@@ -4,16 +4,12 @@ page: 356
 ---
 
 
-\. My Bonnie lies over the ocean My Bonnie lies over the sea My
+**1**\. My Bonnie lies over the ocean My Bonnie lies over the sea My
 Bonnie lies over the ocean Oh bring back my Bonnie to me
 
-**R**\. Bring back, bring back
+**R**\. Bring back, bring back \]
 
-Oh bring back my Bonnie to me, to me
-
-\]
-
-\] (bis)
+Oh bring back my Bonnie to me, to me \] (bis)
 
 **2**\.  Oh blow ye winds over the ocean Oh blow ye winds over the sea Oh
     blow ye winds over the ocean And bring back my Bonnie to me

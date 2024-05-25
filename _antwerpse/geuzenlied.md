@@ -1,6 +1,6 @@
 ---
 title: Geuzenlied
-page: 69
+page: 68-69
 ---
 
 
@@ -18,7 +18,7 @@ Wee, wee de landverraad\'ren, \]
 
 Wanneer hun uur zal slaan! \] (bis)
 
-\. Blikt om u heen, o broed\'ren!
+**2**\. Blikt om u heen, o broed\'ren!
 
 Trekt gans den wereld rond.
 
@@ -35,13 +35,9 @@ Voor bedevaart, mirakels,
 En spoken in het hoofd. Ach! Over Leie en Schelde Hangt zulk een
 somb\'re nacht.
 
-O land van Artevelde,
+O land van Artevelde, \]
 
-\]
-
-De Geuzen houden wacht!
-
-\] (bis)
+De Geuzen houden wacht! \] (bis)
 
 
 
@@ -58,31 +54,34 @@ Dan, Geuzen, dan te wapen,
 
 De vrijheidsvlag ter hand.
 
-Van \'t ongediert\' der papen,
+Van \'t ongediert\' der papen, \]
 
-Verlost ons vaderland!
+Verlost ons vaderland! \] (bis)
 
-\]
+**4**\.  Wanneer rijst eens het daglicht 
 
-\] (bis)
+In d\'aardse rampwoestijn, 
 
-**4**\.  Wanneer rijst eens het daglicht In d\'aardse rampwoestijn, Dat elk
-    zijn eigen koning, Zijn eigen paus zal zijn? Geen slaven meer aan
-    ketens, Geen ziel aan boei of band.
+Dat elk zijn eigen koning, 
 
-En \'t mensdom, gans het mensdom, Een enkel broederland!
+Zijn eigen paus zal zijn?
+
+Geen slaven meer aan ketens, 
+
+Geen ziel aan boei of band.
+
+En \'t mensdom, gans het mensdom, 
+
+Een enkel broederland!
 
 Dat willen wij, o Geuzen!
 
 Al kost het goed en bloed.
 
-Wij gaan vooruit als reuzen,
+Wij gaan vooruit als reuzen, \]
 
-Vooruit met leeuwenmoed!
+Vooruit met leeuwenmoed! \] (bis)
 
-\]
-
-\] (bis)
 
 > *Tekst: 1873, Julius De Geyter (1830-1905)*
 

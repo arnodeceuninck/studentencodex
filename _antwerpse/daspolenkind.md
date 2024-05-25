@@ -1,30 +1,23 @@
 ---
 title: Das Polenkind
-page: 5
+page: 302
 ---
 
 
-\. In einem Polenstädtchen,
+**1**\. In einem Polenstädtchen,
 
 Da wohnte einst ein Mädchen,
 
 Sie war so schön.
 
-Sie war das allerschönste Kind,
+Sie war das allerschönste Kind, \]
 
-Das man in Polen find\'t,
+Das man in Polen find\'t, \]
 
-Aber nein, aber nein, sprach sie,
+Aber nein, aber nein, sprach sie, \]
 
-Ich küsse nie.
+Ich küsse nie. \] (bis)
 
-\]
-
-\]
-
-\]
-
-\] (bis)
 
 **2**\.  Wir spielten Schach und Mühle,
 
@@ -32,89 +25,59 @@ In jedem dieser Spiele
 
 Gewann nur ich.
 
-Bezahle deine, deine Schuld
+Bezahle deine, deine Schuld \]
 
-Durch eines Kusses Huld.
+Durch eines Kusses Huld. \]
 
-Aber nein, aber nein, sprach sie,
+Aber nein, aber nein, sprach sie, \]
 
-Ich küsse nie.
+Ich küsse nie. \] (bis)
 
-\]
 
-\]
-
-\]
-
-\] (bis)
-
-\. Ich führte sie zum Tanze,
+**3**\. Ich führte sie zum Tanze,
 
 Da fiel aus ihrem Kranze,
 
 Ein Röslein rot.
 
-Ich hob es auf von ihrem Fuß,
+Ich hob es auf von ihrem Fuß, \]
 
-Und bat um einen Kuss,
+Und bat um einen Kuss, \]
 
-Aber nein, aber nein, sprach sie,
+Aber nein, aber nein, sprach sie, \]
 
-Ich küsse nie.
+Ich küsse nie. \] (bis)
 
-\]
 
-\]
-
-\]
-
-\] (bis)
-
-\. Und als der Tanz zu Ende,
+**4**\. Und als der Tanz zu Ende,
 
 Da nahm sie meine Hände,
 
 Zum erstenmal.
 
-Sie lag in meinem, meinem Arm,
+Sie lag in meinem, meinem Arm, \]
 
-Mir schlug das Herz so warm,
+Mir schlug das Herz so warm, \]
 
-Aber nein, aber nein, sprach sie,
+Aber nein, aber nein, sprach sie, \]
 
-Ich küsse nie.
+Ich küsse nie. \] (bis)
 
-\]
 
-\]
-
-\]
-
-\] (bis)
-
-02
-
-\. Und in der Trennungsstunde,
+**5**\. Und in der Trennungsstunde,
 
 Da kam aus ihrem Munde,
 
 Das schönste Wort.
 
-So nimm du stolzer Grenadier,
+So nimm du stolzer Grenadier, \]
 
-Den ersten Kuss von mir,
+Den ersten Kuss von mir, \]
 
-Vergiss Maruschka nicht,
+Vergiss Maruschka nicht, \]
 
-Das Polenkind.
+Das Polenkind. \] (bis)
 
-\]
-
-\]
-
-\]
-
-\] (bis)
 
 > *Soldatenlied uit de 9de eeuw*
 

@@ -4,7 +4,7 @@ page: 100
 ---
 
 
-\. Eén en één is twee, (bis)
+**1**\. Eén en één is twee, (bis)
 
 Al de Franskiljons
 

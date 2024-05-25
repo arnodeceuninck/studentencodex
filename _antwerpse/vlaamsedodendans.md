@@ -13,7 +13,7 @@ page: 75
 **R**\.  Vlaand\'ren in nood!
 
 In Vlaand\'ren rijdt de dood! In Vlaand\'ren rijdt de dood! La la la
-\...
+...
 
 **2**\.  De dood kan ook de trommen slaan Zijn roffel de harten sneller doet
     gaan Hij trommelt luid, hij trommelt luid! Nu trommelt hij op een

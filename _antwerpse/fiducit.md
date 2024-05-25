@@ -1,26 +1,43 @@
 ---
 title: Fiducit
-page: 7
+page: 286
 ---
+**1**\.  Es hatten drei Gesellen  
+Ein fein Kollegium:  
+Es kreiste so fröhlich der Becher  )  
+In dem kleinen Kreise herum.       ) (bis)  
+
+
+**2**\. Sie lachten dazu und sangen  
+Und waren froh und frei,  
+Des Weltlaufs Elend und Sorgen,   )  
+Sie gingen an ihnen vorbei.       ) (bis)  
+
+
+**3**. Da starb von dreien der eine,  
+Der andere folgte ihm nach,  
+Und es blieb der dritte alleine )  
+In dem oden Jubelgemach.        ) (bis)  
 
 
 **4**\.  Und wenn die Stunde gekommen
 
-Des Zechens und der Lust, Dann tät er die Becher füllen Und sang aus
-voller Brust.
+Des Zechens und der Lust, 
 
-\]
+Dann tät er die Becher füllen \]
 
-\] (bis)
+Und sang aus voller Brust. \] (bis)
+
+
 
 **5**\.  So saß er einst auch beim Mahle
 
-Und sang zum Saitenspiel, Und zu dem Wein im Pokale Eine helle Träne
-fiel.
+Und sang zum Saitenspiel, 
 
-\]
+Und zu dem Wein im Pokale \]
 
-\] (bis)
+Eine helle Träne fiel. \] (bis)
+
 
 **6**\.  \"Ich trink\' euch ein Schmollis, ihr Brüder!
 
@@ -32,7 +49,7 @@ Wenn keiner mehr trinken will?\" \] (bis)
 
 
 
-\. Da klangen der Gläser dreie Und wurden mählich leer: \"Fiducit,
+**7**\. Da klangen der Gläser dreie Und wurden mählich leer: \"Fiducit,
 fröhlicher Brüder!\" Der trank keinen Tropfen mehr.
 
 \]

@@ -4,7 +4,7 @@ page: 201
 ---
 
 
-\. En \'s avonds, en \'s avonds, \]
+**1**\. En \'s avonds, en \'s avonds, \]
 
 En \'s avonds is het goed \] (bis)
 
@@ -16,7 +16,7 @@ En \'s avonds, en \'s avonds,
 
 En \'s avonds is het goed.
 
-\. En \'s avonds, en \'s avonds, \]
+**2**\. En \'s avonds, en \'s avonds, \]
 
 En \'s avonds is het goed \] (bis)
 
@@ -28,7 +28,7 @@ En \'s avonds, en \'s avonds,
 
 En \'s avonds is het goed.
 
-\. En \'s avonds, en \'s avonds, \]
+**3**\. En \'s avonds, en \'s avonds, \]
 
 En \'s avonds is het goed \] (bis)
 
@@ -43,5 +43,4 @@ En \'s avonds is het goed.
 *Vlaamse volkswijze neergeschreven door De Coussemaker in \'Chants
 populaires des Flamands de France\' (856)*
 
-0
 

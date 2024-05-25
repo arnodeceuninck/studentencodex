@@ -4,7 +4,7 @@ page: 181
 ---
 
 
-\. Daer ging een pater langs het land (bis) Hy nam een nonneken byder
+**1**\. Daer ging een pater langs het land (bis) Hy nam een nonneken byder
 hand
 
 **R**\.  Hei, \'t was in de mei zoo zei, Hei, \'t was in de mei!
@@ -30,6 +30,4 @@ hand
 **8**\.  Sa nonneken, gy moet knielen gaen (bis) enz.
 
 > *Reidans uit de 4de eeuw*
-
-8
 

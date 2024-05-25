@@ -1,6 +1,6 @@
 ---
 title: Hoog op de gele wagen
-page: 4
+page: 214
 ---
 
 
@@ -14,7 +14,7 @@ Maar \'t gaat voorbij, voorbij \] (bis)
 
 
 
-\. Eens snelt voorbij mijn wagen
+**2**\. Eens snelt voorbij mijn wagen
 
 Duistere schim leidt mijn reis
 
@@ -26,13 +26,10 @@ Vrienden van liefde en leven
 
 Vangt er mijn laatste groet
 
-Hoe graag was ik bij u gebleven
+Hoe graag was ik bij u gebleven \]
 
-Maar \'t gaat voorbij, voorgoed
+Maar \'t gaat voorbij, voorgoed \] (bis)
 
-\]
-
-\] (bis)
 
 > *Tekst: vertaling uit het Duits, naar Rudolf Baumbach (180-1905)*
 

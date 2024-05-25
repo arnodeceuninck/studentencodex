@@ -4,48 +4,40 @@ page: 266
 ---
 
 
-\. En as ek kom te sterwe, lief, Sing dan geen klaaglied nie Plant
-dan geen rose op my graf Of koel sipresse nie
+**1**\. En as ek kom te sterwe, lief, 
 
-\]
+Sing dan geen klaaglied nie 
 
-\] (bis)
+Plant dan geen rose op my graf \]
+
+Of koel sipresse nie \] (bis)
+
 
 **2**\.  Laat net die groen gras bo mie wees
 
 Die reën en die môre dou
 
-En als jy wil, vergeet my
+En als jy wil, vergeet my \]
 
-En als jy wil, onthou
+En als jy wil, onthou \] (bis)
 
-\]
-
-\] (bis)
 
 **3**\.  Want skadu\'s sal \'k nie sien, of voel
 
 Hoe dat die water week
 
-Nie hoor hoe dat die voëltjies sing
+Nie hoor hoe dat die voëltjies sing \]
 
-As of hul harte breek
+As of hul harte breek \] (bis)
 
-\]
-
-\] (bis)
 
 **4**\.  Maar ek sal altijd drome droom
 
 In die skemer, wie weet
 
-Miskien sal ek daar nog onthou
+Miskien sal ek daar nog onthou \]
 
-Miskien sal ek vergeet
-
-\]
-
-\] (bis)
+Miskien sal ek vergeet \] (bis)
 
 > *Tekst en muziek: gebaseerd op \'O Straßburg\'*
 

@@ -20,7 +20,7 @@ Een heilzang voor \'t vaderland \]
 
 En voor het vrij gedacht \] (bis)
 
-\. Dan vieren wij op zwierige toon,
+**2**\. Dan vieren wij op zwierige toon,
 
 Met jeugdige dichtergloed
 
@@ -54,7 +54,7 @@ Zijn gloriefaam verwierf \] (bis)
 
 
 
-\. En u, o vrijheid van den geest
+**4**\. En u, o vrijheid van den geest
 
 Zo vaak de prooi der vlam
 

@@ -4,7 +4,7 @@ page: 187
 ---
 
 
-\. Daar zat een sneeuwit vogeltje, (bis)
+**1**\. Daar zat een sneeuwit vogeltje, (bis)
 
 Al op een stekend dorentje, din don deine.
 
@@ -20,7 +20,7 @@ vogelkein, din don don.\"
 Gij weet de weg?\" \"Ik weet hem wel, din don deine.\" \"Gij weet de
 weg?\" \"Ik weet hem wel, din don don.\"
 
-\. Hij nam de brief in zijnen bek (bis)
+**4**\. Hij nam de brief in zijnen bek (bis)
 
 En vloog ermee tot over \'t hek, din don deine.
 
@@ -40,6 +40,3 @@ een half jaar, din don don.\"
 
 \"Het dochte mij wel duizend jaar, din don deine. Het dochte mij wel
 duizend jaar, din don don.\"
-
-87
-

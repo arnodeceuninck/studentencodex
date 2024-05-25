@@ -7,7 +7,7 @@ page: 221
 **1**\.  Sa boer ga naar de dans (bis) Ga al naar de kermisdans Kermis,
     kerremis, kermisdans Ga al naar de dans
 
-\. Sa boer zit op uw stoel (bis)
+**2**\. Sa boer zit op uw stoel (bis)
 
 Zit al op uw kermisstoel \...
 
@@ -18,7 +18,5 @@ Zit al op uw kermisstoel \...
 **5**\.  Sa boer ga uit de dans (bis) Ga al uit de kermisdans \...
 
 > *Vlaamse volkswijze neergeschreven door De Coussemaker in \'Chants
-populaires des Flamands de France\' (1856)*
-
-1
+> populaires des Flamands de France\' (1856)*
 

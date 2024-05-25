@@ -4,7 +4,7 @@ page: 117
 ---
 
 
-\. Heft het glas, studentikozen Sim serim sim sim sim sim Zonder
+**1**\. Heft het glas, studentikozen Sim serim sim sim sim sim Zonder
 blikken, zonder blozen Sim serim sim sim sim sim
 
 Op het heil van de student Taratata tara Die nooit of nimmer zorgen
@@ -16,11 +16,11 @@ Heil \'t studentenleven!
 
 We drinken erop, we drinken erop Drinken er saam een pintje op
 
-\. Laat ons met de glazen klinken Sim serim sim sim sim sim En op
+**2**\. Laat ons met de glazen klinken Sim serim sim sim sim sim En op
 onze kleuren drinken Sim serim sim sim sim sim Toost ook op het
 wapenschild Taratata tara Symbool van ons studentengild Taratata ta
 
-\. Rond een tafel altezamen Sim serim sim sim sim sim
+**3**\. Rond een tafel altezamen Sim serim sim sim sim sim
 
 Proevend van het aangename Sim serim sim sim sim sim
 

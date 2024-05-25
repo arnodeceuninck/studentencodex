@@ -31,7 +31,7 @@ En we mogen van \'t exaam gaan dromen.
 Maar het volgend jaar is weer nabij, \] Schuif maar dichter, dichter,
 dichter, dichter bij. \] (bis)
 
-\. Waar wij allen later mogen varen,
+**5**\. Waar wij allen later mogen varen,
 
 Blijft in \'t harte trouw de eed bewaren,
 

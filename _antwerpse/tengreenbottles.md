@@ -4,21 +4,16 @@ page: 391
 ---
 
 
-\. Ten green bottles hanging on the wall (bis) And if one green
-bottle should accidentally fall There\'ll be nine green bottles
-hanging on the wall.
+**1**\. Ten green bottles hanging on the wall (bis) And if one green
+bottle should accidentally fall There\'ll be nine green bottles hanging on the wall.
 
 **2**\.  Nine green bottles hanging on the wall (bis) And if one green bottle
-    should accidentally fall There\'ll be eight green bottles hanging on
-    the wall.
+    should accidentally fall There\'ll be eight green bottles hanging on the wall.
 
-\...\...
+...
 
-0\. One green bottle hanging on the wall (bis) And if one green bottle
-should accidentally fall There\'ll be no green bottles hanging on the
-wall
+**10**\. One green bottle hanging on the wall (bis) And if one green bottle
+should accidentally fall There\'ll be no green bottles hanging on the wall
 
 > *Engels kinderliedje*
-
-39
 

@@ -4,7 +4,7 @@ page: 60
 ---
 
 
-\. Mijn Vlaanderen heb ik hartelijk lief (bis)
+**1**\. Mijn Vlaanderen heb ik hartelijk lief (bis)
 
 Mijn Vlaanderen boven al (bis)
 
@@ -20,7 +20,7 @@ Zo zalig als de brave man, \]
 
 Die zijn vrouw en kinderen kust \] (bis)
 
-\. Des avonds als ik moe van zin (bis)
+**3**\. Des avonds als ik moe van zin (bis)
 
 Mijn stille ruststee zoek (bis)
 
@@ -36,7 +36,7 @@ En dreunend klinkt het: \"schild en vriend\", \]
 
 En ik zie mijn Vlaanderen vrij \] (bis)
 
-\. Mijn Vlaanderen heb ik hartelijk lief (bis)
+**5**\. Mijn Vlaanderen heb ik hartelijk lief (bis)
 
 Mijn Vlaanderen boven al (bis)
 

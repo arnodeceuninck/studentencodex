@@ -4,7 +4,7 @@ page: 219
 ---
 
 
-\. Te Duinkerk gaat het ál verkeerd, (bis) De meisjes zijn \'t Frans
+**1**\. Te Duinkerk gaat het ál verkeerd, (bis) De meisjes zijn \'t Frans
 geleerd, Parlerelom, larelom, joep, joep, joep, De meisjes zijn in \'t
 Frans geleerd.
 
@@ -14,12 +14,9 @@ Van iviva!
     leren broeks, Parlerelom, larelom, joep, joep, joep, De knechten
     dragen maar leren broeks. Van iviva!
 
-\. De meisjes dragen markijnen schoens, (bis) De knechten dragen maar
+**3**\. De meisjes dragen markijnen schoens, (bis) De knechten dragen maar
 houten schoens, Parlerelom, larelom, joep, joep, joep,
 
 De knechten dragen maar houten schoens.
 
 Van iviva!
-
-29
-
