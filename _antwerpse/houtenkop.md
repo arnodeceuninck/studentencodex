@@ -4,7 +4,7 @@ page: 247
 ---
 
 
-1.  \'s Middags word ik wakker met een houten kop Mijn ogen zijn nog
+**1**\.  \'s Middags word ik wakker met een houten kop Mijn ogen zijn nog
     moeilijk te gebruiken
 
 En achter in mijn hersenpan hoor ik de vogels fluiten Van hopsafaldera
@@ -16,7 +16,7 @@ jongen te bespoelen
 En achter in mijn oren kan ik een krekel horen Van hopsafaldera wat
 een gevoelen
 
-2.  Dan kruip ik op de tast tussen de lakens uit Om veilig op mijn
+**2**\.  Dan kruip ik op de tast tussen de lakens uit Om veilig op mijn
     knieën te belanden
 
 Ik wankel naar de spiegel ik grijns es naar mijn tanden Van
@@ -28,7 +28,7 @@ gevaarlijk aan het schuiven
 Mijn keel is uitgedroogd en de zon schijnt al hoog Van hopsafaldera
 door de ruiten
 
-3.  De geur van verse groenten stijgt de trappen op En prikkelt mijn
+**3**\.  De geur van verse groenten stijgt de trappen op En prikkelt mijn
     vermoeide reukorganen
 
 Ik sleep me naar beneden mijn ingewanden draaien Van hopsafaldera wat
@@ -42,7 +42,7 @@ nog klotsen
 
 
 
-4.  Maar \'s avonds dan ben ik weer de frisse knaap Dan heb ik mijn
+**4**\.  Maar \'s avonds dan ben ik weer de frisse knaap Dan heb ik mijn
     gezicht terug gevonden
 
 Mijn ogen staan weer recht mijn blik is ongeschonden Van hopsafaldera

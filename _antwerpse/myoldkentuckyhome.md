@@ -4,7 +4,7 @@ page: 395
 ---
 
 
-1.  The sun shines bright in the old Kentucky home \'Tis summer, the
+**1**\.  The sun shines bright in the old Kentucky home \'Tis summer, the
     brothers are gay;
 
 The corn top\'s ripe and the meadow\'s in the bloom, While the birds
@@ -16,12 +16,12 @@ and bright;
 By-\'n\'-by hard times comes a-knocking at the door: Then my old
 Kentucky home, good night!
 
-R.  Weep no more, my lady, o weep no more today! We will sing one song
+**R**\.  Weep no more, my lady, o weep no more today! We will sing one song
     for the old Kentucky home, For the old Kentucky home, far away.
 
 <!-- -->
 
-2.  They hunt no more for the \'possum and the coon, On meadow, the hill
+**2**\.  They hunt no more for the \'possum and the coon, On meadow, the hill
     and the shore;
 
 They sing no more by the glimmer of the moon, On the bench by that old
@@ -33,7 +33,7 @@ was delight;
 The time has come when the brothers have to part: Then my old Kentucky
 home, good night!
 
-3.  The head must bow and the back will have to bend, Wherever the
+**3**\.  The head must bow and the back will have to bend, Wherever the
     brother may go;
 
 A few more days and the trouble all will end, In the field where sugar

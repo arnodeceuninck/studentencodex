@@ -4,7 +4,7 @@ page: 53
 ---
 
 
-1.  Uit die blou van onse hemel, Uit die diepte van ons see, Oor ons
+**1**\.  Uit die blou van onse hemel, Uit die diepte van ons see, Oor ons
     ewige gebergtes Waar die kranse antwoord gee. Deur ons vêr verlate
     vlaktes Met die kreun van ossewa, Ruis die stem van ons geliefde,
     Van ons land Suid-Afrika.
@@ -13,7 +13,7 @@ Ons sal antwoord op jou roepstem, Ons sal offer wat jy vra:
 
 Ons sal lewe, ons sal sterwe, Ons vir jou, Suid-Afrika.
 
-2.  In die murg van ons gebeente, In ons hart en siel en gees, In ons
+**2**\.  In die murg van ons gebeente, In ons hart en siel en gees, In ons
     roem op ons verlede, In ons hoop of wat sal wees, In ons wil en werk
     en wandel, Van ons wieg tot aan ons graf. Deel geen ander land ons
     liefde, Trek geen ander trou ons af. Vaderland, ons sal die adel Van
@@ -22,7 +22,7 @@ Ons sal lewe, ons sal sterwe, Ons vir jou, Suid-Afrika.
 
 
 
-3.  In die songloed van ons somer, In ons winternag se kou,
+**3**\.  In die songloed van ons somer, In ons winternag se kou,
 
 In die lente van ons liefde, In die lanfer van ons rou.
 
@@ -34,7 +34,7 @@ Op jou roep sê ons nooit née nie, Sê ons altyd, altyd ja:
 
 Om te lewe, om te sterwe -- Ja, ons kom, Suid-Afrika.
 
-4.  Op U Almag vas vertrouend Het ons vadere gebou:
+**4**\.  Op U Almag vas vertrouend Het ons vadere gebou:
 
 Skenk ook ons die krag, o Here! Om te handhaaf en te hou.
 

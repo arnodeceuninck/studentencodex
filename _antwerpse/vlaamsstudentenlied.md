@@ -4,7 +4,7 @@ page: 141
 ---
 
 
-1.  Wanneer we \'s avonds werkens moeë
+**1**\.  Wanneer we \'s avonds werkens moeë
 
 Vereend zijn, tafeltje rond
 
@@ -38,7 +38,7 @@ Dan zingen wij het liefdesvuur En \'t harte klopt de maat
 
 \] (bis)
 
-3.  We vieren Vlaanderen\'s vroegeren glans Zijn grootheid, zijne macht
+**3**\.  We vieren Vlaanderen\'s vroegeren glans Zijn grootheid, zijne macht
 
 En pralend met de lauwerkrans \]
 

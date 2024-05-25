@@ -4,19 +4,19 @@ page: 294
 ---
 
 
-1.  Im Krug zum grünen Kranze Da kehrt ich durstig ein
+**1**\.  Im Krug zum grünen Kranze Da kehrt ich durstig ein
 
 Da saß ein Wandrer drinnen, drinnen \]
 
 Am Tisch beim kühlen Wein \] (bis)
 
-2.  Ein Glas ward eingegossen Das wurde nimmer lehr
+**2**\.  Ein Glas ward eingegossen Das wurde nimmer lehr
 
 Sein Haupt ruht auf dem Bündel, Bündel \]
 
 Als wärs ihm viel zu schwer \] (bis)
 
-3.  Ich tät mich zu ihm setzen Ich sah ihm ins Gesicht
+**3**\.  Ich tät mich zu ihm setzen Ich sah ihm ins Gesicht
 
 Das schien mir gar befreundet, befreundet \]
 

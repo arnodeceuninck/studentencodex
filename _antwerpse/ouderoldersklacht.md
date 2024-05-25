@@ -7,21 +7,21 @@ page: 41
 > *Alle strofen worden door iedereen gezongen. De aangeduide personen
 staan recht. De senior geeft daar geen commando voor.*
 
-1.  O vrij studentenheerlijkheid, Waar zijt gij thans verzwonden? O keer
+**1**\.  O vrij studentenheerlijkheid, Waar zijt gij thans verzwonden? O keer
     nog eenmaal, schone tijd, Zo vrij, zo ongebonden!
 
 Ik zoek u langs mijn wegen weer En vind uw sporen nimmermeer!
 
-R.  O jerum, jerum, jerum,
+**R**\.  O jerum, jerum, jerum,
 
 
 
-4.  Een dokter preekt de matigheid En was hier grote rolder; Ministers
+**4**\.  Een dokter preekt de matigheid En was hier grote rolder; Ministers
     gaan met statigheid En woonden hier op zolder;
 
 De rechter straft nu drankmisbruik En vroeger sliep hij met de kruik!
 
-5.  Sa vrienden, reikt elkaar de hand, Opdat hij zich vernauwe
+**5**\.  Sa vrienden, reikt elkaar de hand, Opdat hij zich vernauwe
 
 Der trouwe vriendschap heil\'ge band, De heil\'ge band der trouwe.
 

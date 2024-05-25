@@ -4,7 +4,7 @@ page: 134
 ---
 
 
-1.  Al boven door het vensterken, Daar lag een meisken fijn.
+**1**\.  Al boven door het vensterken, Daar lag een meisken fijn.
 
 Stil weg kwam daar een mulder aan: \"Zeg meisken, wilt gij mij?\"
 
@@ -13,7 +13,7 @@ Stil weg kwam daar een mulder aan: \"Zeg meisken, wilt gij mij?\"
 Gij die iedereen besteelt, Gij zult mijne man niet zijn, Mijne man
 zult gij niet zijn.\"
 
-2.  Al boven door het vensterken, Daar lag een meisken fijn.
+**2**\.  Al boven door het vensterken, Daar lag een meisken fijn.
 
 Daarna kwam daar een slachter aan: \"Zeg meisken, wilt gij mij?\"
 
@@ -22,7 +22,7 @@ Daarna kwam daar een slachter aan: \"Zeg meisken, wilt gij mij?\"
 Gij die alle moorden doet, Gij zult mijne man niet zijn, Mijne man
 zult gij niet zijn.\"
 
-3.  Al boven door het vensterken, Daar lag een meisken fijn.
+**3**\.  Al boven door het vensterken, Daar lag een meisken fijn.
 
 En nu kwam daar een smid gegaan: \"Zeg meisken, wilt gij mij?\"
 
@@ -33,7 +33,7 @@ zult gij niet zijn.\"
 
 
 
-4.  Al boven door het vensterken, Daar lag een meisken fijn.
+**4**\.  Al boven door het vensterken, Daar lag een meisken fijn.
 
 En fier kwam daar een studax aan: \"Zeg meisken, wilt gij mij?\"
 \"Studax lief, met veel plezier, Kom maar binnen, rap langs hier. Gij

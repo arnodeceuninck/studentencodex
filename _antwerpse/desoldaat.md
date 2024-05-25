@@ -4,7 +4,7 @@ page: 243
 ---
 
 
-1.  Een soldaat van Napoleon de Grote Was het leger grondig beu
+**1**\.  Een soldaat van Napoleon de Grote Was het leger grondig beu
 
 Hij had gestreden, gevochten en geschoten Il voulait bien être à deux
 
@@ -15,7 +15,7 @@ soldaten wisten \'t wel
 
 Ze zegden droevig: hij is naar zijn pauvre mère
 
-R.  Leipzich, Moskou, Petrograd, Zijn heel mooie namen Maar ik weet een
+**R**\.  Leipzich, Moskou, Petrograd, Zijn heel mooie namen Maar ik weet een
     kleine stad, Waar wij nog nooit kwamen Zeven eenden in de vijver,
     Zeven banken op de markt
 
@@ -23,7 +23,7 @@ En het standbeeld van een schrijver En het meisje van m\'n hart
 
 Links, rechts, één, twee, leve de sergeant En ze wuifde met haar hand
 
-2.  Een soldaat van Napoleon de Grote Lag te slapen in het gras
+**2**\.  Een soldaat van Napoleon de Grote Lag te slapen in het gras
 
 Hij had nog net een liedeke gefloten Waarvan de tekst vergeten was
 
@@ -33,7 +33,7 @@ En zijn oude moeder leefde praktisch gratis
 
 
 
-3.  Een soldaat van Napoleon de Grote Die ontwaakte van de kou
+**3**\.  Een soldaat van Napoleon de Grote Die ontwaakte van de kou
 
 In de buurt werd er plotseling geschoten Hij zei een akte van berouw
 
@@ -41,7 +41,7 @@ En hij strikte uit gewoonte aan zijn das Maar toen floot er iets en
 alle vogels zwegen En er was een heel klein gaatje in zijn jas En een
 klokje klepte ergens tien voor negen
 
-R. \...
+**R**\. \...
 
 Links, rechts, één, twee, leve de sergeant Ze had nog steeds geen ring
 aan haar hand

@@ -4,7 +4,7 @@ page: 340
 ---
 
 
-3.  Ich möcht\' als Spielmann reisen
+**3**\.  Ich möcht\' als Spielmann reisen
 
 > *Tekst: 1812, Joseph von Eichendorff (1788-1857)*
 

@@ -8,7 +8,7 @@ page: 391
 bottle should accidentally fall There\'ll be nine green bottles
 hanging on the wall.
 
-2.  Nine green bottles hanging on the wall (bis) And if one green bottle
+**2**\.  Nine green bottles hanging on the wall (bis) And if one green bottle
     should accidentally fall There\'ll be eight green bottles hanging on
     the wall.
 

@@ -4,7 +4,7 @@ page: 137
 ---
 
 
-1.  Iedereen slaapt, het is rustig, het is nacht
+**1**\.  Iedereen slaapt, het is rustig, het is nacht
 
 Een smalle straat, een lantaarn, \'t lijkt verdacht Geen pandoeren,
 slechts de stilte houdt de wacht Plots het brullen van de rolders in
@@ -15,7 +15,7 @@ Want immer gaan de rolders op de zwier
 Want zij blijven steeds maar dorsten naar het bier Ohoooooo\...
 ohoooooo\...
 
-2.  En gij zijt mijnen allerbeste vriend
+**2**\.  En gij zijt mijnen allerbeste vriend
 
 Zo nen chiquen tip heb ik nog niet gekind Daarom drinken w\'op aa
 gezondheid nog een pint Want dat hedde nondedoeme dik verdiend!
@@ -24,7 +24,7 @@ Ohoooooo\... ohoooooo\...
 En wijle gaan met ons getweeën op de rol En ons pinten moeten op de
 slag terug vol! Ohoooooo\... ohoooooo\...
 
-3.  Bij marraine was er overlest bagarre
+**3**\.  Bij marraine was er overlest bagarre
 
 Daar was ambras en dat ambeteerde haar, Ze werd koleirig en ze deed
 geweldig raar:
@@ -40,7 +40,7 @@ op een ander moeten gaan! Ohoooooo\... ohoooooo\...
 
 
 
-4.  Daar laveert nog een eenzaat door de stad Hij is bedronken, hij is
+**4**\.  Daar laveert nog een eenzaat door de stad Hij is bedronken, hij is
     bezopen, stapelzat Zijn lijf zit vol alcohol en gerstenat\...
 
 En hij piert op de kasseien van de stad! Ohoooooo\... ohoooooo\...

@@ -4,9 +4,9 @@ page: 327
 ---
 
 
-1.  Wohin auch das Auge blicket. Moor und Heide nur ringsum.
+**1**\.  Wohin auch das Auge blicket. Moor und Heide nur ringsum.
 
-4.  Heimwärts, heimwärts! Jeder sehnet Sich nach Eltern, Weib und Kind.
+**4**\.  Heimwärts, heimwärts! Jeder sehnet Sich nach Eltern, Weib und Kind.
     Manche Brust ein Seufzer dehnet,
 
 Weil wir hier gefangen sind.

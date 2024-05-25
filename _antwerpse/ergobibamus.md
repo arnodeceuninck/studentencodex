@@ -4,7 +4,7 @@ page: 109
 ---
 
 
-1.  Hier zijn wij tezamen om leutig te doen, Sa broederkens \"Ergo
+**1**\.  Hier zijn wij tezamen om leutig te doen, Sa broederkens \"Ergo
     bibamus!\"
 
 De glazekens lachen, toe geeft ze \'nen zoen En hertlijker \"Ergo
@@ -17,7 +17,7 @@ feestelijk oord,
 
 Het heerlijke \"Ergo bibamus!\" (bis)
 
-2.  Ons hart is nog jong en ons lied klinkt nog hel, Ons feestelijk
+**2**\.  Ons hart is nog jong en ons lied klinkt nog hel, Ons feestelijk
     \"Ergo bibamus!\"
 
 En moeten we scheiden, als laatste vaarwel, Zo blijve het ons \"Ergo
@@ -29,7 +29,7 @@ herdenken het oude jolijt,
 De vrolijke vrienden uit vroegeren tijd, Die \'t zongen, ons \"Ergo
 bibamus!\" (bis)
 
-3.  En komen wij ooit naar de hogeschool weer En zingt men nog \"Ergo
+**3**\.  En komen wij ooit naar de hogeschool weer En zingt men nog \"Ergo
     bibamus !\"
 
 Dat \'t dreunt door de straten lijk \'t dreunde weleer, Vol geestdrift

@@ -10,7 +10,7 @@ Frans geleerd.
 
 Van iviva!
 
-2.  De meisjes dragen al zijden roks, (bis) De knechten dragen maar
+**2**\.  De meisjes dragen al zijden roks, (bis) De knechten dragen maar
     leren broeks, Parlerelom, larelom, joep, joep, joep, De knechten
     dragen maar leren broeks. Van iviva!
 

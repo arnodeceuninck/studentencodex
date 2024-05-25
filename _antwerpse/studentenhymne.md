@@ -4,7 +4,7 @@ page: 279
 ---
 
 
-1.  Student sein, wenn die Veilchen blühen, Das erste Lied die Lerche
+**1**\.  Student sein, wenn die Veilchen blühen, Das erste Lied die Lerche
     singt,
 
 Der Maiensonne junges Glühen Triebweckend in die Erde dringt, Student
@@ -13,7 +13,7 @@ ist des Daseins schönste Feier! \]
 
 Herr, lass sie nie zu Ende geh\'n! \] (bis)
 
-2.  Student sein, wenn die Humpen kreisen In lieberschloss \'nem
+**2**\.  Student sein, wenn die Humpen kreisen In lieberschloss \'nem
     Freundesbund, Von alter Treue bei den Weisen
 
 Der Väter jauchzt der junge Mund, Student sein, wenn die Herzen Freier
@@ -22,7 +22,7 @@ Auf der Begeistrung Höhe steh\'n: Das ist des Lebens schönste Feier!
 
 Herr, lass sie nie zu Ende geh\'n! \] (bis)
 
-3.  Student sein, wenn zwei Augen locken, Ein süßer Mund verschwiegen
+**3**\.  Student sein, wenn zwei Augen locken, Ein süßer Mund verschwiegen
     küsst, Dass jählings alle Pulse stocken,
 
 Als ob im Rausch man sterben müsst\',
@@ -35,7 +35,7 @@ Das ist das Leben ohne Sorgen! \] Herr, lass es nie vorübergeh\'n! \]
 
 
 
-4.  Student sein, wenn die Hiebe fallen Im scharfen Gang, der selbst
+**4**\.  Student sein, wenn die Hiebe fallen Im scharfen Gang, der selbst
     gewählt, Im blut\'gen Aneinanderprallen
 
 Der Mut sich für das Leben stählt, Student sein, wenn dein einzig
@@ -46,7 +46,7 @@ Ob fest und tapfer du wirst stehen
 An deines Lebens Wagemorgen: \] Herr, lass die Zeiten nie vergeh\'n!
 \] (bis)
 
-5.  Student sein, wenn in Abendmatten Dein Weg sich sacht schon
+**5**\.  Student sein, wenn in Abendmatten Dein Weg sich sacht schon
     niederneigt. Von West die Schar der Wolkenschatten Schon vor dem
     Blau des Tages steigt. Student sein, wenn der Sang verklungen, Der
     deinem Lenz einst Flügel lieh\'

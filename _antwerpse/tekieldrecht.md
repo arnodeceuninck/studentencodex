@@ -4,7 +4,7 @@ page: 468
 ---
 
 
-1.  Te Kieldrecht, te Kieldrecht Daer zijn de meiskens koene Zy vrijen
+**1**\.  Te Kieldrecht, te Kieldrecht Daer zijn de meiskens koene Zy vrijen
     tot den middernacht En slapen tot den noene
 
 Ik maei, is dat niet fraei?
@@ -15,7 +15,7 @@ En slapen tot den noene
 
 \] (bis)
 
-2.  Als ze opstaen, als ze opstaen Dan kijken ze in de wolken
+**2**\.  Als ze opstaen, als ze opstaen Dan kijken ze in de wolken
 
 Zy zeggen: Wel hoe laet is \'t al?
 
@@ -29,7 +29,7 @@ Mijn koe staet ongemolken
 
 \] (bis)
 
-3.  Als ze uitgaen, als ze uitgaen Komt haer de koster tegen: Wel
+**3**\.  Als ze uitgaen, als ze uitgaen Komt haer de koster tegen: Wel
     koster, zeg hoe laet is \'t al? Wat uer is \'t daer geslegen?
 
 Ik maei, is dat niet fraei Wat uer is \'t daer geslegen
@@ -38,7 +38,7 @@ Ik maei, is dat niet fraei Wat uer is \'t daer geslegen
 
 \] (bis)
 
-4.  Het uer dat daer geslegen is Dat kunt gy wel bemerken De hoogmis is
+**4**\.  Het uer dat daer geslegen is Dat kunt gy wel bemerken De hoogmis is
     al lang gedaen
 
 En \'t volk komt van der kerken

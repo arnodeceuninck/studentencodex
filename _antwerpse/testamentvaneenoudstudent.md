@@ -14,7 +14,7 @@ was niet dom Ik kon studeren als de beste.
 \'k Heb geen enk\'le les gebrost En kreeg ik van \'t blokken dorst:
 \'t Was water dat \'m leste.
 
-R.  Ik wou da\'k eeuwig kon studeren;
+**R**\.  Ik wou da\'k eeuwig kon studeren;
 
 Ja, want iets mooiers kon er niet bestaan. \'k Was eerstejaars en wist
 niet beter Dan dat \'t nooit voorbij zou gaan.
@@ -24,7 +24,7 @@ Ik wou da\'k eeuwig kon studeren;
 Ja want iets mooiers kon er niet bestaan. \'k Was eerstejaars en
 besefte nog niet goed Dat er tijden zijn van komen en van gaan.
 
-2.  In \'t tweede en in \'t derde jaar Leefd\' ik niet meer als
+**2**\.  In \'t tweede en in \'t derde jaar Leefd\' ik niet meer als
     kluizenaar, Maar ging geregeld op de rol. Het blokken ging
     diminuendo, Het feesten in sterk crescendo.
 
@@ -38,7 +38,7 @@ Om kroegen af te schuimen.
 
 52
 
-R.  Ik wou da\'k eeuwig kon studeren;
+**R**\.  Ik wou da\'k eeuwig kon studeren;
 
 Ja want iets mooiers kon er niet bestaan. Ik was een rolder en wist
 niet beter dan dat het nooit voorbij zou gaan.
@@ -50,7 +50,7 @@ Ja want iets mooiers kon er niet bestaan.
 Ik was nu een rolder en besefte al wat meer dat er tijden zijn van
 komen en van gaan.
 
-3.  Het laatste jaar ging snel voorbij
+**3**\.  Het laatste jaar ging snel voorbij
 
 Met steeds meer vrienden aan mijn zij. De studie zat er bijna op.
 
@@ -62,7 +62,7 @@ Als oud-studenten saamgezeten. Op een cantus of TD
 
 Doen wij nog even vrolijk mee Om \'t werk weer te vergeten.
 
-R.  Je kan niet eeuwig lang studeren, Maar mooiers zal er nooit bestaan.
+**R**\.  Je kan niet eeuwig lang studeren, Maar mooiers zal er nooit bestaan.
     De tijd van gaan was toen gekomen, Het is dan toch voorbij gegaan.
 
 Je kan niet eeuwig lang studeren, Maar mooiers zal er nooit bestaan.

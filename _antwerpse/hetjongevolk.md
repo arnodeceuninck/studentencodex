@@ -4,7 +4,7 @@ page: 143
 ---
 
 
-1.  Heil \'t jonge volk! Het klinke weer en zinge Van zorgen vrij, met
+**1**\.  Heil \'t jonge volk! Het klinke weer en zinge Van zorgen vrij, met
     blij gemoed
 
 Dat kloek het lied ons aller hart ontspringe Ons koene brein, ons
@@ -16,13 +16,13 @@ vijands list of macht?
 De harten hoog, studenten, onbedwongen Want jeugd is licht en licht is
 kracht
 
-R. Studenten op! Het zal wel gaan! \]
+**R**\. Studenten op! Het zal wel gaan! \]
 
 Studenten op! Het zal wel gaan! \]
 
 Steunt aller trouw, allen trouw ons vrije vaan! \] (bis)
 
-2.  Al lang genoeg is \'t winter in den land De geest is koud, het harte
+**2**\.  Al lang genoeg is \'t winter in den land De geest is koud, het harte
     stijf
 
 Dat bij uw kus, o lente, weer ontbrande De gloed in \'t hart, de drift
@@ -34,7 +34,7 @@ heil wil strijd!\"
 Zij kleppe weer, de klokke: \"Wee den vreemde!\" Als vroeger in den
 heldentijd
 
-3.  Ook lang genoeg gedoold hier in het duister Een kille nacht omsluit
+**3**\.  Ook lang genoeg gedoold hier in het duister Een kille nacht omsluit
     ons gans
 
 Rijze uit dien nacht een licht met hellen luister Uit hart en brein,

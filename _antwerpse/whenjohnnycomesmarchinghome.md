@@ -4,7 +4,7 @@ page: 380
 ---
 
 
-1.  When Johnny comes marching home again Hurrah! Hurrah!
+**1**\.  When Johnny comes marching home again Hurrah! Hurrah!
 
 We\'ll give him a hearty welcome then Hurrah! Hurrah!
 
@@ -15,7 +15,7 @@ And we\'ll all feel gay
 
 When Johnny comes marching home
 
-2.  The old church bell will peal with joy Hurrah! Hurrah!
+**2**\.  The old church bell will peal with joy Hurrah! Hurrah!
 
 To welcome home our darling boy Hurrah! Hurrah!
 
@@ -24,7 +24,7 @@ And we\'ll all feel gay
 
 When Johnny comes marching home
 
-3.  Get ready for the jubilee Hurrah! Hurrah!
+**3**\.  Get ready for the jubilee Hurrah! Hurrah!
 
 We\'ll give the hero three times three Hurrah! Hurrah!
 
@@ -35,7 +35,7 @@ When Johnny comes marching home
 
 
 
-4.  Let love and friendship on that day Hurrah, hurrah!
+**4**\.  Let love and friendship on that day Hurrah, hurrah!
 
 Their choicest pleasures then display Hurrah, hurrah!
 

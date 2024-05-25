@@ -4,7 +4,7 @@ page: 473
 ---
 
 
-1.  Tineke van Heule, ons maartje, Kan werken gelijk een paardje, Kan
+**1**\.  Tineke van Heule, ons maartje, Kan werken gelijk een paardje, Kan
     melken, kan mesten, Kan schuren gelijk de besten. Tineke van Heule,
     ons maartje,
 
@@ -14,7 +14,7 @@ Dat mijn zuster er om krijst,
 
 Dan lach ik een beetj\' in mijn baardje.
 
-R. Liever dan een vis
+**R**\. Liever dan een vis
 
 Die in een goudzee zwemt,
 
@@ -42,7 +42,7 @@ Tineke, ons maartjen in zijn hemd!
 
 \] (bis)
 
-2.  Tineke heeft geld noch goedje,
+**2**\.  Tineke heeft geld noch goedje,
 
 Noch landeke, noch pandeke, noch koetje, Noch huisje, noch kruisje,
 
@@ -57,7 +57,7 @@ En haar klompeken vast aan haar voetje.
 
 
 
-3.  Tineke van Heule, mijn minneken, Op u staat mijn zoetste zinneken, U
+**3**\.  Tineke van Heule, mijn minneken, Op u staat mijn zoetste zinneken, U
     lust ik, u kust\' ik,
 
 Op uw harteken bouw en rust ik. Tineke van Heule, mijn minneken, Mijn

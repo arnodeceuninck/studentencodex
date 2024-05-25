@@ -4,33 +4,33 @@ page: 323
 ---
 
 
-1.  Als wir jüngst in Regensburg waren Sind wir über den Strudel
+**1**\.  Als wir jüngst in Regensburg waren Sind wir über den Strudel
     gefahren Da waren viele Holden
 
 Die mitfahren wollten
 
-R.  Schwäbische, bayrische Dirndel juchheirassa \]
+**R**\.  Schwäbische, bayrische Dirndel juchheirassa \]
 
 Muß der Schiffsmann fahren \] (bis)
 
-2.  Und ein Mädel von zwölf Jahren Ist mit über den Strudel gefahren
+**2**\.  Und ein Mädel von zwölf Jahren Ist mit über den Strudel gefahren
     Weil sie noch nicht lieben kunnt Kam sie sicher über\'s Strudels
     Grund
 
-3.  Und vom hohen Bergesschloße Kam auf stolzem schwarzen Rosse Adlig
+**3**\.  Und vom hohen Bergesschloße Kam auf stolzem schwarzen Rosse Adlig
     Fräulein Kunigund
 
 Wollt mitfahren über\'s Strudels Grund
 
-4.  \"Schiffsmann, lieber Schiffsmann mein Sollt\'s denn so gefährlich
+**4**\.  \"Schiffsmann, lieber Schiffsmann mein Sollt\'s denn so gefährlich
     sein? Schiffsmann sag\'s mir ehrlich
 
 Ist\'s denn so gefährlich?\"
 
-5.  Als sie auf die Mitt gekommen Kam ein großer Nix geschwommen Nahm
+**5**\.  Als sie auf die Mitt gekommen Kam ein großer Nix geschwommen Nahm
     das Fräulein Kunigund Fuhr mit ihr in des Strudels Grund
 
-6.  Wem der Myrtenkranz geblieben Landet froh und sicher drüben Wer ihn
+**6**\.  Wem der Myrtenkranz geblieben Landet froh und sicher drüben Wer ihn
     hat verloren
 
 Ist dem Tod erkoren

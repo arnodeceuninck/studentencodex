@@ -4,13 +4,13 @@ page: 226
 ---
 
 
-1.  Trek aan de riemen, wij varen, Flink op de maat van een lied. Klieft
+**1**\.  Trek aan de riemen, wij varen, Flink op de maat van een lied. Klieft
     onze boot door de baren, Weg alle zorg en verdriet.
 
-2.  Zijn wij niet jong en vol leven Wij vrezen regen noch zon Stormen,
+**2**\.  Zijn wij niet jong en vol leven Wij vrezen regen noch zon Stormen,
     zij doen ons niet beven \'t Druipende nat: \'k lach er om
 
-3.  Dreigen de stormen van \'t leven Vikings dan goed opgelet Volgt het
+**3**\.  Dreigen de stormen van \'t leven Vikings dan goed opgelet Volgt het
     parool u gegeven
 
 \'t Klinkt: sta je man, sta je wet

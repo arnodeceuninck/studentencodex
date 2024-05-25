@@ -4,7 +4,7 @@ page: 224
 ---
 
 
-1.  Als de rombom heeft geslagen Dat wij marcheren moeten gaan,
+**1**\.  Als de rombom heeft geslagen Dat wij marcheren moeten gaan,
 
 Geweer en ransel die moeten wij dan dragen, \]
 
@@ -22,7 +22,7 @@ Drinken water al uit de rivier.
 
 \] (bis)
 
-3.  Een stuiver daags is onze gage
+**3**\.  Een stuiver daags is onze gage
 
 En een pondje droog kommiezenbrood,
 

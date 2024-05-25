@@ -4,20 +4,20 @@ page: 73
 ---
 
 
-1.  De landsknechttrommen dreunen, Zij dreunen voor de strijd!
+**1**\.  De landsknechttrommen dreunen, Zij dreunen voor de strijd!
 
 De landsknechttrommen dreunen, De vendels staan bereid!
 
-R.  Rom, rom, rom! Landsknechttrom! \] Voer ons ten strijd, wij zijn
+**R**\.  Rom, rom, rom! Landsknechttrom! \] Voer ons ten strijd, wij zijn
     bereid! \] (bis)
 
 <!-- -->
 
-2.  De landsknechttrommen dreunen, Zij dreunen in de slag!
+**2**\.  De landsknechttrommen dreunen, Zij dreunen in de slag!
 
 De landsknechttrommen dreunen, Als vuur waait onze vlag!
 
-3.  De landsknechttrommen dreunen, Zij dreunen in de dood!
+**3**\.  De landsknechttrommen dreunen, Zij dreunen in de dood!
 
 De landsknechttrommen dreunen, Het vaderland wordt groot!
 

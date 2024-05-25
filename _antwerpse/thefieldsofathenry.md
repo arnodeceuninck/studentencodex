@@ -4,7 +4,7 @@ page: 368
 ---
 
 
-1.  By a lonely prison wall
+**1**\.  By a lonely prison wall
 
 I heard a young girl calling Michael, they are taking you away For you
 stole Trevelyn\'s corn
@@ -13,7 +13,7 @@ So the young might see the morn
 
 Now a prison ship lies waiting in the bay
 
-R.  Low lie the fields of Athenry
+**R**\.  Low lie the fields of Athenry
 
 Where once we watched the small free birds fly Our love was on the
 wing
@@ -22,7 +22,7 @@ We had dreams and songs to sing
 
 It\'s so lonely \'round the fields of Athenry
 
-2.  By a lonely prison wall
+**2**\.  By a lonely prison wall
 
 I heard a young man calling
 
@@ -33,7 +33,7 @@ I rebelled, they ran me down
 
 Now you must raise our child with dignity
 
-3.  By a lonely harbour wall
+**3**\.  By a lonely harbour wall
 
 She watched the last star falling
 

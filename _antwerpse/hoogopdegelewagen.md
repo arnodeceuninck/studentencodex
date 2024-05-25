@@ -4,7 +4,7 @@ page: 4
 ---
 
 
-1.  Hoog op de gele wagen Rijd ik langs berg en dal Lustig de kleppers
+**1**\.  Hoog op de gele wagen Rijd ik langs berg en dal Lustig de kleppers
     draven Blij klinkt het hoorngeschal Water, wouden en weiden Stromen
     zo machtig en vrij
 

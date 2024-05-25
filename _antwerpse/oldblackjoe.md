@@ -4,7 +4,7 @@ page: 394
 ---
 
 
-1.  Gone are the days
+**1**\.  Gone are the days
 
 When my heart was young and gay Gone are my friends
 
@@ -14,11 +14,11 @@ To a better land I know
 
 I hear their gentle voices calling old black Joe
 
-R.  I\'m coming, I\'m coming For my head is bending low
+**R**\.  I\'m coming, I\'m coming For my head is bending low
 
 I hear those gentle voices calling old black Joe
 
-2.  Why do I weep
+**2**\.  Why do I weep
 
 When my heart should feel no pain Why do I sigh
 
@@ -28,7 +28,7 @@ Now departed long ago
 
 I hear their gentle voices calling old black Joe
 
-3.  Where are the hearts
+**3**\.  Where are the hearts
 
 Once so happy and so free? The children so dear
 

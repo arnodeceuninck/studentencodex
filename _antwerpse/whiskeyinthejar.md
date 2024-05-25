@@ -4,7 +4,7 @@ page: 365
 ---
 
 
-1.  As I was a going over
+**1**\.  As I was a going over
 
 The Cork and Kerry mountains I met with captain Farrell
 
@@ -13,11 +13,11 @@ drew me rapier Saying: \"Stand and deliver
 
 For I am your bold receiver\"
 
-R.  Musha ring dumma do dumma da Wack fall the daddy oh
+**R**\.  Musha ring dumma do dumma da Wack fall the daddy oh
 
 Wack fall the daddy oh There\'s whiskey in the jar
 
-2.  He counted out his money And it made a pretty penny I put it in me
+**2**\.  He counted out his money And it made a pretty penny I put it in me
     pocket
 
 To take home to darling Jenny
@@ -27,7 +27,7 @@ devil take the women
 
 For they always lie so easy
 
-3.  I went into me chamber All for to take a slumber
+**3**\.  I went into me chamber All for to take a slumber
 
 To dream of gold and jewels And of course it was no wonder Me Jenny
 took me charges
@@ -38,7 +38,7 @@ To get ready for the slaughter
 
 
 
-4.  \'T was early in the morning Before I rose to travel
+**4**\.  \'T was early in the morning Before I rose to travel
 
 There came a band of footmen And likewise captain Farrell I goes to
 draw me pistol
@@ -46,13 +46,13 @@ draw me pistol
 For she\'d stole away me rapier But I couldn\'t shoot the water So a
 prisoner I was taken
 
-5.  Well, they put me into jail With a judge all a-writing For robbing
+**5**\.  Well, they put me into jail With a judge all a-writing For robbing
     captain Farrell On the Kerry mountain But they didn\'t take me fists
     Wo I knocked the jailer down And I bid a farewell
 
 To this tight fisted town
 
-6.  I\'d like to find me brother The one that\'s in the army
+**6**\.  I\'d like to find me brother The one that\'s in the army
 
 I don\'t know where he\'s stationed In Cork or in Killarney Together
 we\'d go roving
@@ -60,7 +60,7 @@ we\'d go roving
 O\'r the mountains of Kilkenny And I swear he\'d treat me better Than
 me darling sporting Jenny
 
-7.  Now there\'s some who take delight In the carriages a-rolling
+**7**\.  Now there\'s some who take delight In the carriages a-rolling
 
 And some take delight
 

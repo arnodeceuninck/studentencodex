@@ -4,7 +4,7 @@ page: 145
 ---
 
 
-1.  \'k Zat overlaatst te dromen Te dromen op mijn kot
+**1**\.  \'k Zat overlaatst te dromen Te dromen op mijn kot
 
 Mijn hoofd dat was van \'t blokken Om zo te zeggen zot
 
@@ -12,7 +12,7 @@ Ik dacht aan mijn verleden Aan mijne jonge jeugd Aan al die blijde
 dagen Gesleten in de vreugd En met het oog vol tranen Zong ik, met
 waar verdriet: O dagen, zoete dagen Waarom toch bleeft ge niet?
 
-2.  Toen ik voor \'t eerst in Leuven Studeerde aan d\'hogeschool Was ik
+**2**\.  Toen ik voor \'t eerst in Leuven Studeerde aan d\'hogeschool Was ik
     zo\'n brave jongen
 
 En nog niet op de dool
@@ -23,7 +23,7 @@ had ik \'t examen Voor mijne ogen staan
 Maar dat kon al niet baten De leraars wisten \'t niet O leraars,
 strenge leraars U toch vergeet ik niet
 
-3.  Toch werd ik langsom stouter Ik mocht weldra het bier
+**3**\.  Toch werd ik langsom stouter Ik mocht weldra het bier
 
 En \'k trok soms met de vrienden Eens op een ferme zwier Sinds dronk
 ik menigmalen Een stuk in mijne kraag
@@ -42,7 +42,7 @@ O maantje, lieve maantje
 
 Dat ook vergeet ik niet
 
-4.  \'k Trof in \'t studentenleven Soms wond\'re dingen aan En \'k ben
+**4**\.  \'k Trof in \'t studentenleven Soms wond\'re dingen aan En \'k ben
     voor vele lessen Te laat meest opgestaan
 
 \'k Hield veel van rond te dolen Naar bos en open veld
@@ -52,7 +52,7 @@ meisje Een boterkoek aanbiedt
 
 O water, Zoete Water U ook vergeet ik niet
 
-5.  \'k Heb in deze laatste jaren Veel meisjes zot gevrijd
+**5**\.  \'k Heb in deze laatste jaren Veel meisjes zot gevrijd
 
 En \'k was, God weet hoe dikwijls In \'s heren gaard verblijd
 

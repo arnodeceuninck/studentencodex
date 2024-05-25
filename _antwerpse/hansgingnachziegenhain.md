@@ -4,7 +4,7 @@ page: 320
 ---
 
 
-1.  Hans *-- Hans*
+**1**\.  Hans *-- Hans*
 
 Hans ging nach Ziegenhain -- *Ziegenhain* Kauft sich drei Flaschen
 Wein -- *Flaschen Wein*
@@ -25,19 +25,19 @@ Ido mein Hans
 
 > *Ido mein Hans*
 
-2.  Hans hatte Schuhli an Mit silbern Schnalli d\'ran
+**2**\.  Hans hatte Schuhli an Mit silbern Schnalli d\'ran
 
-3.  Hans hatt\' a Röckli an Mit blanken Knöpfli d\'ran
+**3**\.  Hans hatt\' a Röckli an Mit blanken Knöpfli d\'ran
 
-4.  Hans hatt\' a Hütli auf Mit bunti Fedri d\'rauf
+**4**\.  Hans hatt\' a Hütli auf Mit bunti Fedri d\'rauf
 
-5.  Hans wollt nach Hause geh\'n Konnt auf kein Bein mehr steh\'n
+**5**\.  Hans wollt nach Hause geh\'n Konnt auf kein Bein mehr steh\'n
 
-6.  Hans kam ins Dorf hinein
+**6**\.  Hans kam ins Dorf hinein
 
 Schlug dem Bauer die Scheibli ein
 
-7.  Hans kam ins Hühnerloch Da sitzt er heute noch
+**7**\.  Hans kam ins Hühnerloch Da sitzt er heute noch
 
 > *Studentenlied uit Jena*
 

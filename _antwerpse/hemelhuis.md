@@ -4,7 +4,7 @@ page: 232
 ---
 
 
-1.  Door mijn woning Speelt een zonnig licht.
+**1**\.  Door mijn woning Speelt een zonnig licht.
 
 \'k Voel m\'een kleine koning In mijn grote plicht: Vrouw en kind te
 schragen
@@ -19,7 +19,7 @@ In mijn vreugd!
 
 \] (bis)
 
-2.  Daar op \'t schouwke Prijkt mijn enig kruis. Wees mijn engel,
+**2**\.  Daar op \'t schouwke Prijkt mijn enig kruis. Wees mijn engel,
     vrouwke, Wees mijn hemel, huis.
 
 Wees mijn stoutste roemen,
@@ -34,7 +34,7 @@ Krachtig kroost.
 
 \] (bis)
 
-3.  O, mijn kind\'ren! Graag gebroken brood! Zou \'t geluk vermind\'ren
+**3**\.  O, mijn kind\'ren! Graag gebroken brood! Zou \'t geluk vermind\'ren
     Waar de last vergroot? Zou men armoe lijden Om een mondje meer?
 
 Och, waar mensen strijden \]

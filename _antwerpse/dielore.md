@@ -14,7 +14,7 @@ Des Försters Töchterlein ganz frisch heraus, Tira lala, tira lala,
 
 Des Försters Töchterlein heraus.
 
-R.  Lore, Lore, Lore, Lore, Schön sind die Mädchen Von siebzehn,
+**R**\.  Lore, Lore, Lore, Lore, Schön sind die Mädchen Von siebzehn,
     achtzehn Jahr. Lore, Lore, Lore, Lore, Schöne Mädchen gibt es
     überall;
 

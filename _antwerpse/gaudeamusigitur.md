@@ -4,27 +4,27 @@ page: 39
 ---
 
 
-1.  Gaudeamus igitur, iuvenes dum sumus! (bis) Post iucundam iuventutem,
+**1**\.  Gaudeamus igitur, iuvenes dum sumus! (bis) Post iucundam iuventutem,
 
 Post molestam senectutem, Nos habebit humus! (bis)
 
-2.  Ubi sunt qui ante nos in mundo fuere? (bis) Vadite ad superos,
+**2**\.  Ubi sunt qui ante nos in mundo fuere? (bis) Vadite ad superos,
 
 Transite ad inferos, Ubi iam fuere. (bis)
 
-3.  Vita nostra brevis est, brevi finietur. (bis) Venit mors velociter,
+**3**\.  Vita nostra brevis est, brevi finietur. (bis) Venit mors velociter,
 
 Rapit nos atrociter, Nemini parcetur! (bis)
 
-4.  Vivat academia, vivant professores! (bis) Vivat membrum quodlibet,
+**4**\.  Vivat academia, vivant professores! (bis) Vivat membrum quodlibet,
 
 Vivant membra quaelibet, Semper sint in flore! (bis)
 
-5.  Vivant omnes virgines, faciles, formosae! (bis) Vivant et mulieres,
+**5**\.  Vivant omnes virgines, faciles, formosae! (bis) Vivant et mulieres,
 
 Tenerae, amabiles, Bonae, laboriosae! (bis)
 
-6.  Vivat et res publica, et qui illam regit! (bis) Vivat nostra
+**6**\.  Vivat et res publica, et qui illam regit! (bis) Vivat nostra
     civitas,
 
 Maecenatum caritas,
@@ -33,19 +33,19 @@ Quae nos hic protegit! (bis)
 
 
 
-7.  Pereat tristitia, pereant osores. (bis) Pereat diabolus,
+**7**\.  Pereat tristitia, pereant osores. (bis) Pereat diabolus,
 
 Quivis antiburschius, Atque irrisores! (bis)
 
-8.  Quis confluxus hodie Academicorum? (bis) E longinquo convenerunt,
+**8**\.  Quis confluxus hodie Academicorum? (bis) E longinquo convenerunt,
 
 Protinusque successerunt, In commune forum. (bis)
 
-9.  Vivat nostra societas, vivant studiosi. (bis) Crescat una veritas,
+**9**\.  Vivat nostra societas, vivant studiosi. (bis) Crescat una veritas,
 
 Floreat fraternitas, Patriae prosperitas. (bis)
 
-10. Alma Mater floreat, quae nos educavit. (bis) Caros et commilitones,
+**10**\. Alma Mater floreat, quae nos educavit. (bis) Caros et commilitones,
 
 Dissitas in regiones, Sparsos, congregavit. (bis)
 

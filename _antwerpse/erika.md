@@ -4,7 +4,7 @@ page: 307
 ---
 
 
-1.  Auf der Heide blüht ein kleines Blümelein Und das heißt: Erika.
+**1**\.  Auf der Heide blüht ein kleines Blümelein Und das heißt: Erika.
 
 Heiß von hunderttausend kleinen Bienelein Wird umschwärmt, Erika.
 
@@ -12,7 +12,7 @@ Denn ihr Herz ist voller Süßigkeit, Zarter Duft eintströmt dem
 Blütenkleid Auf der Heide blüht ein kleines Blümelein Und das heißt:
 Erika.
 
-2.  In der Heimat wohnt ein kleines Mägdelein Und das heißt: Erika.
+**2**\.  In der Heimat wohnt ein kleines Mägdelein Und das heißt: Erika.
 
 Dieses Mädel ist mein treues Schätzelein Und mein Glück, Erika.
 
@@ -21,7 +21,7 @@ Lied.
 
 Auf der Heide blüht ein kleines Blümelein Und das heißt: Erika.
 
-3.  In mein\'m Kämmerlein blüht auch ein Blümelein Und das heißt: Erika.
+**3**\.  In mein\'m Kämmerlein blüht auch ein Blümelein Und das heißt: Erika.
 
 Schon beim ersten Morgengrau\'n sowie beim
 

@@ -4,7 +4,7 @@ page: 69
 ---
 
 
-1.  Zij brullen: \"Leeuw van Vlaanderen!\" En huilen tegen ons.
+**1**\.  Zij brullen: \"Leeuw van Vlaanderen!\" En huilen tegen ons.
 
 Zij die de Leeuw doen kruipen, Doen kruipen voor Bourbons! O Breydel
 en De Coninck, Gent, Brugge van weleer,
@@ -45,7 +45,7 @@ De Geuzen houden wacht!
 
 
 
-3.  Jezuïeten zaaien tweedracht, Zij blazen haat en twist.
+**3**\.  Jezuïeten zaaien tweedracht, Zij blazen haat en twist.
 
 Wij juichen: \"Recht en rede!\"
 
@@ -66,7 +66,7 @@ Verlost ons vaderland!
 
 \] (bis)
 
-4.  Wanneer rijst eens het daglicht In d\'aardse rampwoestijn, Dat elk
+**4**\.  Wanneer rijst eens het daglicht In d\'aardse rampwoestijn, Dat elk
     zijn eigen koning, Zijn eigen paus zal zijn? Geen slaven meer aan
     ketens, Geen ziel aan boei of band.
 

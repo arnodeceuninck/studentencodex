@@ -4,7 +4,7 @@ page: 359
 ---
 
 
-1.  Well a Scotsman clad in kilt Left the bar one evening fair One could
+**1**\.  Well a Scotsman clad in kilt Left the bar one evening fair One could
     tell by how he walked That he drank more than his share He fumbled
     around until he could No longer keep his feet
 
@@ -15,7 +15,7 @@ into the grass
 
 To sleep beside the street
 
-2.  About that time two young and lovely Girls just happened by
+**2**\.  About that time two young and lovely Girls just happened by
 
 One says to the other With a twinkle in her eye: \"See yon sleeping
 Scotsman, So strong and handsome built I wonder if it\'s true
@@ -27,7 +27,7 @@ true
 
 What they don\'t wear beneath the kilt
 
-3.  They crept up on that sleeping Scotsman Quiet as could be
+**3**\.  They crept up on that sleeping Scotsman Quiet as could be
 
 Lifted up his kilt about an inch So they could see
 
@@ -44,7 +44,7 @@ than God
 
 Had graced him with upon his birth
 
-4.  They marveled for a moment, then one said: \"We must be gone
+**4**\.  They marveled for a moment, then one said: \"We must be gone
 
 Let\'s leave a present for our friend Before we move along\"
 
@@ -59,7 +59,7 @@ star
 
 The Scot\'s kilt did lift and show
 
-5.  Now the Scotsman woke to nature\'s call And stumbled towards a tree
+**5**\.  Now the Scotsman woke to nature\'s call And stumbled towards a tree
 
 Behind the bush he lifts his kilt And gawks at what he sees And in a
 startled voice he says To what\'s before his eyes:

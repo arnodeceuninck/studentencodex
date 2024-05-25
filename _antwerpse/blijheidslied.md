@@ -4,11 +4,11 @@ page: 58
 ---
 
 
-1.  De beiaard speelt zo schoon hij kan, De vreugde heerst alom.
+**1**\.  De beiaard speelt zo schoon hij kan, De vreugde heerst alom.
 
 Met bloemen kroont de vrouw haar man, De bruid haar bruidegom.
 
-R.  De vogel kweelt zo hel en blij, Het windje speelt zo vrij.
+**R**\.  De vogel kweelt zo hel en blij, Het windje speelt zo vrij.
 
 En vrij en blij,
 
@@ -20,11 +20,11 @@ Men strooie kruid en palmen uit Bij klank en zang.
 
 Hou eeuwig stand, o heilig vaderland.
 
-2.  Voorgoed vergeten zij de hoon, Vergeten ook het wee.
+**2**\.  Voorgoed vergeten zij de hoon, Vergeten ook het wee.
 
 Nu schall\' uit slot en poorterswoon, Het lied van heil en vree.
 
-3.  Nu schalle boven veld en woud En over land en zee:
+**3**\.  Nu schalle boven veld en woud En over land en zee:
 
 Genot en heil aan jong en oud, Aan allen vreugd en vree.
 

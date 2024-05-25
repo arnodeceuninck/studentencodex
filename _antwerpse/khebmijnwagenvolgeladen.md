@@ -4,21 +4,21 @@ page: 197
 ---
 
 
-1.  \'k Heb mijn wagen volgeladen, Vol met oude wijven.
+**1**\.  \'k Heb mijn wagen volgeladen, Vol met oude wijven.
 
 Toen we op de markt kwamen Begonnen zij te kijven.
 
 Nu neem ik van mijn levensdagen Geen oude wijven op mijn wagen! Hop,
 paardje hop! (bis)
 
-2.  \'k Heb mijn wagen volgeladen, Vol met oude mannen.
+**2**\.  \'k Heb mijn wagen volgeladen, Vol met oude mannen.
 
 Toen we op de markt kwamen Gingen ze samenspannen.
 
 Nu neem ik van mijn levensdagen Geen oude mannen op mijn wagen! Hop,
 paardje hop! (bis)
 
-3.  \'k Heb mijn wagen volgeladen, Vol met jonge meisjes.
+**3**\.  \'k Heb mijn wagen volgeladen, Vol met jonge meisjes.
 
 Toen we op de markt kwamen, Zongen zij als sijsjes.
 

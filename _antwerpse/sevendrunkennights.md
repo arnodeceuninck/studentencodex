@@ -4,7 +4,7 @@ page: 362
 ---
 
 
-1.  As I went home on Monday night As drunk as drunk could be
+**1**\.  As I went home on Monday night As drunk as drunk could be
 
 I saw a horse outside the door Where my old horse should be
 
@@ -19,7 +19,7 @@ That\'s a lovely sow that me mother sent to me\"
 Well, it\'s many a day I\'ve travelled a hundred miles or more But a
 saddle on a sow sure I never saw before
 
-2.  And as I went home on Tuesday night As drunk as drunk could be
+**2**\.  And as I went home on Tuesday night As drunk as drunk could be
 
 I saw a coat behind the door Where my old coat should be
 
@@ -33,7 +33,7 @@ That\'s a woollen blanket that me mother sent to me\" Well, it\'s many
 a day I\'ve travelled a hundred miles or more But buttons in a blanket
 sure I never saw before
 
-3.  And as I went home on Wednesday night As drunk as drunk could be
+**3**\.  And as I went home on Wednesday night As drunk as drunk could be
 
 I saw a pipe up on the chair Where my old pipe should be
 
@@ -51,7 +51,7 @@ That\'s a lovely tin whistle that me mother sent to me\" Well, it\'s
 many a day I\'ve travelled a hundred miles or more But tobacco in a
 tin whistle sure I never saw before
 
-4.  And as I went home on Thursday night As drunk as drunk could be
+**4**\.  And as I went home on Thursday night As drunk as drunk could be
 
 I saw two boots beneath the bed Where my old boots should be
 
@@ -66,7 +66,7 @@ They\'re two lovely geranium pots me mother sent to me\" Well, it\'s
 many a day I\'ve travelled a hundred miles or more But laces in
 geranium pots I never saw before
 
-5.  And as I went home on Friday night As drunk as drunk could be
+**5**\.  And as I went home on Friday night As drunk as drunk could be
 
 I saw a head upon the bed Where my old head should be
 
@@ -82,7 +82,7 @@ baby boy with his whiskers on sure I never saw before
 
 -   361
 
-6.  And as I went home on Saturday night As drunk as drunk could be
+**6**\.  And as I went home on Saturday night As drunk as drunk could be
 
 I saw two hands upon her breasts Where my old hands should be Well, I
 called me wife and I said to her: \"Will you kindly tell to me
@@ -96,7 +96,7 @@ That\'s a lovely night gown that me mother sent to me\" Well, it\'s
 many a day I\'ve travelled a hundred miles or more But fingers in a
 night gown sure I never saw before
 
-7.  As I went home on Sunday night As drunk as drunk could be
+**7**\.  As I went home on Sunday night As drunk as drunk could be
 
 I saw a thing in her thing Where my old thing should be
 

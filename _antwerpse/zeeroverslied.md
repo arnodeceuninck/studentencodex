@@ -4,7 +4,7 @@ page: 216
 ---
 
 
-1.  De machtigste koning van storm en van wind Is de arend geweldig en
+**1**\.  De machtigste koning van storm en van wind Is de arend geweldig en
     groot
 
 De vogels zij sidd\'ren en vluchten van angst Voor zijn snavel en
@@ -15,11 +15,11 @@ dieren ermee
 
 Ja, wij zijn de heersers der aarde De koningen van de zee!
 
-R.  Tiralala, tiralala, tiralala, tiralala, hoi, hoi,
+**R**\.  Tiralala, tiralala, tiralala, tiralala, hoi, hoi,
 
 > *\[De laatste twee regels van de voorgaande strofe worden herhaald.\]*
 
-2.  Verschijnt er een schip aan de horizon Dan juichen wij luide en wild
+**2**\.  Verschijnt er een schip aan de horizon Dan juichen wij luide en wild
 
 Ons trotse schip als een pijl uit een boog Klieft terstond door de
 wateren zilt
@@ -29,7 +29,7 @@ die dag
 
 En daar klimt langs de mast naar omhoog Onze bloedrode zeeroversvlag!
 
-3.  Wij werpen ons op het vijandig schip Als een wegslingerende speer
+**3**\.  Wij werpen ons op het vijandig schip Als een wegslingerende speer
     Kanonnen dreunen,\'t geweer klinkt alom En de enterbijl hakt keer op
     keer
 
@@ -40,7 +40,7 @@ Lang leve de bruisende zee Lang leve de zeeroverij!
 
 
 
-4.  En is overwonnen ons laatste gevecht En is de laatste overwinning
+**4**\.  En is overwonnen ons laatste gevecht En is de laatste overwinning
     behaald
 
 Dan fluks onze wrakkige schuit naar de duivel Gestuurd en ter helle

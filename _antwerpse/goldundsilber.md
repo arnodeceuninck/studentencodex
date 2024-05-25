@@ -4,7 +4,7 @@ page: 285
 ---
 
 
-1.  Gold und Silber lieb\' ich sehr, Kann\'s auch gut gebrauchen, Hätt\'
+**1**\.  Gold und Silber lieb\' ich sehr, Kann\'s auch gut gebrauchen, Hätt\'
     ich nur ein ganzes Meer, Mich hinein zu tauchen;
 
 \'s Braucht nicht grad geprägt zu sein,
@@ -15,7 +15,7 @@ Sei\'s des Mondes Silberschein, \]
 
 Sei\'s das Gold der Sterne. \] (bis)
 
-2.  Doch viel schöner ist das Gold Das vom Lockenköpfchen Meines
+**2**\.  Doch viel schöner ist das Gold Das vom Lockenköpfchen Meines
     Liebchens niederrollt In zwei blonden Zöpfchen! Darum so, mein
     liebes Kind
 
@@ -29,7 +29,7 @@ Und wir scheiden müssen.
 
 \] (bis)
 
-3.  Trautes Schätzchen, trag nicht Leid, Blicke nicht so trübe,
+**3**\.  Trautes Schätzchen, trag nicht Leid, Blicke nicht so trübe,
 
 Dass du nicht die einz\'ge Maid, Die ich herzlich liebe.
 
@@ -43,7 +43,7 @@ Bin ich nicht mehr Studio, Lieb\' ich dich alleine.
 
 
 
-4.  Wer nur eine einz\'ge küsst, Bis zur Jahreswende;
+**4**\.  Wer nur eine einz\'ge küsst, Bis zur Jahreswende;
 
 Und die andern schüchtern grüsst Der ist kein Studente.
 
@@ -55,7 +55,7 @@ Wär\' er auch gar manches Jahr Ins Kolleg marschieret.
 
 \] (bis)
 
-5.  Gräm dich nicht den ganzen Tag, Dass wir gerne trinken,
+**5**\.  Gräm dich nicht den ganzen Tag, Dass wir gerne trinken,
 
 Dass ich dich nicht küssen mag, Wenn die Gläser winken
 
@@ -67,7 +67,7 @@ Wenn er auch das ganze Jahr Ins Kolleg marschieret.
 
 \] (bis)
 
-6.  Seht, wie blinkt der gold\'ne Wein Hier in meinem Becher; Horcht,
+**6**\.  Seht, wie blinkt der gold\'ne Wein Hier in meinem Becher; Horcht,
     wie klingt so silberrein Froher Sang der Zecher;
 
 Dass die Zeit einst golden war

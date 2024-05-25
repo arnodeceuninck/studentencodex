@@ -168,6 +168,18 @@ def remove_empty_quotes(content):
 #     return content
 
 
+def fix_verse_start(content):
+    """
+    A verse starts with 1. or 2. or 3. etc. followed by a space
+    When keeping it like this, markdown sees this as a list and will restart the index at every verse.
+    To avoid this (and keep the indent of all lines the same), we'll escape the dot, such that it becomes
+    a normal alinea. (and we make the number bold)
+    """
+    verse_pattern = re.compile(r"^([R\d]+)\.", re.MULTILINE)
+    content = verse_pattern.sub(r"**\1**\\.", content)
+    return content
+
+
 """
 Adds the header, e.g.: 
 ---
@@ -193,6 +205,7 @@ for filename in os.listdir(output_directory):
     title, content = get_and_remove_title(content)
     page, content = get_and_remove_page(content, title)
     content = remove_empty_quotes(content)
+    content = fix_verse_start(content)
     content = add_properties(content, title, page)
 
     with open(os.path.join(output_directory, filename), "w") as f:

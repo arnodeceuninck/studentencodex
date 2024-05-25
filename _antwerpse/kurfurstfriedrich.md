@@ -4,7 +4,7 @@ page: 325
 ---
 
 
-1.  \(V\) Wütend wälzt sich einst im Bette Kurfürst Friedrich von der
+**1**\.  \(V\) Wütend wälzt sich einst im Bette Kurfürst Friedrich von der
     Pfalz Gegen alle Etikette
 
 Brüllte er aus vollem Hals:
@@ -17,7 +17,7 @@ Bin scheint\'s wieder voll gewest!
 
 \] (C: bis)
 
-2.  \(K\) Na, ein wenig schief geladen,
+**2**\.  \(K\) Na, ein wenig schief geladen,
 
     V.  Grinste drauf der Kammermohr,
 
@@ -33,7 +33,7 @@ Alles wieder voll gewest!
 
 \] (C: bis)
 
-3.  \(F\) So? Du findest das zum Lachen? Sklavenseele, lache nur!
+**3**\.  \(F\) So? Du findest das zum Lachen? Sklavenseele, lache nur!
 
 Künftig werd ich\'s anders machen
 
@@ -44,7 +44,7 @@ daß ich voll gewest!
 
 \] (C: bis)
 
-4.  \(F\) Will ein christlich Leben führen Ganz mich der Beschauung
+**4**\.  \(F\) Will ein christlich Leben führen Ganz mich der Beschauung
     weihn Um mein Tun zu kontrollieren
 
 Trag ich\'s in mein Tagbuch ein
@@ -59,14 +59,14 @@ Daß ich wieder voll gewest!
 
 
 
-5.  \(V\) Als der Kurfürst kam zu sterben, Machte er sein Testament, Und
+**5**\.  \(V\) Als der Kurfürst kam zu sterben, Machte er sein Testament, Und
     es fanden seine Erben Auch ein Buch in Pergament. Drinnen stand auf
     jeder Seit:
 
     F.  Seid vernünftig, liebe Leut, Dieses geb ich zu Attest: Heute
         wieder voll gewest.
 
-6.  \(C\) Hieraus mag nun jeder sehen, Was ein guter Vorsatz nützt,
+**6**\.  \(C\) Hieraus mag nun jeder sehen, Was ein guter Vorsatz nützt,
 
 Und wozu auch widerstehen,
 

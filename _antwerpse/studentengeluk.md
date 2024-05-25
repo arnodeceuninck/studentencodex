@@ -4,7 +4,7 @@ page: 142
 ---
 
 
-1.  Zingt van \'t studentengeluk elke dag Vrolijk zijn wij, altijd blij
+**1**\.  Zingt van \'t studentengeluk elke dag Vrolijk zijn wij, altijd blij
     en nooit moe Fris klopt ons hart met gezwinde slag En het leven
     lacht ons toe Rampspoed, tegenslag
 
@@ -13,7 +13,7 @@ Zingen wij van de baan Elk, met brede lach Heft een nieuw lied aan
 Als wij samen spontaan zingen gaan Leve vriendschap en levenskracht
 Leve vriendschap en levenskracht Hoera!
 
-2.  Ooit op een dag zijt ge afgestudeerd
+**2**\.  Ooit op een dag zijt ge afgestudeerd
 
 Dan moet ge gaan, \'t is gedaan met d\'unief G\'hebt een diploma, ge
 zijt nu geleerd Zoekt een job en trouwt met uw lief

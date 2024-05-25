@@ -4,7 +4,7 @@ page: 119
 ---
 
 
-1.  Er liep eens een schachtje door Leuven, Hij was vol ijver en vlijt.
+**1**\.  Er liep eens een schachtje door Leuven, Hij was vol ijver en vlijt.
 
 Toen zag hij de schoonste schachtin van het jaar En droomde van vrijen
 gaan met haar.
@@ -15,7 +15,7 @@ faculteit!
 Ach lieflijke meisjes, wij hebben geen tijd. Alleen studeren telt aan
 d\'universiteit.
 
-2.  Toen kwam er de dag dat hij groot werd, Hij ging voor \'t eerst naar
+**2**\.  Toen kwam er de dag dat hij groot werd, Hij ging voor \'t eerst naar
     de club.
 
 Hij werd er gedoopt en hij dronk er Jack-Op En gaf voor het bier het
@@ -27,7 +27,7 @@ specialiteit!
 Ach lieflijke meisjes, wij hebben geen tijd. Alleen de club die telt
 aan d\'universiteit.
 
-3.  Maar eens komt een eind aan \'t studeren, Dan werkt hij zelf voor
+**3**\.  Maar eens komt een eind aan \'t studeren, Dan werkt hij zelf voor
     zijn brood.
 
 Dan denkt hij aan trouwen, aan kind\'ren en huis En zoekt zich een

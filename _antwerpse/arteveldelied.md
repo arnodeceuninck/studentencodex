@@ -4,19 +4,19 @@ page: 456
 ---
 
 
-1.  Wie herbracht hier de rust Op een teken van zijn hand? Wie verbond
+**1**\.  Wie herbracht hier de rust Op een teken van zijn hand? Wie verbond
     al de burgers Als broeders in één band?
 
 \'t Was de held, \'t was de held, En de roem van ons land! Hij
 herbracht hier de rust Op een teken van zijn hand.
 
-2.  Wie vond werk voor het volk, Door het lijden overmand? Wie verbond
+**2**\.  Wie vond werk voor het volk, Door het lijden overmand? Wie verbond
     aan het nijv\'rige Vlaand\'ren \'t Britse strand?
 
 \'t Was de held, \'t was de held, En de roem van ons land. Hij vond
 werk voor het volk, Door het lijden overmand.
 
-3.  Wie stond recht als ons Vlaand\'ren Verraden lag aan band?
+**3**\.  Wie stond recht als ons Vlaand\'ren Verraden lag aan band?
 
 En wie sloeg op zijn beurt De tirannen neer in \'t zand? \'t Was de
 held, \'t was de held, En de roem van ons land.

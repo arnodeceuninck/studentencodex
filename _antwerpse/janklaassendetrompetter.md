@@ -4,7 +4,7 @@ page: 251
 ---
 
 
-R.  Jan Klaassen was trompetter In het leger van de prins
+**R**\.  Jan Klaassen was trompetter In het leger van de prins
 
 Hij marcheerde van Den Helder tot Den Briel Hij had geen geld en hij
 was geen held
@@ -12,7 +12,7 @@ was geen held
 En hij hield niet van het krijgsgeweld Maar trompetter was hij wel in
 hart en ziel
 
-1.  Het leger sloeg z\'n tenten op Voor Alkmaar in het veld
+**1**\.  Het leger sloeg z\'n tenten op Voor Alkmaar in het veld
 
 En zolang geen vijand zich liet zien Was iedereen een held
 
@@ -24,7 +24,7 @@ morgen kil en koud
 
 Maar Jan Klaassen sliep in de armen Van de dochter van de schout
 
-2.  De prins sprak op inspectie
+**2**\.  De prins sprak op inspectie
 
 Tot de majoor van de compagnie \"Ik zag hier alle stukken wel Van mijn
 artillerie
@@ -40,7 +40,7 @@ Die bij de stadspoort zat
 
 En honderd liedjes speelde Voor de kinderen van de stad
 
-3.  Jan Klaassen zei: \"Vaarwel mijn lief Ik zie je volgend jaar
+**3**\.  Jan Klaassen zei: \"Vaarwel mijn lief Ik zie je volgend jaar
 
 Wanneer de lente terugkomt Dan zijn wij weer bij elkaar\" De winter
 ging, de zomer kwam De oorlog was voorbij

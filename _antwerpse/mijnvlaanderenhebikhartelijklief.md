@@ -12,7 +12,7 @@ Dat is \'t refrein, \'t is het liefdelied \]
 
 Dat ik nooit vergeten zal \] (bis)
 
-2.  Des morgens als de zonne lacht (bis)
+**2**\.  Des morgens als de zonne lacht (bis)
 
 Dan zing ik blij vol lust (bis)
 
@@ -28,7 +28,7 @@ Dan bid ik: \"Vlaanderen, Vlaanderen lief, \]
 
 Mijn Vlaanderen, houd u kloek\" \] (bis)
 
-4.  En \'k droom dan, \'k droom van roem en macht (bis)
+**4**\.  En \'k droom dan, \'k droom van roem en macht (bis)
 
 En eeuwen gaan voorbij (bis)
 

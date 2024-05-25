@@ -26,7 +26,7 @@ Ich küsse nie.
 
 \] (bis)
 
-2.  Wir spielten Schach und Mühle,
+**2**\.  Wir spielten Schach und Mühle,
 
 In jedem dieser Spiele
 

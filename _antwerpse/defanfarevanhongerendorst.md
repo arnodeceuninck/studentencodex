@@ -4,7 +4,7 @@ page: 254
 ---
 
 
-1.  We liepen in Gent rond, we waren met zessen We kwamen van nergens,
+**1**\.  We liepen in Gent rond, we waren met zessen We kwamen van nergens,
     gingen nergens naartoe Vanaf de terrassen, in de koffiehuizen
     Bekeken we de mensen en hun drukke gedoe We liepen met ons hoofd in
     de wolken
@@ -14,7 +14,7 @@ loopt de fanfare De fanfare van honger en dorst
 
 De fanfare van honger en dorst
 
-2.  We hadden geen geld om eten te kopen Maar we wisten voor alles het
+**2**\.  We hadden geen geld om eten te kopen Maar we wisten voor alles het
     beste adres Mosselen bij Leentje en frieten bij Helga En Annie
     bewaarde voor ons wel een fles En iedere nacht, nog net voor het
     slapen De laatste vijf frank in Eddies joeboks
@@ -24,7 +24,7 @@ fanfare van honger en dorst
 
 De fanfare van honger en dorst
 
-3.  En kwam er een vrouw die een van ons meenam Dan namen we afscheid en
+**3**\.  En kwam er een vrouw die een van ons meenam Dan namen we afscheid en
     zegden vaarwel De fanfare trok verder met minder leden
 
 De toon in mineur, we begrepen dat wel
@@ -39,7 +39,7 @@ De fanfare van honger en dorst
 
 
 
-4.  Wie van ons had ooit durven denken
+**4**\.  Wie van ons had ooit durven denken
 
 Dat iedereen van ons voorgoed weg zou gaan We hebben dan zelf de
 fanfare ontbonden We hebben als iedereen de prijs zwaar betaald De

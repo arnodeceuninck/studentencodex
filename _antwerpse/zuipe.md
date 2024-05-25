@@ -4,14 +4,14 @@ page: 449
 ---
 
 
-R.  Zuipe, zuipe, da kan ik goe
+**R**\.  Zuipe, zuipe, da kan ik goe
 
 Dat kanne kik blindelings en met mijn ogen toe Zuipe, zuipe, tegen
 mijn haar omhoog
 
 Mijne mond is nog ni leeg of mijn keel is weeral droog
 
-1.  Vanaf dat \'k was geboren, was kik al intelligent
+**1**\.  Vanaf dat \'k was geboren, was kik al intelligent
 
 Ik pakte recht naar moeders borst gelak ne grote vent \'t Was nie voor
 mee te spelen, da\'k pakte noar die borst Oek ni voor \'t seksuele,
@@ -23,7 +23,7 @@ kreeg ne melkautomaat
 Ook toen ik al op school zat beterde het geen fluit Als niemand mij in
 \'t oog had, zoop ik den inktpot uit
 
-2.  Oep zestien jaar was kik al wereldkampioen
+**2**\.  Oep zestien jaar was kik al wereldkampioen
 
 \'k Zoop z\'allemaal onder tafel, aan mij was niks te doen Na zeven
 dagen drinken lag iedereen al plat Daarna gink oep de lappen want ik
@@ -34,7 +34,7 @@ aan te leren hoedat Belgen kunnen zwelgen Zo zoop kik oep mijn eentje
 wel twintig vaten leeg Oemda \'k dan zekerst wist da\'k e vatje gratis
 kreeg
 
-3.  Ik kwam bij ne geneesheer die mij toens onderzocht Die vent bezien
+**3**\.  Ik kwam bij ne geneesheer die mij toens onderzocht Die vent bezien
     kik nooit ni meer, ik voelde mij bekocht Het was nog e jonk gastje,
     hij kwam maar pas van \'t school Hij zei: gij hebt geen bloed maat,
     da\'s zuiveren alkool

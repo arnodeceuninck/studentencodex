@@ -4,7 +4,7 @@ page: 435
 ---
 
 
-5.  En boer gong noar zien noaber kloag\'n \]
+**5**\.  En boer gong noar zien noaber kloag\'n \]
 
 Hai! Boer, hai! \] (bis)
 

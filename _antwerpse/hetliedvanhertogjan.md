@@ -4,21 +4,21 @@ page: 466
 ---
 
 
-1.  Toen den hertog Jan kwam varen Te peerd parmant, al triumfant Na
+**1**\.  Toen den hertog Jan kwam varen Te peerd parmant, al triumfant Na
     zevenhonderd jaren
 
 Hoe zong men t\' allen kant Harba lorifa, zong den hertog Harba lorifa
 
 Na zevenhonderd jaren In dit edel Brabants land
 
-2.  Hij kwam van over \'t water
+**2**\.  Hij kwam van over \'t water
 
 Den Scheldevloed, aan wal te voet t\' Antwerpen op de straten Zilver
 veren op zijn hoed Harba lorifa, zong den Hertog Harba lorifa
 
 t\' Antwerpen op de straten Leren leerzen aan zijn voet
 
-3.  Och Turnhout, stedeke schone
+**3**\.  Och Turnhout, stedeke schone
 
 Zijn uw ruitjes groen, maar uw hertjes koen Laat den hertog
 binnenkomen
@@ -30,7 +30,7 @@ Laat den hertog binnenkomen Hij heeft een peerd vandoen
 
 
 
-4.  Hij heeft een peerd gekregen
+**4**\.  Hij heeft een peerd gekregen
 
 Een schoon wit peerd, een schimmelpeerd Daar is hij opgestegen
 
@@ -40,13 +40,13 @@ Daar is hij opgestegen
 
 En hij reed naar Valkensweerd
 
-5.  In Valkensweerd daar zaten Al in de kast, de zilverkast De
+**5**\.  In Valkensweerd daar zaten Al in de kast, de zilverkast De
     gulde-koning zijn platen Die wierden aaneengelast Harba lorifa, zong
     den hertog Harba lorifa
 
 De gulde-koning zijn platen Toen had hij een harnas
 
-6.  Rooise boeren komt naar buiten
+**6**\.  Rooise boeren komt naar buiten
 
 Met de grote trom, met de kleine trom Trompetten en cornetten en de
 fluiten Want den hertog komt weerom Harba lorifa, zong den hertog
@@ -58,7 +58,7 @@ Trompetten en cornetten en de fluiten In dit Brabants hertogdom
 
 
 
-7.  Wij reden allemaal samen
+**7**\.  Wij reden allemaal samen
 
 Op Oirschot aan, door een kanidassenlaan En Jan riep: \"In Gods name!
 
@@ -66,14 +66,14 @@ Hier heb ik meer gestaan\" Harba lorifa, zong den hertog Harba lorifa
 
 En Jan riep: \"In Gods name! Reikt mij mijn standaard aan\"
 
-8.  De standaard was de gouwe Die waaide dan, die draaide dan Die droeg
+**8**\.  De standaard was de gouwe Die waaide dan, die draaide dan Die droeg
     de leeuw mee klauwen Wij zongen alle man
 
 Harba lorifa, zong den hertog Harba lorifa
 
 Die droeg de leeuw met klauwen Ja, de leeuw van hertog Jan
 
-9.  Hij is in Den Bosch gekomen
+**9**\.  Hij is in Den Bosch gekomen
 
 Al in den nacht, en niemand zag \'t En op de Sint Jan geklommen Daar
 ging hij staan op wacht Harba lorifa, zong den hertog Harba lorifa

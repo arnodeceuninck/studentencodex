@@ -4,23 +4,23 @@ page: 339
 ---
 
 
-1.  Was die Welt morgen bringt, Ob sie mir Sorgen bringt, Leid oder
+**1**\.  Was die Welt morgen bringt, Ob sie mir Sorgen bringt, Leid oder
     Freud?
 
 Komme, was kommen mag, Sonnenschein, Wetterschlag, Morgen ist auch ein
 Tag, Heute ist heut!
 
-2.  Wenn\'s dem Geschick gefällt, Sind wir in alle Welt Morgen
+**2**\.  Wenn\'s dem Geschick gefällt, Sind wir in alle Welt Morgen
     zerstreut!
 
 Drum laßt uns lustig sein! Wirt, roll das Faß herein! Mädel, schenk
 ein, schenk ein! Heute ist heut!
 
-3.  Ob ihren Rosenmund Morgen schön Hildegund Anderen beut -- Darnach
+**3**\.  Ob ihren Rosenmund Morgen schön Hildegund Anderen beut -- Darnach
     ich nimmer frag, Das schafft mir keine Plag\', Wenn sie mich heut
     nur mag Heute ist heut!
 
-4.  Klingklang, stoßt an und singt! Morgen vielleicht erklingt
+**4**\.  Klingklang, stoßt an und singt! Morgen vielleicht erklingt
     Sterbegeläut!
 
 Wer weiß, ob nicht die Welt Morgen in Schutt zerfällt! Wenn sie nur

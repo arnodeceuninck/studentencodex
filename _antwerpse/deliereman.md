@@ -28,7 +28,7 @@ Op zijn liere spelen wou
 
 \] (bis)
 
-2.  Die juffrouw sprak de liereman Zo vriendelijk aan
+**2**\.  Die juffrouw sprak de liereman Zo vriendelijk aan
 
 Zijt gij zeker dat de snare van Uw liere nog zal gaan?
 

@@ -13,7 +13,7 @@ wil jou hê, ek sal jou kry
 
 \] (bis)
 
-R.  Al slaan my ma my driemaal op my kop Dan staan ek op, en kom ek weer
+**R**\.  Al slaan my ma my driemaal op my kop Dan staan ek op, en kom ek weer
 
 Al slaan my ma my nog so pimpel blau Ek wil jou hê, ek hou van jou
 

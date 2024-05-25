@@ -4,23 +4,23 @@ page: 86
 ---
 
 
-1.  Geen roekeloze wagers Stil volk dat zich beraadt Aleer het zijn
+**1**\.  Geen roekeloze wagers Stil volk dat zich beraadt Aleer het zijn
     belagers Manhaft te lijve gaat Zij wisten wat zij wilden Toen zij
     tot stout verweer De piek of zeis optilden Of grepen naar \'t geweer
 
 <!-- -->
 
-R.  Voor vrijheid en recht, ongeknecht Onverveerd voor outer en heerd
+**R**\.  Voor vrijheid en recht, ongeknecht Onverveerd voor outer en heerd
 
 <!-- -->
 
-2.  Zij steunden op Oranjes De Nederlanden één!
+**2**\.  Zij steunden op Oranjes De Nederlanden één!
 
 En juichten toen Brittanjes Beloofde vloot verscheen Kloekmoedig in de
 gouwen Van Diets Zuid-Nederland Zijn allen sterk en trouwe Gesprongen
 in de brand
 
-3.  Rollier, Corbeels, Van Gansen, Bevochten onverveerd
+**3**\.  Rollier, Corbeels, Van Gansen, Bevochten onverveerd
 
 Met wisselende kansen Den vijand van hun heerd Zij kampten koen als
 leeuwen En werden z\'overmand

@@ -4,7 +4,7 @@ page: 245
 ---
 
 
-R.  Onder de groene hemel in de blauwe zon Speelt het blikken
+**R**\.  Onder de groene hemel in de blauwe zon Speelt het blikken
     harmonieorkest
 
 In een grote regenton
@@ -19,7 +19,7 @@ hoge bergen
 
 Ligt het land van Maas en Waal
 
-1.  Ik loop gearmd met een kater voorop
+**1**\.  Ik loop gearmd met een kater voorop
 
 Daarachter twee konijnen met een trechter op hun kop En dan de grote
 snoeshaan, die legt een glazen ei Wanneer je het schudt dan sneeuwt
@@ -34,7 +34,7 @@ fanfare ter ere van de schaar
 
 Die trouwt met de vingerhoed Ze houden van elkaar
 
-R.  En onder de purperen hemel in de bruine zon Speelt nog steeds het
+**R**\.  En onder de purperen hemel in de bruine zon Speelt nog steeds het
     harmonieorkest
 
 In een grote regenton
@@ -51,7 +51,7 @@ Ligt het land van Maas en Waal
 
 
 
-2.  We zijn aan de koning van Spanje ontsnapt
+**2**\.  We zijn aan de koning van Spanje ontsnapt
 
 Die had ons in zijn bed en de provisiekast betrapt We staken alle
 kerken met brandewijn in brand \'t Is koudvuur, dus het geeft niet
@@ -65,7 +65,7 @@ loftrompet en ook de dikke draak En eten \'s avonds zandgebak
 
 Op het feestje bij Klaas Vaak
 
-R.  En onder de gouden hemel in de zilveren zon Speelt altijd het
+**R**\.  En onder de gouden hemel in de zilveren zon Speelt altijd het
     harmonieorkest
 
 In een grote regenton

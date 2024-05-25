@@ -4,19 +4,19 @@ page: 170
 ---
 
 
-1.  Een goeie pint bier, dat doet ons toch geen kwaad (ter) En dus
+**1**\.  Een goeie pint bier, dat doet ons toch geen kwaad (ter) En dus
     drinken we z\'allemaal leeg!
 
-R. En heft de pinten hoog, gij beste kameraad (ter) En dus drinken we
+**R**\. En heft de pinten hoog, gij beste kameraad (ter) En dus drinken we
 z\'allemaal leeg!
 
-2.  Met z\'n allen op de rol, tot in het vroege uur (ter) En zo drinken
+**2**\.  Met z\'n allen op de rol, tot in het vroege uur (ter) En zo drinken
     we z\'allemaal leeg!
 
-3.  Met vrienden ondereen, zingen wij de avond vol (ter) En dan drinken
+**3**\.  Met vrienden ondereen, zingen wij de avond vol (ter) En dan drinken
     we z\'allemaal leeg!
 
-4.  *ad lib*
+**4**\.  *ad lib*
 
 > *Het refrein wordt voortaan niet meer gezongen.*
 

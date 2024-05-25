@@ -4,14 +4,14 @@ page: 445
 ---
 
 
-1.  Waar het royaal Bolleke Steeds het beste smaakt En waar onze Lieve
+**1**\.  Waar het royaal Bolleke Steeds het beste smaakt En waar onze Lieve
     Vrouw Statig over ons waakt
 
 Waar *het Scheld* in bochten danst Lichtjes langs de ka
 
 Ja, daar is mijn koekenstad Eeuwig zot van A
 
-2.  Waar er kunst t\' aanschouwen is MASsaal naast de stroom
+**2**\.  Waar er kunst t\' aanschouwen is MASsaal naast de stroom
 
 En men vaak aan \'t bouwen is Aan eeniedere droom
 
@@ -19,7 +19,7 @@ En men vaak aan \'t bouwen is Aan eeniedere droom
 
 Ja, daar is mijn bakerstad Antwerpen Centraal
 
-3.  Waar de wereld steeds vergaart Als ze koopjes doen
+**3**\.  Waar de wereld steeds vergaart Als ze koopjes doen
 
 Meir noch Haven blijft gespaard Handelskampioen
 

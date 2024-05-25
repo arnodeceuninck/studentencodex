@@ -4,13 +4,13 @@ page: 295
 ---
 
 
-1.  Kinder hört mal her, heut\' muß was gescheh\'n. Heut\' wird mal die
+**1**\.  Kinder hört mal her, heut\' muß was gescheh\'n. Heut\' wird mal die
     Nacht zum Tage gemacht, So was hat die Welt schon lang\' nicht
     geseh\'n. Wir haben was Tolles ausgedacht:
 
 <!-- -->
 
-R.  Wir machen durch bis morgen früh, Und singen: bums valdera,
+**R**\.  Wir machen durch bis morgen früh, Und singen: bums valdera,
 
 Bums valdera, bums valdera. Wir trinken heut\' so viel wie nie, Und
 singen: bums valdera, Bums valdera, so viel wie nie.
@@ -23,7 +23,7 @@ Wir machen durch bis morgen früh, Und singen: bums valdera,
 
 Bums valdera, bis morgen früh.
 
-2.  Heut\' geb\' ich den letzten Pfennig noch aus, Mir ist\'s ganz egal,
+**2**\.  Heut\' geb\' ich den letzten Pfennig noch aus, Mir ist\'s ganz egal,
     heut\' leben wir mal. Selbst die Hypothek von unserem Haus Geht
     drauf, und ist futsch auf jeden Fall:
 

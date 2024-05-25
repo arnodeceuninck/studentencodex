@@ -4,7 +4,7 @@ page: 298
 ---
 
 
-1.  Muss i denn, muss i denn
+**1**\.  Muss i denn, muss i denn
 
 Zum Städtele hinaus, Städtele hinaus, Und du, mein Schatz, bleibst
 hier? Wenn i komm\', wenn i komm\', Wenn i wiedrum komm\',
@@ -15,7 +15,7 @@ Wenn i wiedrum komm\',
 
 Kehr\' i ein, mein Schatz, bei dir.
 
-2.  Wie du weinst, wie du weinst,
+**2**\.  Wie du weinst, wie du weinst,
 
 Dass i wandere muss, wandere muss, Wie wenn d\' Lieb\' jetzt wär\'
 vorbei! Sind au drauß, sind au drauß
@@ -29,7 +29,7 @@ Schatz, i bleib\' dir treu.
 
 
 
-3.  Über\'s Jahr, über\'s Jahr,
+**3**\.  Über\'s Jahr, über\'s Jahr,
 
 Wenn me Träubele schneid\'t, Träubele schneid\'t, Stell\' i hier mi
 wiedrum ein;

@@ -4,14 +4,14 @@ page: 313
 ---
 
 
-1.  Lustig ist das Zigeunerleben, Faria, faria, ho.
+**1**\.  Lustig ist das Zigeunerleben, Faria, faria, ho.
 
 Brauchen dem Kaiser kein\'n Zins zu geben, Faria, faria, ho.
 
 Lustig ist\'s im grünen Wald, Wo des Zigeuners Aufenthalt, Faria,
 faria, faria, faria Faria, faria, ho.
 
-2.  Sollt uns einmal der Hunger plagen, Faria, faria, ho.
+**2**\.  Sollt uns einmal der Hunger plagen, Faria, faria, ho.
 
 Tun wir uns ein Hirschlein jagen: Faria, faria, ho.
 
@@ -20,7 +20,7 @@ Faria, faria, faria, faria
 
 Faria, faria, ho.
 
-3.  Sollt uns einmal der Durst sehr quälen, Faria, faria, ho.
+**3**\.  Sollt uns einmal der Durst sehr quälen, Faria, faria, ho.
 
 Geh\'n wir hin zu Waldesquellen, Faria, faria, ho.
 
@@ -29,7 +29,7 @@ Faria, faria, faria, faria
 
 Faria, faria, ho.
 
-4.  Mädel, willst du Tabak rauchen, Faria, faria, ho.
+**4**\.  Mädel, willst du Tabak rauchen, Faria, faria, ho.
 
 Brauchst dir keine Pfeif\' zu kaufen, Faria, faria, ho.
 
@@ -43,7 +43,7 @@ Faria, faria, faria, faria
 
 Faria, faria, ho.
 
-5.  Mädchen, willst du Kaffee trinken, Faria, faria, ho.
+**5**\.  Mädchen, willst du Kaffee trinken, Faria, faria, ho.
 
 So musst du die Schale schwenken, Faria, faria, ho.
 
@@ -52,7 +52,7 @@ Faria, faria, faria, faria
 
 Faria, faria, ho.
 
-6.  Wenn uns tut der Beutel hexen, Faria, faria, ho.
+**6**\.  Wenn uns tut der Beutel hexen, Faria, faria, ho.
 
 Lassen wir uns\'re Taler wechseln, Faria, faria, ho.
 
@@ -62,7 +62,7 @@ Da kommen die Taler wieder all zu uns. Faria, faria, faria, faria
 
 Faria, faria, ho.
 
-7.  Wenn wir auch kein Federbett haben, Faria, faria, ho.
+**7**\.  Wenn wir auch kein Federbett haben, Faria, faria, ho.
 
 Tun wir uns ein Loch ausgraben, Faria, faria, ho.
 

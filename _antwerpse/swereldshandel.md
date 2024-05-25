@@ -4,7 +4,7 @@ page: 205
 ---
 
 
-1.  De boerkens smelten van vreugd en plezier Als den oogst is binnen
+**1**\.  De boerkens smelten van vreugd en plezier Als den oogst is binnen
     getreden
 
 Zy gaen met hunne boerinnen te bier En zy maken zeer goeden cier
@@ -22,7 +22,7 @@ tik tank
 
 En dat duert er den heelen nacht lang
 
-2.  Den advocaet en prokureur Zijn zulke borzeschuimers
+**2**\.  Den advocaet en prokureur Zijn zulke borzeschuimers
 
 Zy loopen met uw schijven deur En nog laten zy u in \'t getreur
 
@@ -37,7 +37,7 @@ uitmalen Nog krijgt gy \'t proces aen uw gat
 
 
 
-3.  Let op den handel van greffiers Baljuws of wel ontvangers
+**3**\.  Let op den handel van greffiers Baljuws of wel ontvangers
 
 Zy schrijven daer een hand papier Al en is het niet een zier
 
@@ -55,7 +55,7 @@ vullen den krop
 
 En drinken van Bacchus sop
 
-4.  Veel liever houd ik my op het land Met boerkens en boerinnekens Zy
+**4**\.  Veel liever houd ik my op het land Met boerkens en boerinnekens Zy
     houden \'t geldeken in de hand En leven ook zeer plezant
 
 Hun dunkt dat zy wel heeren zijn Al drinken zy keeremelk voor wijn Een

@@ -10,7 +10,7 @@ blikken, zonder blozen Sim serim sim sim sim sim
 Op het heil van de student Taratata tara Die nooit of nimmer zorgen
 kent Taratata ta
 
-R.  Heil \'t studentenleven! Wo-o-o-o-o
+**R**\.  Heil \'t studentenleven! Wo-o-o-o-o
 
 Heil \'t studentenleven!
 
@@ -28,7 +28,7 @@ Heerlijke studentenvocht Taratata tara
 
 Dat \'t eeuwig stromen blijven mocht Taratata ta
 
-4.  Zijn de kelen droog gezongen Sim serim sim sim sim sim Roep dan
+**4**\.  Zijn de kelen droog gezongen Sim serim sim sim sim sim Roep dan
     samen maar \"Bierjongen!\" Sim serim sim sim sim sim
 
 Drink je pint tot op de grond Taratata tara

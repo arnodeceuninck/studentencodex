@@ -4,7 +4,7 @@ page: 129
 ---
 
 
-1.  En als wij naar de hemel gaan Genevertje, genevertje
+**1**\.  En als wij naar de hemel gaan Genevertje, genevertje
 
 En als wij naar de hemel gaan, genevertje gaat mee
 
@@ -20,7 +20,7 @@ En dat ik immer zo dorstig ben
 
 Dat heb ik van mijne papa
 
-2.  En waar men een student ontmoet Genevertje, genevertje
+**2**\.  En waar men een student ontmoet Genevertje, genevertje
 
 En waar men een student ontmoet, genevertje is daar
 

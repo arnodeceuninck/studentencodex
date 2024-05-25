@@ -4,7 +4,7 @@ page: 128
 ---
 
 
-1.  Is er schoner leven dan \'t studentenleven: \'t Spoor van Bacchus en
+**1**\.  Is er schoner leven dan \'t studentenleven: \'t Spoor van Bacchus en
     Gambrinus gaan? Al je geld verzuipen, laat je bed in kruipen, Is het
     hoogste, heerlijkste bestaan.
 
@@ -14,7 +14,7 @@ dulci jubilo\'!
 Bij je laatste sollen denk je: geld moet rollen! Da\'s een toegewijd
 commilito.
 
-2.  Ook voor liefjes sparen, zijn de studiejaren Ideaal: wij staan in
+**2**\.  Ook voor liefjes sparen, zijn de studiejaren Ideaal: wij staan in
     Venus\' gunst.
 
 Jonge meisjes plagen, dan om liefde vragen, Is een heerlijke
@@ -26,7 +26,7 @@ voor \'t libido!
 Ergens diep inwendig, brandt het vuur bestendig Bij elk toegewijd
 commilito.
 
-3.  Bij de mooiste dingen is het samen zingen, Dat geeft aan het leven
+**3**\.  Bij de mooiste dingen is het samen zingen, Dat geeft aan het leven
     grote vreugd.
 
 Ook in oude boeken, nieuwe liedjes zoeken, Of ze schrijven, is een
@@ -39,7 +39,7 @@ commilito.
 
 
 
-4.  Vader zegt: \"Zo\'n cantus is slecht voor \'t verstand, dus Dat
+**4**\.  Vader zegt: \"Zo\'n cantus is slecht voor \'t verstand, dus Dat
     helpt u bij het studeren niet.\"
 
 Ik zeg: \"Pa, geen zorgen, blokken doe ik morgen. Het examen ligt ver

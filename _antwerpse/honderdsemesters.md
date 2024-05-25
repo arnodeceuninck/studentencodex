@@ -4,7 +4,7 @@ page: 149
 ---
 
 
-1.  Als ik sluimerde te nacht, Zijn er mooie dromen
+**1**\.  Als ik sluimerde te nacht, Zijn er mooie dromen
 
 Uit mijn jeugd, in volle pracht, Voor mijn geest gekomen; Schachten
 zaten schuw en jong Rond een tafel neder
@@ -15,7 +15,7 @@ Gaudeamus igitur, iuvenes dum sumus. (bis) Post iucundam iuventutem,
 
 Post molestam senectutem, Nos habebit humus! (bis)
 
-2.  Blauwe tabak riekt en rookt Rond de volle flessen, Kelen branden,
+**2**\.  Blauwe tabak riekt en rookt Rond de volle flessen, Kelen branden,
     \'t herte kookt, \'t koele bier zal \'t lessen; Schachten die vol
     eerbied rond De oude tafel tronen Zingen nu met ronden mond En in
     losse tonen:
@@ -26,7 +26,7 @@ Transite ad inferos, Ubi iam fuere. (bis)
 
 
 
-3.  Toen ontwaakte ik, klokkeklaar, Ruiste \'t door mijn oren:
+**3**\.  Toen ontwaakte ik, klokkeklaar, Ruiste \'t door mijn oren:
 
 Heden zijt gij 70 jaar Dag op dag geboren; De semester die ge sluit
 Prijkt met nummer honderd. \'k Was al gauw mijn ogen uit En \'t klonk
@@ -36,7 +36,7 @@ Vita nostra brevis est, brevi finietur. (bis) Venit mors velociter,
 
 Rapit nos atrociter, Nemini parcetur! (bis)
 
-4.  In mijn bedde sprong ik recht, \'k Riep: wat heeft me \'t leven Toch
+**4**\.  In mijn bedde sprong ik recht, \'k Riep: wat heeft me \'t leven Toch
     in weinig tijd, veel slecht En veel goed gegeven; Heden ken ik drang
     nog druk, Ken ik zorg noch plagen, Slechts de lente en slechts \'t
     geluk Uit mijn jonge dagen.
@@ -49,7 +49,7 @@ Vivant membra quaelibet, Semper sint in flore! (bis)
 
 
 
-5.  Mijn studententijd verliep Rap, lijk lopend water, En het werk\'lijk
+**5**\.  Mijn studententijd verliep Rap, lijk lopend water, En het werk\'lijk
     leven riep Mij uit de Alma Mater. Maar filistren deed ik niet: Hoog,
     op gouden zwingen, Heb ik steeds mijn liefdelied Jub\'lend durven
     zingen:
@@ -58,7 +58,7 @@ Vivant omnes virgines, faciles, formosae! (bis) Vivant et mulieres,
 
 Tenerae, amabiles, Bonae, laboriosae. (bis)
 
-6.  Vrouw en kind\'ren aan mijn hand. Heb ik deugd van \'t leven; Nuttig
+**6**\.  Vrouw en kind\'ren aan mijn hand. Heb ik deugd van \'t leven; Nuttig
     zijn aan \'t vaderland
 
 Was mijn doel in \'t streven; En heb ik soms alles niet Wat ik kon,
@@ -74,7 +74,7 @@ Quae nos hic protegit! (bis)
 
 
 
-7.  \'t Oud Latijnse liedje gaf
+**7**\.  \'t Oud Latijnse liedje gaf
 
 \'t Beeld van heel mijn leven, Van de wieg tot aan het graf. En \'k en
 zal niet beven

@@ -11,7 +11,7 @@ dan geen rose op my graf Of koel sipresse nie
 
 \] (bis)
 
-2.  Laat net die groen gras bo mie wees
+**2**\.  Laat net die groen gras bo mie wees
 
 Die reën en die môre dou
 
@@ -23,7 +23,7 @@ En als jy wil, onthou
 
 \] (bis)
 
-3.  Want skadu\'s sal \'k nie sien, of voel
+**3**\.  Want skadu\'s sal \'k nie sien, of voel
 
 Hoe dat die water week
 
@@ -35,7 +35,7 @@ As of hul harte breek
 
 \] (bis)
 
-4.  Maar ek sal altijd drome droom
+**4**\.  Maar ek sal altijd drome droom
 
 In die skemer, wie weet
 

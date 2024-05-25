@@ -11,13 +11,13 @@ afscheid als actief clublid.*
 slokken ledigen. Bij het zingen van \'scherven\' wordt het lege glas
 aan diggelen gegooid.*
 
-1.  De bange nacht is weeral om We rijden stil, we rijden stom We rijden
+**1**\.  De bange nacht is weeral om We rijden stil, we rijden stom We rijden
     ten verderve
 
 Hoe koud waait toch de morgenwind Waardin, nu nog een glas gezwind
 Voor \'t sterven (bis)
 
-2.  Hoe staat het jonge gras nu groen Maar bloeden zal het morgen doen
+**2**\.  Hoe staat het jonge gras nu groen Maar bloeden zal het morgen doen
     Mijn eigen bloed zal \'t verven
 
 De eerste slok, met \'t zweerd in hand Gedronken voor het vaderland
@@ -26,7 +26,7 @@ Voor \'t sterven (bis)
 
 (*De eerste slok wordt gedronken.*)
 
-3.  De tweede slok van d\'edele wijn Zal voor de heilige vrijheid zijn
+**3**\.  De tweede slok van d\'edele wijn Zal voor de heilige vrijheid zijn
     Voor vrijheid, have en erve
 
 (*De tweede slok wordt gedronken.*)
@@ -41,7 +41,7 @@ Voor \'t sterven (bis)
 
 
 
-4.  Voor \'t liefken, maar mijn glas is uit De spere blinkt, de kogel
+**4**\.  Voor \'t liefken, maar mijn glas is uit De spere blinkt, de kogel
     fluit Draag aan, mijn kind, de scherven
 
 (*Het glas wordt op de grond gegooid.*)

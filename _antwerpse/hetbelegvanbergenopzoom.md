@@ -4,7 +4,7 @@ page: 84
 ---
 
 
-1.  Merck toch hoe sterck nu int werck sich al steld, Die \'tallen ty
+**1**\.  Merck toch hoe sterck nu int werck sich al steld, Die \'tallen ty
     soo ons vryheyt heeft bestreden; Siet hoe hij slaeft, graeft en
     draeft met geweld, Om onse goet, en ons bloet, en onse steden! Hoor
     de Spaensche trommels slaen!
@@ -16,7 +16,7 @@ Berg op Zoom, hout u vroom, Stut de Spaensche scharen;
 
 Laet \'s lands boom end\' syn stroom Trouw\'lyck toch bewaren.
 
-2.  \'t Moedige, bloedige, woedige swaerd
+**2**\.  \'t Moedige, bloedige, woedige swaerd
 
 Blonck en het klonck, dat de voncken daer uyt vlogen. Beving en
 leving, opgeving der aerd,
@@ -33,7 +33,7 @@ Berg op Zoom, hout sich vroom, \'t Stut de Spaensche scharen;
 
 
 
-3.  Die van Oranjen, quam Spanjen aen boord,
+**3**\.  Die van Oranjen, quam Spanjen aen boord,
 
 Om uyt het velt, als een helt, \'t gewelt te weeren; Maer also dra,
 Spinola \'t heeft gehoord,
