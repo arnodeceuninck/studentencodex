@@ -13,21 +13,14 @@ zingt men de tweede strofe. Na deze strofe wordt opnieuw begonnen met de
 eerste strofe en het klinken.*
 
 Allons la mère Gaspar,
-
 Encore un verre, encore un verre.
-
 Allons la mère Gaspar,
-
 Encore un verre, il se fait tard.
-
 Si l\'paternel, si l\'paternel revient,
-
 On lui dira qu\'son fils est toujours
-
 Plein, plein, plein, plein, plein \...
 
 Il est des nôtres,
-
 Il n\'est pas fait comme les autres !
 
 *De twee laatst overblijvende commilitones sluiten af met een Ave

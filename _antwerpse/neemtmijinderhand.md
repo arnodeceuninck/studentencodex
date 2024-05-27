@@ -4,8 +4,10 @@ page: 85
 ---
 
 
--   Neemt mij in der hand ^②^ Hoort in \'t kort verklaren ^③^ Wat ons
-    hier in \'t land ^④^ Al is wedervaren
+Neemt mij in der hand
+Hoort in \'t kort verklaren
+Wat ons hier in \'t land
+Al is wedervaren
 
 > *Tekst en muziek: Adriaen Valerius (1575-1625)*
 

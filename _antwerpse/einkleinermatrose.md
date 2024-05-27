@@ -4,14 +4,14 @@ page: 315
 ---
 
 
-**1**\.  Ein kleiner Matrose umsegelte die Welt.
-
-Er liebte ein Mädchen, das hatte gar kein Geld. Das Mädchen muss
-weinen,
-
+**1**\.  Ein kleiner Matrose 
+umsegelte die Welt.
+Er liebte ein Mädchen, 
+das hatte gar kein Geld. 
+Das Mädchen muss weinen,
 Und wer war Schuld daran?
-
-Der kleine Matrose in seinem Liebeswahn.
+Der kleine Matrose 
+in seinem Liebeswahn.
 
 **2**\.  Ein großer Matrose \...
 

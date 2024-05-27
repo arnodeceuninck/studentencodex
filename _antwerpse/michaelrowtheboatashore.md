@@ -4,8 +4,8 @@ page: 379
 ---
 
 
-**1**\.  Michael row the boat ashore, hallelujah! Michael row the boat
-    ashore, hallelujah!
+**1**\.  Michael row the boat ashore, hallelujah! 
+Michael row the boat ashore, hallelujah!
 
 **2**\.  Then you\'ll hear the trumpet sound \...
 
