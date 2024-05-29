@@ -5,37 +5,35 @@ page: 357
 
 
 **1**\.  I\'ve been a wild rover for many\'s the year,
+And I spent all my money on whiskey and beer.
+And now I\'m returning with gold in great store, 
+And I never will play the wild rover no more.
 
-And I spent all my money on whiskey and beer. And now I\'m returning
-with gold in great store, And I never will play the wild rover no
-more.
-
-**R**\.  And it\'s no, nay, never, No nay never no more, Will I play the wild
-    rover, No never no more.
+**R**\.  And it\'s no, nay, never, 
+No nay never no more, 
+Will I play the wild rover, 
+No never no more.
 
 <!-- -->
 
 **2**\.  I went to an alehouse I used to frequent,
-
-And I told the landlady my money was spent. I asked her for credit,
-she answered me \"Nay, Such a custom as yours I could have any day.\"
+And I told the landlady my money was spent. 
+I asked her for credit, she answered me \"Nay, 
+Such a custom as yours I could have any day.\"
 
 **3**\.  I took from my pocket ten sovereigns bright,
+And the landlady\'s eyes opened wide with delight. 
+She said \"I have whiskeys and wines of the best, 
+And the words that I told you were only in jest.\"
 
-And the landlady\'s eyes opened wide with delight. She said \"I have
-whiskeys and wines of the best, And the words that I told you were
-only in jest.\"
-
-**4**\.  I\'ll have none of your whiskeys nor fine Spanish wine, For your
-    words show you clearly as no friend of mine. There\'s others most
-    willing to open a door,
-
+**4**\.  I\'ll have none of your whiskeys nor fine Spanish wine, 
+For your words show you clearly as no friend of mine. 
+There\'s others most willing to open a door,
 To a man coming home from a far distant shore.
 
-**5**\.  I\'ll go home to my parents, confess what I\'ve done, And I\'ll ask
-    them to pardon their prodigal son. And if they caress me as ofttimes
-    before,
-
+**5**\.  I\'ll go home to my parents, confess what I\'ve done, 
+And I\'ll ask them to pardon their prodigal son. 
+And if they caress me as ofttimes before,
 Then I never will play the wild rover no more.
 
 > *Ierse volkswijze uit de 16de eeuw*

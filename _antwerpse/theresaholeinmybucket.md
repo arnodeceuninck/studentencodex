@@ -1,57 +1,58 @@
 ---
 title: There's a hole in my bucket
-page: 377
+page: 376-377
 ---
 
 
-**1**\.  There\'s a hole in my bucket, dear Liza, dear Liza, There\'s a hole
-    in my bucket, dear Liza, a hole. Then fix it, dear Henry, dear
-    Henry, dear Henry, Then fix it, dear Henry, dear Henry, fix it.
+**1**\.  There\'s a hole in my bucket, dear Liza, dear Liza, 
+There\'s a hole in my bucket, dear Liza, a hole. 
+Then fix it, dear Henry, dear Henry, dear Henry, 
+Then fix it, dear Henry, dear Henry, fix it.
 
-**2**\.  With what shall I fix it, dear Liza, dear Liza? With what shall I
-    fix it, dear Liza, with what? With straw, dear Henry, dear Henry,
-    dear Henry, With straw, dear Henry, dear Henry, with straw.
+**2**\.  With what shall I fix it, dear Liza, dear Liza? 
+With what shall I fix it, dear Liza, with what? 
+With straw, dear Henry, dear Henry, dear Henry, 
+With straw, dear Henry, dear Henry, with straw.
 
-**3**\.  The straw is too long, dear Liza, dear Liza, The straw is too long,
-    dear Liza, too long.
+**3**\.  The straw is too long, dear Liza, dear Liza, 
+The straw is too long, dear Liza, too long.
+Then cut it, dear Henry, dear Henry, dear Henry, 
+Then cut it, dear Henry, dear Henry, cut it.
 
-Then cut it, dear Henry, dear Henry, dear Henry, Then cut it, dear
-Henry, dear Henry, cut it.
+**4**\.  With what shall I cut it, dear Liza, dear Liza? 
+With what shall I cut it, dear Liza, with what? 
+With an axe, dear Henry, dear Henry, dear Henry, 
+With an axe, dear Henry, dear Henry, with an axe.
 
-**4**\.  With what shall I cut it, dear Liza, dear Liza? With what shall I
-    cut it, dear Liza, with what? With an axe, dear Henry, dear Henry,
-    dear Henry, With an axe, dear Henry, dear Henry, with an axe.
+**5**\.  The axe is too dull, dear Liza, dear Liza, 
+The axe is too dull, dear Liza, too dull.
+Then sharpen it, dear Henry, dear Henry, dear Henry, 
+Then sharpen it, dear Henry, dear Henry, hone it.
 
-**5**\.  The axe is too dull, dear Liza, dear Liza, The axe is too dull, dear
-    Liza, too dull.
-
-Then sharpen it, dear Henry, dear Henry, dear Henry, Then sharpen it,
-dear Henry, dear Henry, hone it.
-
-**6**\.  On what shall I sharpen it, dear Liza, dear Liza? On what shall I
-    sharpen it, dear Liza, on what? On a whetstone, dear Henry, dear
-    Henry, dear Henry, On a whetstone, dear Henry, dear Henry, a stone.
+**6**\.  On what shall I sharpen it, dear Liza, dear Liza? 
+On what shall I sharpen it, dear Liza, on what?
+On a whetstone, dear Henry, dear Henry, dear Henry, 
+On a whetstone, dear Henry, dear Henry, a stone.
 
 
 
-**7**\.  The stone is too dry, dear Liza, dear Liza, The stone is too dry,
-    dear Liza, too dry.
+**7**\.  The stone is too dry, dear Liza, dear Liza, 
+The stone is too dry, dear Liza, too dry.
+Well wet it, dear Henry, dear Henry, dear Henry, 
+Well wet it, dear Henry, dear Henry, wet it.
 
-Well wet it, dear Henry, dear Henry, dear Henry, Well wet it, dear
-Henry, dear Henry, wet it.
+**8**\.  With what shall I wet it, dear Liza, dear Liza? 
+With what shall I wet, dear Liza, with what? 
+With water, dear Henry, dear Henry, dear Henry, 
+With water, dear Henry, dear Henry, water.
 
-**8**\.  With what shall I wet it, dear Liza, dear Liza? With what shall I
-    wet, dear Liza, with what? With water, dear Henry, dear Henry, dear
-    Henry, With water, dear Henry, dear Henry, water.
+**9**\.  In what shall I fetch it, dear Liza, dear Liza? 
+In what shall I fetch it, dear Liza, in what?
+In a bucket, dear Henry, dear Henry, dear Henry, 
+In a bucket, dear Henry, dear Henry, a bucket.
 
-**9**\.  In what shall I fetch it, dear Liza, dear Liza? In what shall I
-    fetch it, dear Liza, in what?
-
-In a bucket, dear Henry, dear Henry, dear Henry, In a bucket, dear
-Henry, dear Henry, a bucket.
-
-**10**\. There\'s a hole in my bucket, dear Liza, dear Liza, There\'s a hole
-    in my bucket, dear Liza, a hole.
+**10**\. There\'s a hole in my bucket, dear Liza, dear Liza, 
+There\'s a hole in my bucket, dear Liza, a hole.
 
 > *Naar het Duitse \'Ein Loch ist im Eimer\', 17de eeuw*
 

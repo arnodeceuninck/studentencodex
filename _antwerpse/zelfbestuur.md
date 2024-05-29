@@ -5,22 +5,17 @@ page: 97
 
 
 **1**\.  Wij hebben lang gestreden, gebedeld en geklaagd;
-
-En nog zijn wij verschopten, de knechten in de staat. Wij leven niet
-van loos gebaren, van ijdel hopen en geduld; De voogden moeten weten:
-de tijden zijn vervuld.
+En nog zijn wij verschopten, de knechten in de staat.
+Wij leven niet van loos gebaren, van ijdel hopen en geduld; 
+De voogden moeten weten: de tijden zijn vervuld.
 
 **R**\.  Romderidom, zelfbestuur, Romderidom, zelfbestuur.
-
 Vlaanderen, Vlaanderen wil zelfbestuur!
 
 **2**\.  Wij zullen ons bevrijden van deze droeve kamp;
-
-Die meer dan honderd jaren de Vlaamse kracht verlamt. Want Vlaanderen
-wil zich zelf regeren,
-
+Die meer dan honderd jaren de Vlaamse kracht verlamt. 
+Want Vlaanderen wil zich zelf regeren,
 het Vlaamse lot in Vlaamse hand.
-
 Wij bouwen aan de toekomst, de steigers staan geplant.
 
 > *Tekst: Clem De Ridder (1920-2013)*

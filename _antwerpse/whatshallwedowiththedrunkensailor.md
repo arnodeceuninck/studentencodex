@@ -5,9 +5,10 @@ page: 375
 
 
 
-**1**\.  What shall we do with the drunken sailor (ter) Early in the morning?
-
-Hooray and up she rises (ter) Early in the morning
+**1**\.  What shall we do with the drunken sailor (ter) 
+Early in the morning?
+Hooray and up she rises (ter) 
+Early in the morning
 
 **2**\.  Shave his belly with a rusty razor \...
 

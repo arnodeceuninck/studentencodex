@@ -4,33 +4,40 @@ page: 397
 ---
 
 
-**1**\.  We are trav\'ling in the footsteps Of those who\'ve gone before And
-    we\'ll all be reunited
-
+**1**\.  We are trav\'ling in the footsteps 
+Of those who\'ve gone before 
+And we\'ll all be reunited
 On a new and sunlit shore
 
-**R**\.  Oh, when the saints go marching in Oh, when the saints go marching
-    in Lord, how I want to be in that number When the saints go marching
-    in
+**R**\.  Oh, when the saints go marching in 
+Oh, when the saints go marching in 
+Lord, how I want to be in that number 
+When the saints go marching in
 
 <!-- -->
 
-**2**\.  And when the sun refuse to shine And when the sun refuse to shine
-    Lord, how I want to be in that number When the sun refuse to shine
+**2**\.  And when the sun refuse to shine 
+And when the sun refuse to shine
+Lord, how I want to be in that number 
+When the sun refuse to shine
 
-**3**\.  And when the moon turns red with blood And when the moon turns red
-    with blood Lord, how I want to be in that number When the moon turns
-    red with blood
+**3**\.  And when the moon turns red with blood 
+And when the moon turns red with blood 
+Lord, how I want to be in that number 
+When the moon turns red with blood
 
-**4**\.  Oh, when the trumpet sounds its call Oh, when the trumpet sounds its
-    call Lord, how I want to be in that number When the trumpet sounds
-    its call
+**4**\.  Oh, when the trumpet sounds its call 
+Oh, when the trumpet sounds its call 
+Lord, how I want to be in that number 
+When the trumpet sounds its call
 
-**5**\.  Some say this world of trouble Is the only one we need
+**5**\.  Some say this world of trouble 
+Is the only one we need
+But I\'m waiting for that morning 
+When the new world is revealed
 
-But I\'m waiting for that morning When the new world is revealed
-
-**6**\.  Oh, when the new world is revealed Oh, when the new world is
-    revealed Lord, how I want to be in that number When the new world is
-    revealed
+**6**\.  Oh, when the new world is revealed 
+Oh, when the new world is revealed 
+Lord, how I want to be in that number 
+When the new world is revealed
 

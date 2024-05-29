@@ -1,17 +1,18 @@
 ---
 title: Roll the old chariot
-page: 402
+page: 401-402
 ---
 
 
-**1**\.  Well, a night on the shore wouldn\'t do us any harm (ter) And we\'ll
-    all hang on behind
+**1**\.  Well, a night on the shore wouldn\'t do us any harm (ter) 
+And we\'ll all hang on behind
 
 <!-- -->
 
-**R**\.  And we\'ll roll the old chariot along We\'ll roll the old chariot
-    along We\'ll roll the old chariot along And we\'ll all hang on
-    behind
+**R**\.  And we\'ll roll the old chariot along 
+We\'ll roll the old chariot along 
+We\'ll roll the old chariot along 
+And we\'ll all hang on behind
 
 <!-- -->
 
