@@ -14,6 +14,7 @@ files = os.listdir(INPUT_DIRECTORY)
 # Loop through the files
 for file in files:
     filename = file.split('.')[0]
+    print(f"Processing {filename}")
     # Open the file
     with open(f'{INPUT_DIRECTORY}/{file}', 'r', encoding='utf-8') as f:
         # Read the file

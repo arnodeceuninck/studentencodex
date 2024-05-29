@@ -1,7 +1,7 @@
 ---
 title: Pique la baleine
 page: 423
----
+---  
 
 
 {:start="1"}  
@@ -44,10 +44,7 @@ Oh mes boués, ouh là ouh là là.) (bis)
 
 {:start="8"}  
 8\. Pour retrouver ma douce amie )  
-Oh mes boués, ouh là ouh là là.) (bis) 
+Oh mes boués, ouh là ouh là là.) (bis)   
 
 
-> *Bron: Chansons de Bord, geschreven door kapitein Armand Hayet (1927)*
-
-
-
+> *Bron: Chansons de Bord, geschreven door kapitein Armand Hayet (1927)*  

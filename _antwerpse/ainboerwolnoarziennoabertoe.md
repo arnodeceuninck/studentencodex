@@ -1,7 +1,7 @@
 ---
 title: Ain boer wol noar zien noaber toe
 page: 435
----
+---  
 
 **1**\. Ain boer wol naor zien noaber tou,)  
 Hai, boer, hai! ) (bis)  
@@ -17,31 +17,28 @@ Zee'e: "Wief, wat hestoe wel doan?"
 **4**\. Moar 't wief kreeg tou bèrfestok,  
 En sloug hom dou op zien kop.  
 
-**5**\.  En boer gong noar zien noaber kloag\'n \]
+**5**\.  En boer gong noar zien noaber kloag\'n \]  
 
-Hai! Boer, hai! \] (bis)
+Hai! Boer, hai! \] (bis)  
 
-Mien wief het mie op kop sloag\'n \]
+Mien wief het mie op kop sloag\'n \]  
 
-Dom dom dom dai! \] (bis)
+Dom dom dom dai! \] (bis)  
 
-**6**\. En noaber zee: net ziezo
+**6**\. En noaber zee: net ziezo  
 
-Hai! Boer, hai!
+Hai! Boer, hai!  
 
-Mien wief dij dut krek ziezo
+Mien wief dij dut krek ziezo  
 
-Dom dom dom dai!
+Dom dom dom dai!  
 
-\]
+\]  
 
-\] (bis)
+\] (bis)  
 
-\]
+\]  
 
-\] (bis)
+\] (bis)  
 
-> *Nedersaksische volkswijze uit Groningen*
-
-
-
+> *Nedersaksische volkswijze uit Groningen*  

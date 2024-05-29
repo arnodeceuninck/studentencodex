@@ -15,7 +15,7 @@ Goûtons voir si le vin est bon.
 Avec une femme sur mes genoux ;  
 Avec une femme, oui, oui, oui...  
 
- 
+   
 **3**\. Et si le tonneau se débonde,  
 J'en boirai jusqu'à mon plaisir ;  
 J'en boirai, oui, oui, oui, ...  

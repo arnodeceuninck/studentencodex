@@ -1,7 +1,7 @@
 ---
 title: Kalinka
 page: 441-443
----
+---  
 
 **R**\. Kalinka, kalinka, kalinka moja )  
 V sadoe jagoda malinka, malinka moja ) (ter)  
@@ -21,12 +21,9 @@ Poljoebi zje ty menja
 Aj-ljoeli, ljoeli, aj-ljoeli, ljoeli  
 Poljoebi zje ty menja  
 
-*Tekst en muziek: 1860, Ivan Petrovitsj Larionov (1830 -1889)*
+*Tekst en muziek: 1860, Ivan Petrovitsj Larionov (1830 -1889)*  
 
-*Russische volkswijze (\'kalinka\' is Russisch voor \'Gelderse roos\')*
-
-
-
+*Russische volkswijze (\'kalinka\' is Russisch voor \'Gelderse roos\')*  
 
 
 

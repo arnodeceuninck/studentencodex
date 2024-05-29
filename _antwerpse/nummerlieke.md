@@ -1,7 +1,7 @@
 ---
 title: Nummerlieke
 page: 158
----
+---  
 
 192 17 3000  
 18 73 113  
@@ -23,7 +23,7 @@ page: 158
 4 98 6 73  
 6 200 7 18 9 2  
 
-84 17 3019
+84 17 3019  
 18314 16  
 97 370  
 2000800 16 1000 0  
@@ -31,11 +31,8 @@ page: 158
 
 
 
-*Tekst: 2014, Ben Lommelen*
+*Tekst: 2014, Ben Lommelen*  
 
-*Muziek: \'O du liebe Augustin\' (Wenen, ± 00)*
+*Muziek: \'O du liebe Augustin\' (Wenen, ± 00)*  
 
-*Vrij naar \'Siffervisan\' (Zweden, traditioneel)*
-
-
-
+*Vrij naar \'Siffervisan\' (Zweden, traditioneel)*  

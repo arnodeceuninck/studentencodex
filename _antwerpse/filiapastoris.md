@@ -1,84 +1,72 @@
 ---
 title: Filia pastoris
 page: 432-433
----
+---  
 
 
-{:start="1"}  
-1.  Quae voluptas quae voluptas )  
+**1**\.  Quae voluptas quae voluptas )  
     Est amare )  
     Pulchram filiam pastoris! ) (bis)  
     O admiranda, o admiranda, )  
     O admiranda filia pastoris! ) (bis)  
 
-{:start="2"}  
-2. Tis hedone, tis hedone )  
+**2**\. Tis hedone, tis hedone )  
     Estin Agapan )  
     Kalan koren poimenos! ) (bis)  
     O thaumasia, o thaumasia, )  
     O thaumasia koren poimenos! ) (bis)  
 
 
-{:start="3"}  
-3. Welch Vergnügen welch Vergnügen )  
+**3**\. Welch VergnÃ¼gen welch VergnÃ¼gen )  
     Ist's zu lieben )  
-    Des Hirten schönstes Töchterlein! ) (bis)  
+    Des Hirten schÃ¶nstes TÃ¶chterlein! ) (bis)  
     O wunderbares, o wunderbares, )  
-    O wunderbares Hirten Töchterlein! ) (bis)  
+    O wunderbares Hirten TÃ¶chterlein! ) (bis)  
 
-
-{:start="4"}  
-4. Quel delice, quel delice )  
+  
+**4**\. Quel delice, quel delice )  
     Est d'aimer )  
     La jolie fille du pasteur! ) (bis)  
     O merveilleuse, o merveilleuse, )  
     O merveilleuse fille du pasteur! ) (bis)  
 
 
-{:start="5"}  
-5. Que delicia, que delicia )  
+**5**\. Que delicia, que delicia )  
     Es amarte )  
     Hermosa hija del pastor! ) (bis)  
     O mas hermosa, o mas hermosa, )  
     O mas hermosa hija del pastor! ) (bis)  
 
 
-{:start="6"}  
-6. Co za radosc, co za radosc )  
+**6**\. Co za radosc, co za radosc )  
     Jest kochanie )  
     Piekna corke pastora! ) (bis)  
     O nadzwyczajna, o nadzwyczajna, )  
     O nadzwyczajna corko pastora! ) (bis)  
 
 
-{:start="7"}  
-7. Hvad fornojelse, hvad fornojelse )  
+**7**\. Hvad fornojelse, hvad fornojelse )  
     Er at elske )  
     Hyrdens smukke datteren! ) (bis)  
     O vidunderlig, o vidunderlig, )  
     O vidunderlig hyrdens datter! ) (bis)  
 
 
-{:start="8"}  
-8. What a pleasure, what a pleasure )  
+**8**\. What a pleasure, what a pleasure )  
     't Is to love )  
     The most gorgeous sheperd's girl! ) (bis)  
     Oh magnificent, oh magnificent, )  
     Oh magnificent, graceful shepard's girl! ) (bis)  
 
 
-{:start="9"}  
-9. Welk genoegen welk genoegen )  
+**9**\. Welk genoegen welk genoegen )  
    Is't te minnen )  
    Het mooiste meisje van de stad ) (bis)  
    O wonderbaarste, o wonderbaarste, )  
-   O wonderbaarste meisje van de stad! ) (bis)
+   O wonderbaarste meisje van de stad! ) (bis)  
 
 
 
-*Typisch studentenlied over de liefde met elke strofe in een andere
-taal: Latijn, Oudgrieks, Duits, Frans, Spaans, Pools, Deens, Engels en
-Nederlands*
-
-
-
+*Typisch studentenlied over de liefde met elke strofe in een andere  
+taal: Latijn, Oudgrieks, Duits, Frans, Spaans, Pools, Deens, Engels en  
+Nederlands*  

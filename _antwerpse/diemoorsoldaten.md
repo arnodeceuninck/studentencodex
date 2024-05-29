@@ -1,9 +1,9 @@
 ---
 title: Die Moorsoldaten
 page: 326-327
----
+---  
 
- 
+   
 **1**\.  Wohin auch das Auge blicket, Moor und Heide nur ringsum. Vogelsang uns nicht erquicket, Eichen stehen kahl und krumm.   
 Wir sind die Moorsoldaten und ziehen mit dem Spaten ins Moor. (bis)  
 
@@ -28,13 +28,10 @@ Dann ziehn die Moorsoldaten  nicht mehr mit dem Spaten ins Moor! (bis)
 
 
 
-*Tekst: 1933, Johann Esser (1896-1971) en Wolfgang Langhoff (1901-1966)*
+*Tekst: 1933, Johann Esser (1896-1971) en Wolfgang Langhoff (1901-1966)*  
 
-*Muziek: 1933, Rudi Goguel (1908-1976)*
+*Muziek: 1933, Rudi Goguel (1908-1976)*  
 
-*© C.F. Peters Ltd. & Co. KG*
+*© C.F. Peters Ltd. & Co. KG*  
 
-*Geschreven door gevangenen in het Duitse concentratiekamp Börgermoor*
-
-
-
+*Geschreven door gevangenen in het Duitse concentratiekamp Börgermoor*  

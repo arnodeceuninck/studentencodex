@@ -1,33 +1,30 @@
 ---
 title: Ave confrater
 page: 44
----
+---  
 
 
-*Dit lied wordt gezongen door twee commilitones als teken van
-verbroedering of om twee commilitones te eren.*
+*Dit lied wordt gezongen door twee commilitones als teken van  
+verbroedering of om twee commilitones te eren.*  
 
-*De twee commilitones staan recht, kruisen de rechterarm met elkaar en
-brengen het glas ter hoogte van de mond.*
+*De twee commilitones staan recht, kruisen de rechterarm met elkaar en  
+brengen het glas ter hoogte van de mond.*  
 
-*C1:* Ave confrater!
+*C1:* Ave confrater!  
 
-*C2:* \'k Drink liever bier dan water!
+*C2:* \'k Drink liever bier dan water!  
 
-*C1:* Drink dan op het commando van één, twee, drie, vier, vijf, zes, zeven!
+*C1:* Drink dan op het commando van één, twee, drie, vier, vijf, zes, zeven!  
 
-*Commilito 2 begint bij \'één\' te drinken.*
+*Commilito 2 begint bij \'één\' te drinken.*  
 
-*Het glas moet leeg zijn bij \'zeven\'.*
+*Het glas moet leeg zijn bij \'zeven\'.*  
 
-*C2:* Er is niets meer in mijn glas gebleven!
+*C2:* Er is niets meer in mijn glas gebleven!  
 
-*C1 + C2:* Flectamus genua! (*Beiden knielen.*)
+*C1 + C2:* Flectamus genua! (*Beiden knielen.*)  
 
-*Omnes:* Levate! (*C1 en C2 staan recht, ze zingen dit niet mee.*)
+*Omnes:* Levate! (*C1 en C2 staan recht, ze zingen dit niet mee.*)  
 
-*Nu worden de rollen omgedraaid. Commilito 2 herneemt bij de eerste zin
-met \'Ave confrater!\' en het lied wordt opnieuw gezongen.*
-
-
-
+*Nu worden de rollen omgedraaid. Commilito 2 herneemt bij de eerste zin  
+met \'Ave confrater!\' en het lied wordt opnieuw gezongen.*  

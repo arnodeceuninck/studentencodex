@@ -1,7 +1,7 @@
 ---
 title: Kein schöner Land in dieser Zeit
 page: 331
----
+---  
 
 
 **1**\.  Kein schöner Land in dieser Zeit,  
@@ -26,7 +26,4 @@ der Herr im hohen Himmel wacht.
 In seiner Güten uns zu behüten )  
 hat er bedacht. ) (bis)  
 
-> *Tekst en muziek: Willhelm von Zuccalmaglio (1803-1869)*
-
-
-
+> *Tekst en muziek: Willhelm von Zuccalmaglio (1803-1869)*  

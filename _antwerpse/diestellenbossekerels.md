@@ -1,7 +1,7 @@
 ---
 title: Die Stellenbosse kêrels
 page: 267
----
+---  
 
 
 **1**\. Bobbejaan klim die berg, so haastig en so lustig, (bis)  
@@ -21,4 +21,3 @@ Hoera vir die boer, hoera!
 **3**\. Bobbejaan kruip die haag, so haastig en zo lustig, (bis)  
 Bobbejaan kruip die haag om die rooinek te verjaag  
 Hoera vir die boer, hoera!  
-

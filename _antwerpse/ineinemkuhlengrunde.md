@@ -1,7 +1,7 @@
 ---
 title: In einem kühlen Grunde
 page: 340
----
+---  
 
 **1**\. In einem kühlen Grunde,  
 Da geht ein Mühlenrad,  
@@ -26,15 +26,12 @@ Wohl in die blut'ge Schlacht,
 Um stille Feuer liegen )  
 Im Feld bei dunkler Nacht. ) (bis)  
 
- 
+   
 **5**\. Hör' ich das Mühlrad gehen,  
 Ich weiß nicht, was ich will;  
 Ich möcht' am liebsten sterben, )  
 Da wär's auf einmal still. ) (bis)  
 
-> *Tekst: 1812, Joseph von Eichendorff (1788-1857)*
+> *Tekst: 1812, Joseph von Eichendorff (1788-1857)*  
 
-> *Muziek: 1814, Friedrich Glück (1793-1840)*
-
-
-
+> *Muziek: 1814, Friedrich Glück (1793-1840)*  
