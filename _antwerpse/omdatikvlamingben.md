@@ -1,6 +1,7 @@
 ---
 title: Omdat ik Vlaming ben
 page: 61
+recording: https://youtu.be/JBnFBeFmDXs
 ---  
 
 

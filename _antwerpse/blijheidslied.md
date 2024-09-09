@@ -1,6 +1,7 @@
 ---
 title: Blijheidslied
 page: 58
+recording: https://youtu.be/fhk7uGcvI6I
 ---  
 
 

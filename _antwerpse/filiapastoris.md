@@ -1,6 +1,7 @@
 ---
 title: Filia pastoris
-page: 432-433
+page: 432
+recording: https://youtu.be/B1wcTT5EC-4
 ---  
 
 

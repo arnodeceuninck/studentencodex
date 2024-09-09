@@ -1,6 +1,7 @@
 ---
 title: Vlaams studentenlied
-page: 140-141
+page: 140
+recording: https://youtu.be/Zk8IHMI-eOg
 ---  
 
 

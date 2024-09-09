@@ -1,6 +1,7 @@
 ---
 title: De gilde viert
 page: 106
+recording: https://youtu.be/D7S8D5vzeXc
 ---  
 
 

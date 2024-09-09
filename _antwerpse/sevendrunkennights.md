@@ -1,6 +1,7 @@
 ---
 title: Seven drunken nights
-page: 360-362
+page: 360
+recording: https://youtu.be/cchYgXE6PiA
 ---  
 
 

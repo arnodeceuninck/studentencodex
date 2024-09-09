@@ -1,6 +1,7 @@
 ---
 title: Dichterbij
 page: 131
+recording: https://youtu.be/gbMxM0yRgmM
 ---  
 
 

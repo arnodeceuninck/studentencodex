@@ -1,6 +1,7 @@
 ---
 title: Testament van een student
-page: 150-151
+page: 150
+recording: https://youtu.be/2K5-IX7PGkw
 ---  
 
 

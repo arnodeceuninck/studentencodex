@@ -1,6 +1,7 @@
 ---
 title: Abschied
 page: 298
+recording: https://youtu.be/g5wNWdbgvz8
 ---  
 
 

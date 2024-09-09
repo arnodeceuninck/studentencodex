@@ -1,6 +1,7 @@
 ---
 title: De soldaat
-page: 243
+page: 242
+recording: https://youtu.be/-U678_O398E
 ---  
 
 

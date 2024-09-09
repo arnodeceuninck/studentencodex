@@ -1,6 +1,7 @@
 ---
 title: Deftig drinklied
 page: 238
+recording: https://youtu.be/xBonSOz7noY
 ---  
 
 

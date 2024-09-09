@@ -1,6 +1,7 @@
 ---
 title: It ain't gonna rain no more
 page: 390
+recording: https://youtu.be/j8xhw_gc0Po
 ---  
 
 

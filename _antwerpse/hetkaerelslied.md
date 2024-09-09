@@ -1,6 +1,7 @@
 ---
 title: Het kaerelslied
-page: 77
+page: 76
+recording: https://youtu.be/r2QPosK7f1A
 ---  
 
 

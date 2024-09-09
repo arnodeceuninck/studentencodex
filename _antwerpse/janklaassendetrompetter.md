@@ -1,6 +1,7 @@
 ---
 title: Jan Klaassen de trompetter
-page: 250-251
+page: 250
+recording: https://youtu.be/el7mxGc5Ju0
 ---  
 
 

@@ -1,6 +1,7 @@
 ---
 title: Bei der blonden Kathrein
 page: 297
+recording: https://youtu.be/Nnz62JfbAgk
 ---  
 
 

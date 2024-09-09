@@ -1,6 +1,7 @@
 ---
 title: Gold und Silber
-page: 285
+page: 284
+recording: https://youtu.be/F-E6HzE6s34
 ---  
 
 

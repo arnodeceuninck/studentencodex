@@ -1,6 +1,7 @@
 ---
 title: Vlaenderen boven al
 page: 54
+recording: https://youtu.be/q999BLVYNsc
 ---  
 
 

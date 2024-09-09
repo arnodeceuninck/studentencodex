@@ -1,6 +1,7 @@
 ---
 title: L'Estaca
 page: 439
+recording: https://youtu.be/aX4eZ1fpYwA
 ---  
 
 

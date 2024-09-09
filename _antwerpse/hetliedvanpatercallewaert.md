@@ -1,6 +1,7 @@
 ---
 title: Het lied van pater Callewaert
 page: 65
+recording: https://youtu.be/HwTMxAVONE0
 ---  
 
 

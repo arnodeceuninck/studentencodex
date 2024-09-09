@@ -1,6 +1,7 @@
 ---
 title: Suid-Afrikaans studentelied
 page: 258
+recording: https://youtu.be/atCVxhm3Q9k
 ---  
 
 

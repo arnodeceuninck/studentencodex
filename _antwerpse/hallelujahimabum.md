@@ -1,6 +1,7 @@
 ---
 title: Hallelujah, I'm a bum
 page: 383
+recording: https://youtu.be/oXAaH6wy-Gc
 ---  
 
 

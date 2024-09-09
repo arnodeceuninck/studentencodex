@@ -1,6 +1,7 @@
 ---
 title: Te Duinkerk gaat het ál verkeerd
 page: 219
+recording: https://youtu.be/DBm8BFsYOms
 ---  
 
 

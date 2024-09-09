@@ -1,6 +1,7 @@
 ---
 title: De boer had maar enen schoen
 page: 192
+recording: https://youtu.be/stPEwFuexdU
 ---  
 
 

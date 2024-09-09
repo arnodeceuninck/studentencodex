@@ -1,6 +1,7 @@
 ---
 title: Rote Husaren
 page: 308
+recording: https://youtu.be/M9wMvJFqFV0
 ---  
 
 

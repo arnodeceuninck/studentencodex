@@ -1,6 +1,7 @@
 ---
 title: De Vlaamse meisjes
-page: 241
+page: 240
+recording: https://youtu.be/eLUPkzInhCE
 ---  
 
 

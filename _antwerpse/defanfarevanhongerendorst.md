@@ -1,6 +1,7 @@
 ---
 title: De fanfare van honger en dorst
-page: 254
+page: 252
+recording: https://youtu.be/5SoAarIhFCA
 ---  
 
 

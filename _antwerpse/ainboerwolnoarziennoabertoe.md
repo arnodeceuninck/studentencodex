@@ -1,6 +1,7 @@
 ---
 title: Ain boer wol noar zien noaber toe
 page: 435
+recording: https://youtu.be/h2azGx40524
 ---  
 
 **1**\. Ain boer wol naor zien noaber tou,)  

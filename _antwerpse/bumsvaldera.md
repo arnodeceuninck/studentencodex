@@ -1,6 +1,7 @@
 ---
 title: Bums valdera
 page: 295
+recording: https://youtu.be/OuhgNn84dl4
 ---  
 
 

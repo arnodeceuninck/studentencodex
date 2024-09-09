@@ -1,6 +1,7 @@
 ---
 title: Chevaliers de la table ronde
 page: 408
+recording: https://youtu.be/yIcMtC_TWE8
 ---  
 
 

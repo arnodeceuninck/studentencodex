@@ -1,6 +1,7 @@
 ---
 title: Drie vrienden
-page: 132-133
+page: 132
+recording: https://youtu.be/qCYFY5rq-qE
 ---  
 
 

@@ -1,6 +1,7 @@
 ---
 title: Krambamboelie
-page: 122-123
+page: 122
+recording: https://youtu.be/1x_E4mu-HPc
 ---  
 
 

@@ -1,6 +1,7 @@
 ---
 title: Het beste van de wijne
 page: 195
+recording: https://youtu.be/bNlHAPVrfVA
 ---  
 
 

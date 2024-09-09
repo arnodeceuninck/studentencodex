@@ -1,6 +1,7 @@
 ---
 title: Pinten hoog
-page: 172-173
+page: 172
+recording: https://youtu.be/XOmrJk3M6HQ
 ---  
 
 

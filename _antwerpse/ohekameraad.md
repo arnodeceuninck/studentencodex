@@ -1,6 +1,7 @@
 ---
 title: Ohé kameraad
 page: 226
+recording: https://youtu.be/vvabmBCykfI
 ---  
 
 

@@ -1,6 +1,7 @@
 ---
 title: Student zijn
 page: 107
+recording: https://youtu.be/eIhyDb5FcKY
 ---  
 
 

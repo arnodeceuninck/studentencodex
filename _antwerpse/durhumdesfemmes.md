@@ -1,6 +1,7 @@
 ---
 title: Du rhum, des femmes
-page: 426-429
+page: 426
+recording: https://youtu.be/XcYng3TGq9E
 ---  
 
 

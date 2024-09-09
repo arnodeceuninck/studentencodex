@@ -1,6 +1,7 @@
 ---
 title: Die rietjie
 page: 257
+recording: https://youtu.be/7u-8q2UvNGA
 ---  
 
 

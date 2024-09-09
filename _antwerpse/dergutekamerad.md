@@ -1,6 +1,7 @@
 ---
 title: Der gute Kamerad
 page: 329
+recording: https://youtu.be/B1cKNcf1mpk
 ---  
 
 

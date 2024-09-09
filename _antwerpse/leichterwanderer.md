@@ -1,6 +1,7 @@
 ---
 title: Leichter Wanderer
 page: 296
+recording: https://youtu.be/SblRmirRTwk
 ---  
 
 

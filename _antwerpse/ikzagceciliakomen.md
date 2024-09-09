@@ -1,6 +1,7 @@
 ---
 title: Ik zag Cecilia komen
 page: 189
+recording: https://youtu.be/LjBuZ-m0_Uc
 ---  
 
 

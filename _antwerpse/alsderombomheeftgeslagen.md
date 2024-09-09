@@ -1,6 +1,7 @@
 ---
 title: Als de rombom heeft geslagen
 page: 224
+recording: https://youtu.be/WW6egzYG9uo
 ---  
 
 

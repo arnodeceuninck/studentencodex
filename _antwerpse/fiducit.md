@@ -1,6 +1,7 @@
 ---
 title: Fiducit
 page: 286
+recording: https://youtu.be/A0tXc40k6mU
 ---  
 **1**\.  Es hatten drei Gesellen  
 Ein fein Kollegium:  

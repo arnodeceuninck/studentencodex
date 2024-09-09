@@ -1,6 +1,7 @@
 ---
 title: Im Krug zum grünen Kranze
 page: 294
+recording: https://youtu.be/zuvcN7L-Hig
 ---  
 
 

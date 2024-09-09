@@ -1,6 +1,7 @@
 ---
 title: Studentenhymne
-page: 278-279
+page: 278
+recording: https://youtu.be/Xux6E9UOqR0
 ---  
 
 

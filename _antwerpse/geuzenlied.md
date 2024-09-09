@@ -1,6 +1,7 @@
 ---
 title: Geuzenlied
-page: 68-69
+page: 68
+recording: https://youtu.be/eyxpZx6Ro80
 ---  
 
 

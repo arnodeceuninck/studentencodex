@@ -1,6 +1,7 @@
 ---
 title: Nummerlieke
 page: 158
+recording: https://youtu.be/QEqbATf46AM
 ---  
 
 192 17 3000  

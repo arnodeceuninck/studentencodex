@@ -1,6 +1,7 @@
 ---
 title: Kurfürst Friedrich
-page: 324-325
+page: 324
+recording: https://youtu.be/8jm9ETuCFOs
 ---  
 
 

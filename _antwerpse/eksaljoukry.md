@@ -1,6 +1,7 @@
 ---
 title: Ek sal jou kry
 page: 265
+recording: https://youtu.be/ZFCJXdp00Fs
 ---  
 
 

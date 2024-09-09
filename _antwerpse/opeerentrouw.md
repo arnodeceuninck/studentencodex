@@ -1,6 +1,7 @@
 ---
 title: Op eer en trouw
 page: 97
+recording: https://youtu.be/DDgTDS8hBlM
 ---  
 
 

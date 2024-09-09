@@ -1,6 +1,7 @@
 ---
 title: Die Gedanken sind frei
-page: 318-319
+page: 318
+recording: https://youtu.be/gmwTa9qRq0o
 ---  
 
 

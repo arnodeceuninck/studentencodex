@@ -1,6 +1,7 @@
 ---
 title: Dit is de tijd
 page: 248
+recording: https://youtu.be/uDIbh68RNQ8
 ---  
 
 

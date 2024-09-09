@@ -1,6 +1,7 @@
 ---
 title: Voor outer en heerd
 page: 86
+recording: https://youtu.be/AuSU1fc0C5U
 ---  
 
 

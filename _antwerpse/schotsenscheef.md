@@ -1,6 +1,7 @@
 ---
 title: Schots en scheef
-page: 159-160
+page: 159
+recording: https://youtu.be/RtE7ut5GTzE
 ---  
 
 

@@ -1,6 +1,7 @@
 ---
 title: En passant par la Lorraine
 page: 407
+recording: https://youtu.be/7H7VGwT_0YU
 ---  
 
 

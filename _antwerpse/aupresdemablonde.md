@@ -1,6 +1,7 @@
 ---
 title: Auprès de ma blonde
 page: 410
+recording: https://youtu.be/bMQ74UsuLSQ
 ---  
 
 

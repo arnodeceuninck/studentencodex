@@ -1,6 +1,7 @@
 ---
 title: Het beleg van Bergen-op-Zoom
 page: 84
+recording: https://youtu.be/Xl5yRIfNuWQ
 ---  
 
 

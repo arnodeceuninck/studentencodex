@@ -1,6 +1,7 @@
 ---
 title: \'t Smidje
 page: 194
+recording: https://youtu.be/l68QxDXOVbk
 ---  
 
 

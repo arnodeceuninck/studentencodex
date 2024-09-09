@@ -1,6 +1,7 @@
 ---
 title: Nun leb' wohl, du kleine Gasse
 page: 344
+recording: https://youtu.be/bcomR5-tV1o
 ---  
 
 

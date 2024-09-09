@@ -1,6 +1,7 @@
 ---
 title: Honderd semesters
-page: 146-149
+page: 146
+recording: https://youtu.be/nwhdIyWKX0o
 ---  
 
 

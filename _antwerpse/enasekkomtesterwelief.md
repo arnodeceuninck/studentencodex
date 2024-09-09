@@ -1,6 +1,7 @@
 ---
 title: En as ek kom te sterwe, lief
 page: 266
+recording: https://youtu.be/azBfFJ3LToI
 ---  
 
 

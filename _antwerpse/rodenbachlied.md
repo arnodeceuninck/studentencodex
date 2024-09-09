@@ -1,6 +1,7 @@
 ---
 title: Rodenbachlied
 page: 72
+recording: https://youtu.be/GS-q1Y0c_KI
 ---  
 
 

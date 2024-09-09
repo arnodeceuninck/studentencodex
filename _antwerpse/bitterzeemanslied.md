@@ -1,6 +1,7 @@
 ---
 title: Bitter zeemanslied
 page: 474
+recording: https://youtu.be/RUgi1LWHCzM
 ---  
 
 

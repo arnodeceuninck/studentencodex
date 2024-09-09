@@ -1,6 +1,7 @@
 ---
 title: Michael row the boat ashore
 page: 379
+recording: https://youtu.be/TZj_Ug2o5Cc
 ---  
 
 

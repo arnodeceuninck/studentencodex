@@ -1,6 +1,7 @@
 ---
 title: De frontibus
 page: 172
+recording: https://youtu.be/9pHeUSFyhfE
 ---  
 
 

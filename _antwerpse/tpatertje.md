@@ -1,6 +1,7 @@
 ---
 title: \'t Patertje
 page: 181
+recording: https://youtu.be/A0_-DZE_HHE
 ---  
 
 

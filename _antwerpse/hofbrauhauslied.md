@@ -1,6 +1,7 @@
 ---
 title: Hofbräuhaus-Lied
 page: 290
+recording: https://youtu.be/U2W4gaP4kWI
 ---  
 
 

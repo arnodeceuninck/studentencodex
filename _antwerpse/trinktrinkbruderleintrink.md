@@ -1,6 +1,7 @@
 ---
 title: Trink, trink, Brüderlein trink
-page: 292-293
+page: 292
+recording: https://youtu.be/DItKxmLJO0A
 ---  
 
 

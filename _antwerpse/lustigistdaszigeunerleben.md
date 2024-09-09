@@ -1,6 +1,7 @@
 ---
 title: Lustig ist das Zigeunerleben
-page: 312-313
+page: 312
+recording: https://youtu.be/qsHkbzvq_-U
 ---  
 
 

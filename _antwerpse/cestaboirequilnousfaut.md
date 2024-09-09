@@ -1,6 +1,7 @@
 ---
 title: C'est à boire qu'il nous faut
 page: 420
+recording: https://youtu.be/hQ-ePdkqwxA
 ---  
 
 **1**\.  C\'étaient cinq à six bons bougres Qui venaient de Longjumeaux Ils  

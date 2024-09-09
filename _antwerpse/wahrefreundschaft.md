@@ -1,6 +1,7 @@
 ---
 title: Wahre Freundschaft
 page: 287
+recording: https://youtu.be/QsVdh0Uzip0
 ---  
 
 

@@ -1,6 +1,7 @@
 ---
 title: Is er schoner leven dan 't studentenleven?
 page: 128
+recording: https://youtu.be/F_IsCWGxzqk
 ---  
 
 

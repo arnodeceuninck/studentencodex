@@ -1,6 +1,7 @@
 ---
 title: John Brown's song
 page: 381
+recording: https://youtu.be/jso1YRQnpCI
 ---  
 
 

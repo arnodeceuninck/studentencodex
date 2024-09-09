@@ -1,6 +1,7 @@
 ---
 title: Al zingen 't vrije lied
 page: 96
+recording: https://youtu.be/80sl0Kxp_b4
 ---  
 
 

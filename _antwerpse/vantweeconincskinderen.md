@@ -1,6 +1,7 @@
 ---
 title: Van twee conincskinderen
-page: 176-177
+page: 176
+recording: https://youtu.be/uJm-kqjdT0k
 ---  
 
 

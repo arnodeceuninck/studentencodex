@@ -1,6 +1,7 @@
 ---
 title: Vloeibaar goud
 page: 139
+recording: https://youtu.be/4IXnr1SvRr4
 ---  
 
 

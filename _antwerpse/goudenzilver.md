@@ -1,6 +1,7 @@
 ---
 title: Goud en zilver
 page: 233
+recording: https://youtu.be/eHZQy5oW0K4
 ---  
 
 

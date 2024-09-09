@@ -1,6 +1,7 @@
 ---
 title: Als de kerels te gare zijn
 page: 78
+recording: https://youtu.be/NZHTwrnNNyk
 ---  
 
 

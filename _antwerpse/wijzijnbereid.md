@@ -1,6 +1,7 @@
 ---
 title: Wij zijn bereid
 page: 94
+recording: https://youtu.be/iIXBz0TJV70
 ---  
 
 

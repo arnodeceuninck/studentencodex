@@ -1,6 +1,7 @@
 ---
 title: Die Stellenbosse kêrels
 page: 267
+recording: https://youtu.be/PQAo7wjUwyw
 ---  
 
 

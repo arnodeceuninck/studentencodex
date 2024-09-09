@@ -1,6 +1,7 @@
 ---
 title: De slag om het Gravensteen
-page: 458-459
+page: 458
+recording: https://youtu.be/HShlOxY9iPI
 ---  
 
 **1**\.  Te Gent, de oude stede,  

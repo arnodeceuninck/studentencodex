@@ -1,6 +1,7 @@
 ---
 title: Pique la baleine
 page: 423
+recording: https://youtu.be/fTLqKV4q2n8
 ---  
 
 

@@ -1,6 +1,7 @@
 ---
 title: Het lied van hertog Jan
-page: 464-466
+page: 464
+recording: https://youtu.be/J-unBQ-HWbQ
 ---  
 
 

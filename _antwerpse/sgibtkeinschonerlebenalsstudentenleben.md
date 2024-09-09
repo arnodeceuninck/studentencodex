@@ -1,6 +1,7 @@
 ---
 title: \'s Gibt kein schöner Leben als Studentenleben
-page: 282-283
+page: 282
+recording: https://youtu.be/F_IsCWGxzqk
 ---  
 
 

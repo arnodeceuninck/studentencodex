@@ -1,6 +1,7 @@
 ---
 title: Vacantie-lied
 page: 108
+recording: https://youtu.be/tjPUFHFPT9c
 ---  
 
 

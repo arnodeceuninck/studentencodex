@@ -1,6 +1,7 @@
 ---
 title: Lob der edlen Musika
 page: 314
+recording: https://youtu.be/nByLNFnl4gY
 ---  
 
 

@@ -1,6 +1,7 @@
 ---
 title: Vive la compagneia
 page: 164
+recording: https://youtu.be/kWI-ePXwdv8
 ---  
 
 

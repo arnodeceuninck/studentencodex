@@ -1,6 +1,7 @@
 ---
 title: Ik ben een boemelaar
 page: 124
+recording: https://youtu.be/XQgZG2qZhHU
 ---  
 
 

@@ -1,6 +1,7 @@
 ---
 title: À la claire fontaine
 page: 414
+recording: https://youtu.be/tJkJe2zMQng
 ---  
 
 

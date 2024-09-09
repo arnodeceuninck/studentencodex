@@ -1,6 +1,7 @@
 ---
 title: Auld lang syne
 page: 354
+recording: https://youtu.be/yRk_vbg9sWA
 ---  
 
 

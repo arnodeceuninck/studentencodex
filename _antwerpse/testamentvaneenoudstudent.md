@@ -1,6 +1,7 @@
 ---
 title: Testament van een oud-student
-page: 152-153
+page: 152
+recording: https://youtu.be/g-1G7UX8RZM
 ---  
 
 

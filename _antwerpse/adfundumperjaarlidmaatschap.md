@@ -1,6 +1,7 @@
 ---
 title: Ad fundum per jaar lidmaatschap
 page: 163
+recording: https://youtu.be/n-bP7iqpPZw
 ---  
 
 

@@ -1,6 +1,7 @@
 ---
 title: Die stem van Suid-Afrika
-page: 52-53
+page: 52
+recording: https://youtu.be/wIiQSpiOHQM
 ---  
 
 

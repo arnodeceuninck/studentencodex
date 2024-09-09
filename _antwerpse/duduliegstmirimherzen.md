@@ -1,6 +1,7 @@
 ---
 title: Du, du liegst mir im Herzen
 page: 300
+recording: https://youtu.be/i2ze-T00Iok
 ---  
 
 

@@ -1,6 +1,7 @@
 ---
 title: Die beiden Grenadiere
-page: 336-337
+page: 336
+recording: https://youtu.be/7AAR-C5z3lg
 ---  
 
 

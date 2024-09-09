@@ -1,6 +1,7 @@
 ---
 title: Die Lore
 page: 304
+recording: https://youtu.be/5B7dZZ0q0fE
 ---  
 
 **1**\. Im Wald, im günen Walde, \]  

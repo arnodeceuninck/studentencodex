@@ -1,6 +1,7 @@
 ---
 title: Yankee Doodle
-page: 384-385
+page: 384
+recording: https://youtu.be/G3s98l2-GXg
 ---  
 
 

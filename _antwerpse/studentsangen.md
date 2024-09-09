@@ -1,6 +1,7 @@
 ---
 title: Studentsången
 page: 436
+recording: https://youtu.be/NhdnYNhhC94
 ---  
 
 

@@ -1,6 +1,7 @@
 ---
 title: Red River Valley
 page: 378
+recording: https://youtu.be/hrCK_EVjcZ0
 ---  
 
 

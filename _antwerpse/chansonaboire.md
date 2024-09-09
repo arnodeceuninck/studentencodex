@@ -1,6 +1,7 @@
 ---
 title: Chanson à boire
 page: 412
+recording: https://youtu.be/q-QY-SFQu7Y
 ---  
 
 

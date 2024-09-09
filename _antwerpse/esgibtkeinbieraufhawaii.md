@@ -1,6 +1,7 @@
 ---
 title: Es gibt kein Bier auf Hawaii
 page: 305
+recording: https://youtu.be/mB1rM73lmnc
 ---  
 
 

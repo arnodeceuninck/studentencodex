@@ -1,6 +1,7 @@
 ---
 title: Die Lore am Tore
 page: 288
+recording: https://youtu.be/3JyhUV5gfI8
 ---  
 
 

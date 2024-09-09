@@ -1,6 +1,7 @@
 ---
 title: Finnegan's wake
-page: 366-367
+page: 366
+recording: https://youtu.be/XcqRuVf3Ikw
 ---  
 
 

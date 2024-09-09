@@ -1,6 +1,7 @@
 ---
 title: We drinken z'allemaal leeg
 page: 170
+recording: https://youtu.be/gEa2AOLKloE
 ---  
 
 

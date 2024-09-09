@@ -1,6 +1,7 @@
 ---
 title: Tsjechisch drinklied
 page: 127
+recording: https://youtu.be/9IURWmsFkgo
 ---  
 
 

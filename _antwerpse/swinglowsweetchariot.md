@@ -1,6 +1,7 @@
 ---
 title: Swing low, sweet chariot
 page: 396
+recording: https://youtu.be/YOe8BHDxv2g
 ---  
 
 

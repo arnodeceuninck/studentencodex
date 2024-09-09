@@ -1,6 +1,7 @@
 ---
 title: Gertjie
 page: 268
+recording: https://youtu.be/4CPLfepNoAQ
 ---  
 
 

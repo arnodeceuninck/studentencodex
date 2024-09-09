@@ -1,6 +1,7 @@
 ---
 title: There's a hole in my bucket
-page: 376-377
+page: 376
+recording: https://youtu.be/xVAvMIhvqfk
 ---  
 
 

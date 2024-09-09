@@ -1,6 +1,7 @@
 ---
 title: Jutho vooruit
 page: 93
+recording: https://youtu.be/Va0rITbn9pE
 ---  
 
 

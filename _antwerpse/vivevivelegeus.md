@@ -1,6 +1,7 @@
 ---
 title: Vive, vive le Geus
-page: 82-83
+page: 82
+recording: https://youtu.be/aOUpu7PPvoo
 ---  
 
 

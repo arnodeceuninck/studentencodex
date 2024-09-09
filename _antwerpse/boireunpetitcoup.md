@@ -1,6 +1,7 @@
 ---
 title: Boire un petit coup
 page: 422
+recording: https://youtu.be/NZKzG4NHlc4
 ---  
 
 

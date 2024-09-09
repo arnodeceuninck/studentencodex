@@ -1,6 +1,7 @@
 ---
 title: Der Lindenbaum
 page: 328
+recording: https://youtu.be/NKC2Q2ZEnVE
 ---  
 
 

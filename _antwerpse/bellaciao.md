@@ -1,6 +1,7 @@
 ---
 title: Bella ciao
 page: 438
+recording: https://youtu.be/4CI3lhyNKfo
 ---  
 
 

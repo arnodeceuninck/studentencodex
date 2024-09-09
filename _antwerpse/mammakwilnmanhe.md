@@ -1,6 +1,7 @@
 ---
 title: Mamma, 'k wil 'n man hê
 page: 262
+recording: https://youtu.be/AGCtFjIu1kY
 ---  
 
 

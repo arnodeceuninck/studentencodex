@@ -1,6 +1,7 @@
 ---
 title: O alte Burschenherrlichkeit
 page: 346
+recording: https://youtu.be/mtU6Fs2Jyn0
 ---  
 
 

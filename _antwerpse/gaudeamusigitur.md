@@ -1,6 +1,7 @@
 ---
 title: Gaudeamus igitur
-page: 39
+page: 38
+recording: https://youtu.be/SwmVwOHGv8s
 ---  
 
 

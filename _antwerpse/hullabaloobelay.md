@@ -1,6 +1,7 @@
 ---
 title: Hullabaloo belay
 page: 372
+recording: https://youtu.be/RTnuQsx0Plo
 ---  
 
 

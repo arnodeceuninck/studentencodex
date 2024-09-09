@@ -1,6 +1,7 @@
 ---
 title: The Scotsman
-page: 358-359
+page: 358
+recording: https://youtu.be/RtE7ut5GTzE
 ---  
 
 

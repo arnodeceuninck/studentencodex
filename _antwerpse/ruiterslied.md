@@ -1,6 +1,7 @@
 ---
 title: Ruiterslied
-page: 42-43
+page: 42
+recording: https://youtu.be/CGz70cgwnDw
 ---  
 
 

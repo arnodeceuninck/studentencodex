@@ -1,6 +1,7 @@
 ---
 title: Die Moorsoldaten
-page: 326-327
+page: 326
+recording: https://youtu.be/-boCKJsDe5U
 ---  
 
    

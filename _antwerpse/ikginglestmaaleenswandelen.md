@@ -1,6 +1,7 @@
 ---
 title: Ik ging lestmaal eens wandelen
 page: 239
+recording: https://youtu.be/haJkk09zf0M
 ---  
 
 

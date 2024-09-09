@@ -1,6 +1,7 @@
 ---
 title: Vanaand gaan die volkies koring sny
-page: 272-274
+page: 272
+recording: https://youtu.be/Q9PlL-YDpD8
 ---  
 
 

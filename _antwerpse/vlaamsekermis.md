@@ -1,6 +1,7 @@
 ---
 title: Vlaamse kermis
 page: 220
+recording: https://youtu.be/4R2gvWctL-c
 ---  
 
 

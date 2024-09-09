@@ -1,6 +1,7 @@
 ---
 title: Were di
 page: 56
+recording: https://youtu.be/_TZziqd64w4
 ---  
 
 

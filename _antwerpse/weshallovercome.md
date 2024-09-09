@@ -1,6 +1,7 @@
 ---
 title: We shall overcome
 page: 398
+recording: https://youtu.be/M_Ld8JGv56E
 ---  
 
 

@@ -1,6 +1,7 @@
 ---
 title: De blauwvoet
-page: 71
+page: 70
+recording: https://youtu.be/Q9qN88UU7aU
 ---  
 
 

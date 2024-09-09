@@ -1,6 +1,7 @@
 ---
 title: De trommel slaat
 page: 74
+recording: https://youtu.be/iTTjFx_9Tns
 ---  
 
 

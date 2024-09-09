@@ -1,6 +1,7 @@
 ---
 title: Het lied van de smid
 page: 208
+recording: https://youtu.be/U08OFGIbnAc
 ---  
 
 
