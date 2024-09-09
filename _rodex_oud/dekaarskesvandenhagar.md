@@ -8,7 +8,7 @@ author: Stijn Paridaens
 
 De tijd is er weer om een cantus te doen  
 De codices komen weer boven  
-We zingen en zuipen ons allemaal gren  
+We zingen en zuipen ons allemaal groen  
 Het Hagar-seizoen is weer open  
 Dus wil je eens crashen maar weet niet wanneer  
 Kijk dinsdag maar in de snelkrant  
@@ -20,8 +20,8 @@ Dan gaat m'n hart wat sneller slaan
 Daar waar Big Momma steeds de wacht houdt  
 En waar men pintje koud zal staan  
 Zie ik de kaarskes van den Hagar  
-Daar naast de KonijnePij  
-En dan tegen de SPoed gaan pissen  
+Daar naast de Konijnepijp  
+En dan tegen de Spoed gaan pissen  
 Dan ben ik als student zo rijp.  
 
 We drinken en feesten de hele nacht door  
