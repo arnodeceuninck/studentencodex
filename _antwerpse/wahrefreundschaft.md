@@ -13,15 +13,13 @@ Und die Treue nicht vergisst.  ] (bis)
 
 **2**\. Keine Ader soll mir schlagen  
 Wo ich nicht an dich gedacht.  
-Ich will f r dich Sorge tragen  ]  
-Bis Zur sp ten Mitternacht.     ] (bis)  
+Ich will für dich Sorge tragen  ]  
+Bis Zur späten Mitternacht.     ] (bis)  
 
 
-**3**\. Wenn der M hlstein tr get Reben  
-Und daraus fliesst k hler Wein,  
+**3**\. Wenn der Mühlstein träget Reben  
+Und daraus fliesst kühler Wein,  
 Wenn der Tod mir nimmt das Leben, ]  
-H r ich auf dir treu zu sein.     ] (bis)   
+Hör' ich auf dir treu zu sein.     ] (bis)   
 
 > *Uit Duitsland, 18de eeuw*  
-
-

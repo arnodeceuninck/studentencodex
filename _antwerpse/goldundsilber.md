@@ -57,8 +57,8 @@ Horcht, wie klingt so silberrein
 Froher Sang der Zecher;  
 Dass die Zeit einst golden war  
 Will ich nicht bestreiten,   
-Denk\' ich doch im Silberhaar Gern \]  
-vergang\'ner Zeiten. \] (bis)  
+Denk\' ich doch im Silberhaar \]  
+Gern vergang\'ner Zeiten. \] (bis)  
 
 
 > *Tekst: 1828, August Schnetzler (1809-1853)*  

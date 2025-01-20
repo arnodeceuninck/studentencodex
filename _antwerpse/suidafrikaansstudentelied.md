@@ -19,8 +19,9 @@ Die oue troue vriende
 Ek staan nou moedersiel alleen   
 En is maar net bediende  
 Ek is nie meer myn eie baas  
-Ek werk met Paul en Piet en Klaas \]  
-O treurigheid op note Ek staan op eie pote \] (bis)  
+Ek werk met Paul en Piet en Klaas   
+O treurigheid op note \]
+Ek staan op eie pote \] (bis)  
 
 **3**\.  Maar moe nie glô, al word ons oud   
 Ons hart kan nooit verander  

@@ -22,7 +22,8 @@ Hoera!
 Dan moet ge gaan, \'t is gedaan met d\'unief   
 G\'hebt een diploma, ge zijt nu geleerd   
 Zoekt een job en trouwt met uw lief  
-Is dan \'t leven hard Snakt ge naar vroeger tijd   
+Is dan \'t leven hard 
+Snakt ge naar vroeger tijd   
 Raakt dan niet verstard   
 Leeft en werkt met vlijt  
 Hebt geen spijt, maakt nog tijd voor jolijt   

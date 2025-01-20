@@ -6,7 +6,7 @@ page: 888
 
 De tijd zit erop en we varen weer thuis  
 Het duurt nog maar enkele weken  
-Een paar keer op wacht e dan kom ik naar huis  
+Een paar keer op wacht en dan kom ik naar huis  
 Dan zullen w' elkander weer spreken  
 Dus, dit is de laatste brief die ik je schrijf  
 Kijk 's avonds maar goed in de krant  
