@@ -20,6 +20,16 @@ Ich sah ihm ins Gesicht
 Das schien mir gar befreundet, befreundet \]  
 Und dennoch kannt\' ich\'s nicht \] (bis)  
 
+**4**\.  Da sah auch mir ins Auge   
+Der fremde Wandersmann  
+Und füllte meinem Becher, Becher \]  
+Und sah mich wieder an \] (bis)  
+
+**5**\.  Heil wie die Becher klangen   
+Wie brannte Hand in Hand  
+"Es lebe die Liebste deine, deine \]  
+Herzbruder im Vaterland!" \] (bis)  
+
 > *Tekst: Wilhelm Müller (1794-1827)*  
 
 > *Muziek: Johann Friedrich Reichardt (1752-1814)*  
