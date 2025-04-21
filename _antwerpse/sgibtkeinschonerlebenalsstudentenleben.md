@@ -1,5 +1,5 @@
 ---
-title: \'s Gibt kein schöner Leben als Studentenleben
+title: "'s Gibt kein schöner Leben als Studentenleben"
 page: 282
 recording: https://youtu.be/F_IsCWGxzqk
 ---  
