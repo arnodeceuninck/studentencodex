@@ -31,4 +31,3 @@ De vaze was gebroken (bis)
 Wij drinken steeds ons vaze  
 Men ziet dat hier nog vriendschap is  
 Wij drinken steeds ons vaze (bis)  
-

@@ -22,4 +22,4 @@ En Technica (en Technica),
 En Technica, HOI, HOI  
   
 Ja, wij zijn de heersers van Boom,  
-De mannen van Technica.
+De mannen van Technica.  

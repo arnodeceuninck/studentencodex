@@ -62,7 +62,7 @@ Mi diranno \"che bel fior\"
 **6**\.  Questo è il fiore del partigiano  
 O bella ciao, bella ciao, bella ciao ciao ciao   
 Questo è il fiore del partigiano  
-Morto per la libertà   -->
+Morto per la libertà   -->  
 
 > *Populair geworden tijdens de Tweede Wereldoorlog onder de partizanen  
 die zich verzetten tegen het fascisme. Oorspronkelijk een Italiaans  

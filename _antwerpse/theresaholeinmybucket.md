@@ -56,4 +56,3 @@ In a bucket, dear Henry, dear Henry, a bucket.
 There\'s a hole in my bucket, dear Liza, a hole.  
 
 > *Naar het Duitse \'Ein Loch ist im Eimer\', 17de eeuw*  
-

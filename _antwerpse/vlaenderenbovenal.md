@@ -19,4 +19,3 @@ Beemden en velden staen overal groen
 von Fallersleben (1798-1874)*  
 
 > *Muziek: reconstructie van Florimond Van Duyse (1843-1910)*  
-

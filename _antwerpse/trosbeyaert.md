@@ -44,4 +44,3 @@ Alles voor syn groot gewelt.
 Blyft altyt den roem bewaeren   
 Van het peirt soo wyt vermaert,   
 Als den grootsten man op aerd.  
-

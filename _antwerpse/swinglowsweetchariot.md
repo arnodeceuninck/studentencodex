@@ -33,4 +33,3 @@ But still my soul feels heavenly bound
 Coming for to carry me home  
 
 > *Tekst en muziek:* ± *1860, Wallace Willis (1820-1880)*  
-

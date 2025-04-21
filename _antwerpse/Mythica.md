@@ -12,14 +12,16 @@ Uha, Uha, Uha, UhYA!
 Uha, Uha, Uha!     
   
   
+{:start="1"}  
 1. Geeky club van ’t stad?    
 Fucking cool! Waar is dat?    
 In de Cauldron, daar is ’t altijd sfeer.    
 Elke fan wordt behandeld met eer!      
   
   
+{:start="2"}  
 2. Kom tesaam, allemaal!    
 Neem mee deel, aan dit verhaal.    
 Studenten van elke richting, unite!    
 Elke fandom verenigd in strijd!    
-Refrein 
+Refrein   

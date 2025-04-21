@@ -46,4 +46,3 @@ Ons openhartig lied \] (bis)
 *Tekst: Victor Van de Walle (189-196)*  
 
 *Muziek: Gustaaf Van Hoey (1835-1913)*  
-

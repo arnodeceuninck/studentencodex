@@ -42,4 +42,3 @@ Zal Antwerpen nooit niet vergaan
 Wij weten wat lol is, als \'t pintje maar vol is   
 Voor de rest trekken wij ons niets aan   
 Gedaan  
-

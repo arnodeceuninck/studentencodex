@@ -36,4 +36,3 @@ Tunke, tunke, tunke, tunk, vivallalera (bis)
 Du bist ein Bierkanal, ja Bierkanal!  
 
 > *Studentenlied uit Heidelberg, omstreeks 1825*  
-

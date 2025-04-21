@@ -21,4 +21,3 @@ Drink op het vrolijk wederzien!
 
 > *Vertaling door Andries Devos (1894-1960) van het Duitse \'Trink aus  
 mein Bruder trink\'*  
-

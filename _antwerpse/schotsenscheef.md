@@ -46,4 +46,3 @@ Maar ik ben fier te zien dat jij vannacht dus bent ontgroend!
 
 > *Eerste prijs algemeen klassement, Leuvense Liedwedstrijd 2017*  
 
-

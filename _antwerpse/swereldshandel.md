@@ -66,4 +66,3 @@ Wat dunkt u van dit festijn?
 > *De oorspronkelijke versie van dit 18de-eeuwse lied telt 13 strofen en  
 werd door Jan Frans Willems opgetekend in zijn \'Oude Vlaemsche  
 liederen\' en getoonzet door de heer Reylof.*  
-

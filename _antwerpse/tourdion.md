@@ -30,4 +30,3 @@ En mangeant d\'un gras jambon
 Pierre Attaingnant (± 1494-1551)*  
 
 *Tekst en arrangement: 1949, César Geoffray (1901-1972)*  
-

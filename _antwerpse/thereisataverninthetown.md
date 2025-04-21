@@ -30,4 +30,3 @@ And on my breast carve a turtle dove
 To signify I died of love  
 
 > *Tekst en muziek: 1891, F.J. Adams*  
-

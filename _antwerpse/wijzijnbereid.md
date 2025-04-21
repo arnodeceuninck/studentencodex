@@ -27,4 +27,3 @@ Komt straks de harde strijd, wij zijn bereid!
 
 > *Muziek: Jef Tinel (1885-1972)*  
 
-

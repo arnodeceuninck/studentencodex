@@ -60,4 +60,3 @@ Fang nur nicht an zu weinen,
 Schenk dir ein Gläschen ein:  
 
 > *Tekst en muziek: 1927, Wilhelm Lindemann (1882-1941)*  
-

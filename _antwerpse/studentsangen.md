@@ -31,4 +31,3 @@ Hurra!
 > *Muziek: 1852, Frans Gustaf Oscar (1827-1852)*  
 
 > *Zweeds studentenlied dat bij het afstuderen wordt gezongen*  
-

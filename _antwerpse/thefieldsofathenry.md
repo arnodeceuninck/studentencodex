@@ -37,4 +37,3 @@ Organisation*
 
 > *Iers protestlied over de onverschillige reactie van de Britse  
 overheid tijdens de hongersnood in Ierland (1845--1849)*  
-

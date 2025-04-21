@@ -20,7 +20,7 @@ Ek staan nou moedersiel alleen
 En is maar net bediende  
 Ek is nie meer myn eie baas  
 Ek werk met Paul en Piet en Klaas   
-O treurigheid op note \]
+O treurigheid op note \]  
 Ek staan op eie pote \] (bis)  
 
 **3**\.  Maar moe nie glô, al word ons oud   
@@ -35,4 +35,3 @@ Nog bly ons op ons pote \] (bis)
 > *Tekst: C. F. Visser (1882-1965)*  
 
 > *Muziek: Emiel Hullebroeck (1878-1965)*  
-

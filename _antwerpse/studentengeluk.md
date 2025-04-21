@@ -22,7 +22,7 @@ Hoera!
 Dan moet ge gaan, \'t is gedaan met d\'unief   
 G\'hebt een diploma, ge zijt nu geleerd   
 Zoekt een job en trouwt met uw lief  
-Is dan \'t leven hard 
+Is dan \'t leven hard   
 Snakt ge naar vroeger tijd   
 Raakt dan niet verstard   
 Leeft en werkt met vlijt  
@@ -34,4 +34,3 @@ Hoera!
 > *Tekst: 2013, Ben Lommelen, naar Herman Sätherberg (1852)*  
 
 > *Muziek: 1852, Gustaf van Zweden (Studentsången)*  
-

@@ -30,4 +30,4 @@ Dyonisos op ’t gemak.
 Op ’t exaam weer optimistisch  
 Spieken dat ’t niet erger kan.  
 Doen we zeker niet simplistisch  
-Maar dat weet nu alleman.
+Maar dat weet nu alleman.  

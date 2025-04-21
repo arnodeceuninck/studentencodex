@@ -28,4 +28,3 @@ Poljoebi zje ty menja
 
 
 
-

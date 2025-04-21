@@ -25,4 +25,3 @@ Weil das Küssen, Küssen uns viel Freude bracht
 Ja das Mündelein das ist das deine  
 Aber küssen drauf das ist das meine  
 
-

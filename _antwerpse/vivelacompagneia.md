@@ -38,4 +38,3 @@ Dat ieder drinkt, maar niet te veel \...
 > *De pint doet de ronde tot hij terug bij de praeses aanbelandt.*  
 
 > *Vertaling van het gelijknamige Duitse drinklied uit de 18de eeuw*  
-

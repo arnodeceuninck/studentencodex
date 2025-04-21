@@ -78,4 +78,3 @@ Adieu, mijne suster en broeder
 Ic vare naer themelrijc\"  
 
 > *Middeleeuws minnelied*  
-

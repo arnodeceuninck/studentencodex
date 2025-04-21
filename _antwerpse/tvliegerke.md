@@ -70,4 +70,3 @@ Dat zal \'k omtèwen mijn leven lang
 
 > *Gents volksliedje naar het Duitse \'Es war in Schönberg, im Monat  
 Mai\'*  
-

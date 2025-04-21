@@ -4,6 +4,7 @@ page: 548
 melodie: "Hoog op de gele wagen"      
 ---        
       
+{:start="1"}  
 1. Codex is ’t vaandel van Castrum,  
 Zingen en drinken in stijl.  
 Schachten en porren tesamen  
@@ -14,6 +15,7 @@ Vivamus ad codicem! ]
 Voor nu en altijd! ] (bis)  
   
   
+{:start="2"}  
 2. Student en oud-student  
 Zijn bij ons steeds wellekom.  
 Wij komen allen tesamen,  
@@ -21,4 +23,4 @@ Goedgemutst, de lach klinkt vol,
 Vrolijke liederen zingen.  
 Onze leuze klinkt alom:  
 Vivamus ad codicem! ]  
-Voor nu en altijd! ] (bis)
+Voor nu en altijd! ] (bis)  

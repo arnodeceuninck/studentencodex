@@ -78,4 +78,3 @@ Betert u, gheeft Godt autentijck,
 Lof, glory, prijs end eer.  
 
 > *Uit \'Een Nieu Guese Liede Boecxken\', 1576*  
-

@@ -4,6 +4,7 @@ page: 542
 melodie: "Studentenlied"      
 ---        
       
+{:start="1"}  
 1. O Omnes, ge ligt ons nauw aan ’t hart,  
 Het hart van ons studenten.  
 Wij drinken pinten in de nacht,  
@@ -18,9 +19,10 @@ O Omnes laat ons klinken,
 En op de vriendschap drinken.  
   
   
+{:start="2"}  
 2. Studenten die komen en die gaan,  
 Maar toch zal ’t vuur nooit doven.  
 Want eigen aan elke Omnesiaan,  
 Is dat hij blijft geloven,  
 Dat Omnes hem geeft wat hij verlangt,  
-’t Plezier van een hechte vriendschapsband.
+’t Plezier van een hechte vriendschapsband.  

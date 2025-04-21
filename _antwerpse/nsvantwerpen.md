@@ -27,4 +27,4 @@ Hier komt 't beroemd studentengild,
 Van de Antwerpse* NSV.  
 Gij die de dwingeland kwijt wilt,  
 De Franse opmars weg wilt,  
-Doe mee met de NSV!
+Doe mee met de NSV!  

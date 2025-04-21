@@ -34,4 +34,3 @@ Werd ik maar eens weduwnaar
 En mij stellen uit gevaar  
 
 > *Antwerpse volkswijze uit de 17de eeuw*  
-

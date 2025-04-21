@@ -71,4 +71,3 @@ Nor turned about till I got home Locked up in mother\'s chamber
 > *Muziek: vermoedelijk naar het wiegeliedje \'Lucy Locket\' Amerikaanse  
 volkswijze uit de Zevenjarige Oorlog (1756-1763)*  
 
-

@@ -54,4 +54,3 @@ Sanders*
 
 > *Muziek: naar de Bretoense volkswijze \'Son ar chistr\' (Ciderlied)*  
 
-

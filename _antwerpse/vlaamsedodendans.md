@@ -38,4 +38,3 @@ Alsof een moeder haar kind toezingt
 > *Lied over de loopgravenoorlog die tijdens de Eerste Wereldoorlog in  
 Vlaanderen bevochten werd. Later ook vertaald in het Duits (Der Tod in  
 Flandern)*  
-

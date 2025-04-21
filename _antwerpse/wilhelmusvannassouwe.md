@@ -68,4 +68,3 @@ Die mij mijn hart doorwondt.
 > *Oorspronkelijk Geuzenlied, naar het spotliedje \'Autre chanson de la  
 ville de Chartres assiégée par le prince de Condé \'*  
 
-

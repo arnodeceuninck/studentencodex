@@ -32,4 +32,4 @@ volhardend met geduld is ons karakter.
 Schachten, treed aan, wij komen eraan,  
 als ons zijn er geen twee, geen enkel straffer.  
 Overal daar, en telkens klaar,  
-de leuze die klinkt nu nog harder!
+de leuze die klinkt nu nog harder!  

@@ -54,4 +54,3 @@ Wag\'n-bietjiebos.
 > *Tekst strofes 2-5: 1992, Randall Wicomb (1949-2015)*  
 
 
-

@@ -17,4 +17,4 @@ Wij mannen van de club,
 Sterk en gezond  
 Eligia, Eligia,  
 Wij mannen van de club  
-Drinken 't schuimend bier al in het rond.
+Drinken 't schuimend bier al in het rond.  

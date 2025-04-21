@@ -23,4 +23,3 @@ Vae mihi, si tribus his infidelis forem!
 > *Tekst: 1822, Johann Christoph Friedrich Haug (1761 -1829)*  
 
 > *Muziek: Friedrich Ferdinand Flemming (1778-1813)*  
-

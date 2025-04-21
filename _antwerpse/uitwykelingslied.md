@@ -32,4 +32,3 @@ Daer woont er myn zoete lief.
 > *Oud volkslied uit de Brabantse Kempen, over Vlamingen en Brabanders  
 die uitweken naar het noorden van Duitsland om er landbouwkolonies te  
 vestigen (12de-13de eeuw)*  
-

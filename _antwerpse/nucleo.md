@@ -26,4 +26,4 @@ Zijn wij beschonken door d’overmaat.
 3. Als commilitones voor ons geen kapsones,  
 Steeds onverschrokken, slaan wij aan het blokken,  
 ’t Vlaamse beminnend doen wij al zingend,  
-En met den doop zijn wij niet te stoppen.
+En met den doop zijn wij niet te stoppen.  

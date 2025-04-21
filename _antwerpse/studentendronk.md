@@ -35,4 +35,3 @@ En hoog het hart daarbij!
 > *Tekst: Maurits Sabbe (1873-1938)*  
 
 > *Muziek: Peter Benoit (1834-1901)*  
-

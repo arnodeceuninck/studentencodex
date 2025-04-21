@@ -40,4 +40,3 @@ We shall overcome some day
 
 > *Gebaseerd op een gospellied uit 1901 van Charles Tindley (1851-1933)*  
 
-

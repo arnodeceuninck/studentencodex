@@ -37,4 +37,3 @@ Laat ons toch zijn met \'t onschuldige pleziertje
 Waar ik van houd  
 
 > *Tekst en muziek: 2007, Tom De Ranter*  
-

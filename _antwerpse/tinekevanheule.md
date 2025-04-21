@@ -48,4 +48,3 @@ Van een boer en een schoon boerinneken!
 > *Tekst: René De Clercq (1877-1932)*  
 
 > *Muziek: Emiel Hullebroeck (1878-1965) © ANZ vzw*  
-

@@ -38,4 +38,3 @@ And if they caress me as ofttimes before,
 Then I never will play the wild rover no more.  
 
 > *Ierse volkswijze uit de 16de eeuw*  
-

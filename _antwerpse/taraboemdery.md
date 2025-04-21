@@ -35,4 +35,3 @@ Tyd van skeiding is verby.
 > *Tekst: Willem Jacobus du Plooy Erlank (1901-1984)*  
 
 > *Muziek: 'Ticke, tacke, tock' (uit Zweden)*  
-

@@ -13,4 +13,4 @@ Gelijk de wereld morgen eind
 Nu het lied der Brugse wolven  
 Stralend gaan wij naar de kloten  
 Geen keten houdt ons tegen  
-Straalt Fenrir, drinkt er nog één!
+Straalt Fenrir, drinkt er nog één!  

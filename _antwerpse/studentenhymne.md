@@ -55,4 +55,3 @@ Dann war es recht, dann stirbst du nie. \] (bis)
 > *Tekst: 1906, Josef Buchhorn (1875-1954)*  
 
 > *Muziek: 1906, Otto Lob (1837-1908)*  
-

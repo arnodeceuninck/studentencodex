@@ -30,4 +30,3 @@ Schoonheid en kracht, gij ons erfdeel en goed
 > *Tekst: Jozef De Wilde (1906-1993)*  
 
 > *Muziek: Fernand Van Durme (1914-1993)*  
-

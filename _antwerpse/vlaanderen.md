@@ -33,4 +33,3 @@ U minnen wil ik meer en meer.
 > *Muziek: Renaat Veremans (1894-1969)*  
 
 > *© Metropolis Music Publishers*  
-

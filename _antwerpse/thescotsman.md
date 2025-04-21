@@ -66,4 +66,3 @@ Och, lad I don\'t know where you been
 But I see you won first prize  
 
 > *Tekst en muziek: 1975, Mike Cross (°1946)*  
-

@@ -25,4 +25,4 @@ want bij rood en wit en zwart daar is het fijn.
 En is ‘t studeren afgelopen, zit ‘t diploma in de zak.  
 Hebt g’uw laatste pint gezopen en uw liefke meegepakt.  
 Van dan af gaat het bergaf, maar zingen kan er nog vanaf,  
-want dat rood wit zwart neemt ge mee tot in uw graf.
+want dat rood wit zwart neemt ge mee tot in uw graf.  

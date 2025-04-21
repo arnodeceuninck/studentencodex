@@ -36,4 +36,3 @@ In some lonesome valley,
 A-hanging from a white oak tree.  
 
 > *Tekst* *en* *muziek:* *±* *1868,* *Thomas* *C.* *Land*  
-

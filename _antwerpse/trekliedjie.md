@@ -29,4 +29,3 @@ Daar word ons drome waar
 > *Tekst: 1929, Antoinette Elisabeth Carinus-Holzhausen*  
 
 > *Muziek: 1864, Walter Kittredge (1834-1905)*  
-
