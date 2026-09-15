@@ -27,6 +27,10 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo-data"
 end
 
+# csv was removed from the standard library in Ruby 3.4+
+gem "csv"
+gem "base64"
+
 # Performance-booster for watching directories on Windows
 gem "wdm", :platforms => [:mingw, :x64_mingw, :mswin]
 
