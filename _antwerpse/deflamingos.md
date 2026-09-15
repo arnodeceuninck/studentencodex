@@ -1,5 +1,5 @@
 ---    
-title: "De flamingo's"
+title: De flamingo's
 page: 549
 melodie: "Alle die willen naar Island gaen
 ---      
