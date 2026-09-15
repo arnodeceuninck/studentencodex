@@ -10,6 +10,11 @@ Flink op de maat van een lied.
 Klieft onze boot door de baren,   
 Weg alle zorg en verdriet.  
 
+- Ohé kameraad, ohé kameraad, vaar mee kameraad, vaar mee kameraad.  
+De zeilen haal op, haal op. De vlag in de top, in de top.  
+Ohé kameraad, ohé kameraad, vaar mee kameraad, vaar mee kameraad.  
+De zeilen haal op, haal op. De vlag in de top, in de top!  
+
 **2**\.  Zijn wij niet jong en vol leven   
 Wij vrezen regen noch zon   
 Stormen, zij doen ons niet beven   
